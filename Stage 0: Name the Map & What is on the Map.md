@@ -242,7 +242,8 @@ Stage 1 asks, for each sub-conflict:
 **Only when you know what is true (Stage 1) can you judge (Stage 2) and decide what to do (Stage 3).**
 
 
-
+* The map may be revised as Stage 1 reveals new parties, conflicts, or information
+* Note: The map reflects the map-maker's perspective. Different parties may draw different maps.
 
 
 
