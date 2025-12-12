@@ -1,0 +1,75 @@
+SIMPLEST: 
+Stage 1: REALITY
+Objective: Establish what actually happened and what is claimed.
+StepWhat You DoMAPCapture EVENTS, SAY, CONTEXTTESTCompare EVENTS to SAYResultThey match — or they don't
+
+
+
+Absolutely! Here's a **clean, nicely formatted Stage 1: TRUTH framework** for a Word document, keeping it simple, readable, and table-friendly:
+
+---
+
+# **Stage 1: TRUTH**
+
+**Objective:** Establish what is true in each conflict
+**Overivew:** Step 1: Name, Step: 2: Map, Step 3: Test
+---
+
+## **Step 1: NAME**
+
+**Question:** What are the conflicts and who are the parties?
+
+| Conflict   | Party A | Party B |     ... |
+| ---------- | ------- | ------- |-------  | 
+| Conflict 1 |         |         |         |
+| Conflict 2 |         |         |         |
+| Conflict 3 |         |         |
+|  .....     |         |         |
+
+CHOICE NOTE / CONDITION???? You will be analysing Conflict by Conflict but it's imporant you name them first. 
+---
+
+## **Step 2: MAP**
+
+**Question:** What happened and what is claimed?
+
+### **DO (Happenings / What happened)**
+
+| Party   | HAPPENED (DO) |
+| ------- | ------------- |
+| Party A |               |
+| Party B |               |
+
+### **SAY (Claims / What is claimed)**
+
+| Party   | SAID (SAY) |
+| ------- | ---------- |
+| Party A |            |
+| Party B |            |
+
+**Instructions:** Fill in what actually happened (DO/HAPPENED) and what each party claims (SAY/SAID).
+
+---
+
+## **Step 3: TEST**
+
+**Question:** Do DO and SAY match?
+
+| Party   | DO + SAY Match? | Yes / No | Notes / Context |
+| ------- | --------------- | -------- | --------------- |
+| Party A |                 |          |                 |
+| Party B |                 |          |                 |
+
+---
+
+This structure **flows naturally**:
+
+1. Name the conflict and parties.
+2. Record what happened vs what is claimed.
+3. Test alignment and note mismatches.
+
+---
+
+If you like, I can **also make a visually polished version** with alternating row colors, headings in bold, and table borders that look very professional in Word — ready to drop in as a working template.
+
+Do you want me to do that?
