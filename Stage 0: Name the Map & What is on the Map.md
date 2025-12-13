@@ -9,6 +9,37 @@ It is the simplest part of the process — yet it is often skipped or done carel
 
 **Output:** A one-page map showing: Parties and Conflict — both named, categorised, and typed.
 
+
+
+
+A note on criticality:
+The framework requires a critical mass of defined elements to work: Parties and Conflict, both named, categorised, and typed.
+If you skip parties, you miss who is sustaining the conflict.
+If you skip sub-conflicts, you have a label but nothing to analyse.
+If you skip types, you will use the wrong tool.
+Miss any of these, and your analysis is sub-critical — it will not yield insight. It will fizzle.
+Stage 0 is the move to supercriticality: defining the boundaries so clearly that the conflict's structure becomes visible and inevitable.
+
+A note on symmetry:
+Stage 1 (Truth) requires symmetrical pressure — equal scrutiny applied to all parties' claims and all sub-conflicts.
+Any asymmetry — favouring one party's narrative, ignoring one sub-conflict — prevents the core truth from being revealed.
+Bias is not just unfair. It is inefficient. It produces a distorted map and a failed resolution.
+
+A note on staging:
+The visible fights (Operational) are the primary explosions — loud, obvious, immediate.
+The hidden fight (Structural) is the secondary — the sustained power source underneath.
+The framework forces you to use the energy from analysing the visible to reach and address the structural core.
+If you only resolve operational disputes, the conflict will reignite. You have not reached the secondary.
+
+A note on intention:
+This framework reveals the structure of conflict — who is involved, what they want, what is true, and what is hidden.
+That knowledge is power. And power can be used in different ways.
+If your intention is resolution — to end the conflict in a way that is fair and sustainable — this framework will guide you there.
+But if your intention is to win at any cost — to manipulate, to exploit what you learn, to use the truth as a weapon — this framework will serve that too. You will see the other party's weaknesses. You will know where to strike. You may win.
+But you will know what you did.
+The framework cannot protect you from that choice.
+The choice is yours.
+
 ---
 
 ## The Structure
