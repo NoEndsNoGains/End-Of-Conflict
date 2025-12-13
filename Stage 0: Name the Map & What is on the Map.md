@@ -1,14 +1,11 @@
-## Stage 0: MAP
+## Stage 0: Name the Map
 
-**What this stage is:** Name the Map — define who is on it (Parties) and what they are fighting about (Conflict).
+**What this stage is:** Stage 0 is the foundation for understanding and solving conflicts. Before you can analyse or resolve anything, you must first define what you are dealing with. This stage focuses on naming what is on the map: **A) Parties** (who is involved) and **B) Conflict** (what they are fighting about).
+It is the simplest part of the process — yet it is often skipped or done carelessly. If you get the map wrong, everything that follows will be wrong too.
 
 **Objective:** Draw the map of the conflict before you analyse it.
 
-**Why:** You cannot analyse what you haven't defined. This stage sets the boundaries. Everything in later stages (Truth, Judgment, Decision) must stay inside this map. If you skip this, your analysis will drift.
-
-**When to use:** There must be:
-- An external, observable conflict (not internal feelings or abstract tensions)
-- At least two parties who could act differently if the conflict were resolved
+**Why:** You cannot analyse what you haven't defined. This stage sets the boundaries. Everything in later stages (Stage 1: Truth, Stage 2: Judgment, Stage 3: Decision) will rest on the clarity of the componets you identify in Stage 0, i.e. Name the Map. If you skip this, your analysis will drift.
 
 **Output:** A one-page map showing: Parties and Conflict — both named, categorised, and typed.
 
