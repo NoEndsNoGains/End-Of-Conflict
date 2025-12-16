@@ -5,6 +5,7 @@ on:
     paths:
       - 'End-of-Conflict/**/*.md'
       - '.github/workflows/combine-chapters.yml'
+  workflow_dispatch:
 
 jobs:
   combine:
@@ -20,6 +21,7 @@ jobs:
         run: |
           OUTPUT="End-of-Conflict/End-of-Conflict-All-in-1-Chapters.md"
 
+          # Create directory and clear file
           mkdir -p "$(dirname "$OUTPUT")"
           > "$OUTPUT"
 
@@ -57,15 +59,19 @@ jobs:
           echo "## The Immunity Paradox: Why This Framework Will Fail" >> "$OUTPUT"
           cat "End-of-Conflict/8.The-Immunity-Paradox.md" >> "$OUTPUT" || echo "ERROR: Missing 8.The-Immunity-Paradox.md" >> "$OUTPUT"
 
+          echo "Combined chapters into $OUTPUT"
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          OUTPUT="End-of-Conflict/End-of-Conflict-All-in-1-Chapters.md"
+
           if git diff --quiet --exit-code -- "$OUTPUT"; then
             echo "No changes to the combined file — nothing to commit"
           else
-            echo "Changes detected in combined file — committing and pushing"
+            echo "Changes detected — committing and pushing"
             git add "$OUTPUT"
             git commit -m "Auto-update combined chapters"
             git push
