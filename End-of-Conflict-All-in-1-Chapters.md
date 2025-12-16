@@ -844,46 +844,48 @@ Stage 2 forces you to establish facts before you evaluate them. Only then can ju
 *Note: Stage 2 is a snapshot. Revisit as new evidence emerges. Truth is not static — it is refined.*
 
 ## Stage 3: JUDGEMENT
+Stage 3: JUDGMENT
+What this stage is: This is where you evaluate what went wrong. Stage 2 (Truth) established what actually happened and what each party needs. But knowing what is true is not the same as knowing what failed, who is accountable, and what must be addressed before resolution is possible.
+Objective: Identify what went wrong and what must be accounted for.
+Why: You cannot resolve a conflict without understanding what caused it. This stage traces the gap between what should have happened and what did happen — whether through deception, concealment, neglect, mistakes, or miscommunication.
+Input: The verified truth from Stage 2 — facts, events, needs, and interests.
+Output: Assessment of violations, failures, unmet needs, and accountability.
+Type: Evaluative (backward-looking)
+Question: What went wrong? What must be addressed? Who is accountable?
 
----
+What JUDGMENT Evaluates
+JUDGMENT identifies the gap between truth and what was presented, acted upon, or suppressed:
+CategoryQuestionDeceptionWhat was lied about?ConcealmentWhat was hidden?NeglectWhat needs were ignored or dismissed?MistakesWhat errors were made?MiscommunicationWhat was misunderstood or poorly communicated?AccountabilityWho bears responsibility, and for what?
 
-# Stage 3: JUDGMENT
+The Evaluation Process
+For each sub-conflict, ask:
 
-*Evaluate what ought to be done*
+What should have happened? (Based on rules, agreements, reasonable expectations)
+What actually happened? (Established in Stage 2)
+Where is the gap?
+What caused the gap? (Deception / Concealment / Neglect / Mistakes / Miscommunication)
+Who is responsible?
+What must be addressed before resolution is possible?
 
-JUDGMENT isn't just "what were the consequences" — it's specifically evaluating where truth was violated. What was lied about. What was hidden. It's identifying the gap between truth and what was presented or suppressed. That's more precise than accountability in general — it's accountability for truth failures.
 
-JUDGMENT answers: Given the truth and its violations, what is possible to decide?
+JUDGMENT — Fill in (per sub-conflict):
+Sub-conflictWhat should have happenedWhat actually happenedThe gapCauseWho is responsibleWhat must be addressed
 
-What belongs in JUDGMENT:
-The evaluation of what went wrong — identifying truth violations, failures, and unmet needs:
+Stage 3 Output
+At the end of Stage 3, you have:
 
-What was lied about? What was hidden?
-Was there deception, concealment, neglect, mistakes, or miscommunication?
-What needs were unmet, ignored, or misunderstood?
-Who bears responsibility, and for what?
-What must be addressed or accounted for?
+✓ Violations identified (deception, concealment)
+✓ Failures identified (neglect, mistakes, miscommunication)
+✓ Unmet needs identified
+✓ Accountability assigned (who is responsible for what)
+✓ What must be addressed before resolution is possible
 
-This is backward-looking. It evaluates the truth established in Stage 2.
----
 
-| | |
-|---|---|
-| **Type** | Evaluative |
-| **Question** | Given what is true, what ought to be done? |
-| **Input** | Candidate WANTs from Stage 2 (Truth) |
-| **Output** | Evaluated WANTs — which pass, which fail, and why |
-
----
-
-## What This Stage Is
-
-Stage 2 (Truth) established what is actually happening and inferred the candidate WANTs — what each party is really trying to achieve. But knowing what someone wants is not the same as knowing whether they should get it.
-
-Stage 3 evaluates each WANT against three tests. These tests cover the three fundamental questions any proposed course of action must answer: Is it RIGHT? Is it WISE? Is it DOABLE?
-
-This stage is evaluative, not descriptive. You are no longer asking "what is true?" — you are asking "what ought to be?"
-
+The Link to Stage 4
+Stage 3 tells you what went wrong — the violations, failures, and accountability.
+But knowing what went wrong is not the same as knowing how to fix it.
+Stage 4 (Decision) asks: Given what went wrong and who is accountable, how do we resolve the conflict we mapped in Stage 1?
+JUDGMENT is backward-looking (what happened). DECISION is forward-looking (what to do).
 ---
 
 
