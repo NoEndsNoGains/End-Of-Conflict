@@ -19,7 +19,12 @@ jobs:
       - name: Combine Markdown files
         run: |
           OUTPUT="End-of-Conflict/End-of-Conflict-All-in-1-Chapters.md"
-          > "$OUTPUT"  # Clear the file
+          
+          # Ensure the directory exists
+          mkdir -p "$(dirname "$OUTPUT")"
+          
+          # Clear/truncate the output file
+          > "$OUTPUT"
 
           echo "# End of Conflict" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
@@ -45,4 +50,24 @@ jobs:
           echo "" >> "$OUTPUT"
 
           echo "## Stage 4: DECISION" >> "$OUTPUT"
-          cat "End-of-Conflict/6.Stage-4-DECISION.md" >> "$OUTPUT" || echo "ERROR: Missing 6.Stage-
+          cat "End-of-Conflict/6.Stage-4-DECISION.md" >> "$OUTPUT" || echo "ERROR: Missing 6.Stage-4-DECISION.md" >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+
+          echo "## Stage 5: ACTION" >> "$OUTPUT"
+          cat "End-of-Conflict/7.Stage-5-ACTION.md" >> "$OUTPUT" || echo "ERROR: Missing 7.Stage-5-ACTION.md" >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+
+          echo "## The Immunity Paradox: Why This Framework Will Fail" >> "$OUTPUT"
+          cat "End-of-Conflict/8.The-Immunity-Paradox.md" >> "$OUTPUT" || echo "ERROR: Missing 8.The-Immunity-Paradox.md" >> "$OUTPUT"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$OUTPUT"
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update combined chapters"
+            git push
+          fi
