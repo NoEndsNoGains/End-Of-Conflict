@@ -809,13 +809,14 @@ Stage 2 forces you to establish facts before you evaluate them. Only then can ju
 *Note: Stage 2 is a snapshot. Revisit as new evidence emerges. Truth is not static — it is refined.*
 
 ## Stage 3: JUDGEMENT
-Here's the complete **Stage 3: JUDGMENT** chapter in markdown:
 
 ---
 
 # Stage 3: JUDGMENT
 
 *Evaluate what ought to be done*
+
+JUDGMENT isn't just "what were the consequences" — it's specifically evaluating where truth was violated. What was lied about. What was hidden. It's identifying the gap between truth and what was presented or suppressed. That's more precise than accountability in general — it's accountability for truth failures.
 
 ---
 
