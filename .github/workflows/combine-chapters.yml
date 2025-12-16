@@ -4,13 +4,13 @@ on:
   push:
     paths:
       - '*.md'  # Trigger on changes to any Markdown files
-  workflow_dispatch:  # Allow manual runs
+  workflow_dispatch:  # Allow manual runs from Actions tab
 
 jobs:
   stitch:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Allows pushing commits back
+      contents: write  # Allows commit/push back
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,4 +28,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update combined chapters"
-          file_pattern: "End-of-Conflict-All-in-1-Chapters.md"  # Quoted and matches exactly
+          file_pattern: End-of-Conflict-All-in-1-Chapters.md
