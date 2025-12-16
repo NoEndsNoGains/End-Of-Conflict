@@ -20,10 +20,10 @@ jobs:
         run: |
           OUTPUT="End-of-Conflict/End-of-Conflict-All-in-1-Chapters.md"
 
-          # Create directory FIRST
+          # Create directory first
           mkdir -p "$(dirname "$OUTPUT")"
 
-          # Now safely clear/create the file
+          # Clear/truncate the output file
           > "$OUTPUT"
 
           echo "# End of Conflict" >> "$OUTPUT"
@@ -61,13 +61,3 @@ jobs:
           cat "End-of-Conflict/8.The-Immunity-Paradox.md" >> "$OUTPUT" || echo "ERROR: Missing 8.The-Immunity-Paradox.md" >> "$OUTPUT"
 
       - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "$OUTPUT"
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Auto-update combined chapters"
-            git push
-          fi
