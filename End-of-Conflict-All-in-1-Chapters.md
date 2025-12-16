@@ -528,7 +528,7 @@ Finally Each Stage must logicallly connect to the next: e.g. We drew a Map in st
 # **Stage 1: TRUTH**
 
 **Objective:** Establish what is true in each conflict
-**Overivew:** Step 1: Name, Step: 2: Map, Step 3: Test
+**Overivew:** 
 ---
 
 ## **Step 1: NAME**
