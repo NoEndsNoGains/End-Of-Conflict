@@ -99,6 +99,33 @@ The most common failure is getting stuck between stages. These questions help yo
 
 To move between the stages you will need energy. That energy can be anything that makes you "do it". When you sense fear, you might need courage to push forward. Sometimes what moves you forward is curiosity: the need to make sense of something that doesn't add up. Sometimes it's persistence, when there is exhaustion and you believe you simply cannot sustain the weight of unresolved conflict any longer — and you push forward regardless. Sometimes it's care: someone you love is affected, and that matters more than your own comfort. Sometimes it's integrity: the gap between what you know and what you're doing becomes unbearable. Or perhaps, it does not matter what moves you forward. What matters is that you do move forward. The framework runs on whatever force is strong enough to overcome what's holding you back.
 
+
+Yes. Here's the complete summary:
+
+| Stage | Function | Tools |
+|-------|----------|-------|
+| **MAP** | Define the conflict (scoping) | Identify parties, positions, interests, main conflict, sub-conflicts |
+| **TRUTH** | Establish what is real (fact-finding) | Evidence gathering, claims comparison, needs and interests identification |
+| **JUDGMENT** | Evaluate what went wrong (backward-looking) | Assessment of violations, failures, unmet needs, accountability |
+| **DECISION** | Choose how to resolve it (forward-looking) | L.E.R / B.U.S / A.C.T tests applied to proposed solutions |
+| **ACTION** | Implement the resolution (execution) | Concrete steps, responsibilities, timelines, follow-up |
+
+---
+
+And if we add the core question for each:
+
+| Stage | Function | Question | Tools |
+|-------|----------|----------|-------|
+| **MAP** | Define the conflict (scoping) | Who are the parties? What is the conflict? | Identify parties, positions, interests, main conflict, sub-conflicts |
+| **TRUTH** | Establish what is real (fact-finding) | What happened? What is real? What are the needs and interests? | Evidence gathering, claims comparison, needs and interests identification |
+| **JUDGMENT** | Evaluate what went wrong (backward-looking) | What went wrong? What must be addressed? Who is accountable? | Assessment of violations, failures, unmet needs, accountability |
+| **DECISION** | Choose how to resolve it (forward-looking) | How do we resolve the conflict we mapped? | L.E.R / B.U.S / A.C.T tests applied to proposed solutions |
+| **ACTION** | Implement the resolution (execution) | How do we put the resolution into practice? | Concrete steps, responsibilities, timelines, follow-up |
+
+---
+
+Does this work?
+
 ---
 
 ## Before You Begin: Two Dimensions
