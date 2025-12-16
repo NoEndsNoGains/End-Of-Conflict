@@ -3,18 +3,16 @@ name: Combine Chapters
 on:
   push:
     paths:
-      - 'End-Of-Conflict/**/*.md'  # Only run when Markdown files in the folder change
+      - 'End-Of-Conflict/**/*.md'
 
 jobs:
   stitch:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Needed to push changes
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Stitch Markdown files
         uses: abhinav/stitchmd-action@v1
@@ -23,7 +21,7 @@ jobs:
           summary: End-Of-Conflict/summary.md
           output: End-Of-Conflict/End-of-Conflict-All-in-1-Chapters.md
 
-      - name: Commit and push if changed
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
