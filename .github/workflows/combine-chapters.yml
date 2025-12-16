@@ -3,30 +3,37 @@ name: Combine Chapters
 on:
   push:
     paths:
-      - '*.md'  # Trigger on changes to any Markdown files
-  workflow_dispatch:  # Allow manual runs from Actions tab
+      - '*.md'  # Trigger on any Markdown change
+  workflow_dispatch:  # Manual trigger option
 
 jobs:
   stitch:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Required to push commits back
+      contents: write  # Needed to push back
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Stitch Markdown files
+      - name: Install stitchmd
         uses: abhinav/stitchmd-action@v1
         with:
-          mode: write
-          summary: summary.md
-          output: End-of-Conflict-All-in-1-Chapters.md
+          mode: install
+          version: latest
+
+      - name: Stitch Markdown files
+        run: stitchmd write summary.md End-of-Conflict-All-in-1-Chapters.md
 
       - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Auto-update combined chapters"
-          file_pattern: End-of-Conflict-All-in-1-Chapters.md
-          disable_globbing: true  # This fixes the detection issue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add End-of-Conflict-All-in-1-Chapters.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update combined chapters"
+            git push
+          fi
