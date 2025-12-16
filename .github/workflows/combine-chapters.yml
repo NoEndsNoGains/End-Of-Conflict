@@ -3,26 +3,29 @@ name: Combine Chapters
 on:
   push:
     paths:
-      - '**/*.md'  # Only run when MD files change
+      - 'End-Of-Conflict/**/*.md'  # Only run when Markdown files in the folder change
 
 jobs:
   stitch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to push changes
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Stitch Markdown files
         uses: abhinav/stitchmd-action@v1
         with:
           mode: write
-          summary: summary.md  # or full path if in subfolder
-          output: End-of-Conflict-All-in-1-Chapters.md
+          summary: End-Of-Conflict/summary.md
+          output: End-Of-Conflict/End-of-Conflict-All-in-1-Chapters.md
 
-      - name: Commit and push changes
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add End-of-Conflict-All-in-1-Chapters.md
-          git commit -m "Auto-update combined chapters" || echo "No changes to commit"
-          git push origin HEAD:main
+          git add End-Of-Conflict/End-of-Conflict-All-in-1-Chapters.md
+          git diff --staged --quiet || (git commit -m "Auto-update combined chapters" && git push)
