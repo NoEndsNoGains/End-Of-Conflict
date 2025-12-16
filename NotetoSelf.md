@@ -1,2 +1,3 @@
 1. 12.12.2025:
    I'm recording the quick note to myself because I understood that potentially this is a good idea for creating another book and another book which I might never write. The book about how to end the conflict could consist of the framework/time developing which consists of reality/judgement/decision and the truth tester and the truth tester which I did develop already. For now, I just want to record it so I don't forget. Maybe not that it ever worked, but maybe something will come out of it. 
+2. 16.12.2025 I'm overvewhelmed. As ususal, it feels like "no point". I wish at moment like this I would be purely like AI. No emotions to but focus on the work. Unfortunately I am not. 
