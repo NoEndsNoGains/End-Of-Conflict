@@ -1043,7 +1043,8 @@ Use this grid to evaluate each candidate WANT from Stage 2:
 ---
 
 ## Stage 4: DECISION
-
+DECISION answers: Of what is possible, what do we choose to do?
+DECISION is about resolving the conflict. How do we address the original conflict that we mapped in Stage 1?
 
 ## Stage 5: ACTION
 
