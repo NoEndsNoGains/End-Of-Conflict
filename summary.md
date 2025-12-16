@@ -1,29 +1,29 @@
 # End of Conflict
 
 [Notes to Self]
-(NotestoSelf.md)
+(1.NotesToSelf.md)
 
 [Constraints]
-(Constraints.md)
+(Constrains.md)
 
 ## Stages
 
 [Stage 1: MAP]
-(Stage 1: MAP.md)
+(Stage1MAP.md)
 
 [Stage 2: TRUTH]
-(Stage 2: TRUTH.md)
+(Stage2:TRUTH.md)
 
 [Stage 3: JUDGEMENT]
-(Stage 3: Judgement.md)
+(Stage3JUDGEMENT.md)
 
 [Stage 4: DECISION]
-(Stage 4: Decision.md)
+(Stage4DECISION.md)
 
 [Stage 5: ACTION]
-(Stage 5: Action.md)
+(Stage5ACTION.md)
 
 ## Critique
 
 [The Immunity Paradox: Why This Framework Will Fail]
-(The Immunity Paradox: Why This Framework Will Fail.md)
+(TheImmunityParadox.md)
