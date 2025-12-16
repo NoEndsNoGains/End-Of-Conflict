@@ -25,35 +25,27 @@ jobs:
           > "$OUTPUT"
           echo "# End of Conflict" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
-
           echo "## Notes to Self" >> "$OUTPUT"
           cat "End-Of-Conflict/1.Notes-To-Self.md" >> "$OUTPUT" || { echo "ERROR: 1.Notes-To-Self.md not found"; exit 1; }
           echo "" >> "$OUTPUT"
-
           echo "## Constraints" >> "$OUTPUT"
           cat "End-Of-Conflict/2.Constraints.md" >> "$OUTPUT" || { echo "ERROR: 2.Constraints.md not found"; exit 1; }
           echo "" >> "$OUTPUT"
-
           echo "## Stage 1: MAP" >> "$OUTPUT"
           cat "End-Of-Conflict/3.Stage-1-MAP.md" >> "$OUTPUT" || { echo "ERROR: 3.Stage-1-MAP.md not found"; exit 1; }
           echo "" >> "$OUTPUT"
-
           echo "## Stage 2: TRUTH" >> "$OUTPUT"
           cat "End-Of-Conflict/4.Stage-2-TRUTH.md" >> "$OUTPUT" || { echo "ERROR: 4.Stage-2-TRUTH.md not found"; exit 1; }
           echo "" >> "$OUTPUT"
-
           echo "## Stage 3: JUDGEMENT" >> "$OUTPUT"
           cat "End-Of-Conflict/5.Stage-3-JUDGEMENT.md" >> "$OUTPUT" || { echo "ERROR: 5.Stage-3-JUDGEMENT.md not found"; exit 1; }
           echo "" >> "$OUTPUT"
-
           echo "## Stage 4: DECISION" >> "$OUTPUT"
           cat "End-Of-Conflict/6.Stage-4-DECISION.md" >> "$OUTPUT" || { echo "ERROR: 6.Stage-4-DECISION.md not found"; exit 1; }
           echo "" >> "$OUTPUT"
-
           echo "## Stage 5: ACTION" >> "$OUTPUT"
           cat "End-Of-Conflict/7.Stage-5-ACTION.md" >> "$OUTPUT" || { echo "ERROR: 7.Stage-5-ACTION.md not found"; exit 1; }
           echo "" >> "$OUTPUT"
-
           echo "## The Immunity Paradox: Why This Framework Will Fail" >> "$OUTPUT"
           cat "End-Of-Conflict/8.The-Immunity-Paradox.md" >> "$OUTPUT" || { echo "ERROR: 8.The-Immunity-Paradox.md not found"; exit 1; }
 
@@ -61,5 +53,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "$OUTPUT"
-          git diff --staged --quiet || (git commit -m "Auto-update combined chapters" && git push)
+          git add End-Of-Conflict/End-of-Conflict-All-in-1-Chapters.md
+          if git diff --staged --quiet; then
+            echo "No changes to the combined file – nothing to commit"
+          else
+            git commit -m "Auto-update combined chapters"
+            git push
+            echo "Combined file updated and pushed"
+          fi
