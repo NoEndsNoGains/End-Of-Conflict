@@ -30,7 +30,13 @@ $$\text{Map} \xrightarrow{\text{Courage}} \text{Truth} \xrightarrow{\text{Courag
 | **4: Decision** | Courage to commit — to choose the hard path (resolution) over the easy path (avoidance, winning) |
 | **5: Action** | Courage to execute — to absorb the consequences (admitting fault, taking a loss) |
 
----
+
+Stage,Activity (what you do),Output (what you get),Why it matters / What happens if you skip it
+1: Map,Name the conflict precisely,A clear Structure (who is involved and exactly what they are fighting about),"Most people jump straight to opinions (“this side is evil”) without first defining the boundaries. Without a precise map, every later conclusion drifts or applies to the wrong problem. Stage 1 (which you called Stage 0 earlier) is the map: listing parties, their interests, the main conflict, and the specific sub-conflicts."
+2: Truth,See what actually happened,"Objective Reality (facts, not claims)","People argue endlessly because each side has its own narrative. This stage zooms into each sub-conflict from the map and answers: What events occurred? What does each party claim? Where do claims diverge? Are divergences lies, mistakes, misunderstandings, or hidden facts? Only when you establish what is verifiably true can you move forward."
+3: Judgment,Judge the facts against values or rules,"What ought to be (moral, legal, or practical evaluation)","Once you know what is true, you evaluate it. Is an action justified? Who bears responsibility? Was a rule violated? This stage produces clear normative conclusions (right/wrong, fair/unfair) grounded in the reality from Stage 2."
+4: Decision,Choose a course of action,A specific Intention (what you or a party will do),"Knowing what ought to be isn’t enough — you must decide what you will actually commit to doing about it. This stage weighs options, costs, risks, and feasibility, then selects one path. It turns judgment into commitment."
+5: Action,Do the chosen thing,Actual Change in the world,The only stage that affects reality. Everything before prepares for this. Most conflicts persist because people stop at talking (stages 1–3) without ever deciding and acting.
 
 ## Who uses this framework?
 
