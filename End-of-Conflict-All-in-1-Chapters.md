@@ -587,7 +587,49 @@ If you like, I can **also make a visually polished version** with alternating ro
 Do you want me to do that?
 
 ## Stage 3: JUDGEMENT
-
+STEP 2: TEST                                
+Action: Test the WANT  |  Focus: Where is the problem?  |  Goal: Find what's WRONG — in principle, outcome, or execution                                
+                                
+Test 1: RIGHT — Is this RIGHT?                                
+L.E.R TEST                                
+Aim: To determine if the WANT is fundamentally LEGITIMATE and permissible in principle.                                
+                                
+        Letter        Name        Function        Focus Question
+L        L        LEGAL        Rules Check        Is the WANT ALLOWED by laws, regulations, contracts, or formal agreements?
+E        E        ETHICAL        Morality Check        Is the WANT MORALLY RIGHT? (fair, safe, respectful, not harmful)
+R        R        REVERSIBLE        Mirror Check        Would I accept this WANT if applied TO ME? (Verifies L and E)
+                                
+                                
+Test 2: WISE — Is this WISE?                                
+B.U.S TEST                                
+Aim: To determine if the WANT produces GOOD OUTCOMES across impact, scale, and time.                                
+                                
+        Letter        Name        Function        Focus Question
+B        B        BENEFIT        Impact Check        Who gains? Who loses? Is there net positive impact?
+U        U        UNIVERSAL        Scale Check        Would the positive effects still hold if everyone adopted this WANT?
+S        S        SUSTAINABLE        Duration Check        Do the positive effects last over time?
+                                
+                                
+Test 3: DOABLE — Is this DOABLE?                                
+A.C.T TEST                                
+Aim: To determine if the WANT is FEASIBLE and can actually be executed.                                
+                                
+        Letter        Name        Function        Focus Question
+A        A        ASSETS        Resources Check        Are the necessary resources available? (money, time, people, tools)
+C        C        CAPABILITY        Execution Check        Can the steps actually be carried out? (skills, process, authority)
+T        T        TIMELY        Timing Check        Is it achievable within the required timeframe and current constraints?
+                                
+                                
+SUMMARY: All Three Tests                                
+                                
+Test        Name        Acronym        Question        Finds what's wrong with
+1        RIGHT        L.E.R        Is this RIGHT?        The PRINCIPLE
+2        WISE        B.U.S        Is this WISE?        The OUTCOME
+3        DOABLE        A.C.T        Is this DOABLE?        The EXECUTION
+                                
+                                
+Full Pipeline: N.M.I → L.E.R → B.U.S → A.C.T → DECIDE                                
+"Name it, Map it, Infer the want. Then ask: Is it Right? Is it Wise? Can we Act? Then Decide."                        
 
 ## Stage 4: DECISION
 
