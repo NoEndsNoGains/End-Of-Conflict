@@ -212,7 +212,7 @@ The framework cannot protect you from that choice.
 ## Stage 1: MAP
 ## 3. Stage 1: MAP
 
-**What this stage is:** Stage 0 is the foundation for understanding and solving conflicts. Before you can analyse or resolve anything, you must first define what you are dealing with. This stage focuses on naming what is on the map: **A) Parties** (who is involved) and **B) Conflict** (what they are fighting about).
+**What this stage is:** This is the foundation for understanding and solving conflicts. Before you can analyse or resolve anything, you must first define what you are dealing with. This stage focuses on naming what is on the map: **A) Parties** (who is involved) and **B) Conflict** (what they are fighting about).
 It is the simplest part of the process — yet it is often skipped or done carelessly. If you get the map wrong, everything that follows will be wrong too.
 
 **Objective:** Draw the map of the conflict before you analyse it.
