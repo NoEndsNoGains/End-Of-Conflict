@@ -19,11 +19,11 @@ jobs:
       - name: Combine Markdown files
         run: |
           OUTPUT="End-of-Conflict/End-of-Conflict-All-in-1-Chapters.md"
-          
-          # Ensure the directory exists
+
+          # Create directory FIRST
           mkdir -p "$(dirname "$OUTPUT")"
-          
-          # Clear/truncate the output file
+
+          # Now safely clear/create the file
           > "$OUTPUT"
 
           echo "# End of Conflict" >> "$OUTPUT"
