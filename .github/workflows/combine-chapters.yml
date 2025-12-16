@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'End-Of-Conflict/**/*.md'
+      - '.github/workflows/combine-chapters.yml'
 
 jobs:
   combine:
