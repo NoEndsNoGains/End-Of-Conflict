@@ -6,22 +6,69 @@ on:
       - 'End-Of-Conflict/**/*.md'
 
 jobs:
-  stitch:
+  combine:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Stitch Markdown files
-        uses: abhinav/stitchmd-action@v1
-        with:
-          mode: write
-          summary: End-Of-Conflict/summary.md
-          output: End-Of-Conflict/End-of-Conflict-All-in-1-Chapters.md
+      - name: Combine Markdown files
+        run: |
+          OUTPUT="End-Of-Conflict/End-of-Conflict-All-in-1-Chapters.md"
+          echo "# End of Conflict" > "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          
+          cat >> "$OUTPUT" << 'EOF'
+          - [Notes to Self](1.Notes-To-Self.md)
+          - [Constraints](2.Constraints.md)
+          
+          ## Stages
+          
+          - [Stage 1: MAP](3.Stage-1-MAP.md)
+          - [Stage 2: TRUTH](4.Stage-2-TRUTH.md)
+          - [Stage 3: JUDGEMENT](5.Stage-3-JUDGEMENT.md)
+          - [Stage 4: DECISION](6.Stage-4-DECISION.md)
+          - [Stage 5: ACTION](7.Stage-5-ACTION.md)
+          
+          ## Critique
+          
+          - [The Immunity Paradox: Why This Framework Will Fail](8.The-Immunity-Paradox.md)
+          
+          EOF
+          
+          echo "" >> "$OUTPUT"
+          echo "## Notes to Self" >> "$OUTPUT"
+          cat End-Of-Conflict/1.Notes-To-Self.md >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          
+          echo "## Constraints" >> "$OUTPUT"
+          cat End-Of-Conflict/2.Constraints.md >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          
+          echo "## Stage 1: MAP" >> "$OUTPUT"
+          cat End-Of-Conflict/3.Stage-1-MAP.md >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          
+          echo "## Stage 2: TRUTH" >> "$OUTPUT"
+          cat End-Of-Conflict/4.Stage-2-TRUTH.md >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          
+          echo "## Stage 3: JUDGEMENT" >> "$OUTPUT"
+          cat End-Of-Conflict/5.Stage-3-JUDGEMENT.md >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          
+          echo "## Stage 4: DECISION" >> "$OUTPUT"
+          cat End-Of-Conflict/6.Stage-4-DECISION.md >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          
+          echo "## Stage 5: ACTION" >> "$OUTPUT"
+          cat End-Of-Conflict/7.Stage-5-ACTION.md >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          
+          echo "## The Immunity Paradox: Why This Framework Will Fail" >> "$OUTPUT"
+          cat End-Of-Conflict/8.The-Immunity-Paradox.md >> "$OUTPUT"
 
-      - name: Commit and push changes
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
