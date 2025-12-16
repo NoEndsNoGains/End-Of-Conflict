@@ -3,19 +3,19 @@ name: Combine Chapters
 on:
   push:
     paths:
-      - '*.md'  # Trigger on any Markdown file change
-  workflow_dispatch:  # Allow manual trigger
+      - '*.md'  # Trigger on changes to any Markdown files
+  workflow_dispatch:  # Allow manual runs from the Actions tab
 
 jobs:
   stitch:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Required for committing back
+      contents: write  # Crucial: allows the workflow to push commits back
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Full history for better commits
+          fetch-depth: 0  # Fetches full history for proper committing
 
       - name: Stitch Markdown files
         uses: abhinav/stitchmd-action@v1
@@ -28,4 +28,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update combined chapters"
-          file_pattern: End of Conflict - All in 1 Chapters.md
+          file_pattern: "End of Conflict - All in 1 Chapters.md"
