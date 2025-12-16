@@ -3,8 +3,7 @@ name: Combine Chapters
 on:
   push:
     paths:
-      - '*.md'
-  workflow_dispatch:
+      - '**/*.md'  # Only run when MD files change
 
 jobs:
   stitch:
@@ -12,14 +11,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Explicitly use the default token
 
       - name: Stitch Markdown files
         uses: abhinav/stitchmd-action@v1
         with:
           mode: write
-          summary: summary.md
+          summary: summary.md  # or full path if in subfolder
           output: End-of-Conflict-All-in-1-Chapters.md
 
       - name: Commit and push changes
@@ -27,6 +24,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add End-of-Conflict-All-in-1-Chapters.md
-          git diff --staged --quiet && echo "No changes detected" && exit 0
-          git commit -m "Auto-update combined chapters"
+          git commit -m "Auto-update combined chapters" || echo "No changes to commit"
           git push origin HEAD:main
