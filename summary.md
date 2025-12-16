@@ -1,7 +1,7 @@
 # End of Conflict
 
 [Notes to Self]
-(Notes to Self.md)
+(NotestoSelf.md)
 
 [Constraints]
 (Constraints.md)
