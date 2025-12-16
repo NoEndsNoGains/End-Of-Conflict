@@ -3,9 +3,9 @@ name: Combine Chapters
 on:
   push:
     paths:
-      - 'End-of-Conflict/**/*.md'
+      - '*.md'  # Trigger on any .md change in root
       - '.github/workflows/combine-chapters.yml'
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual run
 
 jobs:
   combine:
@@ -19,57 +19,56 @@ jobs:
 
       - name: Combine Markdown files
         run: |
-          OUTPUT="End-of-Conflict/End-of-Conflict-All-in-1-Chapters.md"
+          OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
 
-          # Create directory and clear file
-          mkdir -p "$(dirname "$OUTPUT")"
+          # Clear/create the output file
           > "$OUTPUT"
 
           echo "# End of Conflict" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           echo "## Notes to Self" >> "$OUTPUT"
-          cat "End-of-Conflict/1.Notes-To-Self.md" >> "$OUTPUT" || echo "ERROR: Missing 1.Notes-To-Self.md" >> "$OUTPUT"
+          cat "1.Notes-To-Self.md" >> "$OUTPUT" || echo "ERROR: Missing 1.Notes-To-Self.md" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           echo "## Constraints" >> "$OUTPUT"
-          cat "End-of-Conflict/2.Constraints.md" >> "$OUTPUT" || echo "ERROR: Missing 2.Constraints.md" >> "$OUTPUT"
+          cat "2.Constraints.md" >> "$OUTPUT" || echo "ERROR: Missing 2.Constraints.md" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           echo "## Stage 1: MAP" >> "$OUTPUT"
-          cat "End-of-Conflict/3.Stage-1-MAP.md" >> "$OUTPUT" || echo "ERROR: Missing 3.Stage-1-MAP.md" >> "$OUTPUT"
+          cat "3.Stage-1-MAP.md" >> "$OUTPUT" || echo "ERROR: Missing 3.Stage-1-MAP.md" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           echo "## Stage 2: TRUTH" >> "$OUTPUT"
-          cat "End-of-Conflict/4.Stage-2-TRUTH.md" >> "$OUTPUT" || echo "ERROR: Missing 4.Stage-2-TRUTH.md" >> "$OUTPUT"
+          cat "4.Stage-2-TRUTH.md" >> "$OUTPUT" || echo "ERROR: Missing 4.Stage-2-TRUTH.md" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           echo "## Stage 3: JUDGEMENT" >> "$OUTPUT"
-          cat "End-of-Conflict/5.Stage-3-JUDGEMENT.md" >> "$OUTPUT" || echo "ERROR: Missing 5.Stage-3-JUDGEMENT.md" >> "$OUTPUT"
+          cat "5.Stage-3-JUDGEMENT.md" >> "$OUTPUT" || echo "ERROR: Missing 5.Stage-3-JUDGEMENT.md" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           echo "## Stage 4: DECISION" >> "$OUTPUT"
-          cat "End-of-Conflict/6.Stage-4-DECISION.md" >> "$OUTPUT" || echo "ERROR: Missing 6.Stage-4-DECISION.md" >> "$OUTPUT"
+          cat "6.Stage-4-DECISION.md" >> "$OUTPUT" || echo "ERROR: Missing 6.Stage-4-DECISION.md" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           echo "## Stage 5: ACTION" >> "$OUTPUT"
-          cat "End-of-Conflict/7.Stage-5-ACTION.md" >> "$OUTPUT" || echo "ERROR: Missing 7.Stage-5-ACTION.md" >> "$OUTPUT"
+          cat "7.Stage-5-ACTION.md" >> "$OUTPUT" || echo "ERROR: Missing 7.Stage-5-ACTION.md" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           echo "## The Immunity Paradox: Why This Framework Will Fail" >> "$OUTPUT"
-          cat "End-of-Conflict/8.The-Immunity-Paradox.md" >> "$OUTPUT" || echo "ERROR: Missing 8.The-Immunity-Paradox.md" >> "$OUTPUT"
+          cat "8.The-Immunity-Paradox.md" >> "$OUTPUT" || echo "ERROR: Missing 8.The-Immunity-Paradox.md" >> "$OUTPUT"
 
-          echo "Combined chapters into $OUTPUT"
+          echo "Combined file created: $OUTPUT"
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          OUTPUT="End-of-Conflict/End-of-Conflict-All-in-1-Chapters.md"
+          OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
 
           if git diff --quiet --exit-code -- "$OUTPUT"; then
-            echo "No changes to the combined file — nothing to commit"
+            echo "No changes detected — nothing to commit"
           else
             echo "Changes detected — committing and pushing"
             git add "$OUTPUT"
