@@ -886,8 +886,6 @@ Stage 3 tells you what went wrong — the violations, failures, and accountabili
 But knowing what went wrong is not the same as knowing how to fix it.
 Stage 4 (Decision) asks: Given what went wrong and who is accountable, how do we resolve the conflict we mapped in Stage 1?
 JUDGMENT is backward-looking (what happened). DECISION is forward-looking (what to do).
----
-
 
 ## Stage 4: DECISION
 DECISION answers: Of what is possible, what do we choose to do?
