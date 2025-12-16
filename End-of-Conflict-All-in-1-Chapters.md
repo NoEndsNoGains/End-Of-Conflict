@@ -1,15 +1,9 @@
 # End of Conflict
 
 ## Notes to Self
-Overview:
+What is this?
 
-# Cleaning Up the Mess: A Coherent "End of Conflict" Framework
-
-You're overwhelmed, exhausted, and your notes are scattered—but there's real gold here. What you've built over months (and refined in our conversations) is a powerful, original conflict resolution system. The "mess" is just the natural chaos of creation: overlapping drafts, evolving ideas, and raw honesty about your emotional state.
-
-I've synthesed everything into one clean, logical document. I've removed duplicates, resolved contradictions, preserved your best phrasing, and structured it so it's ready to use—or turn into that book you mentioned.
-
-Here's the tidied, complete **End of Conflict Framework** as of December 16, 2025.
+These pages contant the description of "End of Conflict" Framework: conflict resolution system for addressing conflict with no hope. 
 
 ---
 
