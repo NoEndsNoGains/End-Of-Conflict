@@ -522,7 +522,133 @@ Finally Each Stage must logicallly connect to the next: e.g. We drew a Map in st
 
 
 ## Stage 2: TRUTH
+TypeExampleWhat it distortsLies about ACTIONS"I never restricted her contact" (when 8pm restriction existed)What happenedLies about FACTS"Adding you would expose my card details" (Apple confirms false)What is possibleLies about REASONSUsing privacy concern when privacy solutions existWhy they acted
+Objective: Get as close to observable reality as possible																									
+																									
+Why: You cannot make a good decision without knowing what is real. Inaccuracies (lies/error) distort reality. Misalignment (contradictions) obscures reality. Both must be tested.																									
+																									
+Step 1: NAME																									
+																									
+Action: Identify the conflict.																									
+																									
+Question: What is the visible conflict? (Note multiple perspectives if known.)																									
+																									
+Step 2: MAP																									
+																									
+Action: Capture raw data for each party — without judgment. Tag evidence types.																									
+																									
+Element	Question	Evidence Type																							
+A. SAY: Actions	What do they say they DID?	Direct / Documented / Reported																							
+B. SAY: Facts	What factual claims, explanations, or reasons do they give?	Direct / Documented / Reported																							
+C. SAY: End Goal	What do they say they WANT? (may be empty if not stated)	Direct / Documented / Reported																							
+D. DO	What do they actually DO? (observable actions)	Direct / Documented / Reported																							
+E. CONTEXT	What constraints, pressures, power differentials, or roles affect this party?	— e.g. CAO																							
+																									
+Evidence Types:																									
+																									
+Type	Definition																								
+Direct	You observed it yourself																								
+Documented	Written/recorded evidence																								
+Reported	Someone else's claim																								
+Step 3: TEST																									
+																									
+Action: Check for accuracy and alignment.																									
+																									
+Purpose: To get closer to reality.																									
+																									
+Test	Compare	Why	Question																						
+ACCURACY: Actions	SAY: Actions vs Evidence	Inaccuracies distort what happened	Is what they say they DID accurate?																						
+ACCURACY: Facts	SAY: Facts vs Evidence	Inaccuracies distort what is true	Are their claims/explanations accurate?																						
+ALIGNMENT	DO vs SAY: End Goal	Misalignment obscures what they want	Do actions serve stated goal?																						
+																									
+Sub-question for ACCURACY tests:																									
+																									
+"If inaccurate, is this best explained by error, bias, partial information, or deliberate deceit?"																									
+																									
+Note: If no End Goal is stated, skip ALIGNMENT test — the goal is already hidden.																									
+																									
+Step 4: INFER																									
+																									
+Action: Hypothesise the real END GOAL(s).																									
+																									
+Warning: Inferring goals from actions is probabilistic, not certain. People may have multiple, conflicting motives (e.g., fear + control). Treat as a working hypothesis.																									
+																									
+Decision Tree:																									
+																									
+Is End Goal stated?																									
+│																									
+├── NO → Candidate WANT(s) = What ACTIONS appear to serve																									
+│																									
+└── YES → Does ALIGNMENT pass?																									
+│																									
+├── YES → Candidate WANT(s) = Stated End Goal																									
+│																									
+└── NO → Candidate WANT(s) = What ACTIONS appear to serve																									
+																									
+If SAY and DO conflict, list plausible reasons for mismatch BEFORE inferring:																									
+																									
+Possible Reason																									
+Fear / Coercion																									
+Confusion / Error																									
+Partial information																									
+Strategic silence																									
+Deliberate deceit																									
+																									
+Key Question: "Give priority to actions while considering words and context. What goal(s) do the actions appear to serve?"																									
+																									
+Step 5: CHECK																									
+																									
+Action: Challenge your own inference and role.																									
+																									
+Question	Purpose																								
+Is my inference based on evidence?	Check for assumptions																								
+What evidence have I NOT sought?	Check for gaps																								
+What evidence would DISCONFIRM my inference?	Check for confirmation bias																								
+What is the most generous alternative explanation?	Check for bias																								
+Am I applying the same standard to both parties?	Check for fairness																								
+What is MY own WANT and role? How might it shape my interpretation?	Check for analyst bias																								
+STAGE 1 GRIDS:																									
+Testing Grid:																									
+Test	Question	Party A	Party B	Evidence Cited																					
+ACCURACY: Actions	Is what they say they DID accurate?	True / Partly / Unknown / False / N/A	...	...																					
+ACCURACY: Facts	Are their claims accurate?	True / Partly / Unknown / False / N/A	...	...																					
+ALIGNMENT	Do actions serve stated goal?	True / Partly / Unknown / False / N/A	...	...																					
+																									
+If inaccurate: Error / Bias / Partial info / Deliberate deceit?																									
+																									
+Inference Grid:																									
+Party	End Goal Stated?	Accuracy: Actions	Accuracy: Facts	Alignment	Candidate WANT(s)	Confidence	Mismatch Reasons																		
+A	Yes/No	True/Partly/Unknown/False	...	...	[List]	High/Medium/Low	[List if any]																		
+B	Yes/No	...	...	...	[List]	High/Medium/Low	[List if any]																		
+STAGE 1 OUTPUT:																									
+Output	What you now know																								
+Reality established	As close to truth as possible — with noted uncertainties																								
+Candidate WANT(s) identified	With confidence level; treated as hypothesis																								
+Inaccuracies detected	With explanation (error vs deceit)																								
+Misalignment detected	With possible reasons																								
+Analyst's own WANT stated	Bias acknowledged																								
+																									
+Reminder: Stage 1 is a snapshot. Revisit as new evidence or perspectives emerge.																									
+																									
+STAGE 1 SEQUENCE:																									
+NAME → MAP (+ Context + Evidence Types) → TEST (Accuracy + Alignment) → INFER (Candidates + Confidence) → CHECK (+ Your Own WANT) → OUTPUT																									
+STAGE 1 SUMMARY:																									
+Step	Action	Purpose																							
+1. NAME	Identify conflict	Focus																							
+2. MAP	Capture SAY + DO + Context + Evidence Types	Raw data with source quality																							
+3. TEST	Check accuracy + alignment	Get closer to reality																							
+4. INFER	Hypothesise candidate WANT(s)	Working hypothesis, not certainty																							
+5. CHECK	Challenge bias + state your own WANT	Protect against all distortion
 
+Stage Establishes THREE Things:
+#WhatHowWhy It Matters1WHAT HAPPENEDTest ACCURACY: ActionsDid they do what they say they did?2WHAT IS TRUETest ACCURACY: FactsAre their claims/reasons true?3WHAT THEY ACTUALLY WANTTest ALIGNMENT + INFERDo actions serve stated goals? If not, what do actions serve?
+
+The Simple Version
+Stage 1 answers:
+
+What did they do? → He refused everything
+Are their reasons true? → No, his reasons are false
+What do they really want? → Separation, not privacy
 ---
 
 # **Stage 1: TRUTH**
