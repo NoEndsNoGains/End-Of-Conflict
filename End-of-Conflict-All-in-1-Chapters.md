@@ -7,13 +7,45 @@
 3. 16.12.2025 (later that afternoon) I am exhosted. I lost most of my notes - scattered everywhere. Nothing makes sense.
 
 ## Constraints
+
 # Constraints: When to Use the End of Conflict Framework
 
 ---
 
-The End of Conflict framework can be applied to conflicts in the past, the present, or the future. It can be applied to external conflicts between parties, or to internal conflicts within yourself.
+> **Definition: The End of Conflict Framework**
+>
+> A five-stage process for analysing and responding to conflicts. It applies to external disputes (between people, groups, or institutions) and internal dilemmas (within one person, modelled as competing "parties").
+>
+> The five stages are:
+> 1. **Map** – Name and structure the conflict.
+> 2. **Truth** – Establish what actually happened (or is happening).
+> 3. **Judgment** – Evaluate the facts against values, rules, or goals.
+> 4. **Decision** – Choose a course of action and commit.
+> 5. **Action** – Implement the decision and observe the consequences.
 
-There are 5 stages in the framework. Briefly, they look as follow:
+---
+
+> **Pre-Check: Does This Situation Fit?**
+>
+> Use this framework when all of the following are true:
+> - There are at least two positions in genuine disagreement.
+> - Each position is held by someone (or some group) who can choose and act.
+> - You can state what the conflict is about in one sentence.
+> - You know at least something about the situation (enough to sketch a first map).
+>
+> Do **not** use this framework when:
+> - There is only frustration, not a second position ("I hate the traffic").
+> - The "other side" is a force of nature or the past (no agent to respond).
+> - You cannot yet say what the fight is about.
+
+---
+
+> **How to Begin**
+>
+> 1. **Locate yourself**: Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future?
+> 2. **Write your one-sentence conflict name**: "This is a conflict about …"
+> 3. **Draft a first map**: List parties, their positions, and what each stands to gain or lose.
+> 4. **Proceed through the stages**: Map → Truth → Judgment → Decision → Action.
 
 ---
 
@@ -29,124 +61,74 @@ There are 5 stages in the framework. Briefly, they look as follow:
 
 **The journey:**
 
-$$\text{Map} \xrightarrow{\text{Courage}} \text{Truth} \xrightarrow{\text{Courage}} \text{Judgment} \xrightarrow{\text{Courage}} \text{Decision} \xrightarrow{\text{Courage}} \text{Action}$$
+$$\text{Map} \xrightarrow{} \text{Truth} \xrightarrow{} \text{Judgment} \xrightarrow{} \text{Decision} \xrightarrow{} \text{Action}$$
 
-**Courage is the fuel.** It is the energy required to move from one stage to the next — to overcome the inertia of the status quo and the friction of self-deception and consequence. Without it, you stop.
+| Stage | Activity (what you do) | Output (what you get) | Why it matters / What happens if you skip it |
+|-------|------------------------|----------------------|---------------------------------------------|
+| **1: Map** | Name the conflict precisely | A clear Structure (who is involved and exactly what they are fighting about) | Most people jump straight to opinions ("this side is evil") without first defining the boundaries. Without a precise map, every later conclusion drifts or applies to the wrong problem. Stage 1 is the map: listing parties, their interests, the main conflict, and the specific sub-conflicts. |
+| **2: Truth** | See what actually happened | Objective Reality (facts, not claims) | People argue endlessly because each side has its own narrative. This stage zooms into each sub-conflict from the map and answers: What events occurred? What does each party claim? Where do claims diverge? Are divergences lies, mistakes, misunderstandings, or hidden facts? Only when you establish what is verifiably true can you move forward. |
+| **3: Judgment** | Judge the facts against values or rules | What ought to be (moral, legal, or practical evaluation) | Once you know what is true, you evaluate it. Is an action justified? Who bears responsibility? Was a rule violated? This stage produces clear normative conclusions (right/wrong, fair/unfair) grounded in the reality from Stage 2. |
+| **4: Decision** | Choose a course of action | A specific Intention (what you or a party will do) | Knowing what ought to be isn't enough — you must decide what you will actually commit to doing about it. This stage weighs options, costs, risks, and feasibility, then selects one path. It turns judgment into commitment. |
+| **5: Action** | Do the chosen thing | Actual Change in the world | The only stage that affects reality. Everything before prepares for this. Most conflicts persist because people stop at talking (stages 1–4) without ever deciding and acting. Action closes the loop — or reveals that the map was incomplete, and the cycle begins again. |
 
-| Stage | The Courage Required |
-|-------|----------------------|
-| **1: Map** | Courage to see — to include painful truths (yourself as a party, hidden beneficiaries) |
-| **2: Truth** | Courage to know — to accept facts even if they invalidate your narrative |
-| **3: Judgment** | Courage to evaluate — to apply standards equally, regardless of personal cost |
-| **4: Decision** | Courage to commit — to choose the hard path (resolution) over the easy path (avoidance, winning) |
-| **5: Action** | Courage to execute — to absorb the consequences (admitting fault, taking a loss) |
-
-
-Stage,Activity (what you do),Output (what you get),Why it matters / What happens if you skip it
-1: Map,Name the conflict precisely,A clear Structure (who is involved and exactly what they are fighting about),"Most people jump straight to opinions (“this side is evil”) without first defining the boundaries. Without a precise map, every later conclusion drifts or applies to the wrong problem. Stage 1 (which you called Stage 0 earlier) is the map: listing parties, their interests, the main conflict, and the specific sub-conflicts."
-2: Truth,See what actually happened,"Objective Reality (facts, not claims)","People argue endlessly because each side has its own narrative. This stage zooms into each sub-conflict from the map and answers: What events occurred? What does each party claim? Where do claims diverge? Are divergences lies, mistakes, misunderstandings, or hidden facts? Only when you establish what is verifiably true can you move forward."
-3: Judgment,Judge the facts against values or rules,"What ought to be (moral, legal, or practical evaluation)","Once you know what is true, you evaluate it. Is an action justified? Who bears responsibility? Was a rule violated? This stage produces clear normative conclusions (right/wrong, fair/unfair) grounded in the reality from Stage 2."
-4: Decision,Choose a course of action,A specific Intention (what you or a party will do),"Knowing what ought to be isn’t enough — you must decide what you will actually commit to doing about it. This stage weighs options, costs, risks, and feasibility, then selects one path. It turns judgment into commitment."
-5: Action,Do the chosen thing,Actual Change in the world,The only stage that affects reality. Everything before prepares for this. Most conflicts persist because people stop at talking (stages 1–3) without ever deciding and acting.
-
-## Who uses this framework?
-
-The framework is always used by an individual — one person, analysing a conflict from their position. **(See link to Living Research Protocol)**
-
-But the conflict itself can be at different levels:
-
-
-
-
-
-
-
-You're right. Let me think again:
+*Note on premature resolution:* If, after mapping the conflict, you discover the disagreement was a misunderstanding and everyone now agrees, stop. The framework resolved itself in Stage 1. This is success, not failure.
 
 ---
 
-**Internal conflict:**
+### Questions that move you forward
 
-| Hard because | Easy because |
-|--------------|--------------|
-| You are the analyst AND all the parties | You only have to do it once — on yourself |
-| No distance — maximum blind spots | No double conflict — there is no separate "analysis conflict" |
-| You cannot escape your own frame | You don't need to coordinate with anyone else |
-| You may not want to see the truth about yourself | All the information is inside you (if you can access it) |
+The most common failure is getting stuck between stages. These questions help you know when you're ready to move on:
 
----
-
-**External conflict:**
-
-| Hard because | Easy because |
-|--------------|--------------|
-| The conflict is always double — original + analysis | You have some distance from the original conflict |
-| You must see yourself AND the other parties | You can verify claims against external reality |
-| You bring biases, stakes, frame — and may not know it | Other people can check your analysis |
-| More parties = more complexity | |
+- **After Map:** Do I know exactly what facts I need to verify?
+- **After Truth:** What rules or values will I judge these facts against?
+- **After Judgment:** What specifically will I commit to doing?
+- **After Decision:** Is this action concrete, feasible, and observable?
+- **After Action:** Did this resolve it — or reveal a new conflict to map?
 
 ---
 
-**So the difficulty is not a simple hierarchy.**
+### What fuels the movement
 
-It's more like:
-
-| Level | What's hard | What's easier |
-|-------|-------------|---------------|
-| **Internal** | Seeing yourself. No distance. | Only one conflict. All information is within you. |
-| **External** | Always double. You must analyse yourself AND the conflict. More complexity. | You have distance. External verification possible. |
+To move between the stages you will need energy. That energy can be anything that makes you "do it". When you sense fear, you might need courage to push forward. Sometimes what moves you forward is curiosity: the need to make sense of something that doesn't add up. Sometimes it's persistence, when there is exhaustion and you believe you simply cannot sustain the weight of unresolved conflict any longer — and you push forward regardless. Sometimes it's care: someone you love is affected, and that matters more than your own comfort. Sometimes it's integrity: the gap between what you know and what you're doing becomes unbearable. Or perhaps, it does not matter what moves you forward. What matters is that you do move forward. The framework runs on whatever force is strong enough to overcome what's holding you back.
 
 ---
 
-**Maybe the framing should be:**
+## Before You Begin: Two Dimensions
 
-Internal = **hard to see**, easy to scope
-External = **easier to see**, but always double — and the second conflict (yourself) is often invisible
+Before you start Stage 1 (Map), you locate yourself. Two questions set the coordinates:
 
----
+### Dimension 1: Position — What is your relationship to the conflict?
 
-Does this capture it better? Should I rewrite with this nuance?
+This determines whether you can affect the outcome, what blind spots to expect, and how hard it will be to see clearly.
 
+| Position | Description |
+|----------|-------------|
+| **Observer** | You have no power to affect the outcome. You are analysing only. |
+| **Party** | You have power to affect the outcome — whether as someone *in* the conflict, or someone with authority *over* it. |
+| **Internal** | The conflict is within yourself. You are everything — analyst, all parties, and the battlefield. |
 
+**What counts as a "party"?**
 
+A party is anyone with power to change what happens:
 
-**The funnel:**
+- The people *in* the conflict (they can escalate, concede, act)
+- A judge (they can decide)
+- A parent mediating between children (they can intervene)
+- A boss resolving a team dispute (they can impose)
 
-```
-External (Others)
-       ↓
-External (You involved)
-       ↓
-Internal (Within yourself)
-```
+**What counts as an "observer"?**
 
-The deeper you go, the more courage required. The more blind spots. The harder to see truth.
+An observer has no power over the outcome:
 
----
+- A historian analysing a past war (it's over)
+- A journalist reporting on a dispute (can observe, can't decide)
+- You analysing someone else's conflict with no involvement (just watching)
 
-## This framework applies when:
+*Note on internal conflicts:* These require stepping outside yourself to see your competing forces as if they were separate parties. This is the hardest application. Internal conflicts rarely stay internal — you must also identify who else is affected.
 
-1. **There are at least two positions** — identifiable stances that are in disagreement. In external conflicts, these are held by different parties. In internal conflicts, these are competing forces within yourself.
+### Dimension 2: Time — When is the conflict?
 
-2. **The position-holder(s) have agency** — they are people, groups, or organisations capable of making choices. Not forces of nature, abstract concepts, or the past.
-
-3. **The conflict can be named** — you can say what the fight is about. If you cannot name it, you do not yet have a conflict to analyse.
-
-4. **You have some knowledge of the conflict** — you cannot map what you know nothing about. You need at least surface-level information to begin.
-
----
-
-## Two dimensions of application
-
-**Dimension 1: Level — Who is in conflict?**
-
-| Level | Description |
-|-------|-------------|
-| **External - Others** | Between other parties. You are observing. |
-| **External - You involved** | Between you and others. You are a party. |
-| **Internal** | Within yourself. Competing forces, externalised by naming them as positions. |
-
-**Dimension 2: Time — When is the conflict?**
+This determines what counts as evidence, whether action is possible, and whether your map is real or hypothetical.
 
 | Time | Description |
 |------|-------------|
@@ -154,44 +136,72 @@ The deeper you go, the more courage required. The more blind spots. The harder t
 | **Present** | Happening now. Real events, real claims, real parties. |
 | **Future** | Hasn't played out yet. Projections, assumptions, scenarios. You are preparing. |
 
----
+*Note on future mode:* Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out, your map is incomplete. Simulation is preparation, not resolution.
 
-## What each time mode allows:
+### What each combination allows
 
-| Time | Stage 1: Map | Stage 2: Truth | Stage 3: Judgment | Stage 4: Decision | Stage 5: Action |
-|------|--------------|----------------|-------------------|-------------------|-----------------|
+| Time | Map | Truth | Judgment | Decision | Action |
+|------|-----|-------|----------|----------|--------|
 | **Past** | You can map | You can verify against evidence | You can judge with hindsight | Already decided | Already acted — you can learn |
 | **Present** | You can map | You can verify against reality | You can judge | You can decide | You can act |
 | **Future** | You can map | You are guessing — projections only | You are preparing | You are rehearsing | Not yet — simulation only |
 
-**Note on Future mode:** Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out or you hear from the other party, your map is incomplete. Simulation is preparation, not resolution.
+### Summary: The pre-check
 
-**Note on Internal conflicts:** These require the ability to step outside yourself and see your competing forces as if they were separate parties. This is the hardest application. You must also identify who else is affected — internal conflicts rarely stay internal.
+| Question | Dimension | What it determines |
+|----------|-----------|-------------------|
+| What is my relationship to this conflict? | Position | Whether you can affect the outcome. Your blind spots. How hard it will be to see. |
+| When is this conflict? | Time | What counts as evidence. Whether action is possible. Whether your map is real or hypothetical. |
+
+Before you map the conflict, you map your position relative to it.
 
 ---
 
 ## Internal conflict example: "Should I leave my job?"
 
-| Party | Level | Type |
-|-------|-------|------|
-| Me (wants security) | Main | Benefits (from staying) |
-| Me (wants freedom) | Main | Benefits (from leaving) |
-| My family | Sub | Both |
-| My employer | Sub | Loses (if I leave) |
+Internal conflicts are the hardest application of this framework. You must step outside yourself and treat your competing forces as if they were separate parties. Here is how to do it:
 
-This becomes a mappable conflict. Stage 2 (Truth) then asks: What is actually true? What is the real risk? What do my family actually want — not what I assume?
+### Stage 1: Map
 
----
+**Conflict name:** "This is a conflict about sacrificing my long-term potential for short-term financial security."
 
-## This framework does NOT apply when:
+| Party | Position | Interest |
+|-------|----------|----------|
+| Me (the "Security" self) | Stay | Mortgage, comfort, predictability |
+| Me (the "Freedom" self) | Leave | New skills, purpose, growth |
+| My family | Unclear | Stability? Or do they want me happier? |
+| My employer | Stay | Loses institutional knowledge if I leave |
 
-| Situation | Why not |
-|-----------|---------|
-| Only one position ("I hate the weather") | No second position — you have frustration, not conflict |
-| No agency ("The river flooded") | Cannot negotiate with nature |
-| Cannot name the fight | If you cannot say what it's about, you cannot map it |
-| You know nothing about it | You cannot map what you cannot see — gather information first |
-| Pure misunderstanding with no dispute | If there is no disagreement once clarified, there is no conflict |
+### Stage 2: Truth
+
+Now you fact-check each party's claims — including your own assumptions:
+
+**Security self:**
+- Is the job actually secure? (What is the company's financial health?)
+- Is the market for my skills really as bad as I fear? (Have I looked?)
+
+**Freedom self:**
+- Is the new purpose viable? (What does the business model actually look like? What are the real costs?)
+- Am I romanticising the alternative?
+
+**Family:**
+- What does my family *actually* say about taking a risk — not what I assume they think?
+
+### Stage 3: Judgment
+
+Based on the verified facts, which value ought to take precedence?
+
+Example judgment: "The company is stable, but I've confirmed that my skills are in demand and the new path is financially viable within six months. My family is supportive. My core value is growth, not stasis. I ought to pursue the new purpose."
+
+### Stage 4: Decision
+
+Turn the judgment into a specific commitment:
+
+"I will resign by [date], having saved [amount] as a runway. I will tell my manager on [date]. I will begin [specific first step] on [date]."
+
+### Stage 5: Action
+
+Do it. Then observe what happens. If new conflicts emerge (they will), map them.
 
 ---
 
