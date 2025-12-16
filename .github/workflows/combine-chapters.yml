@@ -20,10 +20,7 @@ jobs:
         run: |
           OUTPUT="End-of-Conflict/End-of-Conflict-All-in-1-Chapters.md"
 
-          # Create directory first
           mkdir -p "$(dirname "$OUTPUT")"
-
-          # Clear/truncate the output file
           > "$OUTPUT"
 
           echo "# End of Conflict" >> "$OUTPUT"
@@ -65,10 +62,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Only add and commit if the file actually changed
-          if git diff --quiet --exit-code "$OUTPUT"; then
-            echo "No changes to combined file"
+          # Check if the combined file is different from the last commit (or new)
+          if git diff --quiet --exit-code -- "$OUTPUT"; then
+            echo "No changes to the combined file — nothing to commit"
           else
+            echo "Changes detected — committing and pushing"
             git add "$OUTPUT"
             git commit -m "Auto-update combined chapters"
             git push
