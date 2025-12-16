@@ -10,7 +10,7 @@ jobs:
   stitch:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Allows commit/push back
+      contents: write  # Required to push commits back
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,10 +22,11 @@ jobs:
         with:
           mode: write
           summary: summary.md
-          output: End-of-Conflict-All-in-1-Chapters.md  # No spaces!
+          output: End-of-Conflict-All-in-1-Chapters.md
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update combined chapters"
           file_pattern: End-of-Conflict-All-in-1-Chapters.md
+          disable_globbing: true  # This fixes the detection issue
