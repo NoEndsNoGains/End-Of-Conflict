@@ -522,9 +522,6 @@ Finally Each Stage must logicallly connect to the next: e.g. We drew a Map in st
 
 
 ## Stage 2: TRUTH
-Here's Stage 2: TRUTH, written to follow directly from Stage 1: MAP.
-
----
 
 ## Stage 2: TRUTH
 
