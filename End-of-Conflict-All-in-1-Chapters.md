@@ -1,69 +1,7 @@
 # End of Conflict
 
 ## Notes to Self
-
-# No End of Conflict
-
-## A Five-Stage Framework for Resolving the Unresolvable
-
-A systematic framework that transforms intractable conflicts into solvable problems by separating what happened from what to do about it.
-
-Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people instead of consequences, we confuse the verdict with the sentence, and we talk without acting. This book offers a five-stage diagnostic framework—Map, Reality, Judgment, Decision, Action—that forces the precision conflicts demand but emotions prevent.
-
-Simple. Straightforward. Practical. And yet, a framework that still manages to turn everything on its head.
-
-We learn that underneath the five stages lies an engine room: a Truth Tester that reveals we can only resolve what we capture—but what we capture is always imperfect, unwhole, and surrounded by the shaped silence of what wasn't; a Living Research Protocol that breaks every claim on purpose, because transformation happens through breaking ("I thought X, actually Y")—making the framework and each of its claims not only unfinished but continuously changing; and an Immunity Paradox that reveals why we fail at three levels—mapping symptoms instead of triggers, responding with blunt instruments, and forgetting everything the moment the ceasefire is signed.
-
-The framework doesn't promise magic. It promises the best of what's possible—and shows you exactly where that boundary lies.
-
-
-
-## TABLE OF CONTENTS
-
-**PART 1: OVERVIEW**
-- End of Conflict Cheat Sheet
-- 1.1 What is this?
-- 1.2 Core Principle
-- 1.3 The Journey
-- 1.4 The Five Stages (summary table)
-- 1.5 The Chain (Case → Cause → Effect → Cure → Recovery)
-- 1.6 The Three Consequences (Violated, Concealed, Ignored)
-- 1.7 Why Consequences Not People (Verdict vs Sentence) 
-- 1.8 Why This Works
-- 1.9 The Final Test
-- 1.10 The Value Function
-
-**PART 2: THE FRAMEWORK**
-- 2.1 Constraints
-- 2.2 Before You Begin: Locate Yourself
-- 2.3 Stage 1: MAP
-- 2.4 Stage 2: REALITY
-- 2.5 Stage 3: JUDGMENT
-- 2.6 Stage 4: DECISION
-- 2.7 Stage 5: ACTION
-- 2.8 Key Clarifications
-- 2.9 Notes
-
-**PART 3: THEORETICAL FOUNDATIONS**
-- 3.1 What this framework builds on
-- 3.2 Why L.E.R / B.U.S / A.C.T (the three ethical traditions)
-- 3.3 The Mirror Check and the Golden Rule
-- 3.4 On Power
-
-**PART 4: STRESS TESTING**
-- 4.1 How to stress test the framework
-- 4.2 Competing Legitimate Goods
-- 4.3 Latent and Future Conflict
-- 4.4 The Bad Actor 
-- 4.5 The Asymmetry of Power
-- 4.6 The Irreversible Past
-
-**PART 5: DEEP DIVE**
-- 5.1 Living Research Protocol — HOW we investigate
-- 5.2 The Truth Tester — WHAT we can know
-- 5.3 The Immunity Paradox — WHY it fails
----
-
+ERROR: Missing 1.Notes-To-Self.md
 
 ## Constraints
 # End of Conflict
