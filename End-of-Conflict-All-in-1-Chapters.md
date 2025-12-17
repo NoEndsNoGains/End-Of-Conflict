@@ -10,10 +10,12 @@
 - [Stage 4 DECISION](#Stage-4-DECISION)
 - [Stage 5 ACTION](#Stage-5-ACTION)
 - [The Immunity Paradox](#The-Immunity-Paradox)
-- [End Matters](#End-Matters)
+- [End Matters](#end-matters)
 
 ---
 
+
+## Front Matters
 
 
 # You're Not a Betta Fish 
