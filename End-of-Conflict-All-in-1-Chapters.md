@@ -37,7 +37,7 @@ Most conflicts persist not because they're unsolvable — but because we skip th
 
 Five stages: Map it. See it. Judge it. Choose it. Do it.
 
-Underneath: an engine room. A Truth Tester that reveals we can only resolve what we capture — and what we capture is always incomplete. A Living Research Protocol that breaks every claim on purpose. An Immunity Paradox that explains why we keep failing: mapping symptoms instead of triggers, responding with blunt instruments, forgetting everything the moment the ceasefire is signed.
+Underneath: an engine room. A Truth Tester that reveals we can only resolve what we capture — and what we capture is always incomplete. A Living Protocol that breaks every claim on purpose. An Immunity Paradox that explains why we keep failing: mapping symptoms instead of triggers, responding with blunt instruments, forgetting everything the moment the ceasefire is signed.
 
 Simple enough for 2am. Rigorous enough for court.
 
