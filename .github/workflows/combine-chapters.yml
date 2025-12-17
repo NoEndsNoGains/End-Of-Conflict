@@ -28,7 +28,7 @@ jobs:
           echo "" >> "$OUTPUT"
 
           echo "## Notes to Self" >> "$OUTPUT"
-          cat "1.Notes-To-Self.md" >> "$OUTPUT" || echo "ERROR: Missing 1.Notes-To-Self.md" >> "$OUTPUT"
+          cat "1.Front-Matters.md" >> "$OUTPUT" || echo "ERROR: Missing 1.Front-Matters.md" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           echo "## Constraints" >> "$OUTPUT"
