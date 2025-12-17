@@ -796,6 +796,7 @@ Stage 2 forces you to establish facts before you evaluate them. Only then can ju
 
 ## Stage 3: JUDGEMENT
 Stage 3: JUDGMENT
+JUDGMENT identifies what must be addressed before you can move to resolution.
 What must end.
 What this stage is: This is where you evaluate what went wrong. Stage 2 (Truth) established what actually happened and what each party needs. But knowing what is true is not the same as knowing what failed, who is accountable, and what must be addressed before resolution is possible.
 Objective: Identify what went wrong and what must be accounted for.
