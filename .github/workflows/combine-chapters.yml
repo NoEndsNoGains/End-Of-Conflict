@@ -21,6 +21,9 @@ jobs:
         run: |
           OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
           BOOK_TITLE="End of Conflict"
+          END_MATTERS_FILE="9.End-Matters.md"
+          END_MATTERS_ANCHOR="end-matters"
+          END_MATTERS_TITLE="End Matters"
 
           # Start fresh
           > "$OUTPUT"
@@ -35,12 +38,16 @@ jobs:
 
           if [ ${#chapters[@]} -eq 0 ]; then
             echo "No chapter files found!" >> "$OUTPUT"
-            exit 0
           fi
 
           toc_lines=()
 
           for file in "${chapters[@]}"; do
+            # Skip the End-Matters file if it's in the list (it starts with 9.)
+            if [[ "$file" == "$END_MATTERS_FILE" ]]; then
+              continue
+            fi
+
             # Extract number and title part
             if [[ "$file" =~ ^([0-9]+)\.(.*)\.md$ ]]; then
               number="${BASH_REMATCH[1]}"
@@ -57,7 +64,7 @@ jobs:
               echo "## $chapter_title" >> "$OUTPUT"
               echo "" >> "$OUTPUT"
 
-              # Append file content if it exists
+              # Append file content
               if [ -f "$file" ]; then
                 cat "$file" >> "$OUTPUT"
               else
@@ -67,7 +74,20 @@ jobs:
             fi
           done
 
-          # Insert TOC after title (after collecting all titles)
+          # Add End-Matters as the last section (if it exists)
+          if [ -f "$END_MATTERS_FILE" ]; then
+            toc_lines+=("- [$END_MATTERS_TITLE](#$END_MATTERS_ANCHOR)")
+
+            echo "" >> "$OUTPUT"
+            echo "## $END_MATTERS_TITLE" >> "$OUTPUT"
+            echo "" >> "$OUTPUT"
+            cat "$END_MATTERS_FILE" >> "$OUTPUT"
+            echo "" >> "$OUTPUT"
+          else
+            echo "*Warning: Missing $END_MATTERS_FILE*" >> "$OUTPUT"
+          fi
+
+          # Rebuild file with full TOC inserted
           {
             echo "# $BOOK_TITLE"
             echo ""
@@ -77,11 +97,11 @@ jobs:
             echo ""
             echo "---"
             echo ""
-            # Then the rest of the file (from after TOC placeholder)
-            tail -n +7 "$OUTPUT"
+            # Skip the initial placeholder lines (title + TOC header + 2 empties)
+            tail -n +5 "$OUTPUT"
           } > "$OUTPUT.tmp" && mv "$OUTPUT.tmp" "$OUTPUT"
 
-          echo "Combined file created: $OUTPUT with ${#chapters[@]} chapters."
+          echo "Combined file created: $OUTPUT with ${#toc_lines[@]} sections."
 
       - name: Commit and push if combined file changed
         run: |
