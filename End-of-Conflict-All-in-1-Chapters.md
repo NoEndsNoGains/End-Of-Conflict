@@ -806,6 +806,9 @@ Output: Assessment of violations, failures, unmet needs, and accountability.
 Type: Evaluative (backward-looking)
 Question: What went wrong? What must be addressed? Who is accountable?
 
+
+GapWhat it judgesWrongWhat was violated (rules, agreements, trust)HiddenWhat was concealed (facts, motives, truth)MissedWhat was ignored (needs, fears, wants — both legitimate unmet needs AND misaligned wants)
+
 What JUDGMENT Evaluates
 JUDGMENT identifies the gap between truth and what was presented, acted upon, or suppressed:
 CategoryQuestionDeceptionWhat was lied about?ConcealmentWhat was hidden?NeglectWhat needs were ignored or dismissed?MistakesWhat errors were made?MiscommunicationWhat was misunderstood or poorly communicated?AccountabilityWho bears responsibility, and for what?
