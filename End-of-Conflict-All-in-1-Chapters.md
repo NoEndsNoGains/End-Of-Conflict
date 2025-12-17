@@ -22,16 +22,25 @@
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b8e02e7-1d42-463e-ad8e-224df2bc14d9" />
 
 
+
 _Summary (Back Cover):_
 
+You're fighting glass. Here's how to check.
+
 A framework for hopeless conflict.
-Tables. Checklists. Fill-in templates. The precision of a workbook.
-And on every page: art. Images that land before words do. A book a child can flip through. A book an academic can cite.
-Most conflicts persist not because they're unsolvable — but because we skip the steps resolution requires. We don't name them clearly. We assume instead of verify. We judge people instead of consequences. We confuse the verdict with the sentence. We talk without acting.
+
+Tables. Checklists. Templates. The precision of a workbook.
+
+And then: art. Images that land before words do. A picture book a child can flip through. A book an academic can cite.
+
+Most conflicts persist not because they're unsolvable — but because we skip the steps resolution requires. We don't name them clearly. We assume instead of verify. We judge people before consequences. We confuse the verdict with the sentence. We talk without acting.
+
 Five stages: Map it. See it. Judge it. Choose it. Do it.
+
 Underneath: an engine room. A Truth Tester that reveals we can only resolve what we capture — and what we capture is always incomplete. A Living Research Protocol that breaks every claim on purpose. An Immunity Paradox that explains why we keep failing: mapping symptoms instead of triggers, responding with blunt instruments, forgetting everything the moment the ceasefire is signed.
+
 Simple enough for 2am. Rigorous enough for court.
-A picture book with a workbook inside.
+
 It doesn't promise magic. It promises the best of what's possible — and shows you exactly where that boundary lies.
 
 
