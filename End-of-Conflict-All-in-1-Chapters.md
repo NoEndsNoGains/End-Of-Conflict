@@ -26,19 +26,11 @@ The End of Conflict Framework is a systematic process for resolving conflicts th
 
 ### 1.3 The Journey
 
-# The End of Conflict Framework
-
-## The Journey
-
 ```
 Map → Reality → Judgment → Decision → Action
 ```
 
-**Name it → Know it → Judge it → Choose it → Do it.**
-
----
-
-## The Five Stages
+### 1.4 The Five Stages
 
 | Stage | Activity | Output | Question | What you get | Functional Logic | Medical Analogy | Role |
 |-------|----------|--------|----------|--------------|------------------|-----------------|------|
@@ -48,9 +40,7 @@ Map → Reality → Judgment → Decision → Action
 | **Decision** | Choose it | Resolution | What path forward addresses the consequences? | The path to resolve the conflict | The Strategy | Treatment | The Cure |
 | **Action** | Do it | Change | What will make it real? | Implemented steps, owners, timelines | The Implementation | Recovery | The Recovery |
 
----
-
-## The Chain: Case → Cause → Effect → Cure → Recovery
+### 1.5 The Chain: Case → Cause → Effect → Cure → Recovery
 
 | Stage | Role | Example |
 |-------|------|---------|
@@ -60,55 +50,55 @@ Map → Reality → Judgment → Decision → Action
 | **Decision** | The Cure | "To address these consequences, we must do X, Y, and Z." |
 | **Action** | The Recovery | "These are the steps, owners, and timelines to make it real." |
 
----
+### 1.6 The Three Consequences
 
-## Why This Works
+Judgment is an **Audit of Gaps** — the distance between what is and what should be.
+
+| Consequence | What it captures | Examples |
+|-------------|------------------|----------|
+| **Violated** | What was broken | Rules, agreements, trust, integrity breached |
+| **Concealed** | What was hidden | Facts, motives, truth withheld |
+| **Ignored** | What was missed | Needs, fears, wants, losses unacknowledged |
+
+**Note:** These are **lenses**, not boxes. They can overlap. Something can be both Concealed AND Ignored. You evaluate through all three.
+
+This covers:
+- **Accountability** (Violated)
+- **Transparency** (Concealed)
+- **Healing** (Ignored)
+
+You are not judging the person. You are judging the impact of the friction.
+
+### 1.7 Why This Works
 
 - **Depersonalised** — You judge the impact, not the person
 - **Scales** — Hurt feelings or lost revenue, same framework
 - **Forces precision** — No consequences, no real conflict
+- **Iterates** — Action closes the loop, or reveals the map was incomplete and the cycle begins again
 
----
-
-## The Final Test
+### 1.8 The Final Test
 
 Judgment asks: **"What is the cost of this conflict?"**
 
-If you can't name a consequence (a Violation, a Concealment, or an Ignored need), then there might not actually be a conflict worth judging — it might just be a difference of opinion.
+If you can't name a consequence (a Violation, a Concealment, or an Ignored need), there might not be a conflict worth resolving through this framework — or you haven't looked hard enough.
 
 But if there is a cost, that cost dictates the Decision.
 
-### 1.5 The Five Stages at a Glance
+### 1.9 The Value Function
 
-| Stage | Activity (what you do) | Output (what you get) | Why it matters / What happens if you skip it |
-|-------|------------------------|----------------------|---------------------------------------------|
-| **1: Map** | Name the conflict precisely | Clarity — who is involved and what they are fighting about | Without boundaries, later stages drift or solve the wrong problem. |
-| **2: Truth** | Establish what is said, done, and wanted | Reality — positions, behaviours, underlying needs and interests | Arguments persist endlessly when each side operates from a different narrative. |
-| **3: Judgment** | Audit the gaps | Gaps — what was violated, concealed, or ignored | You cannot fix what you do not understand caused the conflict. |
-| **4: Decision** | Choose how to resolve the conflict | Resolution — the path to walk on | Knowing what went wrong is not the same as deciding to act. |
-| **5: Action** | Do the chosen thing | Change — steps, owners, timelines | Most conflicts die here — talk without execution changes nothing. |
+The framework is called "End of Conflict." The purpose is to **end conflict** in a way that:
 
-### 1.6 Core Questions
+- Is **sustainable** (doesn't reignite)
+- **Serves all parties** (or as many as possible)
+- Is **fair** (L.E.R tests: Legal, Ethical, Reversible)
+- Is **wise** (B.U.S tests: Benefit, Universal, Sustainable)
+- Is **doable** (A.C.T tests: Assets, Capability, Timely)
 
-Each stage is driven by a core question. Answer it before moving forward.
+**The value function:** Resolve conflict sustainably and fairly.
 
-| Stage | Question |
-|-------|----------|
-| **Map** | Who are the parties? What is the conflict? |
-| **Truth** | What is said? What is done? What are the wants? |
-| **Judgment** | What was violated? What was concealed? What was ignored? |
-| **Decision** | What is the path to resolve the conflict we mapped? |
-| **Action** | How do we put the resolution into practice? |
+It's not purely Pareto (someone may have to lose). Not purely rights-based (though L.E.R includes rights). Not purely restorative (though it can be).
 
-### 1.7 Summary: Function, Question, and Tools
-
-| Stage | Function | Question | Tools |
-|-------|----------|----------|-------|
-| **Map** | Define the conflict (scoping) | Who and What? | Identify parties, positions, interests, main conflict, sub-conflicts |
-| **Truth** | Establish what is real (fact-finding) | Say, Do, Wants? | Evidence gathering, claims comparison, needs and interests identification |
-| **Judgment** | Audit the gaps (backward-looking) | Violated, Concealed, Ignored? | Assessment of breaches, hidden information, unmet needs |
-| **Decision** | Choose how to resolve it (forward-looking) | What is the path? | L.E.R / B.U.S / A.C.T tests applied to proposed solutions |
-| **Action** | Implement the resolution (execution) | How do we do it? | Concrete steps, responsibilities, timelines, follow-up |
+It's **pragmatic resolution with ethical constraints.**
 
 ---
 
@@ -140,7 +130,7 @@ Do **not** use when:
 1. **Locate yourself.** Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future? (See Section 3.)
 2. **Write your one-sentence conflict name.** "This is a conflict about …"
 3. **Draft a first map.** List parties, their positions, and what each stands to gain or lose.
-4. **Proceed through the stages.** Map → Truth → Judgment → Decision → Action.
+4. **Proceed through the stages.** Map → Reality → Judgment → Decision → Action.
 
 ---
 
@@ -195,8 +185,8 @@ Your map is a hypothesis. You are simulating, not resolving. Until the conflict 
 
 ### 3.3 What Each Combination Allows
 
-| Time | Map | Truth | Judgment | Decision | Action |
-|------|-----|-------|----------|----------|--------|
+| Time | Map | Reality | Judgment | Decision | Action |
+|------|-----|---------|----------|----------|--------|
 | **Past** | You can map | You can verify against evidence | You can judge with hindsight | Already decided | Already acted — you can learn |
 | **Present** | You can map | You can verify against reality | You can judge | You can decide | You can act |
 | **Future** | You can map | You are guessing — projections only | You are preparing | You are rehearsing | Not yet — simulation only |
@@ -215,6 +205,85 @@ Your map is a hypothesis. You are simulating, not resolving. Until the conflict 
 ## 4. The Five Stages
 
 *[Detailed treatment of each stage follows]*
+
+---
+
+## 5. Stress Tests
+
+### 5.1 Stress Test: Competing Legitimate Goods
+
+**Scenario:** Two parents in a divorce both want primary custody. Neither has done anything wrong. Both love the child. Both are good parents.
+
+| Stage | What happens |
+|-------|--------------|
+| **Map** | Conflict is over custody. Parties: Parent A, Parent B, Child. |
+| **Reality** | Both say they want primary custody. Both do care for the child well. Both want time and stability. **Clash:** Both want something only one can fully have. |
+| **Judgment** | Violated? No — no rules broken. Concealed? No — both are honest. **Ignored?** Yes — each party's legitimate need is at risk of being dismissed by the other's claim. **Consequence:** Someone's needs will be unmet. The child may be caught in the middle. |
+| **Decision** | Choose a resolution that addresses the consequences — shared custody, specific arrangements, compromise. |
+| **Action** | Implement it. |
+
+**Conclusion:** The framework works. "Ignored" captures legitimate needs at risk of being unmet — even when no one is at fault. Consequences exist even without wrongdoing. The cost of the impasse is real.
+
+### 5.2 Stress Test: Latent and Future Conflict
+
+**Question:** Can this framework handle latent conflict (tension that hasn't erupted) or future conflict (anticipated)?
+
+**Answer:** Yes. The Time dimension (Past, Present, Future) explicitly covers this:
+
+- **Future mode:** Your map is a hypothesis. You are simulating, not resolving. You can Map, project Reality, prepare Judgment, rehearse Decision — but Action is not yet possible. Simulation is preparation, not resolution.
+- **Latent conflict:** If tension exists but consequences cannot be named, it's either not yet a conflict worth resolving, or you haven't looked hard enough. The framework prompts deeper investigation.
+
+---
+
+## 6. Key Clarifications
+
+### 6.1 On the Two Chains
+
+The two chains align precisely:
+
+| Stage | Activity | Role |
+|-------|----------|------|
+| Map | Name it | The Case |
+| Reality | Know it | The Cause |
+| Judgment | Judge it | The Effect |
+| Decision | Choose it | The Cure |
+| Action | Do it | The Recovery |
+
+Reality shows the **Clashes** (what is causing the damage). Judgment shows the **Consequences** (the effect of those clashes). The clashes ARE the cause; the consequences ARE the effect.
+
+### 6.2 On Decision vs Action
+
+- **Decision** = Choosing the path (the strategy, the plan, the commitment) — The Verdict
+- **Action** = Implementing the path (steps, owners, timelines, execution) — The Sentence
+
+Decision is what you will do. Action is doing it.
+
+### 6.3 On "Clashes" Being Descriptive
+
+"Clashes" describes where versions conflict — that's data. The **evaluation** of those clashes (what they cost) happens in Judgment. Reality is descriptive; Judgment is evaluative.
+
+### 6.4 On Fairness, Rights, and Long-term Effects
+
+The Decision stage includes the L.E.R / B.U.S / A.C.T tests:
+
+- **L.E.R** = Legal, Ethical, Reversible (fairness, rights)
+- **B.U.S** = Benefit, Universal, Sustainable (long-term effects)
+- **A.C.T** = Assets, Capability, Timely (feasibility)
+
+These ensure decisions consider more than just "addressing consequences."
+
+### 6.5 On Iteration and Feedback Loops
+
+The framework is not strictly linear. Action closes the loop — or reveals that the map was incomplete, and the cycle begins again. Each stage produces provisional outputs subject to update as new information emerges.
+
+### 6.6 On Structural vs Operational Causes
+
+In the Map stage, sub-conflicts are typed as:
+
+- **Operational** = Proximate triggers (what to do)
+- **Structural** = Underlying conditions (who decides)
+
+This distinguishes surface symptoms from root causes.
 
 ---
 
@@ -245,6 +314,14 @@ The framework cannot protect you from that choice as that is not what this frame
 The framework's purpose is to genuinely do your best to resolve conflict in a way that the solution is sustainable and serves us all.
 
 **The choice is yours.**
+
+### Note on Gaming and Manipulation
+
+The framework acknowledges that actors may strategically misrepresent costs, exaggerate clashes, or game the process. The CHECK step in Reality (asking "What is MY own want?") and the Note on Intention address this directly: the framework reveals truth, but cannot force honest use.
+
+### Note on Power
+
+Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
 
 ## Stage 1: MAP
 ## 3. Stage 1: MAP
