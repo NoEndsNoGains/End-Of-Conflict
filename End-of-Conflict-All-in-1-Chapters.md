@@ -5,7 +5,6 @@
 - [Front Matters](#Front-Matters)
 - [OVERVIEW](#OVERVIEW)
 - [FRAMEWORK](#FRAMEWORK)
-- [Stage 5 ACTION](#Stage-5-ACTION)
 - [End Matters](#end-matters)
 
 ---
@@ -1521,11 +1520,6 @@ Stage-5-ACTION.md
 But knowing what went wrong is not the same as knowing how to fix it.
 Stage 4 (Decision) asks: Given what went wrong and who is accountable, how do we resolve the conflict we mapped in Stage 1?
 JUDGMENT is backward-looking (what happened). DECISION is forward-looking (what to do).
-
-
-
-
-## Stage 5 ACTION
 
 
 
