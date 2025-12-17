@@ -75,23 +75,24 @@ This framework is how you check.
 - 1.8 Why This Works
 - 1.9 The Final Test
 - 1.10 The Value Function
+- 1.11 Constraints
+- 1.12 Before You Begin
 
 **PART 2: THE FRAMEWORK**
-- 2.1 Constraints
-- 2.2 Before You Begin: Locate Yourself
-- 2.3 Stage 1: MAP
-- 2.4 Stage 2: REALITY
-- 2.5 Stage 3: JUDGMENT
-- 2.6 Stage 4: DECISION
-- 2.7 Stage 5: ACTION
-- 2.8 Key Clarifications
-- 2.9 Notes
+- 2.1 Stage 1: MAP
+- 2.2 Stage 2: REALITY
+- 2.3 Stage 3: JUDGMENT
+- 2.4 Stage 4: DECISION
+- 2.5 Stage 5: ACTION
+- 2.6 Key Clarifications
+- 2.7 Notes
 
 **PART 3: THEORETICAL FOUNDATIONS**
-- 3.1 What this framework builds on
-- 3.2 Why L.E.R / B.U.S / A.C.T (the three ethical traditions)
-- 3.3 The Mirror Check and the Golden Rule
-- 3.4 On Power
+- 3.1 The Foundations of MAP (what traditions inform boundary-setting, conflict mapping)
+- 3.2 The Foundations of REALITY (epistemology, truth-testing, evidence)
+- 3.3 The Foundations of JUDGMENT (ethics, L.E.R / B.U.S / A.C.T, the three consequences)
+- 3.4 The Foundations of DECISION (decision theory, the Mirror Check, Golden Rule)
+- 3.5 The Foundations of ACTION (implementation, change theory, power)
 
 **PART 4: STRESS TESTING**
 - 4.1 How to stress test the framework
@@ -102,9 +103,9 @@ This framework is how you check.
 - 4.6 The Irreversible Past
 
 **PART 5: DEEP DIVE**
-- 5.1 Living Research Protocol — HOW we investigate
-- 5.2 The Truth Tester — WHAT we can know
-- 5.3 The Immunity Paradox — WHY it fails
+- 5.1 The Truth Tester — WHAT we can know
+- 5.2 Living Research Protocol — HOW we stay honest
+- 5.3 The Immunity Paradox — WHY we still fail
 ---
 
 
