@@ -35,7 +35,7 @@ Map → Truth → Judgment → Decision → Action
 |-------|----------|--------|
 | **Map** | Name | Structure |
 | **Truth** | See | Reality |
-| **Judgment** | Evaluate | Accountability |
+| **Judgment** | Evaluate | What must be addressed |
 | **Decision** | Choose | Intention |
 | **Action** | Do | Change |
 
@@ -45,7 +45,7 @@ Map → Truth → Judgment → Decision → Action
 |-------|------------------------|----------------------|---------------------------------------------|
 | **1: Map** | Name the conflict precisely | A clear structure (who is involved and exactly what they are fighting about) | Without boundaries, later stages drift or solve the wrong problem. |
 | **2: Truth** | Establish what actually happened and what each party needs | Objective reality (facts, events, and the needs and interests of each party) | Arguments persist endlessly when each side operates from a different narrative. |
-| **3: Judgment** | Evaluate what went wrong | Assessment of causes and accountability (what must be addressed) | You cannot fix what you do not understand caused the conflict. |
+| **3: Judgment** | Evaluate what went wrong | What must be addressed (violations, failures, unmet needs, accountability) | You cannot fix what you do not understand caused the conflict. |
 | **4: Decision** | Choose how to resolve the conflict | A specific intention (what will be done to address the conflict mapped in Stage 1) | Knowing what went wrong is not the same as deciding to act. |
 | **5: Action** | Do the chosen thing | Actual change in the world | Most conflicts die here — talk without execution changes nothing. |
 
@@ -57,7 +57,7 @@ Each stage is driven by a core question. Answer it before moving forward.
 |-------|----------|
 | **Map** | Who are the parties? What is the conflict? |
 | **Truth** | What happened? What is real? What are the needs and interests of each party? |
-| **Judgment** | What went wrong? What must be addressed? Who is accountable? |
+| **Judgment** | What must be addressed? What went wrong? Who is accountable? |
 | **Decision** | How do we resolve the conflict we mapped? |
 | **Action** | How do we put the resolution into practice? |
 
@@ -67,7 +67,7 @@ Each stage is driven by a core question. Answer it before moving forward.
 |-------|----------|----------|-------|
 | **Map** | Define the conflict (scoping) | Who are the parties? What is the conflict? | Identify parties, positions, interests, main conflict, sub-conflicts |
 | **Truth** | Establish what is real (fact-finding) | What happened? What is real? What are the needs and interests? | Evidence gathering, claims comparison, needs and interests identification |
-| **Judgment** | Evaluate what went wrong (backward-looking) | What went wrong? What must be addressed? Who is accountable? | Assessment of violations, failures, unmet needs, accountability |
+| **Judgment** | Identify what must be addressed (backward-looking) | What must be addressed? What went wrong? Who is accountable? | Assessment of violations, failures, unmet needs, accountability |
 | **Decision** | Choose how to resolve it (forward-looking) | How do we resolve the conflict we mapped? | L.E.R / B.U.S / A.C.T tests applied to proposed solutions |
 | **Action** | Implement the resolution (execution) | How do we put the resolution into practice? | Concrete steps, responsibilities, timelines, follow-up |
 
