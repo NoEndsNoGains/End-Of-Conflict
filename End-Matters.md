@@ -2,7 +2,7 @@ All wrong - I don't even know what I want to say any more just that I am tired.
 
 Chapter 9: Hope
 
-I think there are two options of why you're reading this book:
+regardwlas who yiu are there ia onw think unites u- you reached out up to here as for whatever reason you needed it - you hooe to get a bit closer to how to reaolvw tje conflucts that cant be resolved I think there are two options of why you're reading this book:
 
 Option A: You believe that there is still hope - hope to do something about this - this meaning this complex, layered, prolonged, unsolvable conflict.
 Option B: You're looking for another proof that there is no point and there is no hope - no framework, however good, can solve these types of conflicts.
