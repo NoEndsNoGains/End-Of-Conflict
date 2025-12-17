@@ -1,18 +1,9 @@
-# End of Conflict: A Five-Stage Framework for Resolving the Unresolvable
+# End of Conflict
 
-A systematic framework that transforms intractable conflicts into solvable problems by separating what happened from what to do about it.
-
-Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people instead of consequences, we confuse the verdict with the sentence, and we talk without acting. This book offers a five-stage diagnostic framework—Map, Reality, Judgment, Decision, Action—that forces the precision conflicts demand but emotions prevent.
-
-Simple. Straightforward. Practical. And yet, a framework that still manages to turn everything on its head.
-
-We learn that underneath the five stages lies an engine room: a Truth Tester that reveals we can only resolve what we capture—but what we capture is always imperfect, unwhole, and surrounded by the shaped silence of what wasn't; a Living Research Protocol that breaks every claim on purpose, because transformation happens through breaking ("I thought X, actually Y")—making the framework and each of its claims not only unfinished but continuously changing; and an Immunity Paradox that reveals why we fail at three levels—mapping symptoms instead of triggers, responding with blunt instruments, and forgetting everything the moment the ceasefire is signed.
-
-The framework doesn't promise magic. It promises the best of what's possible—and shows you exactly where that boundary lies.
+## Notes to Self
 
 
-
-## TABLE OF CONTENTS
+## UPDATED TABLE OF CONTENTS
 
 **PART 1: OVERVIEW**
 - Cheat Sheet (1-2 pages — the framework at a glance)
@@ -22,7 +13,7 @@ The framework doesn't promise magic. It promises the best of what's possible—a
 - 1.4 The Five Stages (summary table)
 - 1.5 The Chain (Case → Cause → Effect → Cure → Recovery)
 - 1.6 The Three Consequences (Violated, Concealed, Ignored)
-- 1.7 Why Consequences Not People (Verdict vs Sentence) 
+- 1.7 Why Consequences Not People (Verdict vs Sentence) ← **MOVED HERE**
 - 1.8 Why This Works
 - 1.9 The Final Test
 - 1.10 The Value Function
@@ -48,9 +39,9 @@ The framework doesn't promise magic. It promises the best of what's possible—a
 - 4.1 How to stress test the framework
 - 4.2 Competing Legitimate Goods
 - 4.3 Latent and Future Conflict
-- 4.4 The Bad Actor 
-- 4.5 The Asymmetry of Power
-- 4.6 The Irreversible Past
+- 4.4 The Bad Actor ← **NEW**
+- 4.5 The Asymmetry of Power ← **NEW**
+- 4.6 The Irreversible Past ← **NEW**
 
 **PART 5: DEEP DIVE**
 - 5.1 Living Research Protocol — HOW we investigate
