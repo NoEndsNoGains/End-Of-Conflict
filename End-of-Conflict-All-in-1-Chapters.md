@@ -1016,7 +1016,7 @@ Finally Each Stage must logicallly connect to the next: e.g. We drew a Map in st
 ## Stage 2 TRUTH
 
 
-## Stage 2: TRUTH
+## Stage 2: REALITY
 
 
 Question: What standards of evidence should apply in Reality? How do we handle conflicting testimony where both parties claim different things happened?
