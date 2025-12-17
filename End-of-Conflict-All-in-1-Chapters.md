@@ -6,7 +6,7 @@
 
 ## A Five-Stage Framework for Resolving the Unresolvable
 
-Why
+Or Why we are like the betta fish
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b8e02e7-1d42-463e-ad8e-224df2bc14d9" />
 
