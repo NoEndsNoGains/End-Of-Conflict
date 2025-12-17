@@ -24,18 +24,15 @@
 
 _Summary (Back Cover):_
 
-A systematic framework that transforms intractable conflicts into solvable problems by separating what happened from what to do about it.
-
-Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people instead of consequences, we confuse the verdict with the sentence, and we talk without acting. This book offers a five-stage diagnostic framework—Map, Reality, Judgment, Decision, Action—that forces the precision conflicts demand but emotions prevent.
-
-Simple. Straightforward. Practical. Picture- based. Tables. Definitions. Checklists. "What to do." "Why." "Fill in."
-The framework is about devastating, stuck, hopeless conflict. The writing reads like a compliance manual.
-
-And yet, a framework that still manages to turn everything on its head. A book that goes on a deep dive of what is obvious and never talked about. 
-
-We learn that underneath the five stages lies an engine room: a Truth Tester that reveals we can only resolve what we capture—but what we capture is always imperfect, unwhole, and surrounded by the shaped silence of what wasn't; a Living Research Protocol that breaks every claim on purpose, because transformation happens through breaking ("I thought X, actually Y")—making the framework and each of its claims not only unfinished but continuously changing; and an Immunity Paradox that reveals why we fail at three levels—mapping symptoms instead of triggers, responding with blunt instruments, and forgetting everything the moment the ceasefire is signed.
-
-The framework doesn't promise magic. It promises the best of what's possible—and shows you exactly where that boundary lies.
+A framework for hopeless conflict.
+Tables. Checklists. Fill-in templates. The precision of a workbook.
+And on every page: art. Images that land before words do. A book a child can flip through. A book an academic can cite.
+Most conflicts persist not because they're unsolvable — but because we skip the steps resolution requires. We don't name them clearly. We assume instead of verify. We judge people instead of consequences. We confuse the verdict with the sentence. We talk without acting.
+Five stages: Map it. See it. Judge it. Choose it. Do it.
+Underneath: an engine room. A Truth Tester that reveals we can only resolve what we capture — and what we capture is always incomplete. A Living Research Protocol that breaks every claim on purpose. An Immunity Paradox that explains why we keep failing: mapping symptoms instead of triggers, responding with blunt instruments, forgetting everything the moment the ceasefire is signed.
+Simple enough for 2am. Rigorous enough for court.
+A picture book with a workbook inside.
+It doesn't promise magic. It promises the best of what's possible — and shows you exactly where that boundary lies.
 
 
 _Prologue_
@@ -57,6 +54,8 @@ This book won't make you peaceful. Some conflicts are real. Some enemies aren't 
 But most of the time? We're attacking the mirror.
 
 This framework is how you check.
+
+Stop fighting the glass.
 
 ---
 
