@@ -1013,6 +1013,59 @@ Finally Each Stage must logicallly connect to the next: e.g. We drew a Map in st
 
 
 
+## Stage 2: REALITY
+
+
+Question: What standards of evidence should apply in Reality? How do we handle conflicting testimony where both parties claim different things happened?
+
+**What this stage is:** This is where you test reality. Stage 1 gave you the map — who is fighting and what they are fighting about. But a map is not truth. Each party has their version of events. Their version might be accurate, mistaken, or deliberately false. Before you can judge (Stage 3) or decide (Stage 4), you must know what actually happened.
+
+**Objective:** Establish what is true in each sub-conflict.
+
+**Why:** You cannot make good decisions without knowing what is real. This stage separates fact from claim, action from word, and surfaces where the two diverge.
+
+**Input:** The sub-conflicts identified in Stage 1.
+
+**Output:** For each sub-conflict — verified facts, detected inaccuracies, and candidate wants (what each party actually appears to want, based on evidence).
+
+**How to use:** Complete all four steps (CAPTURE → TEST → INFER → CHECK) for each sub-conflict identified in Stage 1. Work through one sub-conflict fully before moving to the next.
+
+---
+
+## The Structure
+
+For each sub-conflict from Stage 1, you do four moves:
+
+| Move | Action | Purpose |
+|------|--------|---------|
+| **1. CAPTURE** | Record what each party says vs what they do | Gather the raw data |
+| **2. TEST** | Check claims against evidence | Separate truth from distortion |
+| **3. INFER** | Hypothesise what each party actually wants | Surface hidden motives |
+| **4. CHECK** | Challenge your own analysis | Protect against your bias |
+
+---
+
+## 1. CAPTURE
+
+**What to do:** For each party in the sub-conflict, record two things — what they SAY and what they DO.
+
+**Why:** Truth hides in the gap between words and actions. You cannot see the gap until you lay them side by side.
+
+**Definitions:**
+
+| Element | Definition | Example |
+|---------|------------|---------|
+| **SAY** | What the party claims — about actions, facts, or reasons | "I didn't restrict contact" / "Adding you would expose my card details" |
+| **DO** | What the party actually did — observable actions | Imposed 8pm restriction / Refused to add to Family Sharing |
+
+**How:** Ask these questions:
+- What does this party claim they did?
+- What does this party claim is true (facts, explanations, reasons)?
+- What did this party actually do? (Observable, documentable actions)
+
+
+
+
 ## Stage 2 TRUTH
 
 
