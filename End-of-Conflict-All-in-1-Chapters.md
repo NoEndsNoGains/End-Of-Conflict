@@ -37,7 +37,7 @@ And yet, a framework that still manages to turn everything on its head. A book t
 
 We learn that underneath the five stages lies an engine room: a Truth Tester that reveals we can only resolve what we capture—but what we capture is always imperfect, unwhole, and surrounded by the shaped silence of what wasn't; a Living Research Protocol that breaks every claim on purpose, because transformation happens through breaking ("I thought X, actually Y")—making the framework and each of its claims not only unfinished but continuously changing; and an Immunity Paradox that reveals why we fail at three levels—mapping symptoms instead of triggers, responding with blunt instruments, and forgetting everything the moment the ceasefire is signed.
 
-The framework doesn't promise magic. It promises the best of what's possible—and shows you exactly where that boundary lies.You have a choice. The fish doesn't. You do.
+The framework doesn't promise magic. It promises the best of what's possible—and shows you exactly where that boundary lies.
 
 
 _Foreword_
