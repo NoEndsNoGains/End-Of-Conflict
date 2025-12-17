@@ -2,15 +2,8 @@
 
 ## Notes to Self
 
-1. 12.12.2025 I'm recording the quick note to myself because I understood that potentially this is a good idea for creating another book and another book which I might never write. The book about how to end the conflict could consist of the framework/time developing which consists of reality/judgement/decision and the truth tester and the truth tester which I did develop already. For now, I just want to record it so I don't forget. Maybe not that it ever worked, but maybe something will come out of it. 
-2. 16.12.2025 I'm overvewhelmed. As ususal, it feels like "no point". I wish at moment like this I would be purely like AI. No emotions to but focus on the work. Unfortunately I am not.
-3.17.12.2025, 05.45am - can't sleep. Everything feels pointless.
-4. 17.12.2025, 08.50am - got coffee. Kids will be back at 3.30pm - I have 6 hours - how much will I be able to achieve with this?
-Yes — Stress Testing is its own thing. It's not just examples, it's how you TEST the framework.
 
----
-
-## Revised Structure:
+## UPDATED TABLE OF CONTENTS
 
 **PART 1: OVERVIEW**
 - Cheat Sheet (1-2 pages — the framework at a glance)
@@ -18,11 +11,12 @@ Yes — Stress Testing is its own thing. It's not just examples, it's how you TE
 - 1.2 Core Principle
 - 1.3 The Journey
 - 1.4 The Five Stages (summary table)
-- 1.5 The Chain
-- 1.6 The Three Consequences
-- 1.7 Why This Works
-- 1.8 The Final Test
-- 1.9 The Value Function
+- 1.5 The Chain (Case → Cause → Effect → Cure → Recovery)
+- 1.6 The Three Consequences (Violated, Concealed, Ignored)
+- 1.7 Why Consequences Not People (Verdict vs Sentence) ← **MOVED HERE**
+- 1.8 Why This Works
+- 1.9 The Final Test
+- 1.10 The Value Function
 
 **PART 2: THE FRAMEWORK**
 - 2.1 Constraints
@@ -37,16 +31,17 @@ Yes — Stress Testing is its own thing. It's not just examples, it's how you TE
 
 **PART 3: THEORETICAL FOUNDATIONS**
 - 3.1 What this framework builds on
-- 3.2 Why consequences not people (Verdict vs Sentence)
-- 3.3 Why L.E.R / B.U.S / A.C.T (the three ethical traditions)
-- 3.4 The Mirror Check and the Golden Rule
-- 3.5 On Power
+- 3.2 Why L.E.R / B.U.S / A.C.T (the three ethical traditions)
+- 3.3 The Mirror Check and the Golden Rule
+- 3.4 On Power
 
 **PART 4: STRESS TESTING**
 - 4.1 How to stress test the framework
 - 4.2 Competing Legitimate Goods
 - 4.3 Latent and Future Conflict
-- 4.4 [Other stress tests?]
+- 4.4 The Bad Actor ← **NEW**
+- 4.5 The Asymmetry of Power ← **NEW**
+- 4.6 The Irreversible Past ← **NEW**
 
 **PART 5: DEEP DIVE**
 - 5.1 Living Research Protocol — HOW we investigate
@@ -55,19 +50,29 @@ Yes — Stress Testing is its own thing. It's not just examples, it's how you TE
 
 ---
 
-**The reader journey now:**
+## The Reader Journey (Updated)
 
-| Part | What reader gets | Reader question answered |
-|------|------------------|--------------------------|
-| **Overview** | The whole picture | "What is this?" |
-| **Framework** | The method | "How do I use it?" |
-| **Foundations** | The heritage | "Why these choices?" |
-| **Stress Testing** | The tests | "Does it actually work?" |
-| **Deep Dive** | The original theory | "What's underneath?" |
+| Part | What reader gets | Reader question answered | The "Hook" |
+|------|------------------|--------------------------|------------|
+| **Overview** | The whole picture | "What is this?" | "I can see the exit." |
+| **Framework** | The method | "How do I use it?" | "I am finally doing something right." |
+| **Foundations** | The heritage | "Why these choices?" | "This isn't just a list; it's a lineage." |
+| **Stress Testing** | The tests | "Does it actually work?" | "If it works for a war, it works for me." |
+| **Deep Dive** | The original theory | "What's underneath?" | "I see the world differently now." |
 
 ---
 
-Does this work?
+## New Stress Tests Explained:
+
+| Test | What it tests | The hard question |
+|------|---------------|-------------------|
+| **4.4 The Bad Actor** | Truth Tester, L.E.R filters | What if the other party is actively gaming the framework? |
+| **4.5 The Asymmetry of Power** | Structural vs Operational distinction | What if a child fights a parent, or a citizen fights a state? |
+| **4.6 The Irreversible Past** | The Gaps audit (Violated, Concealed, Ignored) | How do you apply Action when damage cannot be undone? |
+
+---
+
+Does this structure work? Ready for the Cheat Sheet?
 
 ## Constraints
 # End of Conflict
