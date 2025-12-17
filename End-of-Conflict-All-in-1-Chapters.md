@@ -5,7 +5,6 @@
 - [Front Matters](#Front-Matters)
 - [OVERVIEW](#OVERVIEW)
 - [FRAMEWORK](#FRAMEWORK)
-- [Stage 3 JUDGEMENT](#Stage-3-JUDGEMENT)
 - [Stage 4 DECISION](#Stage-4-DECISION)
 - [Stage 5 ACTION](#Stage-5-ACTION)
 - [End Matters](#end-matters)
@@ -1525,57 +1524,6 @@ Stage 4 (Decision) asks: Given what went wrong and who is accountable, how do we
 JUDGMENT is backward-looking (what happened). DECISION is forward-looking (what to do).
 
 
-
-
-## Stage 3 JUDGEMENT
-
-Stage 3: JUDGMENT
-JUDGMENT identifies what must be addressed before you can move to resolution.
-What must end.
-What this stage is: This is where you evaluate what went wrong. Stage 2 (Truth) established what actually happened and what each party needs. But knowing what is true is not the same as knowing what failed, who is accountable, and what must be addressed before resolution is possible.
-Objective: Identify what went wrong and what must be accounted for.
-Why: You cannot resolve a conflict without understanding what caused it. This stage traces the gap between what should have happened and what did happen — whether through deception, concealment, neglect, mistakes, or miscommunication.
-Input: The verified truth from Stage 2 — facts, events, needs, and interests.
-Output: Assessment of violations, failures, unmet needs, and accountability.
-Type: Evaluative (backward-looking)
-Question: What went wrong? What must be addressed? Who is accountable?
-
-
-GapWhat it judgesWrongWhat was violated (rules, agreements, trust)HiddenWhat was concealed (facts, motives, truth)MissedWhat was ignored (needs, fears, wants — both legitimate unmet needs AND misaligned wants)
-
-What JUDGMENT Evaluates
-JUDGMENT identifies the gap between truth and what was presented, acted upon, or suppressed:
-CategoryQuestionDeceptionWhat was lied about?ConcealmentWhat was hidden?NeglectWhat needs were ignored or dismissed?MistakesWhat errors were made?MiscommunicationWhat was misunderstood or poorly communicated?AccountabilityWho bears responsibility, and for what?
-
-The Evaluation Process
-For each sub-conflict, ask:
-
-What should have happened? (Based on rules, agreements, reasonable expectations)
-What actually happened? (Established in Stage 2)
-Where is the gap?
-What caused the gap? (Deception / Concealment / Neglect / Mistakes / Miscommunication)
-Who is responsible?
-What must be addressed before resolution is possible?
-
-
-JUDGMENT — Fill in (per sub-conflict):
-Sub-conflictWhat should have happenedWhat actually happenedThe gapCauseWho is responsibleWhat must be addressed
-
-Stage 3 Output
-At the end of Stage 3, you have:
-
-✓ Violations identified (deception, concealment)
-✓ Failures identified (neglect, mistakes, miscommunication)
-✓ Unmet needs identified
-✓ Accountability assigned (who is responsible for what)
-✓ What must be addressed before resolution is possible
-
-
-The Link to Stage 4
-Stage 3 tells you what went wrong — the violations, failures, and accountability.
-But knowing what went wrong is not the same as knowing how to fix it.
-Stage 4 (Decision) asks: Given what went wrong and who is accountable, how do we resolve the conflict we mapped in Stage 1?
-JUDGMENT is backward-looking (what happened). DECISION is forward-looking (what to do).
 
 
 ## Stage 4 DECISION
