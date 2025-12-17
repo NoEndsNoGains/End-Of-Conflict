@@ -4,7 +4,7 @@
 
 - [Front Matters](#Front-Matters)
 - [OVERVIEW](#OVERVIEW)
-- [Stage 1 MAP](#Stage-1-MAP)
+- [FRAMEWORK](#FRAMEWORK)
 - [Stage 2 TRUTH](#Stage-2-TRUTH)
 - [Stage 3 JUDGEMENT](#Stage-3-JUDGEMENT)
 - [Stage 4 DECISION](#Stage-4-DECISION)
@@ -711,7 +711,7 @@ The framework acknowledges that actors may strategically misrepresent costs, exa
 Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
 
 
-## Stage 1 MAP
+## FRAMEWORK
 
 ## 3. Stage 1: MAP
 
