@@ -3,9 +3,9 @@ name: Combine Chapters
 on:
   push:
     paths:
-      - '*.md'                      # Any markdown file in root
+      - '*.md'                         # Any markdown file in root
       - '.github/workflows/combine-chapters.yml'
-  workflow_dispatch:              # Allow manual trigger
+  workflow_dispatch:                   # Allow manual trigger
 
 jobs:
   combine:
@@ -21,9 +21,17 @@ jobs:
         run: |
           OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
           BOOK_TITLE="End of Conflict"
-          END_MATTERS_FILE="9.End-Matters.md"
-          END_MATTERS_ANCHOR="end-matters"
-          END_MATTERS_TITLE="End Matters"
+
+          # Fixed order of chapters (no longer relying on numbered prefixes)
+          chapters=(
+            "Front-Matters.md"
+            "OVERVIEW.md"
+            "FRAMEWORK.md"
+            "THEORETICAL-FOUNDATIONS.md"
+            "STRESS-TESTING.md"
+            "DEEP-DIVE.md"
+            "End-Matters.md"
+          )
 
           # Start fresh
           > "$OUTPUT"
@@ -33,59 +41,35 @@ jobs:
           echo "## Table of Contents" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
-          # Find all files like "number.something.md" in root, sorted numerically
-          chapters=($(ls [0-9]*.md 2>/dev/null | sort -V))
-
-          if [ ${#chapters[@]} -eq 0 ]; then
-            echo "No chapter files found!" >> "$OUTPUT"
-          fi
-
           toc_lines=()
 
           for file in "${chapters[@]}"; do
-            # Skip the End-Matters file if it's in the list (it starts with 9.)
-            if [[ "$file" == "$END_MATTERS_FILE" ]]; then
+            # Skip if file doesn't exist
+            if [ ! -f "$file" ]; then
+              echo "*Warning: Missing file $file*" >> "$OUTPUT"
               continue
             fi
 
-            # Extract number and title part
-            if [[ "$file" =~ ^([0-9]+)\.(.*)\.md$ ]]; then
-              number="${BASH_REMATCH[1]}"
-              title_part="${BASH_REMATCH[2]}"
-              # Convert kebab-case and underscores to Title Case
-              clean_title=$(echo "$title_part" | tr '-' ' ' | tr '_' ' ' | sed 's/\b\w/\u&/g')
-              chapter_title="$clean_title"
+            # Generate clean title and anchor from filename
+            # Remove .md extension
+            basename="${file%.md}"
+            # Convert kebab-case and underscores to Title Case
+            clean_title=$(echo "$basename" | tr '-' ' ' | tr '_' ' ' | sed 's/\b\w/\u&/g')
+            # Create anchor: lowercase, replace spaces with hyphens
+            anchor=$(echo "$basename" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 
-              # Add to TOC
-              toc_lines+=("- [$chapter_title](#$title_part)")
+            # Add to TOC
+            toc_lines+=("- [$clean_title](#$anchor)")
 
-              # Add section header
-              echo "" >> "$OUTPUT"
-              echo "## $chapter_title" >> "$OUTPUT"
-              echo "" >> "$OUTPUT"
+            # Add chapter header
+            echo "" >> "$OUTPUT"
+            echo "## $clean_title" >> "$OUTPUT"
+            echo "" >> "$OUTPUT"
 
-              # Append file content
-              if [ -f "$file" ]; then
-                cat "$file" >> "$OUTPUT"
-              else
-                echo "*Warning: Missing file $file*" >> "$OUTPUT"
-              fi
-              echo "" >> "$OUTPUT"
-            fi
+            # Append file content
+            cat "$file" >> "$OUTPUT"
+            echo "" >> "$OUTPUT"
           done
-
-          # Add End-Matters as the last section (if it exists)
-          if [ -f "$END_MATTERS_FILE" ]; then
-            toc_lines+=("- [$END_MATTERS_TITLE](#$END_MATTERS_ANCHOR)")
-
-            echo "" >> "$OUTPUT"
-            echo "## $END_MATTERS_TITLE" >> "$OUTPUT"
-            echo "" >> "$OUTPUT"
-            cat "$END_MATTERS_FILE" >> "$OUTPUT"
-            echo "" >> "$OUTPUT"
-          else
-            echo "*Warning: Missing $END_MATTERS_FILE*" >> "$OUTPUT"
-          fi
 
           # Rebuild file with full TOC inserted
           {
@@ -97,7 +81,7 @@ jobs:
             echo ""
             echo "---"
             echo ""
-            # Skip the initial placeholder lines (title + TOC header + 2 empties)
+            # Everything after the initial placeholder TOC
             tail -n +5 "$OUTPUT"
           } > "$OUTPUT.tmp" && mv "$OUTPUT.tmp" "$OUTPUT"
 
