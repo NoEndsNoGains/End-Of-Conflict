@@ -27,7 +27,7 @@ jobs:
           echo "# End of Conflict" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
-          echo "## Notes to Self" >> "$OUTPUT"
+          echo "## Front Matters" >> "$OUTPUT"
           cat "1.Front-Matters.md" >> "$OUTPUT" || echo "ERROR: Missing 1.Front-Matters.md" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
