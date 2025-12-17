@@ -10,7 +10,7 @@
 - [Stage 4 DECISION](#Stage-4-DECISION)
 - [Stage 5 ACTION](#Stage-5-ACTION)
 - [The Immunity Paradox](#The-Immunity-Paradox)
-- [Hope](#Hope)
+- [End Matters](#End-Matters)
 
 ---
 
@@ -2568,7 +2568,7 @@ This philosophy emerged through using LRP on itself - specifically, stress testi
 *This philosophy document applies LRP to itself - updates follow same operations as research.*
 
 
-## Hope
+## End Matters
 
 All wrong - I don't even know what I want to say any more just that I am tired. 
 
