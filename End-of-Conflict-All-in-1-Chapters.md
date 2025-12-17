@@ -2,7 +2,7 @@
 
 ## Notes to Self
 
-# End of Conflict
+# No End of Conflict
 
 ## A Five-Stage Framework for Resolving the Unresolvable
 
