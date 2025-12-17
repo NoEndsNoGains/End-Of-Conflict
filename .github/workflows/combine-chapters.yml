@@ -3,9 +3,9 @@ name: Combine Chapters
 on:
   push:
     paths:
-      - '*.md'  # Trigger on any .md change in root
+      - '*.md'                      # Any markdown file in root
       - '.github/workflows/combine-chapters.yml'
-  workflow_dispatch:  # Allows manual run
+  workflow_dispatch:              # Allow manual trigger
 
 jobs:
   combine:
@@ -17,50 +17,73 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Combine Markdown files
+      - name: Combine Markdown chapters
         run: |
           OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
+          BOOK_TITLE="End of Conflict"
 
-          # Clear/create the output file
+          # Start fresh
           > "$OUTPUT"
 
-          echo "# End of Conflict" >> "$OUTPUT"
+          echo "# $BOOK_TITLE" >> "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          echo "## Table of Contents" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
-          echo "## Front Matters" >> "$OUTPUT"
-          cat "1.Front-Matters.md" >> "$OUTPUT" || echo "ERROR: Missing 1.Front-Matters.md" >> "$OUTPUT"
-          echo "" >> "$OUTPUT"
+          # Find all files like "number.something.md" in root, sorted numerically
+          chapters=($(ls [0-9]*.md 2>/dev/null | sort -V))
 
-          echo "## Constraints" >> "$OUTPUT"
-          cat "2.Constraints.md" >> "$OUTPUT" || echo "ERROR: Missing 2.Constraints.md" >> "$OUTPUT"
-          echo "" >> "$OUTPUT"
+          if [ ${#chapters[@]} -eq 0 ]; then
+            echo "No chapter files found!" >> "$OUTPUT"
+            exit 0
+          fi
 
-          echo "## Stage 1: MAP" >> "$OUTPUT"
-          cat "3.Stage-1-MAP.md" >> "$OUTPUT" || echo "ERROR: Missing 3.Stage-1-MAP.md" >> "$OUTPUT"
-          echo "" >> "$OUTPUT"
+          toc_lines=()
 
-          echo "## Stage 2: TRUTH" >> "$OUTPUT"
-          cat "4.Stage-2-TRUTH.md" >> "$OUTPUT" || echo "ERROR: Missing 4.Stage-2-TRUTH.md" >> "$OUTPUT"
-          echo "" >> "$OUTPUT"
+          for file in "${chapters[@]}"; do
+            # Extract number and title part
+            if [[ "$file" =~ ^([0-9]+)\.(.*)\.md$ ]]; then
+              number="${BASH_REMATCH[1]}"
+              title_part="${BASH_REMATCH[2]}"
+              # Convert kebab-case and underscores to Title Case
+              clean_title=$(echo "$title_part" | tr '-' ' ' | tr '_' ' ' | sed 's/\b\w/\u&/g')
+              chapter_title="$clean_title"
 
-          echo "## Stage 3: JUDGEMENT" >> "$OUTPUT"
-          cat "5.Stage-3-JUDGEMENT.md" >> "$OUTPUT" || echo "ERROR: Missing 5.Stage-3-JUDGEMENT.md" >> "$OUTPUT"
-          echo "" >> "$OUTPUT"
+              # Add to TOC
+              toc_lines+=("- [$chapter_title](#$title_part)")
 
-          echo "## Stage 4: DECISION" >> "$OUTPUT"
-          cat "6.Stage-4-DECISION.md" >> "$OUTPUT" || echo "ERROR: Missing 6.Stage-4-DECISION.md" >> "$OUTPUT"
-          echo "" >> "$OUTPUT"
+              # Add section header
+              echo "" >> "$OUTPUT"
+              echo "## $chapter_title" >> "$OUTPUT"
+              echo "" >> "$OUTPUT"
 
-          echo "## Stage 5: ACTION" >> "$OUTPUT"
-          cat "7.Stage-5-ACTION.md" >> "$OUTPUT" || echo "ERROR: Missing 7.Stage-5-ACTION.md" >> "$OUTPUT"
-          echo "" >> "$OUTPUT"
+              # Append file content if it exists
+              if [ -f "$file" ]; then
+                cat "$file" >> "$OUTPUT"
+              else
+                echo "*Warning: Missing file $file*" >> "$OUTPUT"
+              fi
+              echo "" >> "$OUTPUT"
+            fi
+          done
 
-          echo "## The Immunity Paradox: Why This Framework Will Fail" >> "$OUTPUT"
-          cat "8.The-Immunity-Paradox.md" >> "$OUTPUT" || echo "ERROR: Missing 8.The-Immunity-Paradox.md" >> "$OUTPUT"
+          # Insert TOC after title (after collecting all titles)
+          {
+            echo "# $BOOK_TITLE"
+            echo ""
+            echo "## Table of Contents"
+            echo ""
+            printf "%s\n" "${toc_lines[@]}"
+            echo ""
+            echo "---"
+            echo ""
+            # Then the rest of the file (from after TOC placeholder)
+            tail -n +7 "$OUTPUT"
+          } > "$OUTPUT.tmp" && mv "$OUTPUT.tmp" "$OUTPUT"
 
-          echo "Combined file created: $OUTPUT"
+          echo "Combined file created: $OUTPUT with ${#chapters[@]} chapters."
 
-      - name: Commit and push if changed
+      - name: Commit and push if combined file changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -68,10 +91,10 @@ jobs:
           OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
 
           if git diff --quiet --exit-code -- "$OUTPUT"; then
-            echo "No changes detected — nothing to commit"
+            echo "No changes in combined file — nothing to commit."
           else
-            echo "Changes detected — committing and pushing"
+            echo "Changes detected in combined file — committing."
             git add "$OUTPUT"
-            git commit -m "Auto-update combined chapters"
+            git commit -m "Auto-update: Rebuild combined chapters"
             git push
           fi
