@@ -291,27 +291,9 @@ This is the second kind.
 The market for conflict resolution is growing. The books that exist assume good faith, focus on communication, and offer no diagnostic framework. This book is different — and different spreads, even without a megaphone.
 
 
-_Prologue_
+#Prologue_ / This is so much fun
 
-**Beautiful, Dramatic, Tragic**
 
-We, you, I—aren't we all like that? All at once?
-
-A bit like the betta fish.
-
-Stunning creature. Iridescent. Fins like silk. Put a mirror in the tank and it attacks. Flares and exhausts itself against an enemy that isn't there. It's fighting a projection. Not reality.
-
-It can do this until it dies.
-
-In conflict, we're betta fish. Fighting our own reflection. Exhausting ourselves against glass.
-
-This book won't make you peaceful. Some conflicts are real. Some enemies aren't reflections.
-
-But most of the time? We're attacking the mirror.
-
-This framework is how you check.
-
-Stop fighting the glass.
 
 ---
 
@@ -320,7 +302,7 @@ Stop fighting the glass.
 
 - Title Page
 - Summary
-- Foreward
+- This is so much fun.
 
 **PART 1: OVERVIEW**
 - End of Conflict Cheat Sheet
