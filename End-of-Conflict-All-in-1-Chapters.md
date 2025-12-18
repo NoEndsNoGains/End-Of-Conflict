@@ -19,6 +19,8 @@
 
 ## A Five-Stage Framework to End Hopeless Conflict
 
+You're Full of Shit: Five Steps to Shut Up and End the Fight
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b8e02e7-1d42-463e-ad8e-224df2bc14d9" />
 
 ---
