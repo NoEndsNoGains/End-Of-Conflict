@@ -711,6 +711,23 @@ The framework doesn't promise magic. It promises the best of what's possible—a
 
 *[PLACEHOLDER: Visual one-page summary of the entire framework - the five stages, the core principle, the three consequences, and key tests. To be designed as a reference page readers can return to.]*
 
+# Key Terms
+
+| Term | What it means |
+| --- | --- |
+| Betta fish | Fighting your own reflection without knowing it |
+| Truth Tester | Tool that reveals gaps between what you believe and what you can prove |
+| Living Research Protocol | Method that breaks your own claims on purpose — keeps understanding alive |
+| Immunity Paradox | Why the same defences that protect you also keep you stuck |
+| V.C.I | Violated, Concealed, Ignored — consequences to judge before blaming people |
+| L.E.R | Legal, Ethical, Relational — the "Is it right?" test |
+| B.U.S | Beneficial, Unintended consequences, Sustainable — the "Is it wise?" test |
+| A.C.T | Achievable, Clear, Timely — the "Can it be done?" test |
+| Micro-agency | The small territory you actually control — your perception, reactions, stories |
+| Macro-responsibility | Who's responsible for changing systems — distributed by power |
+| Protective self-deception | The bullshit you need to survive |
+| Defensive self-deception | The bullshit that keeps the conflict going |
+
 ---
 
 ## 1.1 What is this?
