@@ -67,40 +67,24 @@ And with that, a surprise. A hope inside no hope. A leverage point — no more g
 
 ---
 
-## Why now?
+## BOOK PROPOSAL INFO (NOT COVERED ANYWHERE ELSE)
+
+### Why now?
 
 We are drowning in conflict we cannot resolve.
 Families fracturing through courts that promise justice and deliver exhaustion. Institutions bleeding trust. Democracies splitting into tribes that no longer share facts. Conflicts where parties don't agree on what happened. Where information is weaponised. Where good faith is bad faith. Where shared facts are _mine vs yours_. Where systems meant to resolve disputes instead perpetuate them. Where a mutual desire to stop fighting is you being the only one caring about doing right — not being right.
 That's a different game. A game that needs its own framework.
 This book is that framework.
 
-
-**What's actually unique:** - Add to Cheat-Sheet
-
-| Contribution | What's new |
-|--------------|------------|
-| The betta fish diagnosis | Most conflict is against projections, not enemies |
-| The five End of Conflict stages | A sequence that forces precision: Map → See → Judge → Choose → Do |
-| Consequences before people | Judge what is Violated, Concealed, Ignored — before assigning blame |
-| The three decision-making tests | L.E.R (Right), B.U.S (Wise), A.C.T (Doable) — philosophy made practical |
-| The engine underneath | Truth Tester (the gaps between what you think and what you can prove), Living Research Protocol (breaks your story so reality can update it), Immunity Paradox (why you keep failing even when you're trying)  |
-| The format | Picture book meets Workbook. Art and checklists. Child and academic. |
-| The honesty & Rawness| Shows you where resolution is impossible, not just hard |
-
-
-## What can this book achieve?
-
 ### What the book CAN do:
 
-| For whom | Impact |
-|----------|--------|
-| The person at 2am | A framework to hold when everything feels chaotic. A way to see clearly when emotions won't let you. |
-| The parent in court | Language for what's happening. A tool to prepare, document, think. |
-| The professional (mediator, lawyer, therapist) | Something to give clients. A shared structure. A way to say "let's map this first." |
-| The reader who gives up | Permission to stop. The Epilogue says: even "no hope" is a wall you built. That's enough. |
-| The academic | A synthesis. Testable claims. The engine room to critique or build on. |
+- **The 2am reader:** A framework to hold when everything feels chaotic.
+- **The parent in court:** Language for what's happening. A tool to prepare, document, think.
+- **The professional:** Something to give clients. A shared structure.
+- **The one who gives up:** Permission to stop. Even "no hope" is a wall you built.
+- **The academic:** A synthesis. Testable claims. An engine room to critique. A framework to put conflicts through.
 
-### What the book CANNOT do:
+### What This Book Cannot Do
 
 - Make a bad actor cooperate
 - Fix power imbalances
@@ -108,114 +92,51 @@ This book is that framework.
 - Work without effort
 - Promise resolution when resolution isn't possible
 
-### Honest impact:
+### Measurable Difference
 
-Most books sell few copies.
-Some become tools. "Betta fish" becomes shorthand. A mediator asks: "Is that an enemy — or glass?"
-One person uses it. Passes it on.
-That's most realistic impact this book can produce.
+**Before the framework:**
+- Reacting emotionally to every provocation
+- Confusing what happened with what to do about it
+- Feeling stuck with no way forward
+- Blaming people, not problems
+- Exhausting yourself fighting glass
 
+**After the framework:**
+- Pausing to map before responding
+- Separating reality from decision
+- Five stages to work through — progress visible on paper
+- Naming what's Violated, Concealed, Ignored
+- Knowing which conflicts are real, which are projection
 
-## Measurable difference
+---
 
-### For readers:
+### What Success Sounds Like
 
-| Before | After | Measurable change |
-|--------|-------|-------------------|
-| Reacting emotionally to every provocation | Pausing to map before responding | Fewer escalations. Documented in journal or correspondence. |
-| Confusing what happened with what to do about it | Separating Reality from Decision | Clearer court statements. Less rambling. |
-| Feeling stuck with no way forward | Five stages to work through | Completion of each stage = progress visible on paper. |
-| Blaming the person, not the problem | Naming Violated, Concealed, Ignored | Language shifts from "he's evil" to "trust was broken." |
-| Exhausting themselves fighting glass | Checking: mirror or enemy? | Able to name which conflicts are real, which are projection. |
+- **A parent:** "I finally understood what I was actually fighting about."
+- **A mediator:** "I gave them the book. They came back with a map."
+- **A therapist:** "The framework externalised the conflict. We could work with it."
+- **An academic:** "The Immunity Paradox is testable. I'm designing a study."
+- **A reader:** "I stopped. The Epilogue gave me permission."
+  
+## Tracking Impact
 
-### For organisations:
+The honest answer: there are many metrics that could matter. Many things that could be tracked.
 
-| Before | After | Measurable change |
-|--------|-------|-------------------|
-| Disputes escalate to HR or legal | Teams map conflict first | Fewer formal complaints. Earlier resolution. |
-| Meetings rehash the same fights | Framework identifies Structural vs Operational | Time saved. Root cause addressed. |
-| Blame culture | Consequences-before-people approach | Language shifts. Accountability without vilification. |
+But what's most important is that the framework is used. Tested. Broken.
 
-**Concrete example — organisation:**
-A team in conflict uses the framework in a facilitated session. They discover the surface dispute (operational) masks a structural question: who has authority to decide? Resolving the structural issue stops the recurring fights. Meeting time drops. Turnover decreases.
+### What matters:
 
-### For communities:
+A failure library. Real conflicts put through the framework. Where it worked. Where it didn't. Where it broke completely. That's the valuable data I am interested in (not even so much for myself but for others).
 
-| Before | After | Measurable change |
-|--------|-------|-------------------|
-| Polarised groups talking past each other | Shared framework for mapping disagreement | Common language. Possibility of dialogue. |
-| Mediators improvising | Consistent five-stage structure | Training standardised. Outcomes comparable. |
-| Courts overwhelmed with intractable disputes | Parties arrive with mapped conflicts | Faster hearings. Clearer issues. Less court time. |
+### What I'm not offering:
 
-**Concrete example — community:**
-A mediation service adopts the framework. Mediators report clients arrive better prepared. Average sessions drop from 4 to 3. Resolution rates increase by 15%. "Betta fish" becomes shorthand: "Are you sure that's an enemy?"
+Empire.
 
-### What success looks like:
+I'll write it. I'll put it out. I'll invite people to break it.
 
-- A parent says: "I finally understood what I was actually fighting about."
-- A mediator says: "I gave them the book. They came back with a map."
-- A therapist says: "The framework externalised the conflict. We could work with it."
-- An academic says: "The Immunity Paradox is testable. I'm designing a study."
-- A reader says: "I stopped. The Epilogue gave me permission."
+But I'm not interested in building a business around this framework. If an institution, a research group, or a practitioner network wants to adopt it, test it, scale it — good. That's what it's for.
 
-```markdown
-## Tracking impact
-
-### Built into the book:
-
-| Tool | Purpose | How it tracks |
-|------|---------|---------------|
-| QR code to online workbook | Readers can complete stages digitally | Tracks number of users, completion rates |
-| "Share your map" invitation | Readers submit anonymised examples | Collects real-world applications |
-| Email list signup | Updates, case studies, refined tools | Measures engaged readership |
-| Feedback form at book's end | Simple: "Did this help? How?" | Qualitative data from readers |
-
-### Online companion:
-
-| Resource | What it offers | What it tracks |
-|----------|----------------|----------------|
-| Downloadable templates | MAP, REALITY, JUDGMENT worksheets | Download counts |
-| Case study library | Anonymised examples from readers | Submissions over time |
-| Discussion space | Readers share what worked, what didn't | Engagement, recurring questions |
-| "Betta fish check" quiz | Quick self-assessment: mirror or enemy? | Completions, shares |
-
-### Professional feedback loops:
-
-| Channel | How it works |
-|---------|--------------|
-| Mediator pilot programme | 10 mediators use framework for 6 months. Report outcomes. |
-| Therapist feedback group | Practitioners share how clients respond. What lands, what doesn't. |
-| Academic collaboration | Researchers invited to test claims. Immunity Paradox, Truth Tester — falsifiable. |
-
-### Metrics I'll track:
-
-| Metric | What it measures |
-|--------|------------------|
-| Book sales | Reach |
-| Template downloads | Active use |
-| Case study submissions | Real-world application |
-| Professional adoption | Mediators, lawyers, therapists using it |
-| Citation / academic engagement | Intellectual impact |
-| Reader stories | Qualitative change |
-
-### Reporting:
-
-- **Annual impact report** — published on website. Numbers + stories.
-- **Case study updates** — new examples added to online library.
-- **Revised editions** — informed by what readers report works (and what doesn't).
-
-### What I want to hear:
-
-> "I mapped my conflict. Here's what happened."
-
-> "I gave this to a client. Here's what changed."
-
-> "I used it in court. Here's the outcome."
-
-> "I stopped fighting. The Epilogue was enough."
-
-That's the data that matters.
-```
+The framework is the contribution. Owning it was never the point.
 
 ## About the author
 
@@ -225,16 +146,14 @@ That's the data that matters.
 Senior Lecturer in Organisational Behaviour, University of the West of England (UWE Bristol)
 
 **Academic credentials:**
-PhD in [your field]
+PhD in Leadership (University of Reading)
 
 **Teaching:**
+Among many: 
 - Organisational culture and change management
-- [Other relevant courses]
-
-**Research focus:**
-- Systemic change in institutional settings
-- Transparency and accountability in institutional systems
-- Organisational learning and design failures
+- Team Enterpreneurship
+- Personal, Professional Development
+- Team Coaching
 
 ### Connection to this book:
 
@@ -251,28 +170,15 @@ The combination — academic rigour and personal stakes — is what makes this f
 ### Previously published works:
 
 This is my first book.
-
-I have published academic work including:
-- [Any journal articles, conference papers, reports — list if applicable]
-- [Teaching materials, case studies developed]
-
-### What I bring instead of a backlist:
-
-| Asset | Value |
-|-------|-------|
-| Academic platform | Access to students, practitioners, professional networks |
-| Teaching experience | Years of explaining complex ideas simply |
-| Professional associations | Connections to mediators, HR professionals, organisational consultants |
-| Lived expertise | The framework is battle-tested, not theoretical |
-| The Living Research Protocol | Original methodology — already published on GitHub, open for collaboration |
+I have published some academic work including but with limit so far focusing mainly on teaching. 
 
 ### Biography (short):
 
-[Your name] is a Senior Lecturer in Organisational Behaviour at the University of the West of England. She holds a PhD and specialises in systemic change, institutional design, and organisational learning. Her research examines how systems fail — and how they might be fixed. 
+A Senior Lecturer in Organisational Behaviour at the University of the West of England. She holds a PhD and specialises in leadership, systemic change, institutional design, and organisational learning. Her research examines how systems fail — and how they might be fixed. 
 
-This is her first book. It emerged from years of academic work and from navigating her own hopeless conflict. She wrote it for the person she was: exhausted, stuck, needing a tool that was both rigorous and human.
+This is her first book. It emerged from years of academic work and from navigating her own hopeless conflict.
 
-She lives in Somerset, United Kingdom with her family.
+She lives in Somerset, United Kingdom, with her family.
 
 
 ## Competitive titles
@@ -299,9 +205,9 @@ She lives in Somerset, United Kingdom with her family.
 | Professional associations | Relationships with mediators, HR professionals, organisational consultants through teaching and research |
 | The concept itself | "Betta fish" is memorable and shareable — designed to spread through word of mouth |
 
-### What I will do:
+### What I would like to do:
 
-- Assign the book in my courses
+- Change the book to an academic article as a co-laboration with other academics
 - Present at academic and professional conferences
 - Share with professional networks (mediators, family lawyers, HR)
 - Make templates and resources available online to drive discovery
@@ -309,33 +215,79 @@ She lives in Somerset, United Kingdom with her family.
 
 ### What I won't pretend:
 
-I am not a marketer. I don't have a social media following. I don't have an email list of 50,000 subscribers.
+I am not a marketer. I don't have a social media following. I don't have an email list of 1 nor 50,000 subscribers.
 
-I am an academic and a practitioner. I wrote this book because it needed to exist — for the person at 2am who has tried everything.
+I am an academic and a practitioner. I wrote this book because it needed to exist — for the person at 2am who has tried everything, i.e. me.
 
-I am looking for a publisher who believes in the book itself, and who can bring the marketing expertise I lack. I will show up. I will do the work. But I need a partner, not a platform to perform on.
+I am looking for a publisher who believes in the book itself, and who can bring the marketing expertise I don't have energy for. 
 
-### Why this book can still succeed:
+The hardest job will be to finish it. And the truth is I never finish anything. 
 
-Some books sell because of the author's reach.
-Some books sell because they fill a gap nothing else fills.
-
-This is the second kind.
-
-The market for conflict resolution is growing. The books that exist assume good faith, focus on communication, and offer no diagnostic framework. This book is different — and different spreads, even without a megaphone.
+How is that for a book publication pitch? 
 
 
-#Prologue_ / This is so much fun
 
-Here's the whole chapter, strengthened and polished:
+## TABLE OF CONTENTS
+
+- Title Page
+- Summary
+- This is so much fun.
+
+**PART 1: OVERVIEW**
+- End of Conflict Cheat Sheet
+- 1.1 What is this?
+- 1.2 Core Principle
+- 1.3 The Journey
+- 1.4 The Five Stages (summary table)
+- 1.5 The Chain (Case → Cause → Effect → Cure → Recovery)
+- 1.6 The Three Consequences (Violated, Concealed, Ignored)
+- 1.7 Why Consequences Not People (Verdict vs Sentence) 
+- 1.8 Why This Works
+- 1.9 The Final Test
+- 1.10 The Value Function
+- 1.11 Constraints
+- 1.12 Before You Begin: Locate Yourself
+
+**PART 2: THE FRAMEWORK**
+- 2.3 Stage 1: MAP
+- 2.4 Stage 2: REALITY
+- 2.5 Stage 3: JUDGMENT
+- 2.6 Stage 4: DECISION
+- 2.7 Stage 5: ACTION
+- 2.8 Key Clarifications
+- 2.9 Notes
+
+**PART 3: THEORETICAL FOUNDATIONS**
+- 3.1 The Foundations of MAP (what traditions inform boundary-setting, conflict mapping)
+- 3.2 The Foundations of REALITY (epistemology, truth-testing, evidence)
+- 3.3 The Foundations of JUDGMENT (ethics, L.E.R / B.U.S / A.C.T, the three consequences)
+- 3.4 The Foundations of DECISION (decision theory, the Mirror Check, Golden Rule)
+- 3.5 The Foundations of ACTION (implementation, change theory, power)
+
+**PART 4: STRESS TESTING**
+- 4.1 Why Break What You Just Built
+- 4.2 Three Scales
+Inside (the war in you)
+Between (the war between you and someone else)
+Beyond (the war in the world)
+- 4.3 The Five Tests
+No Villain (both sides are right)
+The Liar (one side is gaming it)
+The Weaker (power is unequal)
+The Broken (damage can't be undone)
+The Unborn (hasn't happened yet)
+
+**PART 5: DEEP DIVE**
+- 5.1 The Truth Tester — WHAT we can know
+- 5.2 Living Research Protocol — HOW we stay honest
+- 5.3 The Immunity Paradox — WHY we still fail
+
+**The EPILOGUE (Hope)**
 
 ---
 
-**You're Full of Shit**
-
-*Five Steps to Shut Up and End the Fight*
-
 ---
+PROLOGUE: THIS IS SO MUCH FUN - OR A CHAPTER THAT NOONE EVER READS
 
 **Why This Title?**
 
@@ -624,67 +576,6 @@ So if everything else fails, this book should at least be entertaining.
 ---
 
 ---
-
-
-## TABLE OF CONTENTS
-
-- Title Page
-- Summary
-- This is so much fun.
-
-**PART 1: OVERVIEW**
-- End of Conflict Cheat Sheet
-- 1.1 What is this?
-- 1.2 Core Principle
-- 1.3 The Journey
-- 1.4 The Five Stages (summary table)
-- 1.5 The Chain (Case → Cause → Effect → Cure → Recovery)
-- 1.6 The Three Consequences (Violated, Concealed, Ignored)
-- 1.7 Why Consequences Not People (Verdict vs Sentence) 
-- 1.8 Why This Works
-- 1.9 The Final Test
-- 1.10 The Value Function
-- 1.11 Constraints
-- 1.12 Before You Begin: Locate Yourself
-
-**PART 2: THE FRAMEWORK**
-- 2.3 Stage 1: MAP
-- 2.4 Stage 2: REALITY
-- 2.5 Stage 3: JUDGMENT
-- 2.6 Stage 4: DECISION
-- 2.7 Stage 5: ACTION
-- 2.8 Key Clarifications
-- 2.9 Notes
-
-**PART 3: THEORETICAL FOUNDATIONS**
-- 3.1 The Foundations of MAP (what traditions inform boundary-setting, conflict mapping)
-- 3.2 The Foundations of REALITY (epistemology, truth-testing, evidence)
-- 3.3 The Foundations of JUDGMENT (ethics, L.E.R / B.U.S / A.C.T, the three consequences)
-- 3.4 The Foundations of DECISION (decision theory, the Mirror Check, Golden Rule)
-- 3.5 The Foundations of ACTION (implementation, change theory, power)
-
-**PART 4: STRESS TESTING**
-- 4.1 Why Break What You Just Built
-- 4.2 Three Scales
-Inside (the war in you)
-Between (the war between you and someone else)
-Beyond (the war in the world)
-- 4.3 The Five Tests
-No Villain (both sides are right)
-The Liar (one side is gaming it)
-The Weaker (power is unequal)
-The Broken (damage can't be undone)
-The Unborn (hasn't happened yet)
-
-**PART 5: DEEP DIVE**
-- 5.1 The Truth Tester — WHAT we can know
-- 5.2 Living Research Protocol — HOW we stay honest
-- 5.3 The Immunity Paradox — WHY we still fail
-
-**The EPILOGUE (Hope)**
-
----
-
 
 
 ## OVERVIEW
