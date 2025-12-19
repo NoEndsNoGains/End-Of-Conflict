@@ -27,204 +27,49 @@
 
 ---
 
-You're full of shit. So am I. So is everyone touched by the conflict, whether they act or just watch.
+You're full of shit. So am I. So is everyone ever touched by conflict.
+But not all shit is the same. Some we create. Some gets put in us.
+Weapon or wound—in conflict, we all end up the same: full of it.
+And the moment we respond, we either sustain or we resolve. There is no neutral. There is no clean.
+Brutal? Yes. Uncomfortable? Yes.
+Especially if you're that child who didn't choose. Especially if you're that mother who lost her mind to grief. They didn't pick this. They don't deserve it. And still—chosen or not—the result is the same. Full of it. The shit is in you now.
+In our beautiful human nature, at first, we just get lost. It's too dark, too sticky, too confusing. Shocked, we're too blind to reason.
+This book is not for those who can't reason. That's not blame. That's not judgment. That is simply how it is.
+This book is for those who are able to reason. Because regardless of whether the shit was given or chosen—what you do with it is yours.
+And that is where the hard part starts.
+There are so many hard parts.
+How about the one where you realise the ones who didn't deserve it might have the biggest chance of ending it? How much wiser are you than those who harmed you? How can you expect that maturity from them? You can't. So it falls to you. Unfair? Yes. Unacceptable? Yes.
+How about the one on "the cleaner story"? Or "it's not my fault"? Or "it's pure genocide"?
+Or the one on "I'm not in the conflict—I'm selling the guns." Or "just processing the paperwork." Or "just following procedure." Or "I am here. They are there. Just paying my taxes." Just looking away. Just staying neutral. Just minding your own business.
+What—you're not in it?
+We think the glass separates us from the conflict. But there is no separation. The tank is bigger than you think. Two kinds of shit in the same water. And you're in it.
+You're so full of shit you can't see anything else. Like a fish that knows nothing but water.
+But in conflict, we are not any fish. We are betta fish. Stunning creatures—iridescent, fins like silk. Put a mirror in the tank and they attack.
+Who wants to see their own shit? No one.
+So they flare. Exhaust themselves protecting a story that feels so true, so just, so right. The betta fish fighting glass, believing they fight a real enemy—when it isn't even there. The enemy is not out there. It's in here. And the greatest enemy? The one in you who already knows what to do with the shit.
+Unacceptable? Yes.
 
-We all carry it. Few of us look at it.
+This book is not for the chosen one. This book is for the ready one. The one with reason. The one who knows: we all carry it. Few of us look at it.
+This book doesn't let anyone off. The 2am reader isn't just the parent in court. It's the solicitor who filed the documents. The judge who saw the pattern and didn't name it. The policy-maker who designed the system. The voter who tolerates it.
+The question isn't whether you're in it. It's how. What are you fighting? What are you sustaining? What story are you telling yourself about why your hands are clean?
 
 This book won't make you peaceful. It won't make you right. It might not even end your conflict.
-
-What it might do — if you stay with it — is help you see more clearly. Yourself. The others. The mess itself. And if you see more clearly, a path starts to unfold. Not the path. A path. A possibility of what could be.
-
-Most of us don't see clearly. We're like betta fish — stunning creatures, iridescent, fins like silk. Put a mirror in the tank and they attack. They flare and exhaust themselves against an enemy that isn't there. Fighting glass. Fighting a projection. Not reality.
-
-In conflict, we do the same. We fight our own reflection until we're exhausted. Sometimes until we die.
-
+What it might do—if you stay with it—is help you see more clearly. Yourself. The others. The mess itself. And if you see more clearly, a path starts to unfold. Not the path. A path. A possibility of what could be.
 The End of Conflict Framework is how you check your own sight.
-
 Five stages: Map it. See it. Judge it. Choose it. Do it.
-
 Tables. Checklists. Templates. The precision of a workbook. And then: art. Images that land before words do. A picture book a child can flip through. A book an academic can cite.
-
-The architecture underneath: a Truth Tester that reveals we can only resolve what we capture — and what we capture is always incomplete. A Living Protocol that breaks every claim on purpose. An Immunity Paradox that explains why we keep failing.
-
+The architecture underneath: a Truth Tester that reveals we can only resolve what we capture—and what we capture is always incomplete. A Living Protocol that breaks every claim on purpose. An Immunity Paradox that explains why we keep failing.
 Simple enough for 2am. Rigorous enough for court.
-
-Dense. Raw. Freezing cold in places. _Do this, then that._
-
-It's based on true events I'm not allowed to write about. Rooted in five years of court expertise — mainly losing, on repeat.
-
+Dense. Raw. Freezing cold in places. Do this, then that.
+It's based on true events I'm not allowed to write about. Rooted in five years of court expertise—mainly losing, on repeat.
 Pure magic, it's not. More like self-inflicted pain.
-
 The pain of doing what's unpleasant. What's difficult. What's honest. The pain of persisting when there's no point. Continuing when there's no hope.
-
-And it's scary. Because it asks you to do exactly that. Surgically. 
-
-And it's annoying. Because it claims this is the best of what's possible when everything seems impossible — showing you exactly where one ends and the other begins.
-
-And it is rewarding. But the reward is not peace nor a promise of harmony. It is a promise of  precision - a better sight. So you understand _why_. So you know _so what_. So you see _then what_.
-
-And with that, a surprise. A hope inside no hope. A leverage point — no more glass to fight for, only freedom to live for.
+And it's scary. Because it asks you to do exactly that. Surgically.
+And it's annoying. Because it claims this is the best of what's possible when everything seems impossible—showing you exactly where one ends and the other begins.
+And it is rewarding. But the reward is not peace nor a promise of harmony. It is a promise of precision—a better sight. So you understand why. So you know so what. So you see then what.
+And with that, a surprise. A hope inside no hope. A leverage point—no more glass to fight for, only freedom to live for.
 
 ---
-
-## BOOK PROPOSAL INFO (NOT COVERED ANYWHERE ELSE)
-
-### Why now?
-
-We are drowning in conflict we cannot resolve.
-Families fracturing through courts that promise justice and deliver exhaustion. Institutions bleeding trust. Democracies splitting into tribes that no longer share facts. Conflicts where parties don't agree on what happened. Where information is weaponised. Where good faith is bad faith. Where shared facts are _mine vs yours_. Where systems meant to resolve disputes instead perpetuate them. Where a mutual desire to stop fighting is you being the only one caring about doing right — not being right.
-That's a different game. A game that needs its own framework.
-This book is that framework.
-
-### What the book CAN do:
-
-- **The 2am reader:** A framework to hold when everything feels chaotic.
-- **The parent in court:** Language for what's happening. A tool to prepare, document, think.
-- **The professional:** Something to give clients. A shared structure.
-- **The one who gives up:** Permission to stop. Even "no hope" is a wall you built.
-- **The academic:** A synthesis. Testable claims. An engine room to critique. A framework to put conflicts through.
-
-### What This Book Cannot Do
-
-- Make a bad actor cooperate
-- Fix power imbalances
-- Replace courts, therapy, or professional help
-- Work without effort
-- Promise resolution when resolution isn't possible
-
-### Measurable Difference
-
-**Before the framework:**
-- Reacting emotionally to every provocation
-- Confusing what happened with what to do about it
-- Feeling stuck with no way forward
-- Blaming people, not problems
-- Exhausting yourself fighting glass
-
-**After the framework:**
-- Pausing to map before responding
-- Separating reality from decision
-- Five stages to work through — progress visible on paper
-- Naming what's Violated, Concealed, Ignored
-- Knowing which conflicts are real, which are projection
-
----
-
-### What Success Sounds Like
-
-- **A parent:** "I finally understood what I was actually fighting about."
-- **A mediator:** "I gave them the book. They came back with a map."
-- **A therapist:** "The framework externalised the conflict. We could work with it."
-- **An academic:** "The Immunity Paradox is testable. I'm designing a study."
-- **A reader:** "I stopped. The Epilogue gave me permission."
-  
-## Tracking Impact
-
-The honest answer: there are many metrics that could matter. Many things that could be tracked.
-
-But what's most important is that the framework is used. Tested. Broken.
-
-### What matters:
-
-A failure library. Real conflicts put through the framework. Where it worked. Where it didn't. Where it broke completely. That's the valuable data I am interested in (not even so much for myself but for others).
-
-### What I'm not offering:
-
-Empire.
-
-I'll write it. I'll put it out. I'll invite people to break it.
-
-But I'm not interested in building a business around this framework. If an institution, a research group, or a practitioner network wants to adopt it, test it, scale it — good. That's what it's for.
-
-The framework is the contribution. Owning it was never the point.
-
-## About the author
-
-### Professional background:
-
-**Current role:**
-Senior Lecturer in Organisational Behaviour, University of the West of England (UWE Bristol)
-
-**Academic credentials:**
-PhD in Leadership (University of Reading)
-
-**Teaching:**
-Among many: 
-- Organisational culture and change management
-- Team Enterpreneurship
-- Personal, Professional Development
-- Team Coaching
-
-### Connection to this book:
-
-This book emerges from two sources:
-
-**Academic expertise:**
-Years of teaching organisational behaviour — how groups conflict, how systems fail, how institutions resist change. The framework draws on decision theory, ethics, epistemology, and conflict studies. The three tests (L.E.R, B.U.S, A.C.T) translate philosophical traditions into practical tools.
-
-**Lived experience:**
-I have been the person at 2am. I have navigated family court. I have been the betta fish, flaring at glass. This book is not written from above. It is written from inside.
-
-The combination — academic rigour and personal stakes — is what makes this framework different. It is tested in theory and in life.
-
-### Previously published works:
-
-This is my first book.
-I have published some academic work including but with limit so far focusing mainly on teaching. 
-
-### Biography (short):
-
-A Senior Lecturer in Organisational Behaviour at the University of the West of England. She holds a PhD and specialises in leadership, systemic change, institutional design, and organisational learning. Her research examines how systems fail — and how they might be fixed. 
-
-This is her first book. It emerged from years of academic work and from navigating her own hopeless conflict.
-
-She lives in Somerset, United Kingdom, with her family.
-
-
-## Competitive titles
-
-### Five similar books (recent):
-
-| Book | Author | Year | Publisher | What it does |
-|------|--------|------|-----------|--------------|
-| **Fight Right** | John & Julie Gottman | 2024 | Penguin | Couples conflict — how to argue without damaging the relationship. Research-based, focused on romantic partnerships. |
-| **I Respectfully Disagree** | Justin Jones-Fosu | 2024 | Berrett-Koehler | 5-pillar framework for difficult conversations. Workplace and social focus. Light tone, cartoons in each chapter. |
-| **High Conflict** | Amanda Ripley | 2021 | Simon & Schuster | Journalistic exploration of "high conflict" — why we get trapped in us-vs-them dynamics. Story-driven, no practical framework. |
-| **Difficult Conversations** (3rd ed.) | Stone, Patton & Heen | 2023 | Penguin | Updated classic on navigating hard talks. Workplace and personal focus. Text-heavy, no visual elements. |
-| **The Conflict Paradox** | Bernard Mayer | 2023 | Jossey-Bass | Academic treatment
-
-
-## Marketing plan
-
-### What I bring:
-
-| Asset | How it serves the book |
-|-------|------------------------|
-| University platform | Direct access to students studying organisational behaviour, conflict, change management |
-| Academic networks | Connections to researchers, conferences, professional development programmes |
-| Professional associations | Relationships with mediators, HR professionals, organisational consultants through teaching and research |
-| The concept itself | "Betta fish" is memorable and shareable — designed to spread through word of mouth |
-
-### What I would like to do:
-
-- Change the book to an academic article as a co-laboration with other academics
-- Present at academic and professional conferences
-- Share with professional networks (mediators, family lawyers, HR)
-- Make templates and resources available online to drive discovery
-- Collect case studies and reader feedback to build evidence base
-
-### What I won't pretend:
-
-I am not a marketer. I don't have a social media following. I don't have an email list of 1 nor 50,000 subscribers.
-
-I am an academic and a practitioner. I wrote this book because it needed to exist — for the person at 2am who has tried everything, i.e. me.
-
-I am looking for a publisher who believes in the book itself, and who can bring the marketing expertise I don't have energy for. 
-
-The hardest job will be to finish it. And the truth is I never finish anything. 
-
-How is that for a book publication pitch? 
-
 
 
 ## TABLE OF CONTENTS
