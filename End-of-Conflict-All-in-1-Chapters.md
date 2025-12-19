@@ -20,54 +20,83 @@
 ## The End of Conflict Framework
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a170c09-4f86-4203-84be-5a8b261f5fae" />
 
-
 ---
 
-## Summary (Back Cover. Reader-Writer Contract):
-
----
+## Prologue
 
 You're full of shit. So am I. So is everyone ever touched by conflict.
-But not all shit is the same. Some we create. Some gets put in us.
-Weapon or wound—in conflict, we all end up the same: full of it.
-And the moment we respond, we either sustain or we resolve. There is no neutral. There is no clean.
-Brutal? Yes. Uncomfortable? Yes.
-Especially if you're that child who didn't choose. Especially if you're that mother who lost her mind to grief. They didn't pick this. They don't deserve it. And still—chosen or not—the result is the same. Full of it. The shit is in you now.
-In our beautiful human nature, at first, we just get lost. It's too dark, too sticky, too confusing. Shocked, we're too blind to reason.
-This book is not for those who can't reason. That's not blame. That's not judgment. That is simply how it is.
-This book is for those who are able to reason. Because regardless of whether the shit was given or chosen—what you do with it is yours.
-And that is where the hard part starts.
-There are so many hard parts.
-How about the one where you realise the ones who didn't deserve it might have the biggest chance of ending it? How much wiser are you than those who harmed you? How can you expect that maturity from them? You can't. So it falls to you. Unfair? Yes. Unacceptable? Yes.
-How about the one on "the cleaner story"? Or "it's not my fault"? Or "it's pure genocide"?
-Or the one on "I'm not in the conflict—I'm selling the guns." Or "just processing the paperwork." Or "just following procedure." Or "I am here. They are there. Just paying my taxes." Just looking away. Just staying neutral. Just minding your own business.
-What—you're not in it?
-We think the glass separates us from the conflict. But there is no separation. The tank is bigger than you think. Two kinds of shit in the same water. And you're in it.
-You're so full of shit you can't see anything else. Like a fish that knows nothing but water.
-But in conflict, we are not any fish. We are betta fish. Stunning creatures—iridescent, fins like silk. Put a mirror in the tank and they attack.
-Who wants to see their own shit? No one.
-So they flare. Exhaust themselves protecting a story that feels so true, so just, so right. The betta fish fighting glass, believing they fight a real enemy—when it isn't even there. The enemy is not out there. It's in here. And the greatest enemy? The one in you who already knows what to do with the shit.
-Unacceptable? Yes.
 
-This book is not for the chosen one. This book is for the ready one. The one with reason. The one who knows: we all carry it. Few of us look at it.
-This book doesn't let anyone off. The 2am reader isn't just the parent in court. It's the solicitor who filed the documents. The judge who saw the pattern and didn't name it. The policy-maker who designed the system. The voter who tolerates it.
-The question isn't whether you're in it. It's how. What are you fighting? What are you sustaining? What story are you telling yourself about why your hands are clean?
+But not all shit is the same. Some we create. Some gets put in us.
+
+Weapon we throw, or wound forced into us—in conflict, we all end up the same: full of it.
+
+And the moment we respond, we either sustain or we resolve. There is no neutral. There is no clean.
+
+Brutal? Yes. Shocking? Yes.
+
+Especially if you're that child who didn't choose. Especially if you're that mother who lost her mind to grief. They didn't pick this. They don't deserve it. And still—chosen or not—the result is the same: now, we are full of it.
+
+In our beautiful human nature, at first, we just get lost. It's too dark, too sticky, too confusing. Shocked and blinded, we panic or freeze. The smell of fear or terror does not allow us to reason.
+
+So we don't. That's not blame. That's not judgment. That is simply how it is. You can't reason when shit drops on you. First, you need time. To shake the shock off. To find your way in.
+
+This book is for the time when shit becomes a bit more bearable. Accustomed. Habituated. For the moment when you realise: regardless of whether the shit was given or chosen—what you do with it is yours.
+
+Oh, imagine if we got there quickly. Wouldn't that be just the best? Because only then—only then—can we change things. Before that, we're just lost.
+
+And, no, no, no. Gaining the reason back does not make it any easier. Perhaps that is where the hard part really starts. And there are so many hard parts.
+
+How about the one where you realise the ones who neither deserved nor chose it might have the biggest chance of ending it? How much wiser are you than those who harmed you? How can you expect that maturity from them? You can't. So it falls to you.
+
+Unfair? Yes. Unacceptable? Yes.
+
+How about the one on "the cleaner story"? Or "it's not my fault"? Or "it's pure genocide"? Or the one on "I'm not in the conflict—I'm just selling the guns." Or "just processing the paperwork." Or "just following procedure." Or "I am here. They are there. Just paying my taxes." Just looking away. Just staying neutral. Just minding your own business.
+
+What—you're not in it? Too polite, too delicate, too posh, too important and too academic for such direct writing? Allow yourself to be right, because you see, this book doesn't let anyone off. The 2am reader isn't just the parent in court. It's the solicitor who filed the documents. The judge who saw the pattern and didn't name it. The policy-maker who designed the system. The voter who tolerates it. The question isn't whether you're in it. It's how. What are you fighting? What are you sustaining? What story are you telling yourself about why your hands are clean?
+
+But hey, who cares? Why even ask. I tell you... Let's just not ask. Shall we talk about weather and how good your dinner was last night? I had cheesy pasta. You?
+
+The only thing is I can't take it any more. I can't pretend I don't know when I know. Like, we think the glass separates us from the conflict. But there is no separation. The tank is bigger than you think. Two kinds of shit in the same water. And I know I am in it and I know you're in it. So full of shit you can't see anything else. Like a fish that knows nothing but water. But in conflict, we are not any fish. We are betta fish. Stunning creatures—iridescent, fins like silk. Put a mirror in the tank and they attack.
+
+Who wants to see their own shit? No one. So they flare. Exhaust themselves protecting a story that feels so *true*, so *just*, so *right*. The betta fish fighting glass, believing they fight a real enemy—when it isn't even there. The enemy is not out there. It's in here. And the greatest enemy? The one in you who already knows what to do with the shit. If that helps, I won't admit I know and I won't remind you that you know it too.
+
+Better? Yes. Cosier? Yes.
+
+Unless you are ready? And if you are, this book is written just for you. And you must know that I think you are brave. That you are graceful. That you are wise. And that you are my hero: the one who knows we all carry it. Few of us look at it. Let's make sense out of this and let's find a way out.
+
+This book offers a way out: a system to follow. A possibility of getting closer to the light.
 
 This book won't make you peaceful. It won't make you right. It might not even end your conflict.
+
 What it might do—if you stay with it—is help you see more clearly. Yourself. The others. The mess itself. And if you see more clearly, a path starts to unfold. Not the path. A path. A possibility of what could be.
+
 The End of Conflict Framework is how you check your own sight.
+
 Five stages: Map it. See it. Judge it. Choose it. Do it.
+
 Tables. Checklists. Templates. The precision of a workbook. And then: art. Images that land before words do. A picture book a child can flip through. A book an academic can cite.
+
 The architecture underneath: a Truth Tester that reveals we can only resolve what we capture—and what we capture is always incomplete. A Living Protocol that breaks every claim on purpose. An Immunity Paradox that explains why we keep failing.
+
 Simple enough for 2am. Rigorous enough for court.
-Dense. Raw. Freezing cold in places. Do this, then that.
+
+Dense. Raw. Freezing cold in places. *Do this, then that.*
+
 It's based on true events I'm not allowed to write about. Rooted in five years of court expertise—mainly losing, on repeat.
+
 Pure magic, it's not. More like self-inflicted pain.
+
 The pain of doing what's unpleasant. What's difficult. What's honest. The pain of persisting when there's no point. Continuing when there's no hope.
+
 And it's scary. Because it asks you to do exactly that. Surgically.
+
 And it's annoying. Because it claims this is the best of what's possible when everything seems impossible—showing you exactly where one ends and the other begins.
-And it is rewarding. But the reward is not peace nor a promise of harmony. It is a promise of precision—a better sight. So you understand why. So you know so what. So you see then what.
+
+And it is rewarding. But the reward is not a promise of harmony nor peace. It is a promise of precision—a better sight. So you understand *why*. So you know *so what*. So you see *then what*.
+
 And with that, a surprise. A hope inside no hope. A leverage point—no more glass to fight for, only freedom to live for.
+
+Unless you want that cheesy pasta?
 
 ---
 
