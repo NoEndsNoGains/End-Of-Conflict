@@ -58,6 +58,8 @@ But hey, who cares? Why even ask. I tell you... Let's just not ask. Shall we tal
 
 The only thing is I can't take it any more. I can't pretend I don't know when I know. Like, we think the glass separates us from the conflict. But there is no separation. The tank is bigger than you think. Two kinds of shit in the same water. And I know I am in it and I know you're in it. So full of shit you can't see anything else. Like a fish that knows nothing but water. But in conflict, we are not any fish. We are betta fish. Stunning creatures—iridescent, fins like silk. Put a mirror in the tank and they attack.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b8e02e7-1d42-463e-ad8e-224df2bc14d9" />
+
 Who wants to see their own shit? No one. So they flare. Exhaust themselves protecting a story that feels so *true*, so *just*, so *right*. The betta fish fighting glass, believing they fight a real enemy—when it isn't even there. The enemy is not out there. It's in here. And the greatest enemy? The one in you who already knows what to do with the shit. If that helps, I won't admit I know and I won't remind you that you know it too.
 
 Better? Yes. Cosier? Yes.
@@ -103,9 +105,10 @@ Unless you want that cheesy pasta?
 
 ## TABLE OF CONTENTS
 
+- Prologue
+- Table of contents
+- This is so much Fun
 - Title Page
-- Summary
-- This is so much fun.
 
 **PART 1: OVERVIEW**
 - End of Conflict Cheat Sheet
@@ -159,9 +162,7 @@ The Unborn (hasn't happened yet)
 **The EPILOGUE (Hope)**
 
 ---
-
----
-PROLOGUE: THIS IS SO MUCH FUN - OR A CHAPTER THAT NOONE EVER READS
+## THIS IS SO MUCH FUN
 
 **Why This Title?**
 
@@ -221,30 +222,6 @@ But know this: behind both doors is the same room. And in that room, we're all f
 
 ---
 
-**This Book Is Me**
-
-I have all the credentials to write it. I spent five years in court. Mainly losing.
-
-I know something about conflict, then.
-
-Based on true events. But true events I have to lie about, because I am not allowed to write about them. So I will lie. I will not tell you what the truth is.
-
-Still, this book is based on true events.
-
-And because it's me. And because I don't like lying. And it's not something I'm choosing to practise.
-
-This book is a representation of exactly who I am: childishness meets sophistication. Juxtaposition meets flow.
-
-I'm doing it because I am tired of pretending. Tired of delivering something that does not represent who I am. Just because that's what somebody else wants.
-
-What I want most is truth.
-
-And truth is who I am.
-
-It's that book.
-
----
-
 **But Who Am I to Tell You?**
 
 And here is my usual twist—how dare I tell you this? Who am I? Who gave me the right?
@@ -301,65 +278,7 @@ Because, you see, I have news for you: if you are in conflict, there is a game, 
 
 ---
 
-**The Betta Fish**
 
-Betta fish attack when they see themselves in the mirror or see another betta. They're literally fighting their own image.
-
-We, you, I—aren't we all like that? All at once?
-
-A bit like the betta fish.
-
-Stunning creature. Iridescent. Fins like silk. Put a mirror in the tank and it attacks. Flares and exhausts itself against an enemy that isn't there. It's fighting a projection. Not reality.
-
-It can do this until it dies.
-
-In conflict, we're betta fish. Fighting our own reflection. Exhausting ourselves against glass.
-
-This book won't make you peaceful. Some conflicts are real. Some enemies aren't reflections.
-
-But most of the time? We're attacking the mirror.
-
-This framework is how you check.
-
-Stop fighting the glass. Instead, just look at yourself. It's you. A beautiful, traumatised, tragic you—you, full of your own shit. You don't want to look. You don't look. Because comfort is where we stay stuck in our bullshit.
-
-I drew a picture for you so you can see yourself a bit better.
-
-And if you've had enough... well?
-
-That's the guiding principle: truth over comfort. Whatever level of disruption actually moves someone toward seeing their own patterns more clearly.
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b8e02e7-1d42-463e-ad8e-224df2bc14d9" />
-
----
-
-**The Hardest Test**
-
-In Gaza, you'd have layers of self-deception operating simultaneously: individual stories people tell themselves to survive, collective narratives that justify actions, political stories that maintain power structures. But you'd also have genuine trauma, real powerlessness, and structural oppression.
-
-Let me be clear: structural injustice is real. Power asymmetries are real. When a state bombs civilians, when systems grind people down, when violence is one-sided—that's not projection. That's not mirror-fighting. I'm not asking you to pretend oppression is a mindset problem.
-
-What I am asking is different and more modest: given the structural reality you cannot currently change, what stories are you telling yourself about what's possible? Are those stories serving your survival, or are they foreclosing options you haven't yet seen?
-
-That's not the same as saying "both sides." It's saying: even when one side holds the guns, you still get to examine what's happening in your own mind. Not because it's fair. Because it's the only territory you actually control.
-
-Maybe the question isn't whether people in Gaza are "full of shit." Maybe it's about which stories serve survival versus which ones perpetuate the cycle. Some self-deception might be psychologically necessary for people under siege, while other narratives keep the conflict locked in place.
-
-This is exactly what makes people squirm. The idea that even in the most extreme suffering, there might still be elements of self-deception mixed in with legitimate grievance and trauma.
-
-This framework does the impossible—it risks adding to your load. Adding more harm to people already carrying unbearable weight. They're already so broken, so hungry, and now they must admit to their own "shit"?
-
-But if the ultimate goal is ending the conflict, then every story that perpetuates it becomes fair game to examine, no matter how justified it feels.
-
-I'm not talking about who's responsible for ending wars or dismantling systems. That's macro-responsibility, and it's distributed according to power. The people with the most power have the most responsibility to change the structure.
-
-I'm talking about micro-agency: the small territory of your own perception, your own reactions, your own stories. That's what this framework addresses. Not because it's sufficient—it isn't—but because it's yours.
-
-So even in Gaza, there might be stories on all sides that serve emotional needs but prevent resolution. "They'll never change." "This is who they are." "We have no choice." Narratives that might feel true but actually close off possibilities for different outcomes.
-
-The brutal question becomes: are you more attached to your story about why the conflict continues, or to actually ending it? Even when your story contains real truth about injustice and suffering?
-
-That's where it gets maximally uncomfortable—asking people to examine whether their most cherished beliefs about their situation might be part of what keeps them trapped in it. Not dismissing the reality of their experience, but questioning which parts of their interpretation serve freedom versus which parts serve the continuation of the pattern.
 
 ---
 
