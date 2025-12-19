@@ -1,4 +1,8 @@
 PART 4: STRESS TESTING
+
+Purpose of Stress Testing in General
+Ukraine, Gaza, Cookie, ? https://www.youtube.com/@ProfJiangExplains/videos
+
 **The Hardest Test**
 
 In Gaza, you'd have layers of self-deception operating simultaneously: individual stories people tell themselves to survive, collective narratives that justify actions, political stories that maintain power structures. But you'd also have genuine trauma, real powerlessness, and structural oppression.
