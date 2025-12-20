@@ -47,7 +47,11 @@ The End of Conflict Framework is a systematic process for resolving conflicts th
 
 ## 1.2 Core Principle
 
-**Name it → Know it → Judge it → Choose it → Do it.**
+**Name it → Check it → Judge it → Choose it → Do it.**
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/680311bb-b02d-447b-8adc-8d9ab124f874" />
+
 
 ---
 
