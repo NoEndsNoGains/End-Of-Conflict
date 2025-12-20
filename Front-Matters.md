@@ -269,6 +269,71 @@ So did you learn? Anything? Nothing?
 Oh God...
 
 ---
+# The River
+
+And here's where I need to be precise.
+
+This framework will be weaponised.
+
+Not "could be." Will be.
+
+Didn't I just weaponise everything in this prologue? Manipulation dressed as honesty. Traps dressed as invitations. Self-awareness dressed as virtue.
+
+So yes. Someone will read this and use it to tell their ex-wife she's full of shit while refusing to look at themselves. Someone will cite the Immunity Paradox to explain why they can't possibly change. Someone will wave this book at a judge and say "see, we're all biased, so my bias doesn't count."
+
+The framework has tools to catch this. Step two is CHECK—look at what's actually happening. Step three is JUDGE—evaluate it precisely. These tools exist.
+
+But can the framework guarantee they'll be used honestly?
+
+No.
+
+Because we're all full of shit. That includes the institutions that make the final decisions. That includes the UN Security Council, designed to deadlock the moment it matters most. That includes NATO. That includes the signatories of the Budapest Memorandum—the US, the UK, Russia—who promised Ukraine security guarantees in exchange for nuclear disarmament, and then watched. That includes the ICC, issuing warrants it cannot enforce. That includes me, writing this. That includes you, reading it.
+
+And here's the deeper problem: some conflicts don't end because ending them would mean facing what was done to keep them going.
+
+Do you understand what that would require? People taking responsibility. More specifically, people in power taking responsibility. That would mean a loss of that power. That would mean consequences. That would mean—
+
+No. They won't.
+
+Every participant accumulates reasons not to look. The longer the conflict, the more there is not to see. The more there is not to see, the harder it becomes to stop.
+
+This is the river at your back. You've crossed lines that can't be uncrossed. And now the only direction is forward—because backward means facing what you did to get here.
+
+The framework can't save us from ourselves. It can only show us what we've done. What we're doing. What we keep doing.
+
+And it's safe. That's the thing. It's completely safe. Nobody has to know. You can do this alone, in your bed, at 2am. No witnesses. No judgment. Just you and the mirror.
+
+The only question is: why would you want to look?
+
+Isn't it nicer not to know?
+
+Isn't it easier to keep the story? The one where you're right. The one where they're wrong. The one where you didn't have a choice. The one where you did what anyone would do.
+
+Why would you trade that for sight?
+
+I have no idea what your reason might be.
+
+But I know what mine is.
+
+I want power. Lots of it. All of it. I want the kind of power that's unbreakable. Undefeatable. Unshakable. The kind no one can take from you because it doesn't depend on them. The kind that doesn't need their agreement, their approval, their surrender.
+
+That power is clarity.
+
+When you've looked—really looked—at your own shit, something shifts. You become wiser, kinder, gentler. Not from pressure. From understanding how it works. The game. The patterns. The moves. Yours and theirs.
+
+The reward: the power, the freedom of choice. Yours.
+
+That's what the framework gives you. Not peace. Not harmony. Not the warm feeling of resolution.
+
+Sight.
+
+Do you want that power?
+
+That real power?
+
+I do.
+
+---
 
 ## The Trap
 
@@ -384,14 +449,13 @@ And that is how the shit is gone.
 
 And because the shit is gone, the truth can be revealed.
 
-The framework has a name. It always did. I just never used it until now.
+The framework has a name. It always did. The time just wasn't right. Until now.
 
-So now, as we are ready and the time has come—
+So now, as we are ready. The time has come—
 
 Here it is.
 
 Ta-da!
-
 ---
 
 # The End of Conflict Framework
