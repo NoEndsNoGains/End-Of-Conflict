@@ -95,11 +95,11 @@ This is my first book.
 
 | Book | Author | Year | Publisher | What it does |
 |------|--------|------|-----------|--------------|
-| **Fight Right** | John & Julie Gottman | 2024 | Penguin | Couples conflict — how to argue without damaging the relationship. Research-based, focused on romantic partnerships. |
-| **I Respectfully Disagree** | Justin Jones-Fosu | 2024 | Berrett-Koehler | 5-pillar framework for difficult conversations. Workplace and social focus. Light tone, cartoons in each chapter. |
-| **High Conflict** | Amanda Ripley | 2021 | Simon & Schuster | Journalistic exploration of "high conflict" — why we get trapped in us-vs-them dynamics. Story-driven, no practical framework. |
-| **Difficult Conversations** (3rd ed.) | Stone, Patton & Heen | 2023 | Penguin | Updated classic on navigating hard talks. Workplace and personal focus. Text-heavy, no visual elements. |
-| **The Conflict Paradox** | Bernard Mayer | 2023 | Jossey-Bass | Academic treatment
+| **Fight Right** | John & Julie Gottman | 2024 | Penguin | 
+| **I Respectfully Disagree** | Justin Jones-Fosu | 2024 | Berrett-Koehler |
+| **High Conflict** | Amanda Ripley | 2021 | Simon & Schuster | 
+| **Difficult Conversations** (3rd ed.) | Stone, Patton & Heen | 2023 | Penguin | 
+| **The Conflict Paradox** | Bernard Mayer | 2023 | Jossey-Bass | 
 
 
 ## Marketing plan
