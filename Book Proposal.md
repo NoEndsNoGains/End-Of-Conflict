@@ -135,5 +135,5 @@ I am an academic and a practitioner. I wrote this book because it needed to exis
 I am looking for a publisher who believes in the book itself, and who can bring the marketing expertise I don't have energy and patience for. 
 
 ### Where am I based?
-Uk, Somerset. I am a mother. A wife. A daugher. I have 2 cats I don't particular like and 2 dogs I like a bit more (but not much more). 
+Uk, Somerset.
 
