@@ -88,7 +88,6 @@ The combination — academic rigour and personal stakes — is what makes this f
 ### Previously published works:
 
 This is my first book.
-I have published some academic work and have various drafts but they remain drafts with me so far focusing mainly on teaching. 
 
 ## Competitive titles
 
