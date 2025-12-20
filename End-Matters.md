@@ -4,6 +4,17 @@ DO NOT READ - NEEDS RE-THINKING/EDITING
 
 Chapter 9: Hope
 
+
+Idea 1: The Blame
+So it did not work - did it? It is my fault? The framework fault? It wan't designed right? I did something wrong? Did it? Oh really? 
+
+I did not. And here is the fact. I gave you all - all of it to finish it. And you did not. 
+
+Where it worked. Where it didn't. Where it broke completely. That's the valuable data I am interested in (not even so much for myself but for others).
+
+Idea 2: The Unrealisitc
+
+
 regardwlas who yiu are there ia onw think unites u- you reached out up to here as for whatever reason you needed it - you hooe to get a bit closer to how to reaolvw tje conflucts that cant be resolved I think there are two options of why you're reading this book:
 
 Option A: You believe that there is still hope - hope to do something about this - this meaning this complex, layered, prolonged, unsolvable conflict.
