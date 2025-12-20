@@ -21,7 +21,7 @@ This book is that framework.
 - Fix power imbalances
 - Replace courts, therapy, or professional help
 - Work without effort
-- Promise resolution when resolution isn't possible
+- Promise resolution 
 
 ### Measurable Difference
 
@@ -30,7 +30,7 @@ This book is that framework.
 - Confusing what happened with what to do about it
 - Feeling stuck with no way forward
 - Blaming people, not problems
-- Exhausting yourself fighting glass
+- Exhausting yourself - fighting glass
 
 **After the framework:**
 - Pausing to map before responding
@@ -55,9 +55,7 @@ The honest answer: there are many metrics that could matter. Many things that co
 
 But what's most important is that the framework is used. Tested. Broken.
 
-### What matters:
-
-A failure library. Real conflicts put through the framework. Where it worked. Where it didn't. Where it broke completely. That's the valuable data I am interested in (not even so much for myself but for others).
+What matters is real conflicts put through the framework and the results recorded.  Where it worked. Where it didn't. Where it broke completely. That's the valuable data I am interested in (not even so much for myself but for others).
 
 ### What I'm not offering:
 
