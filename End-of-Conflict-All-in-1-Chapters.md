@@ -1920,6 +1920,10 @@ That's where it gets maximally uncomfortable—asking people to examine whether 
 
 ## DEEP DIVE
 
+
+DO NOT READ - OLD WORK - NEEDS RE-THINKING/EDITING
+
+
 # The Immunity Paradox: Why Conflicts Resist Resolution
 
 ## How the Body's Defence System Illuminates Our Failure to End Wars
