@@ -115,7 +115,7 @@ I have published some academic work and have various drafts but they remain draf
 
 ### What I would like to do:
 
-- Change the book to an academic article(s through academic collaboration 
+- Publish companion academic articles to build scholarly credibility and reach professional audiences
 - Present at academic and professional conferences
 - Make templates and resources available online to drive discovery
 - Support collection of the case studies and reader feedback to build evidence base
