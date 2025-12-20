@@ -132,7 +132,7 @@ I am not a marketer. I don't have a social media following. I don't have an emai
 
 I am an academic and a practitioner. I wrote this book because it needed to exist (even if only for me).
 
-I am looking for a publisher who believes in the book itself, and who can bring the marketing expertise I don't have energy and patience for. 
+I am looking for a publisher who believes in the book itself, and who can bring the marketing expertise. 
 
 ### Where am I based?
 Uk, Somerset.
