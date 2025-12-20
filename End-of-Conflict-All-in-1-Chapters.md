@@ -16,9 +16,7 @@
 ## Front Matters
 
 
-# You're Full of Shit:
-
-## You’re Full of Shit: A Practical Guide to End Conflict Through Universal Honesty
+# You're Full of Shit: A Practical Guide to End Conflict Through Universal Honesty
  
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a170c09-4f86-4203-84be-5a8b261f5fae" />
 
