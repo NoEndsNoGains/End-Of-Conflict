@@ -176,21 +176,7 @@ But at least you stay right and you stay full of shit.
 
 Ouch! Was I too direct?
 
-Are you claiming I crossed all the lines? 
-
-That I need to take responsibility? 
-
-That this is purely rude? 
-
-Disrespectful? 
-
-Hateful? 
-
-Unhinged? 
-
-Unjust? 
-
-Unfair? 
+Rude? Disrespectful? Unhinged?
 
 PLAINLY WRONG!!!
 
