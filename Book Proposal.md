@@ -68,7 +68,7 @@ PhD in Leadership (University of Reading)
 **Teaching:**
 Among many: 
 - Organisational culture and change management
-- Team Enterpreneurship
+- Team Entrepreneurship
 - Personal, Professional Development
 - Team Coaching / Personal Coaching
 - Team-work / Team Effectiveness
