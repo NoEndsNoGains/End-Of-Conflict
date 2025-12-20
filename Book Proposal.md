@@ -51,11 +51,9 @@ This book is that framework.
   
 ## Tracking Impact
 
-The honest answer: there are many metrics that could matter. Many things that could be tracked.
+What's most important is that the framework is used. Tested. Broken.
 
-But what's most important is that the framework is used. Tested. Broken.
-
-What matters is real conflicts put through the framework and the results recorded.  Where it worked. Where it didn't. Where it broke completely. That's the valuable data I am interested in (not even so much for myself but for others).
+What matters is real conflicts put through the framework and the results recorded.  Where it worked. Where it didn't. Where it broke completely. That's the valuable data I am interested in.
 
 ### What I'm not offering:
 
