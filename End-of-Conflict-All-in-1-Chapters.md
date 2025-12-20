@@ -117,6 +117,9 @@ I'm thinking about the real monsters. The most dangerous of them all.
 
 The stories.
 
+The night was dark, the wind was howling, and for the first time in their life, the little humans realised the wind wasn't just making noise—it was calling their names....
+
+
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/65a97341-2960-4d33-8fd7-afb1d17615cc" />
 
@@ -309,7 +312,7 @@ If you're the Honourable Judge Johnson, you can't cite this book. Not in a rulin
 
 I knew it straight away. The moment I wrote it.
 
-But don't get me wrong. I made that choice with full awareness of its consequences. That choice was needed. There was no other choice. I almost wanted to write that it was the right choice, but you see—I still fall into my own traps.
+But don't get me wrong. I made that choice with full awareness of its consequences. That choice was needed. There was no other choice. I almost wanted to write that it was the right choice, because you see—I still fall into my own traps.
 
 It doesn't belong not because the framework doesn't deserve to be on that slide. It doesn't belong because the title compromises the framework's value.
 
