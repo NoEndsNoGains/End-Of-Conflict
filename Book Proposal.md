@@ -93,8 +93,8 @@ This is my first book.
 
 ### Five similar books (recent):
 
-| Book | Author | Year | Publisher | What it does |
-|------|--------|------|-----------|--------------|
+| Book | Author | Year | Publisher |
+|------|--------|------|-----------|
 | **Fight Right** | John & Julie Gottman | 2024 | Penguin | 
 | **I Respectfully Disagree** | Justin Jones-Fosu | 2024 | Berrett-Koehler |
 | **High Conflict** | Amanda Ripley | 2021 | Simon & Schuster | 
@@ -119,7 +119,7 @@ This is my first book.
 - Make templates and resources available online to drive discovery
 - Support collection of the case studies and reader feedback to build evidence base
 
-### What I looking for:
+### What I'm looking for:
 A publisher who believes in the book itself, and who can bring the marketing expertise. 
 
 ### Where am I based?
