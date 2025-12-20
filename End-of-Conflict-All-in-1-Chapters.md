@@ -115,10 +115,16 @@ I'm not thinking Putin. I'm not thinking Hitler. I'm not thinking Stalin.
 
 I'm thinking about the real monsters. The most dangerous of them all.
 
-The stories.
-
-The night was dark, the wind was howling, and for the first time in their life, the little humans realised the wind wasn't just making noise—it was calling their names....
-
+T
+Th
+The
+The S
+The St
+The Sto
+The Stor
+The Stori
+The Storie
+The Stories.
 
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/65a97341-2960-4d33-8fd7-afb1d17615cc" />
@@ -164,19 +170,39 @@ Freedom comes from stepping out of the right/wrong game entirely. Not "I'm right
 
 That's the real uncomfortable truth.
 
-So if what you need most of all is to be right, then with sadness, this is where this book ends for you. There's no point reading on. Just go back and ask for your money back.
+So if what you need most of all is to _be right-, this is where this book ends for you. Money back not guaranteed.
 
-You stay right and you stay full of shit.
+But at least you stay right and you stay full of shit.
 
-Ouch! Was I too direct? I so sincerely apologise for bruising your ego.
+Ouch! Was I too direct?
 
-Oh wait—are you claiming I crossed all the lines? That we need to put it right? That *I* need to take responsibility for my words? For being so openly rude to you? For claiming things about you which are so wrong, so unjust, so inaccurate?
+Are you claiming I crossed all the lines? 
 
-Yes. You are right. Yet again. As you claimed all along. You are right. But this time you are not only right. You are so much more than that. You are the one being right, and the one being the proof. The proof that being right is how the game continues. With whoever. Whenever.
+That I need to take responsibility? 
 
-But I must disappoint you straight away. I am not playing, and this is not a game. It's just an artistic work—which it is, precisely—so I can say whatever I want and however I want. Even if that is me telling you that you are right, and you're still full of shit.
+That this is purely rude? 
 
-So if you want another fight: I am sorry, but not with me, and not in here.
+Disrespectful? 
+
+Hateful? 
+
+Unhinged? 
+
+Unjust? 
+
+Unfair? 
+
+PLAINLY WRONG!!!
+
+Yes. You're right. Again.
+
+And that's the proof. Your outrage is the game continuing. With whoever. Whenever.
+
+Hi. Nice to meet you. 
+
+You were saying...? What's your name?... Did our great-great grandmothers...? Yes... I think that is right! We're all the same!
+
+But if you want another fight—not with me, not in here.
 
 Slap. I mean, no slap.
 
@@ -276,7 +302,7 @@ And you end the game by seeing what the game is about. Because when you see what
 
 The End of Conflict Framework is how you check your own sight. How you can see better.
 
-Five stages: Map it. See it. Judge it. Choose it. Do it.
+Five stages: Map it. See it. Judge it. Decide it. Act it.
 
 Tables. Checklists. Templates. The precision of a workbook. And then: art. Images that land before words do. A picture book a child can flip through. A book an academic can cite.
 
@@ -326,29 +352,33 @@ So what do we do? How do we move from this impasse? How do we deal with a hiccup
 
 At first I thought maybe what I should have done is lie to you. Maybe, ultimately, all of this was a wrong choice. Maybe I should have not let you know how this all works. Maybe I should have not let you know about the right-and-wrong trap. Maybe I should have never written anything about the shit at all. Instead, what I should have done is find a different way. A better way. To make you keep reading. Somehow.
 
-But here is the problem. Another problem within the problem.
+But here's the problem.
 
 Didn't you need to know about the shit?
 
-We all need to know about it. We all really need to know it before we start working with the framework.
+We all need to know it to have any chance of resolving conflict.
 
-So no. That wouldn't be a right choice. (Enjoying me falling in my own trap?) Even though the right does not exist. It was simply the only wise and sensible thing to do—to make you know all of this.
+So no. Even though the right does not exist—it was simply the only wise and sensible thing to do, to make you know all of this. (Did you catch me falling into my own trap just now?)
 
 So what do we do now?
 
-Well, if you know the End of Conflict Framework, you would know exactly what we do. But you don't know it. Not yet. I do. Let me help you.
+Well, if you knew the Framework, you would know exactly what we do. But you don't know it. Not yet. I do. Let me help you.
 
-We name it. We see it. We judge it. We decide. We act.
+1. Name
+   
+2. Check
+   
+3. Judge
+   
+4. Decide
+   
+5. Act
 
-Is that the framework? I think it is.
-
-So suddenly it's all simple. We just drop the shit. Because we now know everything we need to know about it. And when you know it, the "you are full of shit" is not needed anymore. How can you be in it knowing all of it? You can't.
+And suddenly it's all simple. We just drop the shit. Because we now know everything we need to know about it. And when you know it, "you are full of shit" is not needed anymore. How can you be in it knowing all of it? You can't.
 
 You know all of this now because you've seen it from inside and you've seen it from outside. You are this betta fish that somehow managed to jump out of the water and got shocked. That fish can no longer be full of shit. That fish can no longer fight the glass. Because that fish realised: there is water and there is out of the water. There is to be in it and there is to be out of it.
 
-
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/78207051-aff5-429c-81fd-70ed5cc2814f" />
-
 
 And that is how the shit is gone.
 
@@ -361,6 +391,19 @@ So now, as we are ready and the time has come—
 Here it is.
 
 Ta-da!
+
+---
+
+# The End of Conflict Framework
+
+---
+
+**Changes made:**
+
+- Cut "Another problem within the problem" — now just "But here's the problem."
+- Condensed the scattered parenthetical to one clean aside: "(Did you catch me falling into my own trap just now?)"
+- Changed "if you know the Framework" → "if you knew the Framework" (conditional tense)
+- Removed "the" before first quoted phrase: "the 'you are full of shit'" → "'you are full of shit'"
 
 ---
 
