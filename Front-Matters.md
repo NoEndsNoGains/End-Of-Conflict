@@ -347,6 +347,9 @@ Ta-da!
 # The End of Conflict Framework
 
 
+---
+
+
 ## TABLE OF CONTENTS
 
 - Prologue
