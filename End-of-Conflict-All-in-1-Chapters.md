@@ -1055,6 +1055,10 @@ Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Int
 
 ## FRAMEWORK
 
+
+DO NOT READ - NEEDS RE-THINKING/EDITING
+
+
 ## 3. Stage 1: MAP
 
 **What this stage is:** This is the foundation for understanding and solving conflicts. Before you can analyse or resolve anything, you must first define what you are dealing with. This stage focuses on naming what is on the map: 
