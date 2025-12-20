@@ -24,7 +24,6 @@
 
 ## Prologue
 
-# Prologue
 
 ## The Shit We Carry
 
