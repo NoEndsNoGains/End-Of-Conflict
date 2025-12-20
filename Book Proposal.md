@@ -120,13 +120,8 @@ I have published some academic work and have various drafts but they remain draf
 - Make templates and resources available online to drive discovery
 - Support collection of the case studies and reader feedback to build evidence base
 
-### What I won't pretend:
-
-I am not a marketer. I don't have a social media following. I don't have an email list of 1 nor 50,000 subscribers.
-
-I am an academic and a practitioner. I wrote this book because it needed to exist (even if only for me).
-
-I am looking for a publisher who believes in the book itself, and who can bring the marketing expertise. 
+### What I looking for:
+A publisher who believes in the book itself, and who can bring the marketing expertise. 
 
 ### Where am I based?
 Uk, Somerset.
