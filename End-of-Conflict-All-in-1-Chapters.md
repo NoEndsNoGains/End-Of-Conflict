@@ -254,36 +254,23 @@ You must know that I count on you. Because we need the curious ones. The brave o
 
 Conflict needs people like you.
 
-P.S. 1 
+P.S. 
+Let me MAP what just happened.
 
-Let me NAME what just happened.
+There's you and there's me, and I'm playing a game with you. The game is ultimately for me to know if you're the right reader for this book, and for you to decide if you're ready for it.
 
-If you CHECK, you'll notice you just experienced a classic sales technique: breakdown followed by love-bombing. I called you full of shit, set traps, admitted to attempting humiliation—then pivoted to calling you cool, curious, brave, graceful, wise. My hero.
+Now you CHECK. What you're checking is how each of us plays. If you check, you'll notice I used a classic sales technique: breakdown followed by love-bombing. I called you full of shit, set traps, admitted to attempting humiliation—then pivoted to calling you cool, curious, brave, graceful, wise. My hero.
+We don't have data about your behaviour—we don't know what you said or thought or felt. But for the purpose of this exercise, we will JUDGE. Does naming the manipulation neutralise it? Or does self-awareness just make it sophisticated manipulation? How about your assumptions and preferences? Does liking me a little—you must be liking me at least somewhat if you got this far—have an impact on how you judged what I said and what I did?
 
-Now you JUDGE: Does naming the manipulation neutralise it? Or does self-awareness just make it sophisticated manipulation?
-
-Then you DECIDE what that means for your trust in this book. In me.
+Then you DECIDE what that means for your trust in this book. In me. And ultimately, whether to keep reading—because that's the actual decision in front of you right now.
 
 And based on that, you ACT. Perhaps you:
 
 - Close the book. Fair.
 - Keep reading but more skeptically. Smart.
-- Recognise that catching manipulation mid-flight is exactly the skill this framework builds.
-- Call my mom and tell her she raised me badly. It's time I finally grew up and stopped this behaviour. Here's her number: [redacted for her protection, not mine].
+- Call my mom and tell her she raised me badly. Here's her number: [redacted for her protection, not mine].
 
-Whatever you choose: you just used the framework. On me.
-
-P.S. 2 
-
-Did I make you laugh?
-
-Hmm.
-
-Does the comedy release too much tension? We just did something genuinely uncomfortable—admitting to manipulating you, making you sit with that. Pedagogically useful.
-But letting you laugh might let you off the hook before the lesson lands.
-
-So did you learn? Anything? Nothing? 
-Oh God...
+Whatever you choose: you just used the framework. On me. Pedagogy in practice. 
 
 ---
 # The River
