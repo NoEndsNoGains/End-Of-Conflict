@@ -55,12 +55,6 @@ What's most important is that the framework is used. Tested. Broken.
 
 What matters is real conflicts put through the framework and the results recorded.  Where it worked. Where it didn't. Where it broke completely. That's the valuable data I am interested in.
 
-### What I'm not offering:
-
-I'm not interested in building a business around this framework. If an institution, a research group, or a practitioner network wants to adopt it, test it, scale it — good. That's what it's for.
-
-The framework is the contribution. Owning it was never the point.
-
 ## About the author
 
 ### Professional background:
