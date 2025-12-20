@@ -237,6 +237,37 @@ You must know that I count on you. Because we need the curious ones. The brave o
 
 Conflict needs people like you.
 
+P.S. 1 
+
+Let me NAME what just happened.
+
+If you CHECK, you'll notice you just experienced a classic sales technique: breakdown followed by love-bombing. I called you full of shit, set traps, admitted to attempting humiliation—then pivoted to calling you cool, curious, brave, graceful, wise. My hero.
+
+Now you JUDGE: Does naming the manipulation neutralise it? Or does self-awareness just make it sophisticated manipulation?
+
+Then you DECIDE what that means for your trust in this book. In me.
+
+And based on that, you ACT. Perhaps you:
+
+- Close the book. Fair.
+- Keep reading but more skeptically. Smart.
+- Recognise that catching manipulation mid-flight is exactly the skill this framework builds.
+- Call my mom and tell her she raised me badly. It's time I finally grew up and stopped this behaviour. Here's her number: [redacted for her protection, not mine].
+
+Whatever you choose: you just used the framework. On me.
+
+P.S. 2 
+
+Did I make you laugh?
+
+Hmm.
+
+Does the comedy release too much tension? We just did something genuinely uncomfortable—admitting to manipulating you, making you sit with that. Pedagogically useful.
+But letting you laugh might let you off the hook before the lesson lands.
+
+So did you learn? Anything? Nothing? 
+Oh God...
+
 ---
 
 ## The Trap
