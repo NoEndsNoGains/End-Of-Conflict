@@ -371,8 +371,9 @@ Ta-da!
 ## TABLE OF CONTENTS
 
 - Prologue
+- New Title Page
 - Table of contents
-- Title Page
+
 
 **PART 1: OVERVIEW**
 - End of Conflict Cheat Sheet
@@ -391,31 +392,40 @@ Ta-da!
 
 **PART 2: THE FRAMEWORK**
 - 2.3 Stage 1: MAP
-- 2.4 Stage 2: REALITY
-- 2.5 Stage 3: JUDGMENT
-- 2.6 Stage 4: DECISION
-- 2.7 Stage 5: ACTION
+- 2.4 Stage 2: CHECK
+- 2.5 Stage 3: JUDGE
+- 2.6 Stage 4: DECIDE
+- 2.7 Stage 5: ACT
 - 2.8 Key Clarifications
 - 2.9 Notes
 
 **PART 3: THEORETICAL FOUNDATIONS**
 - 3.1 The Foundations of MAP (what traditions inform boundary-setting, conflict mapping)
-- 3.2 The Foundations of REALITY (epistemology, truth-testing, evidence)
-- 3.3 The Foundations of JUDGMENT (ethics, L.E.R / B.U.S / A.C.T, the three consequences)
-- 3.4 The Foundations of DECISION (decision theory, the Mirror Check, Golden Rule)
-- 3.5 The Foundations of ACTION (implementation, change theory, power)
+- 3.2 The Foundations of CHECK (epistemology, truth-testing, evidence)
+- 3.3 The Foundations of JUDGE (ethics, L.E.R / B.U.S / A.C.T, the three consequences)
+- 3.4 The Foundations of DECIDE (decision theory, the Mirror Check, Golden Rule)
+- 3.5 The Foundations of ACT (implementation, change theory, power)
 
 **PART 4: STRESS TESTING**
 - 4.1 Why Break What You Just Built
 - 4.2 Three Scales
+  
 Inside (the war in you)
+
 Between (the war between you and someone else)
+
 Beyond (the war in the world)
+
 - 4.3 The Five Tests
+
 No Villain (both sides are right)
+
 The Liar (one side is gaming it)
+
 The Weaker (power is unequal)
+
 The Broken (damage can't be undone)
+
 The Unborn (hasn't happened yet)
 
 **PART 5: DEEP DIVE**
