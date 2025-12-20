@@ -1,3 +1,7 @@
+
+DO NOT READ - OLD WORK - NEEDS RE-THINKING/EDITING
+
+
 # The Immunity Paradox: Why Conflicts Resist Resolution
 
 ## How the Body's Defence System Illuminates Our Failure to End Wars
