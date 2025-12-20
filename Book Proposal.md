@@ -57,11 +57,7 @@ What matters is real conflicts put through the framework and the results recorde
 
 ### What I'm not offering:
 
-Empire.
-
-I'll write it. I'll put it out. I'll invite people to break it.
-
-But I'm not interested in building a business around this framework. If an institution, a research group, or a practitioner network wants to adopt it, test it, scale it — good. That's what it's for.
+I'm not interested in building a business around this framework. If an institution, a research group, or a practitioner network wants to adopt it, test it, scale it — good. That's what it's for.
 
 The framework is the contribution. Owning it was never the point.
 
@@ -80,7 +76,8 @@ Among many:
 - Organisational culture and change management
 - Team Enterpreneurship
 - Personal, Professional Development
-- Team Coaching
+- Team Coaching / Personal Coaching
+- Team-work / Team Effectiveness
 
 ### Connection to this book:
 
@@ -97,16 +94,7 @@ The combination — academic rigour and personal stakes — is what makes this f
 ### Previously published works:
 
 This is my first book.
-I have published some academic work including but with limit so far focusing mainly on teaching. 
-
-### Biography (short):
-
-A Senior Lecturer in Organisational Behaviour at the University of the West of England. She holds a PhD and specialises in leadership, systemic change, institutional design, and organisational learning. Her research examines how systems fail — and how they might be fixed. 
-
-This is her first book. It emerged from years of academic work and from navigating her own hopeless conflict.
-
-She lives in Somerset, United Kingdom, with her family.
-
+I have published some academic work and have various drafts but they remain drafts with me so far focusing mainly on teaching. 
 
 ## Competitive titles
 
@@ -129,26 +117,23 @@ She lives in Somerset, United Kingdom, with her family.
 |-------|------------------------|
 | University platform | Direct access to students studying organisational behaviour, conflict, change management |
 | Academic networks | Connections to researchers, conferences, professional development programmes |
-| Professional associations | Relationships with mediators, HR professionals, organisational consultants through teaching and research |
 | The concept itself | "Betta fish" is memorable and shareable — designed to spread through word of mouth |
 
 ### What I would like to do:
 
-- Change the book to an academic article as a co-laboration with other academics
+- Change the book to an academic article(s through academic collaboration 
 - Present at academic and professional conferences
-- Share with professional networks (mediators, family lawyers, HR)
 - Make templates and resources available online to drive discovery
-- Collect case studies and reader feedback to build evidence base
+- Support collection of the case studies and reader feedback to build evidence base
 
 ### What I won't pretend:
 
 I am not a marketer. I don't have a social media following. I don't have an email list of 1 nor 50,000 subscribers.
 
-I am an academic and a practitioner. I wrote this book because it needed to exist — for the person at 2am who has tried everything, i.e. me.
+I am an academic and a practitioner. I wrote this book because it needed to exist (even if only for me).
 
-I am looking for a publisher who believes in the book itself, and who can bring the marketing expertise I don't have energy for. 
+I am looking for a publisher who believes in the book itself, and who can bring the marketing expertise I don't have energy and patience for. 
 
-The hardest job will be to finish it. And the truth is I never finish anything. 
-
-How is that for a book publication pitch? 
+### Where am I based?
+Uk, Somerset. I am a mother. A wife. A daugher. I have 2 cats I don't particular like and 2 dogs I like a bit more (but not much more). 
 
