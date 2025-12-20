@@ -381,20 +381,6 @@ Ta-da!
 
 ---
 
-**Changes made:**
-
-- Cut "Another problem within the problem" — now just "But here's the problem."
-- Condensed the scattered parenthetical to one clean aside: "(Did you catch me falling into my own trap just now?)"
-- Changed "if you know the Framework" → "if you knew the Framework" (conditional tense)
-- Removed "the" before first quoted phrase: "the 'you are full of shit'" → "'you are full of shit'"
-
----
-
-# The End of Conflict Framework
-
-
----
-
 
 ## TABLE OF CONTENTS
 
