@@ -382,7 +382,7 @@ And the point of the game? Well, again, you know that already. But just for prec
 
 And you end the game by seeing what the game is about. Because when you see what the game is about, that's what gets you close to freedom. Freedom is the territory you control. The territory where you make the choice to end the game.
 
-The End of Conflict Framework is how you check your own sight. How you can see better.
+The Framework is how you check your own sight. How you can see better.
 
 Five stages: Map it. See it. Judge it. Decide it. Act it.
 
