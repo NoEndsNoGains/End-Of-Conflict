@@ -539,17 +539,13 @@ The Unborn (hasn't happened yet)
 
 ## OVERVIEW
 
-
-
-DO NOT READ - OLD WORK - NEEDS RE-THINKING/EDITING
-
 # End of Conflict
 
 ## A Five-Stage Framework for Resolving the Unresolvable
 
 A systematic framework that transforms intractable conflicts into solvable problems by separating what happened from what to do about it.
 
-Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people instead of consequences, we confuse the verdict with the sentence, and we talk without acting. This book offers a five-stage diagnostic framework—Map, Reality, Judgment, Decision, Action—that forces the precision conflicts demand but emotions prevent.
+Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people instead of consequences, we confuse the verdict with the sentence, and we talk without acting. This book offers a five-stage diagnostic framework—Map, Check, Judgment, Decision, Action—that forces the precision conflicts demand but emotions prevent.
 
 Simple. Straightforward. Practical. And yet, a framework that still manages to turn everything on its head.
 
@@ -559,24 +555,55 @@ The framework doesn't promise magic. It promises the best of what's possible—a
 
 ---
 
-# PART 1: OVERVIEW
+# CHEAT SHEET
 
-## End of Conflict Cheat Sheet
+*One page. If you read nothing else, read this.*
 
-*[PLACEHOLDER: Visual one-page summary of the entire framework - the five stages, the core principle, the three consequences, and key tests. To be designed as a reference page readers can return to.]*
+## The Five Stages
 
-# Key Terms
+| Stage | What you do | Question | Output |
+|-------|-------------|----------|--------|
+| **Map** | Name it | What is the visible conflict? | Boundary — who fights over what |
+| **Check** | Verify it | What actually happened? | Clashes — where versions conflict |
+| **Judgment** | Evaluate it | What are the consequences of what we checked? | Verdict — what was Violated, Concealed, Ignored |
+| **Decision** | Choose it | What do we do about the problem that remains? | Solution path |
+| **Action** | Do it | How do we make it real? | Implementation — steps, owners, timelines |
+
+## The Core Insight
+
+**Judgment ≠ Decision**
+
+- **Judgment** looks backward: Given what we checked, what's the verdict? Who (if anyone) is accountable? What was violated, concealed, ignored?
+- **Decision** looks forward: Regardless of the verdict, we still have a problem. How do we solve it?
+
+You can have a verdict of "no one did wrong" and still have a problem to solve.
+
+## The Three Consequences (V.C.I)
+
+| Consequence | What it captures |
+|-------------|------------------|
+| **Violated** | What was broken — rules, agreements, trust |
+| **Concealed** | What was hidden — facts, motives, truth |
+| **Ignored** | What was missed — needs, fears, losses |
+
+You judge the consequences, not the person.
+
+## The Three Decision Tests
+
+| Test | Question |
+|------|----------|
+| **L.E.R** | Is it right? (Legal, Ethical, Relational) |
+| **B.U.S** | Is it wise? (Beneficial, Unintended consequences, Sustainable) |
+| **A.C.T** | Can it be done? (Achievable, Clear, Timely) |
+
+## Key Terms
 
 | Term | What it means |
-| --- | --- |
+|------|---------------|
 | Betta fish | Fighting your own reflection without knowing it |
 | Truth Tester | Tool that reveals gaps between what you believe and what you can prove |
 | Living Research Protocol | Method that breaks your own claims on purpose — keeps understanding alive |
 | Immunity Paradox | Why the same defences that protect you also keep you stuck |
-| V.C.I | Violated, Concealed, Ignored — consequences to judge before blaming people |
-| L.E.R | Legal, Ethical, Relational — the "Is it right?" test |
-| B.U.S | Beneficial, Unintended consequences, Sustainable — the "Is it wise?" test |
-| A.C.T | Achievable, Clear, Timely — the "Can it be done?" test |
 | Micro-agency | The small territory you actually control — your perception, reactions, stories |
 | Macro-responsibility | Who's responsible for changing systems — distributed by power |
 | Protective self-deception | The bullshit you need to survive |
@@ -584,51 +611,41 @@ The framework doesn't promise magic. It promises the best of what's possible—a
 
 ---
 
+# PART 1: OVERVIEW
+
 ## 1.1 What is this?
 
 The End of Conflict Framework is a systematic process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework forces precision at each stage, preventing the drift that causes most conflict resolution efforts to fail.
 
----
-
 ## 1.2 Core Principle
 
-**Name it → Check it → Judge it → Choose it → Do it.**
+**Map it → Check it → Judge it → Choose it → Do it.**
 
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/680311bb-b02d-447b-8adc-8d9ab124f874" />
-
-
----
+*[PLACEHOLDER: Image — framework diagram]*
 
 ## 1.3 The Journey
 
-Map → Reality → Judgment → Decision → Action
-
----
+Map → Check → Judgment → Decision → Action
 
 ## 1.4 The Five Stages
 
-| Stage | Activity | Output | Question | What you get | Medical Analogy | Role |
-|-------|----------|--------|----------|--------------|-----------------|------|
-| **Map** | Name it | Boundary | Who is involved? What is the territory? | Who fights over what | Presenting Problem | The Case |
-| **Reality** | Know it | Clashes | What does each party say, do, want? Where do they clash? | The frictions between versions | Symptoms | The Cause |
-| **Judgment** | Judge it | Consequences | What is the cost? What has been Violated, Concealed, Ignored? | The cost—Violated, Concealed, Ignored | Diagnosis | The Effect |
-| **Decision** | Choose it | Resolution | What path forward addresses the consequences? | The path to resolve the conflict | Treatment | The Cure |
-| **Action** | Do it | Change | What will make it real? | Implemented steps, owners, timelines | Recovery | The Recovery |
-
----
+| Stage | Activity | Output | Question | Medical Analogy | Role |
+|-------|----------|--------|----------|-----------------|------|
+| **Map** | Name it | Boundary | Who is involved? What is the territory? | Presenting Problem | The Case |
+| **Check** | Verify it | Clashes | What does each party say, do, want? Where do they clash? | Symptoms | The Cause |
+| **Judgment** | Evaluate it | Verdict | What are the consequences? What was Violated, Concealed, Ignored? | Diagnosis | The Effect |
+| **Decision** | Choose it | Solution | What path forward addresses the consequences? | Treatment | The Cure |
+| **Action** | Do it | Change | What will make it real? | Recovery | The Recovery |
 
 ## 1.5 The Chain: Case → Cause → Effect → Cure → Recovery
 
 | Stage | Role | Example |
 |-------|------|---------|
 | **Map** | The Case | "This is the conflict we are examining." |
-| **Reality** | The Cause | "We have a clash between Person A's Want and Person B's Do." |
-| **Judgment** | The Effect | "Because of this clash, trust is Violated, progress is Stalled, morale is Ignored." |
-| **Decision** | The Cure | "To address these consequences, we must do X, Y, and Z." |
+| **Check** | The Cause | "We have a clash between Person A's claim and what actually happened." |
+| **Judgment** | The Effect | "Because of this clash, trust is Violated, truth is Concealed, needs are Ignored." |
+| **Decision** | The Cure | "To address these consequences, we will do X, Y, and Z." |
 | **Action** | The Recovery | "These are the steps, owners, and timelines to make it real." |
-
----
 
 ## 1.6 The Three Consequences (Violated, Concealed, Ignored)
 
@@ -642,42 +659,49 @@ Judgment is an **Audit of Gaps** — the distance between what is and what shoul
 
 **Note:** These are **lenses**, not boxes. They can overlap. Something can be both Concealed AND Ignored. You evaluate through all three.
 
-This covers: **Accountability** (Violated), **Transparency** (Concealed), **Healing** (Ignored).
+This covers:
+- **Accountability** (Violated)
+- **Transparency** (Concealed)
+- **Healing** (Ignored)
 
-*You are not judging the person. You are judging the impact of the friction.*
+*You are not judging the person. You are judging the consequences of what you checked.*
 
----
+## 1.7 Judgment vs Decision: The Verdict and the Solution
 
-## 1.7 Why Consequences Not People (Verdict vs Sentence)
+**Judgment** and **Decision** are not the same thing.
 
-*[PLACEHOLDER: This section needs to be written. Key content to develop:]*
+**Judgment** is backward-looking. It asks: Given what we checked, what's the verdict?
+- Was something violated, concealed, or ignored?
+- Who (if anyone) is accountable?
+- What are the consequences of what happened?
 
-- *The distinction between judging a person versus judging the impact of their actions*
-- *Why this distinction matters for sustainable resolution*
-- *The Verdict vs Sentence distinction: Judgment determines what happened and its cost (the verdict); Decision determines what to do about it (the sentence)*
-- *How conflating these leads to premature conclusions and escalation*
-- *Link to the depersonalisation principle in 1.8*
+Judgment produces an **evaluation** — not a punishment, not a solution. Just: this is what we found.
 
----
+**Decision** is forward-looking. It asks: We still have a problem. How do we solve it?
+
+The problem you're solving is not "what someone did wrong." The problem is the **consequence** that exists — regardless of whether anyone is at fault.
+
+**Example:** Two parents want primary custody. Neither did anything wrong. 
+- **Judgment:** No violation. Both are good parents.
+- **But the problem remains:** Two people want something only one can have. A child's needs must be met.
+- **Decision:** How do we solve *that*?
+
+This is why you need both stages. Judgment closes the accountability question. Decision opens the resolution question.
 
 ## 1.8 Why This Works
 
-- **Depersonalised** — You judge the impact, not the person
+- **Depersonalised** — You judge the consequences, not the person
 - **Scales** — Hurt feelings or lost revenue, same framework
 - **Forces precision** — No consequences, no real conflict
 - **Iterates** — Action closes the loop, or reveals the map was incomplete and the cycle begins again
 
----
-
 ## 1.9 The Final Test
 
-Judgment asks: **"What is the cost of this conflict?"**
+Judgment asks: **"What are the consequences of what we checked?"**
 
 If you can't name a consequence (a Violation, a Concealment, or an Ignored need), there might not be a conflict worth resolving through this framework — or you haven't looked hard enough.
 
-But if there is a cost, that cost dictates the Decision.
-
----
+But if there is a consequence, that consequence is the problem Decision must solve.
 
 ## 1.10 The Value Function
 
@@ -685,9 +709,9 @@ The framework is called "End of Conflict." The purpose is to **end conflict** in
 
 - Is **sustainable** (doesn't reignite)
 - **Serves all parties** (or as many as possible)
-- Is **fair** (L.E.R tests: Legal, Ethical, Reversible)
-- Is **wise** (B.U.S tests: Benefit, Universal, Sustainable)
-- Is **doable** (A.C.T tests: Assets, Capability, Timely)
+- Is **fair** (L.E.R tests: Legal, Ethical, Relational)
+- Is **wise** (B.U.S tests: Beneficial, Unintended consequences, Sustainable)
+- Is **doable** (A.C.T tests: Achievable, Clear, Timely)
 
 **The value function:** Resolve conflict sustainably and fairly.
 
@@ -697,15 +721,13 @@ It's not purely Pareto (someone may have to lose). Not purely rights-based (thou
 
 ---
 
-# PART 2: THE FRAMEWORK
+# PART 2: CONSTRAINTS
 
-## 2.1 Constraints
-
-### Pre-Check: Does This Situation Fit?
+## 2.1 Pre-Check: Does This Situation Fit?
 
 Not every frustration is a conflict. Before using this framework, confirm the situation qualifies.
 
-### When to Use This Framework
+## 2.2 When to Use This Framework
 
 Use when **all** of the following are true:
 
@@ -714,7 +736,7 @@ Use when **all** of the following are true:
 3. You can state what the conflict is about in one sentence.
 4. You know enough about the situation to sketch an initial map.
 
-### When NOT to Use This Framework
+## 2.3 When NOT to Use This Framework
 
 Do **not** use when:
 
@@ -722,16 +744,14 @@ Do **not** use when:
 2. The "other side" is a force of nature or the irreversible past. (No agent can respond.)
 3. You cannot yet say what the fight is about. (You need more information before mapping.)
 
-### How to Begin
+## 2.4 How to Begin
 
-1. **Locate yourself.** Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future? (See Section 2.2.)
+1. **Locate yourself.** Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future? (See Section 2.5.)
 2. **Write your one-sentence conflict name.** "This is a conflict about …"
 3. **Draft a first map.** List parties, their positions, and what each stands to gain or lose.
-4. **Proceed through the stages.** Map → Reality → Judgment → Decision → Action.
+4. **Proceed through the stages.** Map → Check → Judgment → Decision → Action.
 
----
-
-## 2.2 Before You Begin: Locate Yourself
+## 2.5 Before You Begin: Locate Yourself
 
 Before you start Stage 1 (Map), you must locate yourself relative to the conflict. Two dimensions set your coordinates.
 
@@ -747,11 +767,18 @@ This determines whether you can affect the outcome, what blind spots to expect, 
 
 **What counts as a "party"?**
 
-A party is anyone with power to change what happens: the people *in* the conflict (they can escalate, concede, act); a judge (they can decide); a parent mediating between children (they can intervene); a boss resolving a team dispute (they can impose).
+A party is anyone with power to change what happens:
+- The people *in* the conflict (they can escalate, concede, act)
+- A judge (they can decide)
+- A parent mediating between children (they can intervene)
+- A boss resolving a team dispute (they can impose)
 
 **What counts as an "observer"?**
 
-An observer has no power over the outcome: a historian analysing a past war (it is over); a journalist reporting on a dispute (can observe, cannot decide); you analysing someone else's conflict with no involvement (just watching).
+An observer has no power over the outcome:
+- A historian analysing a past war (it is over)
+- A journalist reporting on a dispute (can observe, cannot decide)
+- You analysing someone else's conflict with no involvement (just watching)
 
 **Note on internal conflicts:**
 
@@ -773,8 +800,8 @@ Your map is a hypothesis. You are simulating, not resolving. Until the conflict 
 
 ### What Each Combination Allows
 
-| Time | Map | Reality | Judgment | Decision | Action |
-|------|-----|---------|----------|----------|--------|
+| Time | Map | Check | Judgment | Decision | Action |
+|------|-----|-------|----------|----------|--------|
 | **Past** | You can map | Verify against evidence | Judge with hindsight | Already decided | Already acted — learn |
 | **Present** | You can map | Verify against reality | You can judge | You can decide | You can act |
 | **Future** | You can map | Guessing — projections | You are preparing | You are rehearsing | Not yet — simulation |
@@ -790,295 +817,99 @@ Your map is a hypothesis. You are simulating, not resolving. Until the conflict 
 
 ---
 
-*[Sections 2.3–2.8 and Parts 3–5 continue from here]*
+# PART 3: THE FRAMEWORK
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# End of Conflict
-
-A five-stage framework for analysing and resolving conflicts — external disputes or internal dilemmas.
+*[PLACEHOLDER: Detailed treatment of each stage — Map, Check, Judgment, Decision, Action]*
 
 ---
 
-## 1. Overview
+# PART 4: STRESS TESTS
 
-### 1.1 What is this?
-
-The End of Conflict Framework is a systematic process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework forces precision at each stage, preventing the drift that causes most conflict resolution efforts to fail.
-
-### 1.2 Core Principle
-
-**Name it → Know it → Judge it → Choose it → Do it.**
-
-### 1.3 The Journey
-
-```
-Map → Reality → Judgment → Decision → Action
-```
-
-### 1.4 The Five Stages
-
-| Stage | Activity | Output | Question | What you get | Functional Logic | Medical Analogy | Role |
-|-------|----------|--------|----------|--------------|------------------|-----------------|------|
-| **Map** | Name it | Boundary | Who is involved? What is the territory of the fight? | Who fights over what | Defining the Scope | Presenting Problem | The Case |
-| **Reality** | Know it | Clashes | What does each party say, do, want? Where do they clash? | The frictions between versions | The Data | Symptoms | The Cause |
-| **Judgment** | Judge it | Consequences | What is the cost? What has been Violated, Concealed, Ignored? | The cost — Violated, Concealed, Ignored | The Damage Report | Diagnosis | The Effect |
-| **Decision** | Choose it | Resolution | What path forward addresses the consequences? | The path to resolve the conflict | The Strategy | Treatment | The Cure |
-| **Action** | Do it | Change | What will make it real? | Implemented steps, owners, timelines | The Implementation | Recovery | The Recovery |
-
-### 1.5 The Chain: Case → Cause → Effect → Cure → Recovery
-
-| Stage | Role | Example |
-|-------|------|---------|
-| **Map** | The Case | "This is the conflict we are examining." |
-| **Reality** | The Cause | "We have a clash between Person A's Want and Person B's Do." |
-| **Judgment** | The Effect | "Because of this clash, trust is Violated, progress is Stalled, morale is Ignored." |
-| **Decision** | The Cure | "To address these consequences, we must do X, Y, and Z." |
-| **Action** | The Recovery | "These are the steps, owners, and timelines to make it real." |
-
-### 1.6 The Three Consequences
-
-Judgment is an **Audit of Gaps** — the distance between what is and what should be.
-
-| Consequence | What it captures | Examples |
-|-------------|------------------|----------|
-| **Violated** | What was broken | Rules, agreements, trust, integrity breached |
-| **Concealed** | What was hidden | Facts, motives, truth withheld |
-| **Ignored** | What was missed | Needs, fears, wants, losses unacknowledged |
-
-**Note:** These are **lenses**, not boxes. They can overlap. Something can be both Concealed AND Ignored. You evaluate through all three.
-
-This covers:
-- **Accountability** (Violated)
-- **Transparency** (Concealed)
-- **Healing** (Ignored)
-
-You are not judging the person. You are judging the impact of the friction.
-
-### 1.7 Why This Works
-
-- **Depersonalised** — You judge the impact, not the person
-- **Scales** — Hurt feelings or lost revenue, same framework
-- **Forces precision** — No consequences, no real conflict
-- **Iterates** — Action closes the loop, or reveals the map was incomplete and the cycle begins again
-
-### 1.8 The Final Test
-
-Judgment asks: **"What is the cost of this conflict?"**
-
-If you can't name a consequence (a Violation, a Concealment, or an Ignored need), there might not be a conflict worth resolving through this framework — or you haven't looked hard enough.
-
-But if there is a cost, that cost dictates the Decision.
-
-### 1.9 The Value Function
-
-The framework is called "End of Conflict." The purpose is to **end conflict** in a way that:
-
-- Is **sustainable** (doesn't reignite)
-- **Serves all parties** (or as many as possible)
-- Is **fair** (L.E.R tests: Legal, Ethical, Reversible)
-- Is **wise** (B.U.S tests: Benefit, Universal, Sustainable)
-- Is **doable** (A.C.T tests: Assets, Capability, Timely)
-
-**The value function:** Resolve conflict sustainably and fairly.
-
-It's not purely Pareto (someone may have to lose). Not purely rights-based (though L.E.R includes rights). Not purely restorative (though it can be).
-
-It's **pragmatic resolution with ethical constraints.**
-
----
-
-## 2. Constraints
-
-### 2.1 Pre-Check: Does This Situation Fit?
-
-Not every frustration is a conflict. Before using this framework, confirm the situation qualifies.
-
-### 2.2 When to Use This Framework
-
-Use when **all** of the following are true:
-
-1. There are at least two positions in genuine disagreement.
-2. Each position is held by someone (or some group) who can choose and act.
-3. You can state what the conflict is about in one sentence.
-4. You know enough about the situation to sketch an initial map.
-
-### 2.3 When NOT to Use This Framework
-
-Do **not** use when:
-
-1. There is only frustration, not a second position. ("I hate the traffic" is not a conflict — traffic cannot negotiate.)
-2. The "other side" is a force of nature or the irreversible past. (No agent can respond.)
-3. You cannot yet say what the fight is about. (You need more information before mapping.)
-
-### 2.4 How to Begin
-
-1. **Locate yourself.** Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future? (See Section 3.)
-2. **Write your one-sentence conflict name.** "This is a conflict about …"
-3. **Draft a first map.** List parties, their positions, and what each stands to gain or lose.
-4. **Proceed through the stages.** Map → Reality → Judgment → Decision → Action.
-
----
-
-## 3. Before You Begin: Locate Yourself
-
-Before you start Stage 1 (Map), you must locate yourself relative to the conflict. Two dimensions set your coordinates.
-
-### 3.1 Dimension 1: Position — What is your relationship to the conflict?
-
-This determines whether you can affect the outcome, what blind spots to expect, and how hard it will be to see clearly.
-
-| Position | Description |
-|----------|-------------|
-| **Observer** | You have no power to affect the outcome. You are analysing only. |
-| **Party** | You have power to affect the outcome — whether as someone *in* the conflict, or someone with authority *over* it. |
-| **Internal** | The conflict is within yourself. You are analyst, all parties, and the battlefield. |
-
-#### 3.1.1 What counts as a "party"?
-
-A party is anyone with power to change what happens:
-
-- The people *in* the conflict (they can escalate, concede, act)
-- A judge (they can decide)
-- A parent mediating between children (they can intervene)
-- A boss resolving a team dispute (they can impose)
-
-#### 3.1.2 What counts as an "observer"?
-
-An observer has no power over the outcome:
-
-- A historian analysing a past war (it is over)
-- A journalist reporting on a dispute (can observe, cannot decide)
-- You analysing someone else's conflict with no involvement (just watching)
-
-#### 3.1.3 Note on internal conflicts
-
-Internal conflicts require stepping outside yourself to see your competing forces as if they were separate parties. This is the hardest application. Internal conflicts rarely stay internal — you must also identify who else is affected.
-
-### 3.2 Dimension 2: Time — When is the conflict?
-
-This determines what counts as evidence, whether action is possible, and whether your map is real or hypothetical.
-
-| Time | Description |
-|------|-------------|
-| **Past** | Already happened. Memory, documents, evidence. You know how it ended. |
-| **Present** | Happening now. Real events, real claims, real parties. |
-| **Future** | Has not played out yet. Projections, assumptions, scenarios. You are preparing. |
-
-#### 3.2.1 Note on future mode
-
-Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out, your map is incomplete. Simulation is preparation, not resolution.
-
-### 3.3 What Each Combination Allows
-
-| Time | Map | Reality | Judgment | Decision | Action |
-|------|-----|---------|----------|----------|--------|
-| **Past** | You can map | You can verify against evidence | You can judge with hindsight | Already decided | Already acted — you can learn |
-| **Present** | You can map | You can verify against reality | You can judge | You can decide | You can act |
-| **Future** | You can map | You are guessing — projections only | You are preparing | You are rehearsing | Not yet — simulation only |
-
-### 3.4 Summary: The Pre-Check
-
-| Question | Dimension | What it determines |
-|----------|-----------|-------------------|
-| What is my relationship to this conflict? | Position | Whether you can affect the outcome. Your blind spots. How hard it will be to see. |
-| When is this conflict? | Time | What counts as evidence. Whether action is possible. Whether your map is real or hypothetical. |
-
-**Before you map the conflict, you map your position relative to it.**
-
----
-
-## 4. The Five Stages
-
-*[Detailed treatment of each stage follows]*
-
----
-
-## 5. Stress Tests
-
-### 5.1 Stress Test: Competing Legitimate Goods
+## 4.1 Stress Test: Competing Legitimate Goods
 
 **Scenario:** Two parents in a divorce both want primary custody. Neither has done anything wrong. Both love the child. Both are good parents.
 
 | Stage | What happens |
 |-------|--------------|
 | **Map** | Conflict is over custody. Parties: Parent A, Parent B, Child. |
-| **Reality** | Both say they want primary custody. Both do care for the child well. Both want time and stability. **Clash:** Both want something only one can fully have. |
-| **Judgment** | Violated? No — no rules broken. Concealed? No — both are honest. **Ignored?** Yes — each party's legitimate need is at risk of being dismissed by the other's claim. **Consequence:** Someone's needs will be unmet. The child may be caught in the middle. |
+| **Check** | Both say they want primary custody. Both do care for the child well. Both want time and stability. **Clash:** Both want something only one can fully have. |
+| **Judgment** | Violated? No — no rules broken. Concealed? No — both are honest. **Ignored?** Yes — each party's legitimate need is at risk of being dismissed by the other's claim. **Verdict:** Someone's needs will be unmet. The child may be caught in the middle. |
 | **Decision** | Choose a resolution that addresses the consequences — shared custody, specific arrangements, compromise. |
 | **Action** | Implement it. |
 
 **Conclusion:** The framework works. "Ignored" captures legitimate needs at risk of being unmet — even when no one is at fault. Consequences exist even without wrongdoing. The cost of the impasse is real.
 
-### 5.2 Stress Test: Latent and Future Conflict
+## 4.2 Stress Test: Latent and Future Conflict
 
 **Question:** Can this framework handle latent conflict (tension that hasn't erupted) or future conflict (anticipated)?
 
 **Answer:** Yes. The Time dimension (Past, Present, Future) explicitly covers this:
 
-- **Future mode:** Your map is a hypothesis. You are simulating, not resolving. You can Map, project Reality, prepare Judgment, rehearse Decision — but Action is not yet possible. Simulation is preparation, not resolution.
+- **Future mode:** Your map is a hypothesis. You are simulating, not resolving. You can Map, project Check, prepare Judgment, rehearse Decision — but Action is not yet possible. Simulation is preparation, not resolution.
 - **Latent conflict:** If tension exists but consequences cannot be named, it's either not yet a conflict worth resolving, or you haven't looked hard enough. The framework prompts deeper investigation.
+
+## 4.3 Stress Test: The Bad Actor
+
+**Question:** What if the other party is actively gaming the framework?
+
+*[PLACEHOLDER: To be developed — addresses strategic misrepresentation, exaggerated costs, manipulation]*
+
+## 4.4 Stress Test: The Asymmetry of Power
+
+**Question:** What if a child fights a parent, or a citizen fights a state?
+
+*[PLACEHOLDER: To be developed — addresses structural vs operational distinction, power imbalance]*
+
+## 4.5 Stress Test: The Irreversible Past
+
+**Question:** How do you apply Action when damage cannot be undone?
+
+*[PLACEHOLDER: To be developed — addresses the Gaps audit when repair is impossible]*
 
 ---
 
-## 6. Key Clarifications
+# PART 5: KEY CLARIFICATIONS
 
-### 6.1 On the Two Chains
+## 5.1 On the Two Chains
 
 The two chains align precisely:
 
 | Stage | Activity | Role |
 |-------|----------|------|
 | Map | Name it | The Case |
-| Reality | Know it | The Cause |
-| Judgment | Judge it | The Effect |
+| Check | Verify it | The Cause |
+| Judgment | Evaluate it | The Effect |
 | Decision | Choose it | The Cure |
 | Action | Do it | The Recovery |
 
-Reality shows the **Clashes** (what is causing the damage). Judgment shows the **Consequences** (the effect of those clashes). The clashes ARE the cause; the consequences ARE the effect.
+Check shows the **Clashes** (what is causing the friction). Judgment shows the **Consequences** (the effect of those clashes). The clashes ARE the cause; the consequences ARE the effect.
 
-### 6.2 On Decision vs Action
+## 5.2 On Judgment vs Decision
 
-- **Decision** = Choosing the path (the strategy, the plan, the commitment) — The Verdict
-- **Action** = Implementing the path (steps, owners, timelines, execution) — The Sentence
+- **Judgment** = The verdict on what you checked — backward-looking, evaluative
+- **Decision** = The solution to the problem that remains — forward-looking, strategic
 
-Decision is what you will do. Action is doing it.
+Judgment says what happened and what it cost. Decision says what to do about it.
 
-### 6.3 On "Clashes" Being Descriptive
+## 5.3 On "Clashes" Being Descriptive
 
-"Clashes" describes where versions conflict — that's data. The **evaluation** of those clashes (what they cost) happens in Judgment. Reality is descriptive; Judgment is evaluative.
+"Clashes" describes where versions conflict — that's data. The **evaluation** of those clashes (what they cost) happens in Judgment. Check is descriptive; Judgment is evaluative.
 
-### 6.4 On Fairness, Rights, and Long-term Effects
+## 5.4 On Fairness, Rights, and Long-term Effects
 
 The Decision stage includes the L.E.R / B.U.S / A.C.T tests:
 
-- **L.E.R** = Legal, Ethical, Reversible (fairness, rights)
-- **B.U.S** = Benefit, Universal, Sustainable (long-term effects)
-- **A.C.T** = Assets, Capability, Timely (feasibility)
+- **L.E.R** = Legal, Ethical, Relational (fairness, rights)
+- **B.U.S** = Beneficial, Unintended consequences, Sustainable (long-term effects)
+- **A.C.T** = Achievable, Clear, Timely (feasibility)
 
 These ensure decisions consider more than just "addressing consequences."
 
-### 6.5 On Iteration and Feedback Loops
+## 5.5 On Iteration and Feedback Loops
 
 The framework is not strictly linear. Action closes the loop — or reveals that the map was incomplete, and the cycle begins again. Each stage produces provisional outputs subject to update as new information emerges.
 
-### 6.6 On Structural vs Operational Causes
+## 5.6 On Structural vs Operational Causes
 
 In the Map stage, sub-conflicts are typed as:
 
@@ -1089,19 +920,19 @@ This distinguishes surface symptoms from root causes.
 
 ---
 
-## Notes
+# NOTES
 
-### Note on Premature Resolution
+## Note on Premature Resolution
 
 If, after mapping the conflict, you discover the disagreement was a misunderstanding and everyone now agrees, stop. The framework resolved itself in Stage 1. This is success, not failure.
 
-### Note on What Fuels the Movement
+## Note on What Fuels the Movement
 
 To move between the stages you will need energy. That energy can be anything that makes you "do it." When you sense fear, you might need courage to push forward. Sometimes what moves you forward is curiosity: the need to make sense of something that does not add up. Sometimes it is persistence, when there is exhaustion and you believe you simply cannot sustain the weight of unresolved conflict any longer — and you push forward regardless. Sometimes it is care: someone you love is affected, and that matters more than your own comfort. Sometimes it is integrity: the gap between what you know and what you are doing becomes unbearable.
 
 Or perhaps it does not matter what moves you forward. What matters is that you do move forward. The framework runs on whatever force is strong enough to overcome what is holding you back.
 
-### Note on Intention
+## Note on Intention
 
 This framework reveals the structure of conflict — who is involved, what they want, what is true, and what is hidden. It shows you accuracy (or its lack) in judgments made, points to failure when decisions have been made.
 
@@ -1117,36 +948,31 @@ The framework's purpose is to genuinely do your best to resolve conflict in a wa
 
 **The choice is yours.**
 
-### Note on Gaming and Manipulation
+## Note on Gaming and Manipulation
 
-## The Reader Journey (Updated)
+The framework acknowledges that actors may strategically misrepresent costs, exaggerate clashes, or game the process. The CHECK stage (asking "What is MY own want?") and the Note on Intention address this directly: the framework reveals truth, but cannot force honest use.
 
-| Part | What reader gets | Reader question answered | The "Hook" |
-|------|------------------|--------------------------|------------|
-| **Overview** | The whole picture | "What is this?" | "I can see the exit." |
-| **Framework** | The method | "How do I use it?" | "I am finally doing something right." |
-| **Foundations** | The heritage | "Why these choices?" | "This isn't just a list; it's a lineage." |
-| **Stress Testing** | The tests | "Does it actually work?" | "If it works for a war, it works for me." |
-| **Deep Dive** | The original theory | "What's underneath?" | "I see the world differently now." |
+## Note on Power
+
+Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
 
 ---
 
-## New Stress Tests Explained:
+# THE READER JOURNEY
 
-| Test | What it tests | The hard question |
-|------|---------------|-------------------|
-| **4.4 The Bad Actor** | Truth Tester, L.E.R filters | What if the other party is actively gaming the framework? |
-| **4.5 The Asymmetry of Power** | Structural vs Operational distinction | What if a child fights a parent, or a citizen fights a state? |
-| **4.6 The Irreversible Past** | The Gaps audit (Violated, Concealed, Ignored) | How do you apply Action when damage cannot be undone? |
+| Part | What reader gets | Reader question answered | The "Hook" |
+|------|------------------|--------------------------|------------|
+| **Cheat Sheet** | The whole picture in one page | "Give me the summary" | "I can see the exit." |
+| **Overview** | The concepts | "What is this?" | "I understand what I'm holding." |
+| **Constraints** | The boundaries | "When does this apply?" | "I know if this is for me." |
+| **Framework** | The method | "How do I use it?" | "I am finally doing something right." |
+| **Stress Tests** | The tests | "Does it actually work?" | "If it works for a war, it works for me." |
+| **Clarifications** | The nuance | "What about edge cases?" | "My objections are answered." |
+| **Notes** | The wisdom | "What else should I know?" | "I see the world differently now." |
 
+---
 
-
-
-The framework acknowledges that actors may strategically misrepresent costs, exaggerate clashes, or game the process. The CHECK step in Reality (asking "What is MY own want?") and the Note on Intention address this directly: the framework reveals truth, but cannot force honest use.
-
-### Note on Power
-
-Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
+*[END OF OVERVIEW DRAFT]*
 
 
 ## FRAMEWORK
