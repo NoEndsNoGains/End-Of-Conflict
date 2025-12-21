@@ -578,12 +578,50 @@ A systematic process for resolving conflicts that seem intractable. It applies t
 
 ## What is it's Purpose? 
 To see the conflict as precisely as possible. Not to win it. Not to be right. To see it clearly to choose better. It doesn't promise resolution. It promises sight. Sight is leverage. 
+The purpose is to **end conflict** in a way that:
 
+- Is **sustainable** (doesn't reignite)
+- **Serves all parties** (or as many as possible)
+- Is **fair** (L.E.R tests: Legal, Ethical, Relational)
+- Is **wise** (B.U.S tests: Beneficial, Unintended consequences, Sustainable)
+- Is **doable** (A.C.T tests: Achievable, Clear, Timely)
+
+**The value function:** Resolve conflict sustainably and fairly.
+
+It's not purely Pareto (someone may have to lose). Not purely rights-based (though L.E.R includes rights). Not purely restorative (though it can be).
+
+***It's pragmatic resolution with ethical constraints.***
 
 ## Why is it needed?
 Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people before consequences or forget the consequence or the people, we confuse the verdict with decision, and choose not to see and we choose not to act.
 
 ## Where to use it ? Who can use it? 
+
+## CONSTRAINTS
+
+## 2.1 Pre-Check: Does This Situation Fit?
+
+Not every frustration is a conflict. Before using this framework, confirm the situation qualifies.
+
+## 2.2 When to Use This Framework
+
+Use when **all** of the following are true:
+
+1. There are at least two positions in genuine disagreement.
+2. Each position is held by someone (or some group) who can choose and act.
+3. You can state what the conflict is about in one sentence.
+4. You know enough about the situation to sketch an initial map.
+
+## 2.3 When NOT to Use This Framework
+
+Do **not** use when:
+
+1. There is only frustration, not a second position. ("I hate the traffic" is not a conflict — traffic cannot negotiate.)
+2. The "other side" is a force of nature or the irreversible past. (No agent can respond.)
+3. You cannot yet say what the fight is about. (You need more information before mapping.)
+
+
+ 
 
 ## The Five Stages
 
@@ -597,6 +635,43 @@ Five stages:
 Five archetypes — cognitive shortcuts that bypass emotional noise:
 
 Eagle → MAP | Bloodhound → CHECK | Owl → JUDGE | Lion → DECIDE | Ant → ACT
+
+Yes, it holds. Here's what to insert right after the animal table, before Diagnostic Questions:
+
+---
+
+### Alternative Framing: The Clinical Chain
+
+*If animals don't resonate, use the medical lens — same logic, different door.*
+
+| Stage | Animal | Medical | Role |
+|-------|--------|---------|------|
+| MAP | Eagle | Presenting Problem | The Case |
+| CHECK | Bloodhound | Differential Diagnosis | The Tests |
+| JUDGE | Owl | Pathology Findings | The Verdict |
+| DECIDE | Lion | Treatment Plan | The Cure |
+| ACT | Ant | Recovery Protocol | The Recovery |
+
+You can't treat what you haven't diagnosed.
+You can't diagnose without test results.
+You can't test without knowing the presenting problem.
+You can't recover without following the treatment.
+
+---
+
+**Or shorter, if you want minimal:**
+
+### For Those Who Resist Animals
+
+Same chain, clinical clothing:
+
+**Presenting Problem → Differential Diagnosis → Pathology Findings → Treatment Plan → Recovery Protocol**
+
+*Case → Tests → Verdict → Cure → Recovery*
+
+Animals make you the agent; medical makes you the analyst.Because the cheat sheet is for someone in the conflict — and you don't resolve a conflict by studying it, you resolve it by becoming what it requires the cheatsheet continues with Animal 
+
+---
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5eef5f8-b7dc-4c07-984f-fe771d64aa92" />
 
@@ -814,17 +889,20 @@ The Eagle is you.
 
 
 
+1. Few more deatails on each Stage:
 
 
+## for Eagal
+Structural vs Operational Causes
 
+In the Map stage, sub-conflicts are typed as:
 
+- **Operational** = Proximate triggers (what to do)
+- **Structural** = Underlying conditions (who decides)
 
-
-
-
-
-
-
+This distinguishes surface symptoms from root causes.
+## for dog
+dog gives you data. The **evaluation** of those data (what they cost) happens in Judgment. snif (check) is descriptive; Judgment is evaluative.
 
 
 
@@ -841,55 +919,8 @@ The Three Consequences (V.C.I)
 
 You judge the consequences, not the person.
 
-## for Lion to Decide
 
-The Three Decision Tests
-
-| Test | Question |
-|------|----------|
-| **L.E.R** | Is it right? (Legal, Ethical, Relational) |
-| **B.U.S** | Is it wise? (Beneficial, Unintended consequences, Sustainable) |
-| **A.C.T** | Can it be done? (Achievable, Clear, Timely) |
-
-## Key Terms
-
-| Term | What it means |
-|------|---------------|
-| Betta fish | Fighting your own reflection without knowing it |
-| Truth Tester | Tool that reveals gaps between what you believe and what you can prove |
-| Living Research Protocol | Method that breaks your own claims on purpose — keeps understanding alive |
-| Immunity Paradox | Why the same defences that protect you also keep you stuck |
-| Micro-agency | The small territory you actually control — your perception, reactions, stories |
-| Macro-responsibility | Who's responsible for changing systems — distributed by power |
-| Protective self-deception | The bullshit you need to survive |
-| Defensive self-deception | The bullshit that keeps the conflict going |
-
----
-
-
-
-
-## 1.4 The Five Stages
-
-| Stage | Activity | Output | Question | Medical Analogy | Role |
-|-------|----------|--------|----------|-----------------|------|
-| **Map** | Name it | Boundary | Who is involved? What is the territory? | Presenting Problem | The Case |
-| **Check** | Verify it | Clashes | What does each party say, do, want? Where do they clash? | Symptoms | The Cause |
-| **Judgment** | Evaluate it | Verdict | What are the consequences? What was Violated, Concealed, Ignored? | Diagnosis | The Effect |
-| **Decision** | Choose it | Solution | What path forward addresses the consequences? | Treatment | The Cure |
-| **Action** | Do it | Change | What will make it real? | Recovery | The Recovery |
-
-## 1.5 The Chain: Case → Cause → Effect → Cure → Recovery
-
-| Stage | Role | Example |
-|-------|------|---------|
-| **Map** | The Case | "This is the conflict we are examining." |
-| **Check** | The Cause | "We have a clash between Person A's claim and what actually happened." |
-| **Judgment** | The Effect | "Because of this clash, trust is Violated, truth is Concealed, needs are Ignored." |
-| **Decision** | The Cure | "To address these consequences, we will do X, Y, and Z." |
-| **Action** | The Recovery | "These are the steps, owners, and timelines to make it real." |
-
-## 1.6 The Three Consequences (Violated, Concealed, Ignored)
+older/newer:
 
 Judgment is an **Audit of Gaps** — the distance between what is and what should be.
 
@@ -907,6 +938,7 @@ This covers:
 - **Healing** (Ignored)
 
 *You are not judging the person. You are judging the consequences of what you checked.*
+
 
 ## 1.7 Judgment vs Decision: The Verdict and the Solution
 
@@ -929,13 +961,13 @@ The problem you're solving is not "what someone did wrong." The problem is the *
 - **Decision:** How do we solve *that*?
 
 This is why you need both stages. Judgment closes the accountability question. Decision opens the resolution question.
+## 5.2 On Judgment vs Decision
 
-## 1.8 Why This Works
+- **Judgment** = The verdict on what you checked — backward-looking, evaluative
+- **Decision** = The solution to the problem that remains — forward-looking, strategic
 
-- **Depersonalised** — You judge the consequences, not the person
-- **Scales** — Hurt feelings or lost revenue, same framework
-- **Forces precision** — No consequences, no real conflict
-- **Iterates** — Action closes the loop, or reveals the map was incomplete and the cycle begins again
+Judgment says what happened and what it cost. Decision says what to do about it.
+
 
 ## 1.9 The Final Test
 
@@ -945,48 +977,43 @@ If you can't name a consequence (a Violation, a Concealment, or an Ignored need)
 
 But if there is a consequence, that consequence is the problem Decision must solve.
 
-## 1.10 The Value Function
 
-The framework is called "End of Conflict." The purpose is to **end conflict** in a way that:
 
-- Is **sustainable** (doesn't reignite)
-- **Serves all parties** (or as many as possible)
-- Is **fair** (L.E.R tests: Legal, Ethical, Relational)
-- Is **wise** (B.U.S tests: Beneficial, Unintended consequences, Sustainable)
-- Is **doable** (A.C.T tests: Achievable, Clear, Timely)
+## for Lion to Decide - On Fairness, Rights, and Long-term Effects
 
-**The value function:** Resolve conflict sustainably and fairly.
+The Three Decision Tests
 
-It's not purely Pareto (someone may have to lose). Not purely rights-based (though L.E.R includes rights). Not purely restorative (though it can be).
+| Test | Question |
+|------|----------|
+| **L.E.R** | Is it right? (Legal, Ethical, Relational) |
+| **B.U.S** | Is it wise? (Beneficial, Unintended consequences, Sustainable) |
+| **A.C.T** | Can it be done? (Achievable, Clear, Timely) |
 
-***It's pragmatic resolution with ethical constraints.***
+
+The Decision stage includes the L.E.R / B.U.S / A.C.T tests:
+
+- **L.E.R** = Legal, Ethical, Relational (fairness, rights)
+- **B.U.S** = Beneficial, Unintended consequences, Sustainable (long-term effects)
+- **A.C.T** = Achievable, Clear, Timely (feasibility)
+
+These ensure decisions consider more than just "addressing consequences."
+
+2. ## Key Terms
+
+| Term | What it means |
+|------|---------------|
+| Betta fish | Fighting your own reflection without knowing it |
+| Truth Tester | Tool that reveals gaps between what you believe and what you can prove |
+| Living Research Protocol | Method that breaks your own claims on purpose — keeps understanding alive |
+| Immunity Paradox | Why the same defences that protect you also keep you stuck |
+| Micro-agency | The small territory you actually control — your perception, reactions, stories |
+| Macro-responsibility | Who's responsible for changing systems — distributed by power |
+| Protective self-deception | The bullshit you need to survive |
+| Defensive self-deception | The bullshit that keeps the conflict going |
 
 ---
 
-# PART 2: CONSTRAINTS
-
-## 2.1 Pre-Check: Does This Situation Fit?
-
-Not every frustration is a conflict. Before using this framework, confirm the situation qualifies.
-
-## 2.2 When to Use This Framework
-
-Use when **all** of the following are true:
-
-1. There are at least two positions in genuine disagreement.
-2. Each position is held by someone (or some group) who can choose and act.
-3. You can state what the conflict is about in one sentence.
-4. You know enough about the situation to sketch an initial map.
-
-## 2.3 When NOT to Use This Framework
-
-Do **not** use when:
-
-1. There is only frustration, not a second position. ("I hate the traffic" is not a conflict — traffic cannot negotiate.)
-2. The "other side" is a force of nature or the irreversible past. (No agent can respond.)
-3. You cannot yet say what the fight is about. (You need more information before mapping.)
-
-## 2.4 How to Begin
+3. ## How to Begin
 
 1. **Locate yourself.** Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future? (See Section 2.5.)
 2. **Write your one-sentence conflict name.** "This is a conflict about …"
@@ -1022,9 +1049,6 @@ An observer has no power over the outcome:
 - A journalist reporting on a dispute (can observe, cannot decide)
 - You analysing someone else's conflict with no involvement (just watching)
 
-**Note on internal conflicts:**
-
-Internal conflicts require stepping outside yourself to see your competing forces as if they were separate parties. This is the hardest application. Internal conflicts rarely stay internal — you must also identify who else is affected.
 
 ### Dimension 2: Time — When is the conflict?
 
@@ -1057,65 +1081,14 @@ Your map is a hypothesis. You are simulating, not resolving. Until the conflict 
 
 ***Before you map the conflict, you map your position relative to it.***
 
----
-
-# PART 3: THE FRAMEWORK
-
-*[PLACEHOLDER: Detailed treatment of each stage — Map, Check, Judgment, Decision, Action]*
-
----
-
-# PART 5: KEY CLARIFICATIONS
-
-## 5.1 On the Two Chains
-
-The two chains align precisely:
-
-| Stage | Activity | Role |
-|-------|----------|------|
-| Map | Name it | The Case |
-| Check | Verify it | The Cause |
-| Judgment | Evaluate it | The Effect |
-| Decision | Choose it | The Cure |
-| Action | Do it | The Recovery |
-
-Check shows the **Clashes** (what is causing the friction). Judgment shows the **Consequences** (the effect of those clashes). The clashes ARE the cause; the consequences ARE the effect.
-
-## 5.2 On Judgment vs Decision
-
-- **Judgment** = The verdict on what you checked — backward-looking, evaluative
-- **Decision** = The solution to the problem that remains — forward-looking, strategic
-
-Judgment says what happened and what it cost. Decision says what to do about it.
-
-## 5.3 On "Clashes" Being Descriptive
-
-"Clashes" describes where versions conflict — that's data. The **evaluation** of those clashes (what they cost) happens in Judgment. Check is descriptive; Judgment is evaluative.
-
-## 5.4 On Fairness, Rights, and Long-term Effects
-
-The Decision stage includes the L.E.R / B.U.S / A.C.T tests:
-
-- **L.E.R** = Legal, Ethical, Relational (fairness, rights)
-- **B.U.S** = Beneficial, Unintended consequences, Sustainable (long-term effects)
-- **A.C.T** = Achievable, Clear, Timely (feasibility)
-
-These ensure decisions consider more than just "addressing consequences."
-
-
-
-## 5.6 On Structural vs Operational Causes
-
-In the Map stage, sub-conflicts are typed as:
-
-- **Operational** = Proximate triggers (what to do)
-- **Structural** = Underlying conditions (who decides)
-
-This distinguishes surface symptoms from root causes.
 
 ---
 
 # NOTES
+
+**Note on internal conflicts:**
+
+Internal conflicts require stepping outside yourself to see your competing forces as if they were separate parties. This is the hardest application. Internal conflicts rarely stay internal — you must also identify who else is affected.
 
 ## Note on Premature Resolution
 
@@ -1152,14 +1125,8 @@ The framework acknowledges that actors may strategically misrepresent costs, exa
 Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
 
 ---
+## Note on Living Matters
 
-
----
-
-*[END OF OVERVIEW DRAFT]*
-
-
-End of Conflict as  a Living Matter
 End framework isn't a linear ladder; it’s a biological system.
 
 The drawing you provided—with arrows converging from the outside in and rising through the center—perfectly illustrates a toroidal flow or a convection current. In nature, this is how energy maintains itself without burning out.
@@ -1209,7 +1176,7 @@ Narrows to bottom: Converges to one action — Ant does one thing
 Centre channel: Direct. Learning doesn't trickle — it shoots back up
 It pumps: Like blood. Like breath. It's alive, not a checklist
 
-## You Play All Roles 
+## Note on You Play All Roles 
 
 No one else will—and no one else can.
 In real conflicts, the five stages are almost always split across different people. Each does their fragment, but no single person is responsible for genuine resolution. No one is truly invested in ending the conflict—only in discharging their assigned role.
