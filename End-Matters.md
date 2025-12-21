@@ -97,6 +97,27 @@ She uses the analogy that the sun is always shining even when clouds cover it. T
 By recognizing that someone's "true self" is still there despite their bad behavior, you release yourself from the cycle of resentment. You aren't saying the behavior was "okay"; you are saying, "I refuse to let your mistake define who you are in my sight".
 In summary:
  * For yourself: Clean up your mess and get back to love.
- * For others: Look past their "clouds" (mistakes) to see their "sun" (their worth), because that is the only way to find peace for yourself.
-
+ * For others: Look past their "clouds" (mistakes) to see their "sun" (their worth), because that is the only way to find peace for yourself.lyrics to the song "Plus rien ne m'étonne" by the Ivorian reggae artist Tiken Jah Fakoly.
+Chorus
+They have divided up the world.
+Nothing surprises me.
+Nothing surprises me anymore.
+Nothing surprises me.
+Verse 1: Geopolitical Bargains
+If you leave me Chechnya, I'll leave you Armenia.
+If you leave me Afghanistan, I'll leave you Pakistan.
+If you don't leave Haiti, I'll take you to Bangui.
+If you help me bomb Iraq, I'll sort out Kurdistan for you.
+Verse 2: Resource Trading
+If you leave me the uranium, I'll leave you the aluminum.
+If you leave me your deposits, I'll help you chase out the Taliban.
+If you give me a lot of wheat, I'll wage war by your side.
+If you let me extract your gold, I'll help you get rid of the general.
+Verse 3: The Division of Africa
+They shared Africa without consulting us.
+They are surprised that we are disunited.
+A part of the Mandingo empire ended up with the Wolofs.
+A part of the Mossi empire ended up in Ghana.
+A part of the Soussou empire ended up in the Mandingo empire.
+A part of the Mandingo empire ended up with the Mossi.
 
