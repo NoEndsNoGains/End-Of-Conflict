@@ -30,13 +30,13 @@ You Play All Roles (the fuller version)
 
 # Cheat Sheet
 
-## What Is This?
+## 1.1 What Is This?
 
 A systematic process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework forces precision at each stage, preventing the drift that causes most conflict resolution efforts to fail. A systematic framework that transforms intractable conflicts into solvable problems by separating what happened from what to do about it.
 
 
 
-## What is it's Purpose? 
+## 1.2 What is it's Purpose? 
 To see the conflict as precisely as possible. Not to win it. Not to be right. To see it clearly to choose better. It doesn't promise resolution. It promises sight. Sight is leverage. 
 The purpose is to **end conflict** in a way that:
 
@@ -52,36 +52,97 @@ It's not purely Pareto (someone may have to lose). Not purely rights-based (thou
 
 ***It's pragmatic resolution with ethical constraints.***
 
-## Why is it needed?
+## 1.3 Why is it needed?
 Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people before consequences or forget the consequence or the people, we confuse the verdict with decision, and choose not to see and we choose not to act.
 
-## Where to use it ? Who can use it? 
-
-## CONSTRAINTS
-
-## 2.1 Pre-Check: Does This Situation Fit?
+## 1.4 When to use it
 
 Not every frustration is a conflict. Before using this framework, confirm the situation qualifies.
 
-## 2.2 When to Use This Framework
-
-Use when **all** of the following are true:
+## Use
+ when **all** of the following are true:
 
 1. There are at least two positions in genuine disagreement.
 2. Each position is held by someone (or some group) who can choose and act.
 3. You can state what the conflict is about in one sentence.
 4. You know enough about the situation to sketch an initial map.
 
-## 2.3 When NOT to Use This Framework
 
-Do **not** use when:
+## Do **not** use:
 
 1. There is only frustration, not a second position. ("I hate the traffic" is not a conflict — traffic cannot negotiate.)
 2. The "other side" is a force of nature or the irreversible past. (No agent can respond.)
 3. You cannot yet say what the fight is about. (You need more information before mapping.)
 
+   
 
- 
+## 1.4. 
+ 3. ## How to Begin
+
+1. **Locate yourself.** Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future? (See Section 2.5.)
+3. **Draft a first map.** List parties, their positions, and what each stands to gain or lose.
+4. **Proceed through the stages.** Map → Check → Judgment → Decision → Action.
+
+## 2.5 Before You Begin: Locate Yourself
+
+Before you start Stage 1 (Map), you must locate yourself relative to the conflict. Two dimensions set your coordinates.
+
+### Dimension 1: Position — What is your relationship to the conflict?
+
+This determines whether you can affect the outcome, what blind spots to expect, and how hard it will be to see clearly.
+
+| Position | Description |
+|----------|-------------|
+| **Observer** | You have no power to affect the outcome. You are analysing only. |
+| **Party** | You have power to affect the outcome — whether as someone *in* the conflict, or someone with authority *over* it. |
+| **Internal** | The conflict is within yourself. You are analyst, all parties, and the battlefield. |
+
+**What counts as a "party"?**
+
+A party is anyone with power to change what happens: the people *in* the conflict (they can escalate, concede, act); a judge (they can decide); a parent mediating between children (they can intervene); a boss resolving a team dispute (they can impose).
+
+**What counts as an "observer"?**
+
+An observer has no power over the outcome: a historian analysing a past war (it is over); a journalist reporting on a dispute (can observe, cannot decide); you analysing someone else's conflict with no involvement (just watching).
+
+**Note on internal conflicts:**
+
+Internal conflicts require stepping outside yourself to see your competing forces as if they were separate parties. This is the hardest application. Internal conflicts rarely stay internal — you must also identify who else is affected.
+
+
+### Dimension 2: Time — When is the conflict?
+
+This determines what counts as evidence, whether action is possible, and whether your map is real or hypothetical.
+
+| Time | Description |
+|------|-------------|
+| **Past** | Already happened. Memory, documents, evidence. You know how it ended. |
+| **Present** | Happening now. Real events, real claims, real parties. |
+| **Future** | Has not played out yet. Projections, assumptions, scenarios. You are preparing. |
+
+**Note on future mode:**
+
+Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out, your map is incomplete. Simulation is preparation, not resolution.
+
+### What Each Combination Allows
+
+| Time | Map | Check | Judgment | Decision | Action |
+|------|-----|-------|----------|----------|--------|
+| **Past** | You can map | Verify against evidence | Judge with hindsight | Already decided | Already acted — learn |
+| **Present** | You can map | Verify against reality | You can judge | You can decide | You can act |
+| **Future** | You can map | Guessing — projections | You are preparing | You are rehearsing | Not yet — simulation |
+
+### Summary: The Pre-Check
+
+| Question | Dimension | What it determines |
+|----------|-----------|-------------------|
+| What is my relationship to this conflict? | Position | Whether you can affect the outcome. Your blind spots. How hard it will be to see. |
+| When is this conflict? | Time | What counts as evidence. Whether action is possible. Whether your map is real or hypothetical. |
+
+***Before you map the conflict, you map your position relative to it.***
+
+
+## 1.5 What next? 
 
 ## The Five Stages
 
@@ -121,7 +182,7 @@ You can't recover without following the treatment.
 
 **Or shorter, if you want minimal:**
 
-### For Those Who Resist Animals
+### 1.6 For Those Who Resist Animals
 
 Same chain, clinical clothing:
 
@@ -146,7 +207,7 @@ Animals make you the agent; medical makes you the analyst.Because the cheat shee
 | ACT | Ant | _The Diligent Doer_. Carries out the necessary work to make the solution a reality. |
 
 
-## The Diagnostic Questions
+## 1.7 The Diagnostic Questions
 
 **EAGLE — MAPs**
 
@@ -240,116 +301,7 @@ You cannot check what you haven't mapped. You cannot judge what you haven't chec
 
 ---
 
-## The Loop
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e13fcec-8252-48f9-ab9b-581664417dc5" />
-
-The five stages of the framework within the framework is not a checklist. It is loops with each stage producing provisional outputs subject to continues updates as new information emerges.
-
-If you are a party, you are in conflict, regardless whether you chose it or not. And if you are in conflict, one way or another you are acting. The only relevant question is whether your action is informed or blind.
-
-## The Circuit
-
-- **EAGLE / BLOODHOUND** = Sensors (truth vs noise)
-- **OWL / LION** = Processor (liability + strategy)
-- **ANT** = Output (your current move)
-
-## Where Are You Stuck?
-
-| Symptom | Error | Go to... |
-|---------|-------|----------|
-| Effort without progress | Blindness | EAGLE — map it |
-| Confused — they say one thing, do another | Noise | BLOODHOUND — verify it |
-| Fixes that blow up later | Time bomb | OWL — judge it |
-| Endless talk, no action | Paralysis | LION — decide it |
-| Know what to do but not doing it | Stuck | ANT — act now |
-| Same fight, different day | Information gap | EAGLE — map it |
-
-**Note**: If Lion's decision failed, the problem is upstream—or Lion wasn't really Lion. A genuine Lion can only fail in one way: having good input but refusing to decide. A wrong decision means bad input or a compromised Lion. Either way, go back to Eagle, Bloodhound, or Owl.
-
-**Find the blockage. Go there. Fix it. Move.**
-
----
-
-## You Play All Roles 
-Why you must hold the whole: In real systems, the work is fragmented — each player sees their piece, no one owns the whole. Run the full cycle yourself, in parallel. Not to override, but to see what others cannot. To end conflict, what matters is that you see as much as possible, as precisely as possible, as objectively as possible, as unbiased as possible. You Map. You Check. You Judge. You Decide. You Act.
-
-
-
-
-
-
-```markdown
----
-
-# All At Once
-
-### EAGLE — MAPs
-
-Eagle maps all that is there—
-because you can't solve what you haven't named,
-because the hidden tells more than the seen.
-**No exception.**
-
-### BLOODHOUND — CHECKs
-
-Bloodhound checks what Eagle maps—
-because what is seen isn't always what's sure,
-because we all say, do, want, hide, and miss.
-**No exception.**
-
-### OWL — JUDGEs
-
-Owl judges what Bloodhound finds—
-because truth without a verdict never draws a line,
-because a verdict is Guilty or Informed.
-Sometimes one.
-Sometimes both.
-Saddest when it's neither.
-
-### LION — DECIDEs
-
-Lion decides what the Eagle sees—
-because the verdict answers what was found,
-because the solution must answer what was seen.
-The solution is "never again,"
-not "here we go again."
-
-### ANT — ACTs
-
-Ant acts on what Lion decides—
-because to decide demands the act,
-because action is not once—
-it is all the time.
-It is every time.
-
----
-
-## All At Once
-
-The Ant is the Lion.
-The Lion is the Owl.
-The Owl is the Bloodhound.
-The Bloodhound is the Eagle.
-
-The Eagle is first.
-The Eagle is you.
-
-**You are All at Once.**
-```
-
-
-
-
-
-
-
-
-
-
-
-
-1. Few more deatails on each Stage:
+## 1.8 1. Few more deatails on each Stage:
 
 
 ## for Eagal
@@ -400,7 +352,7 @@ This covers:
 *You are not judging the person. You are judging the consequences of what you checked.*
 
 
-## 1.7 Judgment vs Decision: The Verdict and the Solution
+Judgment vs Decision: The Verdict and the Solution
 
 **Judgment** and **Decision** are not the same thing.
 
@@ -421,7 +373,8 @@ The problem you're solving is not "what someone did wrong." The problem is the *
 - **Decision:** How do we solve *that*?
 
 This is why you need both stages. Judgment closes the accountability question. Decision opens the resolution question.
-## 5.2 On Judgment vs Decision
+
+On Judgment vs Decision
 
 - **Judgment** = The verdict on what you checked — backward-looking, evaluative
 - **Decision** = The solution to the problem that remains — forward-looking, strategic
@@ -458,7 +411,41 @@ The Decision stage includes the L.E.R / B.U.S / A.C.T tests:
 
 These ensure decisions consider more than just "addressing consequences."
 
-2. ## Key Terms
+## 1.8 The Loop
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e13fcec-8252-48f9-ab9b-581664417dc5" />
+
+The five stages of the framework within the framework is not a checklist. It is loops with each stage producing provisional outputs subject to continues updates as new information emerges.
+
+If you are a party, you are in conflict, regardless whether you chose it or not. And if you are in conflict, one way or another you are acting. The only relevant question is whether your action is informed or blind.
+
+## The Circuit
+
+- **EAGLE / BLOODHOUND** = Sensors (truth vs noise)
+- **OWL / LION** = Processor (liability + strategy)
+- **ANT** = Output (your current move)
+
+## Where Are You Stuck?
+
+| Symptom | Error | Go to... |
+|---------|-------|----------|
+| Effort without progress | Blindness | EAGLE — map it |
+| Confused — they say one thing, do another | Noise | BLOODHOUND — verify it |
+| Fixes that blow up later | Time bomb | OWL — judge it |
+| Endless talk, no action | Paralysis | LION — decide it |
+| Know what to do but not doing it | Stuck | ANT — act now |
+| Same fight, different day | Information gap | EAGLE — map it |
+
+**Note**: If Lion's decision failed, the problem is upstream—or Lion wasn't really Lion. A genuine Lion can only fail in one way: having good input but refusing to decide. A wrong decision means bad input or a compromised Lion. Either way, go back to Eagle, Bloodhound, or Owl.
+
+**Find the blockage. Go there. Fix it. Move.**
+
+---
+
+## 1.9 You Play All Roles 
+Why you must hold the whole: In real systems, the work is fragmented — each player sees their piece, no one owns the whole. Run the full cycle yourself, in parallel. Not to override, but to see what others cannot. To end conflict, what matters is that you see as much as possible, as precisely as possible, as objectively as possible, as unbiased as possible. You Map. You Check. You Judge. You Decide. You Act.
+
+## 1.10 Key Terms
 
 | Term | What it means |
 |------|---------------|
@@ -471,77 +458,10 @@ These ensure decisions consider more than just "addressing consequences."
 | Protective self-deception | The bullshit you need to survive |
 | Defensive self-deception | The bullshit that keeps the conflict going |
 
----
-
-3. ## How to Begin
-
-1. **Locate yourself.** Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future? (See Section 2.5.)
-2. **Write your one-sentence conflict name.** "This is a conflict about …"
-3. **Draft a first map.** List parties, their positions, and what each stands to gain or lose.
-4. **Proceed through the stages.** Map → Check → Judgment → Decision → Action.
-
-## 2.5 Before You Begin: Locate Yourself
-
-Before you start Stage 1 (Map), you must locate yourself relative to the conflict. Two dimensions set your coordinates.
-
-### Dimension 1: Position — What is your relationship to the conflict?
-
-This determines whether you can affect the outcome, what blind spots to expect, and how hard it will be to see clearly.
-
-| Position | Description |
-|----------|-------------|
-| **Observer** | You have no power to affect the outcome. You are analysing only. |
-| **Party** | You have power to affect the outcome — whether as someone *in* the conflict, or someone with authority *over* it. |
-| **Internal** | The conflict is within yourself. You are analyst, all parties, and the battlefield. |
-
-**What counts as a "party"?**
-
-A party is anyone with power to change what happens: the people *in* the conflict (they can escalate, concede, act); a judge (they can decide); a parent mediating between children (they can intervene); a boss resolving a team dispute (they can impose).
-
-**What counts as an "observer"?**
-
-An observer has no power over the outcome: a historian analysing a past war (it is over); a journalist reporting on a dispute (can observe, cannot decide); you analysing someone else's conflict with no involvement (just watching).
-
-**Note on internal conflicts:**
-
-Internal conflicts require stepping outside yourself to see your competing forces as if they were separate parties. This is the hardest application. Internal conflicts rarely stay internal — you must also identify who else is affected.
-
-
-### Dimension 2: Time — When is the conflict?
-
-This determines what counts as evidence, whether action is possible, and whether your map is real or hypothetical.
-
-| Time | Description |
-|------|-------------|
-| **Past** | Already happened. Memory, documents, evidence. You know how it ended. |
-| **Present** | Happening now. Real events, real claims, real parties. |
-| **Future** | Has not played out yet. Projections, assumptions, scenarios. You are preparing. |
-
-**Note on future mode:**
-
-Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out, your map is incomplete. Simulation is preparation, not resolution.
-
-### What Each Combination Allows
-
-| Time | Map | Check | Judgment | Decision | Action |
-|------|-----|-------|----------|----------|--------|
-| **Past** | You can map | Verify against evidence | Judge with hindsight | Already decided | Already acted — learn |
-| **Present** | You can map | Verify against reality | You can judge | You can decide | You can act |
-| **Future** | You can map | Guessing — projections | You are preparing | You are rehearsing | Not yet — simulation |
-
-### Summary: The Pre-Check
-
-| Question | Dimension | What it determines |
-|----------|-----------|-------------------|
-| What is my relationship to this conflict? | Position | Whether you can affect the outcome. Your blind spots. How hard it will be to see. |
-| When is this conflict? | Time | What counts as evidence. Whether action is possible. Whether your map is real or hypothetical. |
-
-***Before you map the conflict, you map your position relative to it.***
-
 
 ---
 
-# NOTES
+# 1.11 NOTES
 
 **Note on internal conflicts:**
 
@@ -651,3 +571,64 @@ When you hold the whole map in your own hands, you become the one person in the 
 
 And the most important part: You don't end up where you started. Each cycle, you evolve. The conflict changes. Your understanding deepens. Or the problem actually ends.
 It's not a circle (same place). It's a heart (keeps you alive while you work through it).
+
+
+```markdown
+---
+
+# All At Once
+
+### EAGLE — MAPs
+
+Eagle maps all that is there—
+because you can't solve what you haven't named,
+because the hidden tells more than the seen.
+**No exception.**
+
+### BLOODHOUND — CHECKs
+
+Bloodhound checks what Eagle maps—
+because what is seen isn't always what's sure,
+because we all say, do, want, hide, and miss.
+**No exception.**
+
+### OWL — JUDGEs
+
+Owl judges what Bloodhound finds—
+because truth without a verdict never draws a line,
+because a verdict is Guilty or Informed.
+Sometimes one.
+Sometimes both.
+Saddest when it's neither.
+
+### LION — DECIDEs
+
+Lion decides what the Eagle sees—
+because the verdict answers what was found,
+because the solution must answer what was seen.
+The solution is "never again,"
+not "here we go again."
+
+### ANT — ACTs
+
+Ant acts on what Lion decides—
+because to decide demands the act,
+because action is not once—
+it is all the time.
+It is every time.
+
+---
+
+## All At Once
+
+The Ant is the Lion.
+The Lion is the Owl.
+The Owl is the Bloodhound.
+The Bloodhound is the Eagle.
+
+The Eagle is first.
+The Eagle is you.
+
+**You are All at Once.**
+```
+
