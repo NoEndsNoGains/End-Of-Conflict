@@ -474,8 +474,7 @@ Ta-da!
 - Table of contents
 
 
-**PART 1: OVERVIEW**
-- End of Conflict Cheat Sheet
+**PART 1: CHEAT SHEET**
 - 1.1 What is this?
 - 1.2 Core Principle
 - 1.3 The Journey
