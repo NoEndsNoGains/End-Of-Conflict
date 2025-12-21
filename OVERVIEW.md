@@ -32,10 +32,16 @@ You Play All Roles (the fuller version)
 
 ## What Is This?
 
-A diagnostic system to see the conflict you're in. Not to win it. Not to be right. To see it clearly so you can choose better. It doesn't promise resolution. It promises sight. Sight is leverage. 
+A systematic process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework forces precision at each stage, preventing the drift that causes most conflict resolution efforts to fail. A systematic framework that transforms intractable conflicts into solvable problems by separating what happened from what to do about it.
+
+
+
+## What is it's Purpose? 
+To see the conflict as precisely as possible. Not to win it. Not to be right. To see it clearly to choose better. It doesn't promise resolution. It promises sight. Sight is leverage. 
+
 
 ## Why is it needed?
-Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires.
+Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people before consequences or forget the consequence or the people, we confuse the verdict with decision, and choose not to see and we choose not to act.
 
 ## The Five Stages
 
@@ -67,9 +73,9 @@ Eagle → MAP | Bloodhound → CHECK | Owl → JUDGE | Lion → DECIDE | Ant →
 
 **EAGLE — MAPs**
 
-**Eagle Maps the Problem**
+**Eagle Maps all that is There**
 
-*Because you can't solve what you can't see.*
+*Because you can't solve what you haven't named*
 
 - What's the conflict?
 - Where are the friction points?
@@ -77,13 +83,13 @@ Eagle → MAP | Bloodhound → CHECK | Owl → JUDGE | Lion → DECIDE | Ant →
 - Who is visible?
 - Who is hiding?
 
-*Because who is hiding is often more important than who is seen.*
+*Because the hidden tells more than the seen - some exception.*
 
 **BLOODHOUND — CHECKs**
 
 **Bloodhound Checks what Eagle Maps**
 
-*Because what you see isn't always what's true.*
+*Because what is seen isn't always what's true.*
 
 - What do they say? What do I say?
 - What do they do? What do I do?
@@ -106,7 +112,7 @@ Eagle → MAP | Bloodhound → CHECK | Owl → JUDGE | Lion → DECIDE | Ant →
 - What must be paid for?
 - What must not?
 
-*Because verdict is Guilty — or Informed.*
+*Because verdict is Guilty—or Informed. Sometimes one. Sometimes both. Sometimes neither.*
 
 **LION — DECIDEs**
 
@@ -117,6 +123,13 @@ Eagle → MAP | Bloodhound → CHECK | Owl → JUDGE | Lion → DECIDE | Ant →
 - How do we resolve this so it doesn't return?
 
 *Because  solution is "never again" not "here we go again".*
+
+
+Note: **Judgment ≠ Decision**
+
+- **Judgment** looks backward: Given what we checked, what's the verdict? Who (if anyone) is accountable? What was violated, concealed, ignored?
+- **Decision** looks forward: Regardless of the verdict, we still have a problem. How do we solve it?
+  You can have a verdict of "no one did wrong" and still have a problem to solve.
 
 **ANT — ACTs**
 
@@ -186,121 +199,97 @@ Why you must hold the whole: In real systems, the work is fragmented — each pl
 
 
 
+
+
+
+```markdown
 ---
 
-# ALL AT ONCE
+# All At Once
 
-**EAGLE — MAPs**
-**Eagle Maps the Problem**
-*Because you can't solve what you can't see.*
-*Because who is hiding is often more important than who is seen.*
+### EAGLE — MAPs
 
-**BLOODHOUND — CHECKs**
-**Bloodhound Checks what Eagle Maps**
-*Because what you see isn't always what's true.*
-*Because we all Say, Do, Want, Hide, and Miss — no exception.*
+Eagle maps all that is there—
+because you can't solve what you haven't named,
+because the hidden tells more than the seen.
+**No exception.**
 
-**OWL — JUDGEs**
-**Owl Judges what Bloodhound Finds**
-*Because truth without a verdict is just information.*
-*Because verdict is Guilty — or Informed.*
+### BLOODHOUND — CHECKs
 
-**LION — DECIDEs**
-**Lion Decides on what the Eagle Sees**
-*Because a verdict isn't a solution.*
-*Because solution is "never again" not "here we go again".*
+Bloodhound checks what Eagle maps—
+because what is seen isn't always what's sure,
+because we all say, do, want, hide, and miss.
+**No exception.**
 
-**ANT — ACTs**
-**Ant Acts on what Lion Decides**
-*Because to decide and not act is empty.*
-*Because to act is not just once — it is all the time.*
+### OWL — JUDGEs
 
-**ALL AT ONCE**
-*The Ant is the Lion.*
-*The Lion is the Owl.*
-*The Owl is the Bloodhound.*
-*The Bloodhound is the Eagle.*
+Owl judges what Bloodhound finds—
+because truth without a verdict never draws a line,
+because a verdict is Guilty or Informed.
+Sometimes one.
+Sometimes both.
+Saddest when it's neither.
 
-*The Eagle is first.*
-*The Eagle is You.*
-*You are All at Once.*
+### LION — DECIDEs
 
----
+Lion decides what the Eagle sees—
+because the verdict answers what was found,
+because the solution must answer what was seen.
+The solution is "never again,"
+not "here we go again."
 
+### ANT — ACTs
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# End of Conflict
-
-## A Five-Stage Framework for Resolving the Unresolvable
-
-A systematic framework that transforms intractable conflicts into solvable problems by separating what happened from what to do about it.
-
-Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people instead of consequences, we confuse the verdict with the sentence, and we talk without acting. This book offers a five-stage diagnostic framework—Map, Check, Judgment, Decision, Action—that forces the precision conflicts demand but emotions prevent.
-
-Simple. Straightforward. Practical. And yet, a framework that still manages to turn everything on its head.
-
-We learn that underneath the five stages lies an engine room: a Truth Tester that reveals we can only resolve what we capture—but what we capture is always imperfect, unwhole, and surrounded by the shaped silence of what wasn't; a Living Research Protocol that breaks every claim on purpose, because transformation happens through breaking ("I thought X, actually Y")—making the framework and each of its claims not only unfinished but continuously changing; and an Immunity Paradox that reveals why we fail at three levels—mapping symptoms instead of triggers, responding with blunt instruments, and forgetting everything the moment the ceasefire is signed.
-
-The framework doesn't promise magic. It promises the best of what's possible—and shows you exactly where that boundary lies.
+Ant acts on what Lion decides—
+because to decide demands the act,
+because action is not once—
+it is all the time.
+It is every time.
 
 ---
 
-# CHEAT SHEET
+## All At Once
 
-*One page. If you read nothing else, read this.*
+The Ant is the Lion.
+The Lion is the Owl.
+The Owl is the Bloodhound.
+The Bloodhound is the Eagle.
 
-## The Five Stages
+The Eagle is first.
+The Eagle is you.
 
-| Stage | What you do | Question | Output |
-|-------|-------------|----------|--------|
-| **Map** | Name it | What is the visible conflict? | Boundary — who fights over what |
-| **Check** | Verify it | What actually happened? | Clashes — where versions conflict |
-| **Judgment** | Evaluate it | What are the consequences of what we checked? | Verdict — what was Violated, Concealed, Ignored |
-| **Decision** | Choose it | What do we do about the problem that remains? | Solution path |
-| **Action** | Do it | How do we make it real? | Implementation — steps, owners, timelines |
+**You are All at Once.**
+```
 
-## The Core Insight
 
-**Judgment ≠ Decision**
 
-- **Judgment** looks backward: Given what we checked, what's the verdict? Who (if anyone) is accountable? What was violated, concealed, ignored?
-- **Decision** looks forward: Regardless of the verdict, we still have a problem. How do we solve it?
 
-You can have a verdict of "no one did wrong" and still have a problem to solve.
 
-## The Three Consequences (V.C.I)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## For Owl to Judge 
+The Three Consequences (V.C.I)
 
 | Consequence | What it captures |
 |-------------|------------------|
@@ -310,7 +299,9 @@ You can have a verdict of "no one did wrong" and still have a problem to solve.
 
 You judge the consequences, not the person.
 
-## The Three Decision Tests
+## for Lion to Decide
+
+The Three Decision Tests
 
 | Test | Question |
 |------|----------|
@@ -333,21 +324,8 @@ You judge the consequences, not the person.
 
 ---
 
-# PART 1: OVERVIEW
 
-## 1.1 What is this?
 
-The End of Conflict Framework is a systematic process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework forces precision at each stage, preventing the drift that causes most conflict resolution efforts to fail.
-
-## 1.2 Core Principle
-
-**Map it → Check it → Judge it → Choose it → Do it.**
-
-*[PLACEHOLDER: Image — framework diagram]*
-
-## 1.3 The Journey
-
-Map → Check → Judgment → Decision → Action
 
 ## 1.4 The Five Stages
 
