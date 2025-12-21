@@ -606,7 +606,13 @@ Not every frustration is a conflict. Before using this framework, confirm the si
 2. Each position is held by someone (or some group) who can choose and act.
 3. You can state what the conflict is about in one sentence.
 4. You know enough about the situation to sketch an initial map.
-
+WHERE IT HAS PREREQUISITES:
+	1.	Requires willingness - goats won’t engage
+	2.	Requires self-awareness - dog can’t see itself
+	3.	Requires communication - Babel breaks CHECK
+	4.	Assumes you want resolution - tricksters exploit it
+	5.	Doesn’t harness absurdity - rabbits end conflict through humor
+	6.	Doesn’t account for exhaustion - Sneetches resolve through fatigue
 
 ## Do **not** use:
 
