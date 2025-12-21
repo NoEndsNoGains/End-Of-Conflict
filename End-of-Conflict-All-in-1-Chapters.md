@@ -622,7 +622,15 @@ WHERE IT HAS PREREQUISITES:
 
    assumption
 The framework assumes the parties will use it.
-
+The framework is a tool. Tools require hands willing to pick them up.
+What the stories also revealed:
+Some conflicts don’t end through clarity. They end through:
+	∙	Exhaustion (Sneetches)
+	∙	Absurdity (rabbit flags)
+	∙	Collapse (Babel)
+	∙	Trick (Solomon)
+	∙	Paradox (duck-rabbit)
+Your framework doesn’t claim to be the only exit. It claims to be sight. And sight held.
 ## 1.4. 
  3. ## How to Begin
 
