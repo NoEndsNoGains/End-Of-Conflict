@@ -1,4 +1,18 @@
 
+## 4.1 Stress Test: Competing Legitimate Goods
+
+**Scenario:** Two parents in a divorce both want primary custody. Neither has done anything wrong. Both love the child. Both are good parents.
+
+| Stage | What happens |
+|-------|--------------|
+| **Map** | Conflict is over custody. Parties: Parent A, Parent B, Child. |
+| **Check** | Both say they want primary custody. Both do care for the child well. Both want time and stability. **Clash:** Both want something only one can fully have. |
+| **Judgment** | Violated? No — no rules broken. Concealed? No — both are honest. **Ignored?** Yes — each party's legitimate need is at risk of being dismissed by the other's claim. **Verdict:** Someone's needs will be unmet. The child may be caught in the middle. |
+| **Decision** | Choose a resolution that addresses the consequences — shared custody, specific arrangements, compromise. |
+| **Action** | Implement it. |
+
+**Conclusion:** The framework works. "Ignored" captures legitimate needs at risk of being unmet — even when no one is at fault. Consequences exist even without wrongdoing. The cost of the impasse is real.
+
 DO NOT READ -NEEDS RE-THINKING/EDITING
 
 What could be the most horrible - outrageous - the most disgusting - the most "no way" test we could put this framework though? 
