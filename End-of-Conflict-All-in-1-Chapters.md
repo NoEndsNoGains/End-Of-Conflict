@@ -620,7 +620,8 @@ WHERE IT HAS PREREQUISITES:
 2. The "other side" is a force of nature or the irreversible past. (No agent can respond.)
 3. You cannot yet say what the fight is about. (You need more information before mapping.)
 
-   
+   assumption
+The framework assumes the parties will use it.
 
 ## 1.4. 
  3. ## How to Begin
