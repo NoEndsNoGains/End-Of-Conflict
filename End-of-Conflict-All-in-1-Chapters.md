@@ -3245,6 +3245,23 @@ A central theme of her talk is that beneath our external differences (religion, 
 A metaphor for turning off the noise of the world (phones, media) and moving into the "higher mind" through meditation or quiet reflection.
 • "There's more love than a broken heart."
 Acknowledging the pain in the world, she suggests that the antidote to destruction is the "birth" of greater life and love within ourselves.
+In this section of the talk, Marianne Williamson is explaining a psychological and spiritual shift in how we view ourselves and others. Here is the breakdown of that concept:
+1. When You Make a Mistake: "Atone"
+In this context, "atonement" doesn't mean punishing yourself or wallowing in guilt. Instead, it means:
+ * Correction: Admitting you were wrong and taking action to fix it (e.g., an apology or making amends).
+ * "At-one-ment": She often uses this wordplay to describe coming back into alignment with love. When you act out of anger or ego, you are "out of alignment." Atoning is the process of bringing your mind back to a state of peace and wholeness.
+2. When Others Make Mistakes: The "True Self"
+This is the more challenging part. She suggests that every person has two "selves":
+ * The Personality/Ego: This is the part of a person that gets angry, makes mistakes, or acts selfishly.
+ * The True Self (The Christ/The Soul): This is the eternal, perfect essence of a person that is made of love.
+The Concept: When someone hurts you or "errors," Williamson argues that their mistake is a product of their fear or their ego—not their true identity. * If you focus on their mistake, you are reinforcing the "wrong" part of them.
+ * If you choose to see their "True Self" (which remains untouched by their bad behavior), you are practicing Forgiveness.
+3. Why is it "Untouched"?
+She uses the analogy that the sun is always shining even when clouds cover it. The "errors" (the clouds) might be dark and temporary, but they don't actually change the nature of the sun (the person's soul).
+By recognizing that someone's "true self" is still there despite their bad behavior, you release yourself from the cycle of resentment. You aren't saying the behavior was "okay"; you are saying, "I refuse to let your mistake define who you are in my sight".
+In summary:
+ * For yourself: Clean up your mess and get back to love.
+ * For others: Look past their "clouds" (mistakes) to see their "sun" (their worth), because that is the only way to find peace for yourself.
 
 
 
