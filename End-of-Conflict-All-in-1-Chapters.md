@@ -539,6 +539,26 @@ The Unborn (hasn't happened yet)
 
 ## OVERVIEW
 
+# End of Conflict - 1 Page Handout
+
+## The Peace-Making Hand
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5eef5f8-b7dc-4c07-984f-fe771d64aa92" />
+
+
+| Finger | Animal | Stage | What they do | Question |
+|--------|--------|-------|--------------|----------|
+| Thumb | Eagle | MAP | Sees the whole territory from above | What's the big picture? Who's involved? |
+| Pointer | Bloodhound | CHECK | Sniffs out what's true vs what's claimed | What really happened? |
+| Middle | Owl | JUDGMENT | Evaluates what was violated, concealed, ignored | What was wrong? What was missed? |
+| Ring | Lion | DECISION | Leads. Solves the problem strategically | What should we do? |
+| Pinky | Ant | ACTION | Does the work. Makes it real | Who will actually do it? |
+
+---
+
+*[PLACEHOLDER: Drawing of a hand with each finger labelled with the animal]*
+
+
 # End of Conflict
 
 ## A Five-Stage Framework for Resolving the Unresolvable
