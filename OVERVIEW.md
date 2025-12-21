@@ -43,6 +43,8 @@ To see the conflict as precisely as possible. Not to win it. Not to be right. To
 ## Why is it needed?
 Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people before consequences or forget the consequence or the people, we confuse the verdict with decision, and choose not to see and we choose not to act.
 
+## Where to use it ? Who can use it? 
+
 ## The Five Stages
 
 Five stages: 
@@ -167,7 +169,7 @@ You cannot check what you haven't mapped. You cannot judge what you haven't chec
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e13fcec-8252-48f9-ab9b-581664417dc5" />
 
-The five stages of the framework within the framework is not a checklist. It's not a checklist. It is loops.
+The five stages of the framework within the framework is not a checklist. It is loops with each stage producing provisional outputs subject to continues updates as new information emerges.
 
 If you are a party, you are in conflict, regardless whether you chose it or not. And if you are in conflict, one way or another you are acting. The only relevant question is whether your action is informed or blind.
 
@@ -539,32 +541,7 @@ Your map is a hypothesis. You are simulating, not resolving. Until the conflict 
 
 **Conclusion:** The framework works. "Ignored" captures legitimate needs at risk of being unmet — even when no one is at fault. Consequences exist even without wrongdoing. The cost of the impasse is real.
 
-## 4.2 Stress Test: Latent and Future Conflict
 
-**Question:** Can this framework handle latent conflict (tension that hasn't erupted) or future conflict (anticipated)?
-
-**Answer:** Yes. The Time dimension (Past, Present, Future) explicitly covers this:
-
-- **Future mode:** Your map is a hypothesis. You are simulating, not resolving. You can Map, project Check, prepare Judgment, rehearse Decision — but Action is not yet possible. Simulation is preparation, not resolution.
-- **Latent conflict:** If tension exists but consequences cannot be named, it's either not yet a conflict worth resolving, or you haven't looked hard enough. The framework prompts deeper investigation.
-
-## 4.3 Stress Test: The Bad Actor
-
-**Question:** What if the other party is actively gaming the framework?
-
-*[PLACEHOLDER: To be developed — addresses strategic misrepresentation, exaggerated costs, manipulation]*
-
-## 4.4 Stress Test: The Asymmetry of Power
-
-**Question:** What if a child fights a parent, or a citizen fights a state?
-
-*[PLACEHOLDER: To be developed — addresses structural vs operational distinction, power imbalance]*
-
-## 4.5 Stress Test: The Irreversible Past
-
-**Question:** How do you apply Action when damage cannot be undone?
-
-*[PLACEHOLDER: To be developed — addresses the Gaps audit when repair is impossible]*
 
 ---
 
@@ -605,9 +582,7 @@ The Decision stage includes the L.E.R / B.U.S / A.C.T tests:
 
 These ensure decisions consider more than just "addressing consequences."
 
-## 5.5 On Iteration and Feedback Loops
 
-The framework is not strictly linear. Action closes the loop — or reveals that the map was incomplete, and the cycle begins again. Each stage produces provisional outputs subject to update as new information emerges.
 
 ## 5.6 On Structural vs Operational Causes
 
@@ -658,17 +633,6 @@ Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Int
 
 ---
 
-# THE READER JOURNEY
-
-| Part | What reader gets | Reader question answered | The "Hook" |
-|------|------------------|--------------------------|------------|
-| **Cheat Sheet** | The whole picture in one page | "Give me the summary" | "I can see the exit." |
-| **Overview** | The concepts | "What is this?" | "I understand what I'm holding." |
-| **Constraints** | The boundaries | "When does this apply?" | "I know if this is for me." |
-| **Framework** | The method | "How do I use it?" | "I am finally doing something right." |
-| **Stress Tests** | The tests | "Does it actually work?" | "If it works for a war, it works for me." |
-| **Clarifications** | The nuance | "What about edge cases?" | "My objections are answered." |
-| **Notes** | The wisdom | "What else should I know?" | "I see the world differently now." |
 
 ---
 
