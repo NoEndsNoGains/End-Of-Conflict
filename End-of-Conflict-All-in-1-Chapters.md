@@ -539,24 +539,235 @@ The Unborn (hasn't happened yet)
 
 ## OVERVIEW
 
-# End of Conflict - 1 Page Handout
+# End of Conflict Framework — Cheat Sheet
 
-## The Peace-Making Hand
+## What Is This?
+
+A diagnostic system to see the conflict you're in. Not to win it. Not to be right. To see it clearly so you can choose better. It doesn't promise resolution. It promises sight. Sight is leverage. 
+
+## Why is it needed?
+Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires.
+
+## The Five Stages
+
+Five stages: 
+- MAP: observation 
+- CHECK: verification
+- JUDGE: judgment
+- DECIDE: strategy
+- ACT: execution
+
+Each stage is represented by an animal archetype to provide a cognitive shorthand that instantly bypasses any emotional biases: Eagle for MAP, Bloodhound for CHECK, Owl for JUDGE, Lion for DECIDE, Ant for ACT.
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5eef5f8-b7dc-4c07-984f-fe771d64aa92" />
 
+---
 
-| Finger | Animal | Stage | What they do | Question |
-|--------|--------|-------|--------------|----------|
-| Thumb | Eagle | MAP | Sees the whole territory from above | What's the big picture? Who's involved? |
-| Pointer | Bloodhound | CHECK | Sniffs out what's true vs what's claimed | What really happened? |
-| Middle | Owl | JUDGMENT | Evaluates what was violated, concealed, ignored | What was wrong? What was missed? |
-| Ring | Lion | DECISION | Leads. Solves the problem strategically | What should we do? |
-| Pinky | Ant | ACTION | Does the work. Makes it real | Who will actually do it? |
+| Stage | Animal | The Flow |
+|-------|--------|----------|
+| MAP | Eagle | _The Vigilant Spotter_. Sees the entire territory from high above: big picture, friction points, and all players — including those invisible to others. |
+| CHECK | Bloodhound | _The Thorough Detective_. Sniffs out the truth by comparing what was said versus what was done to reveal hidden motives, true desires and what is really wanted. |
+| JUDGE | Owl | _The Wise Judge_. Evaluates what was violated, concealed, or ignored — and delivers the verdict on what must be addressed and what must not. |
+| DECIDE | Lion | _The Strategic Leader_. Makes the final call to solve the problem at its root so that the issue does not return. |
+| ACT | Ant | _The Diligent Doer_. Carries out the necessary work to make the solution a reality. |
+
+
+## The Diagnostic Questions
+
+**EAGLE — MAPs**
+
+**Eagle Maps the Problem**
+
+*Because you can't solve what you can't see.*
+
+- What's the conflict?
+- Where are the friction points?
+- Who are the parties?
+- Who is visible?
+- Who is hiding?
+
+*Because who is hiding is often more important than who is seen.*
+
+**BLOODHOUND — CHECKs**
+
+**Bloodhound Checks what Eagle Maps**
+
+*Because what you see isn't always what's true.*
+
+- What do they say? What do I say?
+- What do they do? What do I do?
+- What do they want? What do I want?
+- What are they hiding? What am I hiding?
+- What are they missing? What am I missing?
+
+*Because we all Say, Do, Want, Hide, and Miss — no exception.*
+
+**OWL — JUDGEs**
+
+**Owl Judges what Bloodhound Finds**
+
+*Because truth without a verdict is just information.*
+
+- Is there anything to judge?
+- What was violated?
+- What was concealed?
+- What was ignored?
+- What must be paid for?
+- What must not?
+
+*Because verdict is Guilty — or Informed.*
+
+**LION — DECIDEs**
+
+**Lion Decides on what the Eagle Sees**
+
+*Because a verdict isn't a solution.*
+
+- How do we resolve this so it doesn't return?
+
+*Because  solution is "never again" not "here we go again".*
+
+**ANT — ACTs**
+
+**Ant Acts on what Lion Decides**
+
+*Because to decide and not act is empty.* 
+
+- What must I stop doing?
+- What must I start doing?
+- What sustain this?
+
+*Because to act is not just once —  it all the time.*
 
 ---
 
-*[PLACEHOLDER: Drawing of a hand with each finger labelled with the animal]*
+## Where Do I Start?
+
+MAP. Start there.
+
+You cannot check what you haven't mapped. You cannot judge what you haven't checked. You cannot decide what you haven't judged. You cannot act on what you haven't decided.
+
+**In crisis:** Act first. Survive. Then map what happened.
+
+**Process:**
+1. Start with Eagle — define the conflict, identify parties (hidden and invisible), locate friction points
+2. Pick ONE friction point
+3. Run it through all five stages
+4. Return to Eagle — has the map changed?
+5. Pick the next friction point
+6. Repeat
+
+---
+
+## The Loop
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e13fcec-8252-48f9-ab9b-581664417dc5" />
+
+The five stages of the framework within the framework is not a checklist. It's not a checklist. It is loops.
+
+If you are a party, you are in conflict, regardless whether you chose it or not. And if you are in conflict, one way or another you are acting. The only relevant question is whether your action is informed or blind.
+
+## The Circuit
+
+- **EAGLE / BLOODHOUND** = Sensors (truth vs noise)
+- **OWL / LION** = Processor (liability + strategy)
+- **ANT** = Output (your current move)
+
+## Where Are You Stuck?
+
+| Symptom | Error | Go to... |
+|---------|-------|----------|
+| Effort without progress | Blindness | EAGLE — map it |
+| Confused — they say one thing, do another | Noise | BLOODHOUND — verify it |
+| Fixes that blow up later | Time bomb | OWL — judge it |
+| Endless talk, no action | Paralysis | LION — decide it |
+| Know what to do but not doing it | Stuck | ANT — act now |
+| Same fight, different day | Information gap | EAGLE — map it |
+
+**Note**: If Lion's decision failed, the problem is upstream—or Lion wasn't really Lion. A genuine Lion can only fail in one way: having good input but refusing to decide. A wrong decision means bad input or a compromised Lion. Either way, go back to Eagle, Bloodhound, or Owl.
+
+**Find the blockage. Go there. Fix it. Move.**
+
+---
+
+## You Play All Roles 
+Why you must hold the whole: In real systems, the work is fragmented — each player sees their piece, no one owns the whole. Run the full cycle yourself, in parallel. Not to override, but to see what others cannot. To end conflict, what matters is that you see as much as possible, as precisely as possible, as objectively as possible, as unbiased as possible. You Map. You Check. You Judge. You Decide. You Act.
+
+
+
+---
+
+# ALL AT ONCE
+
+**EAGLE — MAPs**
+**Eagle Maps the Problem**
+*Because you can't solve what you can't see.*
+*Because who is hiding is often more important than who is seen.*
+
+**BLOODHOUND — CHECKs**
+**Bloodhound Checks what Eagle Maps**
+*Because what you see isn't always what's true.*
+*Because we all Say, Do, Want, Hide, and Miss — no exception.*
+
+**OWL — JUDGEs**
+**Owl Judges what Bloodhound Finds**
+*Because truth without a verdict is just information.*
+*Because verdict is Guilty — or Informed.*
+
+**LION — DECIDEs**
+**Lion Decides on what the Eagle Sees**
+*Because a verdict isn't a solution.*
+*Because solution is "never again" not "here we go again".*
+
+**ANT — ACTs**
+**Ant Acts on what Lion Decides**
+*Because to decide and not act is empty.*
+*Because to act is not just once — it is all the time.*
+
+**ALL AT ONCE**
+*The Ant is the Lion.*
+*The Lion is the Owl.*
+*The Owl is the Bloodhound.*
+*The Bloodhound is the Eagle.*
+
+*The Eagle is first.*
+*The Eagle is You.*
+*You are All at Once.*
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # End of Conflict
@@ -993,6 +1204,76 @@ Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Int
 ---
 
 *[END OF OVERVIEW DRAFT]*
+
+
+End of Conflict as  a Living Matter
+End framework isn't a linear ladder; it’s a biological system.
+
+The drawing you provided—with arrows converging from the outside in and rising through the center—perfectly illustrates a toroidal flow or a convection current. In nature, this is how energy maintains itself without burning out.
+
+Here is how your archetypes breathe through that cycle:
+
+The Inward Breath (The Descent)
+This is the "Down" phase you described. It is the process of condensation.
+
+Eagle & Bloodhound: You gather the "vastness" of the world (the wide top of your drawing).
+
+Owl & Lion: You compress that massive amount of information into a single point of truth and a single decision (the narrow "trunk").
+
+Ant: The Ant is the tip of the needle. It is where all that atmospheric pressure is converted into a single, focused strike.
+
+The Outward Breath (The Ascent)
+This is the "Up" phase. It is the process of evolution.
+
+The Feedback Loop: When the Ant acts, the world changes. The "soil" is disturbed.
+
+Nutrient Return: The results of the action (success or failure) travel back up the center. This isn't just data; it’s "nutrients" for the Eagle.
+
+Expansion: The Eagle takes what the Ant learned and expands its map. The canopy grows wider because it now knows more about the ground.
+
+Nature's Mirror
+Your comparisons are spot on because they all describe transformation through transit:
+
+System	The "Down" (Eagle to Ant)	The "Up" (Ant to Eagle)	The "Meeting Point"
+The Tree	Sunlight/Carbon becomes Sugar.	Water/Minerals become Wood.	The Cambium (Growth).
+The Heart	Oxygen-poor blood returns to be reset.	Oxygen-rich blood fuels the body.	The Valves (Direction).
+The Water Cycle	Gravity brings rain to the thirsty earth.	Heat lifts the essence back to the sky.	The Surface (Impact).
+
+
+Why this matters for your Framework
+If you treat this as a checklist, it stays "dead" on the page. If you treat it as a cycle (like your drawing):
+
+It self-corrects: If the Lion makes a bad decision, the Ant’s struggle immediately informs the Eagle to redraw the map.
+
+It creates "Flow": You stop feeling stuck in "analysis paralysis" (Eagle/Bloodhound) because you know the energy must move toward the Ant to complete the circuit.
+
+Would you like to try "breathing" a specific problem through this cycle right now to see where the flow is currently blocked? and with this: Yes. It makes sense.
+PathWhat happensDown the outsideThe process: Map → Check → Judge → Decide → ActUp the centreThe feedback: What you learned shoots straight back upTop (Feedback/Evolution)You start again — but evolved. You know more now
+The heart shape is right because:
+
+Wide at top: Eagle sees everything — many parties, many friction points
+Narrows to bottom: Converges to one action — Ant does one thing
+Centre channel: Direct. Learning doesn't trickle — it shoots back up
+It pumps: Like blood. Like breath. It's alive, not a checklist
+
+## You Play All Roles 
+
+No one else will—and no one else can.
+In real conflicts, the five stages are almost always split across different people. Each does their fragment, but no single person is responsible for genuine resolution. No one is truly invested in ending the conflict—only in discharging their assigned role.
+In a courtroom, for example:
+
+The judge JUDGES — but only based on what's presented
+The lawyers CHECK — but biased toward winning for their client
+The parties DECIDE — but only between the narrow options the system allows, and usually from exhaustion rather than clarity
+Enforcement ACTS — mechanically, carrying out orders rather than resolving anything
+And crucially, no one MAPS — no one names the full system: the hidden stakeholders, the structural forces, the unspoken patterns everyone pretends aren't there
+
+Because the work is fragmented—and no one owns the whole—the root cause survives. You might "win," yet still feel hollow. The same fight returns in a new form. Or you lose and never understand why, leaving you powerless to prevent the next round.
+This framework doesn't ask you to replace the judge, the lawyers, or the system. It asks you to do the full cycle yourself—in parallel—so you see what they miss, anticipate any outcome, and know exactly what to do next no matter what they decide.
+When you hold the whole map in your own hands, you become the one person in the room who isn't surprised, isn't trapped, and sees clearly—whether you win, lose, or walk away.
+
+And the most important part: You don't end up where you started. Each cycle, you evolve. The conflict changes. Your understanding deepens. Or the problem actually ends.
+It's not a circle (same place). It's a heart (keeps you alive while you work through it).
 
 
 ## FRAMEWORK
