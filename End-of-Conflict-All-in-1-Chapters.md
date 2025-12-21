@@ -1036,18 +1036,15 @@ This determines whether you can affect the outcome, what blind spots to expect, 
 
 **What counts as a "party"?**
 
-A party is anyone with power to change what happens:
-- The people *in* the conflict (they can escalate, concede, act)
-- A judge (they can decide)
-- A parent mediating between children (they can intervene)
-- A boss resolving a team dispute (they can impose)
+A party is anyone with power to change what happens: the people *in* the conflict (they can escalate, concede, act); a judge (they can decide); a parent mediating between children (they can intervene); a boss resolving a team dispute (they can impose).
 
 **What counts as an "observer"?**
 
-An observer has no power over the outcome:
-- A historian analysing a past war (it is over)
-- A journalist reporting on a dispute (can observe, cannot decide)
-- You analysing someone else's conflict with no involvement (just watching)
+An observer has no power over the outcome: a historian analysing a past war (it is over); a journalist reporting on a dispute (can observe, cannot decide); you analysing someone else's conflict with no involvement (just watching).
+
+**Note on internal conflicts:**
+
+Internal conflicts require stepping outside yourself to see your competing forces as if they were separate parties. This is the hardest application. Internal conflicts rarely stay internal — you must also identify who else is affected.
 
 
 ### Dimension 2: Time — When is the conflict?
