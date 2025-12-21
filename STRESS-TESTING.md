@@ -1,6 +1,51 @@
 
 ## 4.1 Stress Test: Competing Legitimate Goods
 
+
+1. stories, symbols 
+
+Classic fables:
+	∙	Two goats on a bridge - neither will yield, both fall off. The prank: everyone gets a tiny goat.
+	∙	Dog with a bone seeing its reflection, fighting itself. Mirror reveal in the trunk.
+Trickster tales:
+	∙	Coyote stories - he always thinks he’s winning until the joke’s on him
+	∙	Anansi the spider - weaves everyone into his trick
+	∙	Raven - steals the sun/light, chaos follows
+Visual paradoxes:
+	∙	Duck-rabbit illusion - “Which do you see?” Both sides are right. Both sides are wrong.
+	∙	The impossible triangle - the conflict can’t actually exist
+	∙	Yin-yang - you can’t remove one side without destroying both
+Religious absurdity:
+	∙	Tower of Babel - suddenly no one understands anyone
+	∙	Solomon’s baby - threaten to cut it in half, truth emerges
+The Sneetches - stars on, stars off, until nobody remembers what the fight was about
+
+The Stories & Symbols:
+	∙	Two goats on a bridge (neither yields, both fall)
+	∙	Dog fighting its own reflection
+	∙	Coyote trickster tales
+	∙	Anansi the spider
+	∙	Raven steals the sun
+	∙	Duck-rabbit illusion
+	∙	Impossible triangle
+	∙	Yin-yang
+	∙	Tower of Babel
+	∙	Solomon’s baby
+	∙	The Sneetches (stars on/off)
+	∙	Rabbit flags (your image)
+What they all have in common:
+The conflict destroys itself. Or never existed in the first place.
+Either:
+	1.	Fighting yourself - the enemy is you, a reflection, an illusion
+	2.	Fighting over nothing - the distinction was meaningless all along
+	3.	The trickster laughs - someone orchestrated the conflict to expose its stupidity
+	4.	Both sides lose by winning - the victory is the defeat
+The deepest thread: the resolution isn’t compromise or victory - it’s realizing the frame was wrong.
+You don’t solve the goat problem by one goat winning. You solve it by not being on that bridge. Or by realizing you’re both goats.
+
+
+
+
 **Scenario:** Two parents in a divorce both want primary custody. Neither has done anything wrong. Both love the child. Both are good parents.
 
 | Stage | What happens |
