@@ -631,4 +631,51 @@ The Eagle is you.
 
 **You are All at Once.**
 ```
+Note from the author 
+Still here?
+Good. The slapping’s done—for now.
+What comes next is quieter. Colder. The part where we stop talking about shit and start looking at it. Systematically. With tables.
+I know. You wanted more fight. More fire. But the fire was just to get you in the door.
+This is the room where the work happens.
+I’ll check back. You won’t be alone. But I can’t do this part for you.
+Ready?
+Yes. Better. The bite without the profanity—and the test earns it.
+
+-----
+
+*You missed me.*
+
+*Lost me somewhere between the tables and the tests, didn’t you? No one to narrate the Framework. Just instructions. Cold. Clinical. Necessary.*
+
+*Don’t worry. I go nowhere.*
+
+*So. You’ve read it all. Maybe you think you’ve sorted it?*
+
+*Let’s see.*
+
+*No flipping back. No peeking. Just you and what you remember.*
+
+-----
+
+**The Test**
+
+1. What are the five stages? Name them.
+1. What’s the difference between Judgment and Decision?
+1. Name the three consequences the Owl evaluates.
+1. You’re stuck—same fight, different day. Where do you go?
+1. Who plays all the roles?
+
+-----
+
+*Done?*
+
+*Now check your answers. Be honest. The only person you’re cheating is you.*
+
+*And if you got them wrong—good. That’s data. Go back. That’s the loop.*
+
+*If you got them right—also good. But knowing isn’t doing.*
+
+*The breath comes next.*
+
+-----
 
