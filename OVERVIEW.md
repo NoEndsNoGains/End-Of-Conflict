@@ -1,4 +1,34 @@
-# End of Conflict Framework — Cheat Sheet
+In development - do not read:
+
+CHEAT SHEET (expanded, comprehensive reference)
+
+The Five Stages table
+The Diagnostic Questions (Eagle → Ant)
+The Core Insight (Judgment ≠ Decision)
+The Three Consequences (V.C.I)
+The Three Decision Tests (L.E.R, B.U.S, A.C.T)
+Key Terms
+Where Are You Stuck? (diagnostic table)
+The Circuit (Sensors/Processor/Output)
+Where Do I Start?
+Maybe: the Position/Time matrix from Constraints (that's genuinely useful for locating yourself)
+
+POEM (the philosophy)
+
+"A systematic framework that transforms intractable conflicts..."
+
+NOTES (depth for those who want it)
+
+On Intention
+On Gaming and Manipulation
+On Power
+What Fuels the Movement
+The living/breathing metaphor (heart, tree, water cycle)
+You Play All Roles (the fuller version)
+
+
+
+# Cheat Sheet
 
 ## What Is This?
 
@@ -16,7 +46,9 @@ Five stages:
 - DECIDE: strategy
 - ACT: execution
 
-Each stage is represented by an animal archetype to provide a cognitive shorthand that instantly bypasses any emotional biases: Eagle for MAP, Bloodhound for CHECK, Owl for JUDGE, Lion for DECIDE, Ant for ACT.
+Five archetypes — cognitive shortcuts that bypass emotional noise:
+
+Eagle → MAP | Bloodhound → CHECK | Owl → JUDGE | Lion → DECIDE | Ant → ACT
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5eef5f8-b7dc-4c07-984f-fe771d64aa92" />
 
