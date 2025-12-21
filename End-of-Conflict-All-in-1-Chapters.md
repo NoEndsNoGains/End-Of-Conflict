@@ -3234,3 +3234,17 @@ The edge will find you.
 You don't have to go to it.
 Which might be the whole point.
 
+Notable Phrases and Lessons
+• "Hope is born of participation in hopeful solutions." 
+If you are actively trying to repair the world, you will naturally feel more hopeful.
+• "Your greatest power to change the world is to change your mind about the world." 
+Quoting A Course in Miracles, she emphasizes that shifting your perception is the most potent action you can take.
+• "There is only one of us here." 
+A central theme of her talk is that beneath our external differences (religion, race, nationality), we share one mind. What you do to others, you do to yourself [18:30].
+• "Go up on the roof." 
+A metaphor for turning off the noise of the world (phones, media) and moving into the "higher mind" through meditation or quiet reflection.
+• "There's more love than a broken heart."
+Acknowledging the pain in the world, she suggests that the antidote to destruction is the "birth" of greater life and love within ourselves.
+
+
+
