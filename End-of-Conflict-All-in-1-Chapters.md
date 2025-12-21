@@ -2092,6 +2092,36 @@ DO NOT READ - NEEDS RE-THINKING/EDITING
 
 DO NOT READ -NEEDS RE-THINKING/EDITING
 
+What could be the most horrible - outrageous - the most disgusting - the most "no way" test we could put this framework though? 
+
+## 4.2 Stress Test: Latent and Future Conflict
+
+**Question:** Can this framework handle latent conflict (tension that hasn't erupted) or future conflict (anticipated)?
+
+**Answer:** Yes. The Time dimension (Past, Present, Future) explicitly covers this:
+
+- **Future mode:** Your map is a hypothesis. You are simulating, not resolving. You can Map, project Check, prepare Judgment, rehearse Decision — but Action is not yet possible. Simulation is preparation, not resolution.
+- **Latent conflict:** If tension exists but consequences cannot be named, it's either not yet a conflict worth resolving, or you haven't looked hard enough. The framework prompts deeper investigation.
+
+## 4.3 Stress Test: The Bad Actor
+
+**Question:** What if the other party is actively gaming the framework?
+
+*[PLACEHOLDER: To be developed — addresses strategic misrepresentation, exaggerated costs, manipulation]*
+
+## 4.4 Stress Test: The Asymmetry of Power
+
+**Question:** What if a child fights a parent, or a citizen fights a state?
+
+*[PLACEHOLDER: To be developed — addresses structural vs operational distinction, power imbalance]*
+
+## 4.5 Stress Test: The Irreversible Past
+
+**Question:** How do you apply Action when damage cannot be undone?
+
+*[PLACEHOLDER: To be developed — addresses the Gaps audit when repair is impossible]*
+
+
 
 PART 4: STRESS TESTING
 
