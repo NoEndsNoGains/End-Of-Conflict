@@ -123,3 +123,4 @@ So even in Gaza, there might be stories on all sides that serve emotional needs 
 The brutal question becomes: are you more attached to your story about why the conflict continues, or to actually ending it? Even when your story contains real truth about injustice and suffering?
 
 That's where it gets maximally uncomfortable—asking people to examine whether their most cherished beliefs about their situation might be part of what keeps them trapped in it. Not dismissing the reality of their experience, but questioning which parts of their interpretation serve freedom versus which parts serve the continuation of the pattern.
+after all that rigor, you discover the conflict was as stupid as arguing over whose rabbit is correct.
