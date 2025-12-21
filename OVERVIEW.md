@@ -1,4 +1,4 @@
-In development - do not read:
+jIn development - do not read:
 
 CHEAT SHEET (expanded, comprehensive reference)
 
@@ -678,4 +678,5 @@ Yes. Better. The bite without the profanity—and the test earns it.
 *The breath comes next.*
 
 -----
+reading it again woyll reveal what they missed reading ot frat timw 
 
