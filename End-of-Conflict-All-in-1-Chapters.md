@@ -1307,7 +1307,14 @@ Eagle flies high. From above, Eagle sees two kinds of fights:
 Operational: Two farmers arguing over where to build the fence. They both accept it's their shared boundary. They just disagree on placement.
 Structural: Two farmers arguing over whose land it is in the first place. No fence will hold until ownership is settled.
 Both: They keep rebuilding the fence. It keeps getting torn down. Eagle notices the pattern: "They're not really fighting about the fence."
-
+Option A: Disputed authority
+"Who owns that strip of land?" → Structural. No fence will hold until ownership is settled.
+Option B: Disputed process
+"Who gets to decide where the fence goes?" → Structural. They might both accept it's a shared boundary, but neither accepts the other's right to place the fence unilaterally.
+Option C: Refusal to comply
+They actually agreed where the fence goes. One keeps tearing it down anyway. → Not structural. It's enforcement failure. The authority question is settled — one party just won't honour it.
+Option D: Facts are disputed
+They both accept it's a shared boundary, they both accept they should decide together — but they disagree about where the boundary actually is. → Operational. They need better information (a surveyor), not a different authority structure.
 
 
 
