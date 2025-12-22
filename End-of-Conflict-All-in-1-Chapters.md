@@ -2882,7 +2882,15 @@ DO NOT READ - OLD WORK - NEEDS RE-THINKING/EDITING
 
 
 
+## Why We Still Fail
 
+The framework is destined to break. Not because it's wrong — but because it demands what conflict makes impossible.
+
+**The system fails** (Immunity Paradox): We lack specificity, targeting, and memory.
+
+**The human fails** (What the Stories Teach): We cannot see from inside our own position.
+
+Understanding *how* it fails is the beginning of understanding what might actually work.
 
 
 why we fail: a human
