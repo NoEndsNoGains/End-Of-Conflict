@@ -51,7 +51,7 @@ If sight alone doesn't end it, the framework will—by breaking you instead. Thr
 ## 1. 3 Why it is Needed?
 Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. This allows us to skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with decision (acting would transform us), and we choose blindness over action (seeing creates responsibility). The framework externalises what we cannot do intuitively.
 
-## 1.4 When To Use It
+## 1.4 When To Use It?
 
 Not every frustration is a conflict. Traffic cannot negotiate. Before using this framework, confirm the situation qualifies.
 
@@ -68,7 +68,7 @@ The great grandmother is dead. The great grandfather is dead. But the conflict h
 
 ---
 
-## 1.5 What The Framework Requires
+## 1.5 What does the Framework Require?
 
 The framework is a tool. It requires willingness, self-awareness, the ability to distance yourself from your own position, and a genuine desire for conflict to end well.
 
@@ -78,147 +78,212 @@ The framework is a tool. It requires willingness, self-awareness, the ability to
 
 ---
 
-## 1.6 Where do you Start
+## 1.6 Where do you Start?
 
 > If you read the Prologue, you already started. (If you skipped it—no judgment. Okay, some judgment.)
 
 **Locate yourself.** Before you map the conflict, you map your position relative to it.
 
-Two dimensions set your coordinates: postion and time.
+Two dimensions set your coordinates: **position** (your relationship to the conflict—and therefore your blind spots) and **time** (when the conflict is—and therefore what evidence exists).
 
-a) **Position** — your relationship to the conflict
-   - *External*:
-     - **Observer** (no power, no output, no stake—purely private learning)
-     - **Party** (any power, any output, or any stake—direct or indirect)
-   - *Internal*: The conflict is within yourself. You are analyst, all parties, and battlefield at once.
+### a) Position — your relationship to the conflict
+
+- **External:**
+  - **Observer** (no power, no output, no stake—purely private learning)
+  - **Party** (any power, any output, or any stake)
+    - *Direct:* You are a disputant.
+    - *Indirect:* You are connected—advisor, witness, decision-maker, or affected bystander.
+
+- **Internal:** The conflict is within yourself. You are analyst, all parties, and battlefield at once.
 
 > **Note on Observer:** True Observer is rare. It requires no power to affect the outcome (even indirectly), no output (even conversation), and no stake. If you pay taxes, vote, speak, share, or belong to any system connected to the conflict—you're likely a Party. When in doubt, assume Party. Observer must be proven, not assumed.
 
-> **Note on Internal:** > **Note on Internal:** In internal conflicts, you are always both Observer and Party simultaneously. That's consciousness—you watch yourself and you are yourself. This is the hardest position, and the most honest one. To use the framework, step outside yourself and treat your competing forces as if they were separate parties. And remember: internal conflicts rarely stay internal. Identify who else is affected.
+> **Note on Internal:** In internal conflicts, you are always a Party—you have power, output, and stake in your own mind. But you also have the capacity to observe yourself: to watch your thoughts, notice your impulses, witness your competing forces. This observer-capacity is not the same as the framework's Observer position. You're not neutral. You're not without stake. You're a Party who can also watch. To use the framework, externalise: treat your competing forces as if they were separate parties. And remember: internal conflicts rarely stay internal. Identify who else is affected.
 
-b) **Time** — when the conflict is (Past, Present, or Future)
-- **Past**  Already happened. Memory, documents, evidence. You know how it ended. |Judge with hindsight | Already decided | Already acted — learn |
-- **Present** | Happening now. Real events, real claims, real parties. |You can judge | You can decide | You can act |
-- **Future** | Has not played out yet. Projections, assumptions, scenarios. You are preparing. |Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out, your map is incomplete. Simulation is preparation, not resolution. You are preparing | You are rehearsing | Not yet — simulation |
+### b) Time — when the conflict is
 
+- **Past** — Already happened. Memory, documents, evidence. You know how it ended. Your task is still to see—to see clearly what occurred. Then, if needed: to make sense of it, to release what you're carrying, or to seek justice where it was denied.
 
-Why Postion:his determines whether you can affect the outcome, what blind spots to expect, and how hard it will be to see clearly.
-Why time: This determines what counts as evidence, whether action is possible, and whether your map is real or hypothetical.
-| Question | Dimension | What it determines |
-|----------|-----------|-------------------|
-| What is my relationship to this conflict? | Position | Whether you can affect the outcome. Your blind spots. How hard it will be to see. |
-| When is this conflict? | Time | What counts as evidence. Whether action is possible. Whether your map is real or hypothetical. |
+- **Present** — Happening now. Real events, real claims, real parties. You can see, judge, decide, and act.
 
+- **Future** — Has not played out yet. Projections, assumptions, scenarios. Your map is a hypothesis. Simulation is preparation, not resolution.
+
+---
 
 ***Before you map the conflict, you map your position relative to it.***
 
-Then **Proceed through the stages.** Map → Check → Judge → Decide → Act (See below)
 
-> Let's do a little test because I am that little biach
-### Quick Check: Where Do You Stand?
 
-**Scenario 1:** You're reading about a celebrity divorce. You don't share, discuss, or care.
-- a) Observer
-- b) Party
-- c) Internal
 
-**Scenario 2:** Your two friends are fighting. Both ask for your advice.
-- a) Observer
-- b) Party
-- c) Internal
+---
+ ## Comprehension Test 1
 
-**Scenario 3:** You can't decide whether to leave your job or stay.
-- a) Observer
-- b) Party
-- c) Internal
+*The following scenarios draw from real events of the 2020s to illustrate timeless dynamics. Your task: classify your position and time.*
+---
+**1.** 1. Imagine you were a Ukrainian computer science student in early 2025, watching Sam Altman and Dario Amodei debate whether AGI would arrive within the decade. You were considering pivoting your thesis toward AI safety. Your supervisor asked you to write—100 times—"I will not build unsafe AI" before you make a decision. You're puzzled, unsure what to do and what it means.
 
-**Scenario 4:** You're a UK citizen. You pay taxes. There's a war your government funds.
-- a) Observer
-- b) Party
-- c) Internal
+*(Ref: Altman/Amodei AGI timeline debates, 2024–2025)*
+
+- a) Observer / Present
+- b) Internal / Present
+- c) Party (Indirect) / Future
+- d) Observer / Future
+
+**2.** Imagine you are scrolling social media and see strangers debating whether a pop star was right to release a brutally honest breakup album about her ex-husband. You don't comment, don't know anyone involved. You play your husband one song—titled "Pussy Palace"—because you know it will make him laugh.
+
+*(Ref: Allen, "West End Girl" album, October 2025)*
+
+- a) Observer / Present
+- b) Party (Indirect) / Present
+- c) Observer / Past
+- d) Internal / Present
+
+**3.** Imagine you were a Taiwanese journalist in May 2024, covering the military exercises when China encircled the island after President Lai's inauguration speech. You had family in Kinmen. Your editor was waiting for copy.
+
+*(Ref: Joint Sword-2024A exercises, May 23–24, 2024)*
+
+- a) Observer / Present
+- b) Party (Direct) / Present
+- c) Party (Indirect) / Present 
+- d) Internal / Present
+
+**4.** Imagine you were a Brazilian trade negotiator at the December 2025 Mercosur summit in Foz do Iguaçu, watching Lula and Milei openly clash over Venezuela. Your government's position depended on what happened next. You hadn't spoken yet.
+
+*(Ref: Mercosur summit, Foz do Iguaçu, December 20, 2025)*
+
+- a) Observer / Present
+- b) Party (Direct) / Present
+- c) Party (Indirect) / Present
+- d) Party (Direct) / Future
+
+**5.** Imagine you are an epidemiologist in 2028, reviewing anonymised Covid-19 mortality and excess deaths data from 2020–2023 for a WHO report. Officially, you have no connection to any patients, clinicians, governments, or pharmaceutical interests involved. But the anonymised data seems to downplay post-vaccination cardiac events and all-cause mortality spikes, while emphasising virus-only causes. You decide to dig deeper and contact Russell Brand.
+
+*(Ref: Covid-19 pandemic, 2020–2023)*
+
+- a) Observer / Past
+- b) Party (Indirect) / Past
+- c) Observer / Present
+- d) Party (Direct) / Past
+  
+**6.** The framework's primary promise is:
+
+- a) Resolution
+- b) Sight
+- c) Fairness
+- d) Victory
+
+7. Imagine your French colleague is furious about Macron. She wants you to agree he's "finished as a political force—and besides, his wife is probably a man." You're not French, don't vote there, and find the whole thing baffling. Is this a conflict for the framework?
+
+(Ref: French political instability, 2024–2025; Brigitte Macron conspiracy theories; Owens documentary series, 2024)
+
+a) Yes — there are two positions in disagreement
+b) No — you have no stake; she's venting, not negotiating
+c) Yes — her anger makes it internal
+d) No — foreign politics is incomprehensible anyway
+
+**8.** Conflicts persist because resolution is desired less than:
+
+- a) Power, revenge, or righteousness
+- b) Being right
+- c) Avoiding the hard conversation
+- d) All of the above
+
+**9.** The framework requires willingness, self-awareness, the ability to distance yourself from your position, and:
+
+- a) Legal representation
+- b) Agreement from all parties
+- c) A genuine desire for conflict to end well
+- d) Certainty about who is right
+
+**10.** Are you a goat?
+
+- a) Yes
+- b) No
+- c) Still finding out
+- d) Baaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ---
 
-**Answers:**
+## Answer Key
 
-1. **a) Observer** — no power, no output, no stake
-2. **b) Party** — you have power (your advice affects outcome)
-3. **c) Internal** — the conflict is within you. You are observer and party at once.
-4. **b) Party** — indirect, but connected. Your taxes, your vote, your system.
-
-**The rule:** When in doubt, you're a Party. Internal is always both.
-
-
-## 1.7 The Five Stages
-
-Five stages: 
-- MAP: observation 
-- CHECK: verification
-- JUDGE: judgment
-- DECIDE: strategy
-- ACT: execution
-
-Five archetypes — cognitive shortcuts that bypass emotional noise:
-
-Eagle → MAP | Bloodhound → CHECK | Owl → JUDGE | Lion → DECIDE | Ant → ACT
-
-Yes, it holds. Here's what to insert right after the animal table, before Diagnostic Questions:
+- 1. **b** — You are torn between paths, puzzled by the ritual, unsure what commitment you're being asked to make. The conflict is within you.
+- 2. **a** — No stake in her divorce, no public output, no connection to anyone involved. Playing a song for your husband to make him laugh isn't participation—it's appreciation. Rare true Observer.
+- 3. **c** — You have professional output, family stake, but you're not a disputant between China and Taiwan.
+- 4. **c** — You are connected through your role; the outcome affects your government, but you're not Lula or Milei.
+- 5. **d** — You were an Observer reviewing the past. Then you noticed something. Then you decided to act. Then you contacted Russell Brand—not a peer-reviewed journal, not your supervisor, not the WHO. You picked a side. You have output. You're now Party (Direct) in a present conflict.
+- 6. **b** — It promises sight, not resolution.
+- 7. **b** — She's venting. You have no power over French politics, no output that affects it, no stake in whether Macron survives or whether Brigitte is who Candace Owens says she is.
+- 8. **d** — Resolution requires surrendering something. Most people prefer to keep what they're holding.
+- 9. **c** — A genuine desire for conflict to end well.
+- 10. **d** — The framework is not for goats. Come back when you're ready.
 
 ---
 
-### Alternative Framing: The Clinical Chain
+> Back to learning...
 
-*If animals don't resonate, use the medical lens — same logic, different door.*
+## 1.7 What are the Five Stages in End of Conflict Framework?
 
-| Stage | Animal | Medical | Role |
-|-------|--------|---------|------|
-| MAP | Eagle | Presenting Problem | The Case |
-| CHECK | Bloodhound | Differential Diagnosis | The Tests |
-| JUDGE | Owl | Pathology Findings | The Verdict |
-| DECIDE | Lion | Treatment Plan | The Cure |
-| ACT | Ant | Recovery Protocol | The Recovery |
+Five stages:
 
-You can't treat what you haven't diagnosed.
-You can't diagnose without test results.
-You can't test without knowing the presenting problem.
-You can't recover without following the treatment.
+- **MAP:** observation
+- **CHECK:** verification
+- **JUDGE:** judgment
+- **DECIDE:** strategy
+- **ACT:** execution
 
----
+The framework uses five archetypes — cognitive shortcuts that bypass emotional noise. Two lenses, same logic, different door:
 
-**Or shorter, if you want minimal:**
+- **Eagle → MAP** (Symptoms)
+- **Bloodhound → CHECK** (Tests)
+- **Owl → JUDGE** (Diagnosis)
+- **Lion → DECIDE** (Treatment)
+- **Ant → ACT** (Recovery)
 
-### 1.6 For Those Who Resist Animals
-
-Same chain, clinical clothing:
-
-**Presenting Problem → Differential Diagnosis → Pathology Findings → Treatment Plan → Recovery Protocol**
-
-*Case → Tests → Verdict → Cure → Recovery*
-
-Animals make you the agent; medical makes you the analyst.Because the cheat sheet is for someone in the conflict — and you don't resolve a conflict by studying it, you resolve it by becoming what it requires the cheatsheet continues with Animal 
+Animals make you the agent. Medical makes you the analyst. Pick your door.
 
 ---
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5eef5f8-b7dc-4c07-984f-fe771d64aa92" />
+### The Zoological Chain
+
+- **MAP — Eagle** — *The Vigilant Spotter.* Sees the entire territory from high above: big picture, friction points, and all players — including those invisible to others.
+
+- **CHECK — Bloodhound** — *The Thorough Detective.* Sniffs out the truth by comparing what was said versus what was done to reveal hidden motives, true desires, and what is really wanted.
+
+- **JUDGE — Owl** — *The Wise Judge.* Evaluates what was violated, concealed, or ignored — and delivers the verdict on what must be addressed and what must not.
+
+- **DECIDE — Lion** — *The Strategic Leader.* Circles back to what Eagle saw, now armed with Owl's verdict, and makes the final call to solve the problem at its root.
+
+- **ACT — Ant** — *The Diligent Doer.* Carries out the necessary work to make the solution a reality.
+
+> Eagle sees the problem → Bloodhound verifies the details → Owl judges what's true → Lion decides how to solve what Eagle saw → Ant executes.
 
 ---
 
-| Stage | Animal | The Flow |
-|-------|--------|----------|
-| MAP | Eagle | _The Vigilant Spotter_. Sees the entire territory from high above: big picture, friction points, and all players — including those invisible to others. |
-| CHECK | Bloodhound | _The Thorough Detective_. Sniffs out the truth by comparing what was said versus what was done to reveal hidden motives, true desires and what is really wanted. |
-| JUDGE | Owl | _The Wise Judge_. Evaluates what was violated, concealed, or ignored — and delivers the verdict on what must be addressed and what must not. |
-| DECIDE | Lion | _The Strategic Leader_. Makes the final call to solve the problem at its root so that the issue does not return. |
-| ACT | Ant | _The Diligent Doer_. Carries out the necessary work to make the solution a reality. |
+### The Clinical Chain
+
+- **MAP — Symptoms** — The presenting problem.
+- **CHECK — Tests** — The investigation.
+- **JUDGE — Diagnosis** — What's actually wrong.
+- **DECIDE — Treatment** — Targets the underlying condition the diagnosis revealed.
+- **ACT — Recovery** — Following through until healed.
+
+> You can't test without symptoms.
+> You can't diagnose without tests.
+> You can't treat what you haven't diagnosed.
+> You can't recover without following the treatment.
+
+---
+
+Animals make you the agent; medical makes you the analyst. The cheat sheet uses animals — because you don't resolve a conflict by studying it. You resolve it by becoming what it requires.
 
 
-## 1.7 The Diagnostic Questions
+## 1.8 The Diagnostic Questions
 
 **EAGLE — MAPs**
 
 **Eagle Maps all that is There**
 
-*Because you can't solve what you haven't named*
+*Because you can't solve what you haven't named.*
 
 - What's the conflict?
 - Where are the friction points?
@@ -226,7 +291,18 @@ Animals make you the agent; medical makes you the analyst.Because the cheat shee
 - Who is visible?
 - Who is hiding?
 
-*Because the hidden tells more than the seen - some exception.*
+*Because the hidden often tells more than the seen — with some exceptions.*
+
+Structural vs Operational Causes
+
+In the Map stage, sub-conflicts are typed as:
+
+- **Operational** = Proximate triggers (what to do)
+- **Structural** = Underlying conditions (who decides)
+
+This distinguishes surface symptoms from root causes.
+
+---
 
 **BLOODHOUND — CHECKs**
 
@@ -242,6 +318,10 @@ Animals make you the agent; medical makes you the analyst.Because the cheat shee
 
 *Because we all Say, Do, Want, Hide, and Miss — no exception.*
 
+dog gives you data. The **evaluation** of those data (what they cost) happens in Judgment. snif (check) is descriptive; Judgment is evaluative.
+
+---
+
 **OWL — JUDGEs**
 
 **Owl Judges what Bloodhound Finds**
@@ -255,77 +335,45 @@ Animals make you the agent; medical makes you the analyst.Because the cheat shee
 - What must be paid for?
 - What must not?
 
-*Because verdict is Guilty—or Informed. Sometimes one. Sometimes both. Sometimes neither.*
+*Because the verdict is Guilty — or Informed. Sometimes one. Sometimes both. Sometimes neither.*
+
+> **Note:** Judgment asks: "What are the consequences of what we checked?"
+>
+> If you can't name a consequence — a Violation, a Concealment, or an Ignored need — there might not be a conflict worth resolving through this framework. Or you haven't looked hard enough.
+>
+> If there is a consequence, Owl delivers a verdict. That verdict informs Lion — but Lion solves what Eagle saw, not what Owl found.
+
+---
 
 **LION — DECIDEs**
 
-**Lion Decides on what the Eagle Sees**
+**Lion Decides on what Eagle Sees**
 
 *Because a verdict isn't a solution.*
 
 - How do we resolve this so it doesn't return?
 
-*Because  solution is "never again" not "here we go again".*
+*Because a solution is "never again" — not "here we go again."*
+
+> **Note: Judgment ≠ Decision**
+> - **Judgment** looks backward: = The verdict on what you checked — backward-looking, evaluative Given what we checked, what's the verdict? Who (if anyone) is accountable? What was violated, concealed, ignored?
+> - **Decision** looks forward: = The solution to the problem that remains — forward-looking, strategicRegardless of the verdict, we still have a problem. How do we solve it?
+>
+Judgment says what happened and what it cost. Decision says what to do about it.
+
+>
+> You can have a verdict of "no one did wrong" and still have a problem to solve.
+
+> **Note: The Three Decision Tests**
+> Lion doesn't decide by instinct. Lion tests every option against three questions:
+> - **L.E.R** — Is it right? (Legal, Ethical, Relational)
+> - **B.U.S** — Is it wise? (Beneficial, Unintended consequences considered, Sustainable)
+> - **A.C.T** — Can it be done? (Achievable, Clear, Timely)
+>
+> A decision that fails any test isn't a solution — it's a time bomb.
 
 
-Note: **Judgment ≠ Decision**
-
-- **Judgment** looks backward: Given what we checked, what's the verdict? Who (if anyone) is accountable? What was violated, concealed, ignored?
-- **Decision** looks forward: Regardless of the verdict, we still have a problem. How do we solve it?
-  You can have a verdict of "no one did wrong" and still have a problem to solve.
-
-**ANT — ACTs**
-
-**Ant Acts on what Lion Decides**
-
-*Because to decide and not act is empty.* 
-
-- What must I stop doing?
-- What must I start doing?
-- What sustain this?
-
-*Because to act is not just once —  it all the time.*
-
----
-
-## Where Do I Start When I already Started?
-
-MAP. Start there.
-
-You cannot check what you haven't mapped. You cannot judge what you haven't checked. You cannot decide what you haven't judged. You cannot act on what you haven't decided.
-
-**In crisis:** Act first. Survive. Then map what happened.
-
-**Process:**
-1. Start with Eagle — define the conflict, identify parties (hidden and invisible), locate friction points
-2. Pick ONE friction point
-3. Run it through all five stages
-4. Return to Eagle — has the map changed?
-5. Pick the next friction point
-6. Repeat
-
----
-
-## 1.8 1. Few more deatails on each Stage:
-
-
-## for Eagal
-Structural vs Operational Causes
-
-In the Map stage, sub-conflicts are typed as:
-
-- **Operational** = Proximate triggers (what to do)
-- **Structural** = Underlying conditions (who decides)
-
-This distinguishes surface symptoms from root causes.
-## for dog
-dog gives you data. The **evaluation** of those data (what they cost) happens in Judgment. snif (check) is descriptive; Judgment is evaluative.
-
-
-
-
-
-## For Owl to Judge 
+some other notes: ## For Owl to Judge 
 The Three Consequences (V.C.I)
 
 | Consequence | What it captures |
@@ -379,42 +427,39 @@ The problem you're solving is not "what someone did wrong." The problem is the *
 
 This is why you need both stages. Judgment closes the accountability question. Decision opens the resolution question.
 
-On Judgment vs Decision
+---
 
-- **Judgment** = The verdict on what you checked — backward-looking, evaluative
-- **Decision** = The solution to the problem that remains — forward-looking, strategic
+**ANT — ACTs**
 
-Judgment says what happened and what it cost. Decision says what to do about it.
+**Ant Acts on what Lion Decides**
 
+*Because to decide and not act is empty.*
 
-## 1.9 The Final Test
+- What must I stop doing?
+- What must I start doing?
+- What will sustain this?
 
-Judgment asks: **"What are the consequences of what we checked?"**
+*Because to act is not just once — it's all the time.*
 
-If you can't name a consequence (a Violation, a Concealment, or an Ignored need), there might not be a conflict worth resolving through this framework — or you haven't looked hard enough.
+---
 
-But if there is a consequence, that consequence is the problem Decision must solve.
+## Where Do I Start When I already Started?
 
+MAP. Start there.
 
+You cannot check what you haven't mapped. You cannot judge what you haven't checked. You cannot decide what you haven't judged. You cannot act on what you haven't decided.
 
-## for Lion to Decide - On Fairness, Rights, and Long-term Effects
+**In crisis:** Act first. Survive. Then map what happened.
 
-The Three Decision Tests
+**Process:**
+1. Start with Eagle — define the conflict, identify parties (hidden and invisible), locate friction points
+2. Pick ONE friction point
+3. Run it through all five stages
+4. Return to Eagle — has the map changed?
+5. Pick the next friction point
+6. Repeat
 
-| Test | Question |
-|------|----------|
-| **L.E.R** | Is it right? (Legal, Ethical, Relational) |
-| **B.U.S** | Is it wise? (Beneficial, Unintended consequences, Sustainable) |
-| **A.C.T** | Can it be done? (Achievable, Clear, Timely) |
-
-
-The Decision stage includes the L.E.R / B.U.S / A.C.T tests:
-
-- **L.E.R** = Legal, Ethical, Relational (fairness, rights)
-- **B.U.S** = Beneficial, Unintended consequences, Sustainable (long-term effects)
-- **A.C.T** = Achievable, Clear, Timely (feasibility)
-
-These ensure decisions consider more than just "addressing consequences."
+---
 
 ## 1.8 The Loop
 
@@ -452,16 +497,21 @@ Why you must hold the whole: In real systems, the work is fragmented — each pl
 
 ## 1.10 Key Terms
 
+These had not been disucss 
+
 | Term | What it means |
 |------|---------------|
 | Betta fish | Fighting your own reflection without knowing it |
 | Truth Tester | Tool that reveals gaps between what you believe and what you can prove |
-| Living Research Protocol | Method that breaks your own claims on purpose — keeps understanding alive |
+| Living Research Protocol | Method that encourages you to break all your claims on purpose|
 | Immunity Paradox | Why the same defences that protect you also keep you stuck |
 | Micro-agency | The small territory you actually control — your perception, reactions, stories |
 | Macro-responsibility | Who's responsible for changing systems — distributed by power |
 | Protective self-deception | The bullshit you need to survive |
 | Defensive self-deception | The bullshit that keeps the conflict going |
+- **L.E.R** = Legal, Ethical, Relational (fairness, rights)
+- **B.U.S** = Beneficial, Unintended consequences, Sustainable (long-term effects)
+- **A.C.T** = Achievable, Clear, Timely (feasibility)
 
 
 ---
