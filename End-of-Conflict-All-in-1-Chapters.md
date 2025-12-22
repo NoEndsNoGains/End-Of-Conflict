@@ -606,6 +606,11 @@ by separating _what happened_ from _what it means_ from _what to do about it_.
 
 To see the conflict as precisely as possible. It doesn't promise resolution. It promises sight.
 
+> **Note on the Name:**
+>  The framework is called "End of Conflict" because that's the destination. Sight is the vehicle. It promises sight — not resolution — because sight is what the framework delivers. What happens next depends on you. Sight may produce resolution. It may produce exit.
+> It may produce "this cannot be resolved — only survived or escalated." All of these end the conflict, or end your confusion about it. The promise is honest: you will see. The name is honest: conflict ends. The framework doesn't guarantee how it ends — only that
+> blindness won't be why it continued.
+
 Sight is leverage to end conflict in a way that is:
 
 - **Fair** (L.E.R tests: Legal, Ethical, Relational)
@@ -618,11 +623,22 @@ It's not purely win-win—B.U.S accepts necessary losses. Not purely rights-base
 
 If sight alone doesn't end it, the framework will—by breaking you instead. Through:
 
-- **Exhaustion** — it will make you too tired to lie to yourself any longer
-- **Absurdity** — it will force you to see so clearly you see how ridiculous the fight was in the first place
-- **Collapse** — it will show you were fighting over nothing. The "why" evaporated.
-- **Trick** — it will expose the cracks between what you say and what you do, what you claim you want and what you actually want
-- **Paradox** — it will show you both sides are you. No one left to fight.
+- **Exhaustion** — Running the stages tires your capacity to maintain defensive positions. Lies require energy. Truth doesn't. You become too tired to lie to yourself any longer.
+- **Absurdity** — Clear mapping reveals the actual size of what you're fighting over. Sometimes it's smaller than the fight. You see how ridiculous this was.
+- **Collapse** —  The "why" evaporates under inspection. You were fighting over something that no longer exists, or never did.
+- **Trick** — Bloodhound exposes the gap between what you claim to want and what you actually want. You catch yourself.
+- **Paradox** — In internal conflicts, both sides are you. Seeing this clearly leaves no one to fight.
+
+Note on Breaking:
+The framework breaks you by forcing repetition under honesty constraints.
+
+Exhaustion — Running the stages again and again tires your capacity to maintain defensive positions. Lies require energy. Truth doesn't.
+Absurdity — Clear mapping reveals the actual size of what you're fighting over. Sometimes it's smaller than the fight.
+Collapse — The "why" evaporates under inspection. You were fighting over something that no longer exists, or never did.
+Trick — Bloodhound exposes the gap between what you claim to want and what you actually want. You catch yourself.
+Paradox — In internal conflicts, both sides are you. Seeing this clearly leaves no one to fight.
+
+The mechanism is simple: rigorous honesty repeated until self-deception can't survive it.
 
 **One way or another: pragmatic resolution with ethical constraints.** 
 
@@ -643,8 +659,12 @@ Not every frustration is a conflict. Traffic cannot negotiate. Before using this
 
 > Regarding point 3: Ideal, not required. The framework doesn't care.
 
-**Note on the dead and the past:**
+> **Note on the dead and the past:**
 The great grandmother is dead. The great grandfather is dead. But the conflict happened, the data exists, and you are alive. The framework serves the living, even when it examines the dead.
+
+> **Note on Incomplete Data**: "Access to data from all sides" is ideal, not binary. You rarely have complete access. You always have some access: what they said, what they did, what is documented, what others observed, what you can reasonably infer.
+Run the framework with what you have. Mark what you're missing. Bloodhound's job includes mapping the gaps — not just checking claims, but noting: this I cannot verify. This I am inferring. This I do not know.
+Incomplete data doesn't stop the framework. It constrains your confidence. Owl judges on available evidence. Lion decides with acknowledged uncertainty. This is not failure — it is honesty about operating conditions.
 
 ---
 
@@ -655,6 +675,14 @@ The framework is a tool. It requires willingness, self-awareness, the ability to
 > If you'd rather fall off the bridge than let the other goat pass—the tool isn't broken. You're just a goat. The framework is not for goats. Baaaaaaaaaaaaaaaaaaaaaaaaaa.
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/59c02a26-c24a-4aa8-99b4-bed4bc0d385a" />
+
+
+
+> **Note on Goats:**
+> The goat metaphor is about refusal, not incapacity.
+> Some people won't use the framework because they prefer the fight — the righteousness, the identity, the familiar war. They could step back. They choose not to. Those are goats.
+> Some people can't. Trauma, danger, survival mode, no psychological safety. Distancing would cost more than staying blind. These are not goats. These are people for whom the framework is not yet safe or possible.
+> The goat chooses the bridge. The trapped can only choose nothing. Know which you are.
 
 ---
 
@@ -678,7 +706,10 @@ Two dimensions set your coordinates: **position** (your relationship to the conf
 
 > **Note on Observer:** True Observer is rare. It requires no power to affect the outcome (even indirectly), no output (even conversation), and no stake. If you pay taxes, vote, speak, share, or belong to any system connected to the conflict—you're likely a Party. When in doubt, assume Party. Observer must be proven, not assumed.
 
-> **Note on Internal:** In internal conflicts, you are always a Party—you have power, output, and stake in your own mind. But you also have the capacity to observe yourself: to watch your thoughts, notice your impulses, witness your competing forces. This observer-capacity is not the same as the framework's Observer position. You're not neutral. You're not without stake. You're a Party who can also watch. To use the framework, externalise: treat your competing forces as if they were separate parties. And remember: internal conflicts rarely stay internal. Identify who else is affected.
+> **Note on Observer:** Note on Internal: In internal conflicts, you are always a Party — you have power, output, and stake in your own mind. But you also have the capacity to observe yourself: to watch your thoughts, notice your impulses, witness your competing forces. This observer-capacity is not the same as the framework's Observer position. You're not neutral. You're not without stake. You're a Party who can also watch.
+To use the framework internally: externalise. Name the forces. Give them voices. Make them argue. Then run them through the stages as if they were strangers.
+But internal conflict requires additional scaffolding — how to identify the parties within yourself, how to prevent the analyst from being captured by one of them. That work exists. It is not here. This document focuses on external conflict. The principles transfer inward, but the application is its own territory.
+And remember: internal conflicts rarely stay internal. Identify who else is affected.
 
 ### b) Time — when the conflict is
 
@@ -1086,6 +1117,20 @@ The framework's purpose is to genuinely do your best to resolve conflict in a wa
 ## Note on Power
 Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
 
+## Note on Power Asymmetry:
+The framework surfaces power imbalances. It does not eliminate them.
+If the other party has more power and refuses to engage, you cannot compel them. The framework offers no magic for this. But it offers something else: you still see better than you did.
+What sight gives the less powerful party:
+
+Accuracy — You stop misreading the situation. You see what you're actually facing, not what you wish you were facing.
+Efficiency — You stop wasting resources on strategies that require their cooperation when none is coming.
+Timing — You see when to push, when to wait, when to exit.
+Protection — You recognise manipulation, gaslighting, and bad faith for what they are. Clarity is armour.
+Documentation — What you map exists. For third parties. For courts. For the record. For later.
+Micro-agency — You cannot control the outcome. You can control your response to it. That territory remains yours.
+
+They can choose not to engage. They cannot choose what you see.
+Sometimes the clearest sight reveals: this cannot be resolved — only survived, exited, or escalated to someone with more power. That knowledge is not failure. It is the framework working.
 
 ## Note on Limitations
 This framework assumes conflicts are primarily epistemic problems — that the obstacle to resolution is seeing clearly. But many conflicts persist not because parties can't see, but because they can see, and what they see makes resolution impossible without loss they're unwilling to accept. Often this would equal lost of being right or and identity. 
@@ -1105,6 +1150,14 @@ Why it matters:
 No one else was going to do it. You did. It didn't work. But now you know *why* it didn't work — and that knowledge didn't exist before you tried.
 
 One failed attempt with sight beats a thousand blind victories.
+
+## Note on Self-Interrogation:
+Bloodhound checks Bloodhound: What do I say, do, want, hide, miss, avoid?
+You can ask. You cannot guarantee answers. You are inside what you're examining. Gaps remain. Some of what you hide, you hide from yourself.
+The framework does not mean perfection. It means enough. Enough to see more clearly than before. Enough to move. What remains unverified is still mapped as unverified. Honest sight, not perfect sight.
+
+## Note on Notes I missed
+Every thought could be a note. Every note spawns ten more. At some point you stop refining and start using. What's here is not complete. It is enough.
 
 
 ```markdown
