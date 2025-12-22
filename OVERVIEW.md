@@ -33,7 +33,6 @@ You Play All Roles (the fuller version)
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fff9681-20c2-47a8-8af3-9fb919511539" />
 
 
-
 ## 1.1 What Is This?
 
 A systematic five-stage process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable by separating _what happened_ from _what it means_ from _what to do about it_.
