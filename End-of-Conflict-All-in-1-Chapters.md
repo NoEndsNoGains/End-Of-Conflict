@@ -69,7 +69,7 @@ You can't do that in *the time of too much*. Too much pain, too much fear, too m
 
 ## The Burden
 
-This book is for the time when situation becomes a bit more bearable. Accustomed. Habituated. For the moment when you realise: regardless of whether it was given or chosen—what you do with this mess is yours.
+Resolution is for the time when situation becomes a bit more bearable. Accustomed. Habituated. For the moment when you realise: regardless of whether it was given or chosen—what you do with this mess is yours.
 
 Oh, imagine if we got there quickly. Wouldn't that be just the best? Because only then—only then—can we change things. Before that, we're just lost.
 
@@ -271,12 +271,12 @@ Conflict needs people like you.
 P.S. 
 Let me MAP what just happened.
 
-There's you and there's me, and I'm playing a game with you. The game is ultimately for me to know if you're the right reader for this book, and for you to decide if you're ready for it.
+There's you and there's me, and I'm playing a game with you. The game is ultimately for me to know if you're _the right_ reader, and for you to decide if you're ready to read more.
 
 Now you CHECK. What you're checking is how each of us plays. If you check, you'll notice I used a classic sales technique: breakdown followed by love-bombing. I called you full of shit, set traps, admitted to attempting humiliation—then pivoted to calling you cool, curious, brave, graceful, wise. My hero.
 We don't have data about your behaviour—we don't know what you said or thought or felt. But for the purpose of this exercise, we will JUDGE. Does naming the manipulation neutralise it? Or does self-awareness just make it sophisticated manipulation? How about your assumptions and preferences? Does liking me a little—you must be liking me at least somewhat if you got this far—have an impact on how you judged what I said and what I did?
 
-Then you DECIDE what that means for your trust in this book. In me. And ultimately, whether to keep reading—because that's the actual decision in front of you right now.
+Then you DECIDE what that means for your trust what these words say. In me. And ultimately, whether to keep reading—because that's the actual decision in front of you right now.
 
 And based on that, you ACT. Perhaps you:
 
@@ -297,7 +297,7 @@ Not "could be." Will be.
 
 Didn't I just weaponise everything in this prologue? Manipulation dressed as honesty. Traps dressed as invitations. Self-awareness dressed as virtue.
 
-So yes. Someone will read this and use it to tell their ex-wife she's full of shit while refusing to look at themselves. Someone will cite the Immunity Paradox to explain why they can't possibly change. Someone will wave this book at a judge and say "see, we're all biased, so my bias doesn't count."
+So yes. Someone will read this and use it to tell their ex-wife she's full of shit while refusing to look at themselves. Someone will cite the Immunity Paradox to explain why they can't possibly change. Someone will wave this at a judge and say "see, we're all biased, so my bias doesn't count."
 
 The framework has tools to catch this. Step two is CHECK—look at what's actually happening. Step three is JUDGE—evaluate it precisely. These tools exist.
 
@@ -447,7 +447,7 @@ Unless you want that cheesy pasta?
 
 Well, we have a practical hiccup.
 
-If you're the Honourable Judge Johnson, you can't cite this book. Not in a ruling. Not in chambers. Not at the conference where you speak on family justice reform. "You're Full of Shit" doesn't belong on that slide.
+If you're the Honourable Judge Johnson, you can't cite this. Not in a ruling. Not in chambers. Not at the conference where you speak on family justice reform. "You're Full of Shit" doesn't belong on that slide.
 
 I knew it straight away. The moment I wrote it.
 
