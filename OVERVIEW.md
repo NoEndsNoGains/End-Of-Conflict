@@ -199,7 +199,7 @@ d) No — foreign politics is incomprehensible anyway
 ## Answer Key
 
 - 1. **b** — You are torn between paths, puzzled by the ritual, unsure what commitment you're being asked to make. The conflict is within you.
-- 2. **a** — No stake in her divorce, no public output, no connection to anyone involved. Playing a song for your husband to make him laugh isn't participation—it's appreciation. Rare true Observer.
+- 2. **b** — You have no stake in her divorce, no power over its outcome, and no connection to anyone involved. But you played the song for your husband — that's output. Content from the conflict entered your household. Minimal participation, but non-zero. Party (Indirect), not Observer.
 - 3. **c** — You have professional output, family stake, but you're not a disputant between China and Taiwan.
 - 4. **c** — You are connected through your role; the outcome affects your government, but you're not Lula or Milei.
 - 5. **d** — You were an Observer reviewing the past. Then you noticed something. Then you decided to act. Then you contacted Russell Brand—not a peer-reviewed journal, not your supervisor, not the WHO. You picked a side. You have output. You're now Party (Direct) in a present conflict.
@@ -264,6 +264,10 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 > You can't treat what you haven't diagnosed.
 > You can't recover without following the treatment.
 
+> Note on Accessible vs. Inaccessible Conditions:
+> Diagnosis may reveal causes you cannot treat: another person's defences, systemic inequities, historical wounds. This is not failure — it is accurate mapping.
+> Lion operates on the treatable surface — the portion of the problem within your micro-agency. You cannot decide to change what you do not control. You can decide your response to it.
+> The framework's promise holds: you will see clearly. What you do with that sight depends on what is actually accessible to you. Sometimes the clearest sight reveals: this part is not mine to fix.
 ---
 
 Animals make you the agent; medical makes you the analyst. The cheat sheet uses animals — because you don't resolve a conflict by studying it. You resolve it by becoming what it requires.
@@ -494,6 +498,10 @@ The framework's purpose is to genuinely do your best to resolve conflict in a wa
 ## Note on Power
 Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
 
+
+## Note on Limitations
+This framework assumes conflicts are primarily epistemic problems — that the obstacle to resolution is seeing clearly. But many conflicts persist not because parties can't see, but because they can see, and what they see makes resolution impossible without loss they're unwilling to accept. Often this would equal lost of being right or and identity. 
+
 ## Note on Why Trying and Failing Matters
 Even if you are the only one trying, and you failed — this matters. One is always more than zero.
 
@@ -509,6 +517,7 @@ Why it matters:
 No one else was going to do it. You did. It didn't work. But now you know *why* it didn't work — and that knowledge didn't exist before you tried.
 
 One failed attempt with sight beats a thousand blind victories.
+
 
 ```markdown
 ---
