@@ -469,12 +469,12 @@ Ta-da!
 
 ## TABLE OF CONTENTS
 
-- Prologue
+- Prologue: "Let me be Rude"
 - New Title Page
 - Table of contents
 
 
-**PART 1: CHEAT SHEET**
+**PART 1: CHEAT SHEET** "Let me be Dry"
 - 1.1 What is this?
 - 1.2 Core Principle
 - 1.3 The Journey
@@ -488,7 +488,7 @@ Ta-da!
 - 1.11 Constraints
 - 1.12 Before You Begin: Locate Yourself
 
-**PART 2: THE FRAMEWORK**
+**PART 2: THE FRAMEWORK** "Let me be Practical"
 - 2.3 Stage 1: MAP
 - 2.4 Stage 2: CHECK
 - 2.5 Stage 3: JUDGE
@@ -497,14 +497,14 @@ Ta-da!
 - 2.8 Key Clarifications
 - 2.9 Notes
 
-**PART 3: THEORETICAL FOUNDATIONS**
+**PART 3: THEORETICAL FOUNDATIONS** "Let me be Smart"
 - 3.1 The Foundations of MAP (what traditions inform boundary-setting, conflict mapping)
 - 3.2 The Foundations of CHECK (epistemology, truth-testing, evidence)
 - 3.3 The Foundations of JUDGE (ethics, L.E.R / B.U.S / A.C.T, the three consequences)
 - 3.4 The Foundations of DECIDE (decision theory, the Mirror Check, Golden Rule)
 - 3.5 The Foundations of ACT (implementation, change theory, power)
 
-**PART 4: STRESS TESTING**
+**PART 4: STRESS TESTING** "Let me be Brutal"
 - 4.1 Why Break What You Just Built
 - 4.2 Three Scales
   
@@ -526,12 +526,12 @@ The Broken (damage can't be undone)
 
 The Unborn (hasn't happened yet)
 
-**PART 5: DEEP DIVE**
+**PART 5: DEEP DIVE** "Let me be Wise"
 - 5.1 The Truth Tester — WHAT we can know
 - 5.2 Living Research Protocol — HOW we stay honest
 - 5.3 The Immunity Paradox — WHY we still fail
 
-**The EPILOGUE (Hope)**
+**The EPILOGUE (Hope/Forgiveness)** "Let me be Love"
 
 
 
