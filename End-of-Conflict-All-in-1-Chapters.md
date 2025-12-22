@@ -880,14 +880,18 @@ Animals make you the agent; medical makes you the analyst. The cheat sheet uses 
 
 *Because the hidden often tells more than the seen — with some exceptions.*
 
-Structural vs Operational Causes
+> **Note:** On
+> Eagle sees not just where the fighting is, but what kind of fight it is.
 
-In the Map stage, sub-conflicts are typed as:
+> **Operational vs Structural?**
 
-- **Operational** = Proximate triggers (what to do)
-- **Structural** = Underlying conditions (who decides)
+In the Map stage, sub-conflicts are typed by asking: **Is authority contested?**
 
-This distinguishes surface symptoms from root causes.
+- **Operational** = They agree who decides. They disagree what to do.
+- **Structural** = They disagree who has the right to decide.
+- **Both** = Looks operational, but keeps recurring. The structural question is unresolved underneath.
+
+**Why it matters:** You cannot fix a conflict using the wrong tool. Operational disputes can be negotiated. Structural disputes require settling the authority question first — otherwise every rule you make will be fought again.
 
 ---
 
