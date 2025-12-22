@@ -509,6 +509,9 @@ The Broken (damage can't be undone)
 
 The Unborn (hasn't happened yet)
 
+****PART ?: ? "Let me be Funny "**
+- Funny is missing
+- 
 **PART 5: DEEP DIVE** "Let me be Wise"
 - 5.1 The Truth Tester — WHAT we can know
 - 5.2 Living Research Protocol — HOW we stay honest
