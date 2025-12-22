@@ -581,6 +581,7 @@ The Unborn (hasn't happened yet)
 **The EPILOGUE (Hope/Forgiveness)** "Let me be Love"
 
 
+NOTES: - THE ESSAY MUST READ AS UNIVERSAL - ELIMINATE "THIS BOOK"/BOOK" .... 
 
 
 ## OVERVIEW
