@@ -293,10 +293,7 @@ Animals make you the agent; medical makes you the analyst. The cheat sheet uses 
 
 *Because the hidden often tells more than the seen — with some exceptions.*
 
-> **Note:** On
-> Eagle sees not just where the fighting is, but what kind of fight it is.
-
-> **Operational vs Structural?**
+> **Note:** Eagle sees not just where the fighting is, but what kind of fight it is: **Operational vs Structural?**
 
 In the Map stage, sub-conflicts are typed by asking: **Is authority contested?**
 
@@ -322,7 +319,7 @@ In the Map stage, sub-conflicts are typed by asking: **Is authority contested?**
 
 *Because we all Say, Do, Want, Hide, and Miss — no exception.*
 
-dog gives you data. The **evaluation** of those data (what they cost) happens in Judgment. snif (check) is descriptive; Judgment is evaluative.
+> **Note:** Bloodhound gives you data. The **evaluation** of those data (what they cost) in in the hands of Owl. Bloodhound's snif (check) is descriptive; Owl's judgment is evaluative.
 
 ---
 
