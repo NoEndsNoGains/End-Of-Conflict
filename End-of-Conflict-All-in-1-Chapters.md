@@ -184,7 +184,7 @@ Freedom comes from stepping out of the right/wrong game entirely. Not "I'm right
 
 That's the real uncomfortable truth.
 
-So if what you need most of all is to _be right-, this is where this book ends for you. Money back not guaranteed.
+So if what you need most of all is to _be right-, this is where it ends for you. Money back not guaranteed.
 
 But at least you stay right and you stay full of shit.
 
@@ -280,7 +280,7 @@ Then you DECIDE what that means for your trust what these words say. In me. And 
 
 And based on that, you ACT. Perhaps you:
 
-- Close the book. Fair.
+- Walk away. Fair.
 - Keep reading but more skeptically. Smart.
 - Call my mom and tell her she raised me badly. Here's her number: [redacted for her protection, not mine].
 
@@ -367,7 +367,7 @@ I do.
 
 ## The Trap
 
-The only thing is, none of this will help you get through the book. The book is hard work. Unbelievably hard work.
+The only thing is, none of this will help you get through the book. What follows is hard work. Unbelievably hard work.
 
 For starters, shit smells, and it's certainly not a nice thing to look at. (Isn't that the most academic of my sentences yet?)
 
@@ -377,7 +377,7 @@ Even when you're being "brutally honest" with yourself, there's still that part 
 
 It's recursive. The ego finds new ways to protect itself even within the process of examining the ego. You think you're dismantling your defences, but you're just building more sophisticated ones.
 
-So this book can't promise to end the game of self-deception. It can only help you play it more consciously. You're going to keep bullshitting yourself, but here's how to catch yourself doing it faster and more often.
+So I can't promise to end the game of self-deception. It can only help you play it more consciously. You're going to keep bullshitting yourself, but here's how to catch yourself doing it faster and more often.
 
 And one more cost the stories whisper but we prefer not to hear: resolution transforms. Not adjusts. Not improves. Transforms.
 
@@ -581,7 +581,7 @@ The Unborn (hasn't happened yet)
 **The EPILOGUE (Hope/Forgiveness)** "Let me be Love"
 
 
-NOTES: - THE ESSAY MUST READ AS UNIVERSAL - ELIMINATE "THIS BOOK"/BOOK" .... 
+
 
 
 ## OVERVIEW
