@@ -547,6 +547,7 @@ The Unborn (hasn't happened yet)
 
 jIn development - do not read:
 
+
 CHEAT SHEET (expanded, comprehensive reference)
 
 The Five Stages table
@@ -596,8 +597,7 @@ It's not purely win-win (B.U.S accepts necessary losses). Not purely rights-base
 
 **It's pragmatic resolution with ethical constraints.**
 
-## 1.3 Why is it needed?
-Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people before consequences or forget the consequence or the people, we confuse the verdict with decision, and choose not to see and we choose not to act.
+
 
 ## 1.4 When to use it
 
