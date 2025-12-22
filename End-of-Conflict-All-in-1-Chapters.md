@@ -2100,7 +2100,27 @@ Stage-5-ACTION.md
 But knowing what went wrong is not the same as knowing how to fix it.
 Stage 4 (Decision) asks: Given what went wrong and who is accountable, how do we resolve the conflict we mapped in Stage 1?
 JUDGMENT is backward-looking (what happened). DECISION is forward-looking (what to do).
+## 2.8 Why You Play All Roles
 
+No one else will — and no one else can.
+
+In real conflicts, the five stages are almost always split across different people. Each does their fragment, but no single person is responsible for genuine resolution. No one is truly invested in ending the conflict — only in discharging their assigned role.
+
+In a courtroom, for example:
+
+- The judge JUDGES — but only based on what's presented
+- The lawyers CHECK — but biased toward winning for their client
+- The parties DECIDE — but only between the narrow options the system allows, and usually from exhaustion rather than clarity
+- Enforcement ACTS — mechanically, carrying out orders rather than resolving anything
+- And crucially, no one MAPS — no one names the full system: the hidden stakeholders, the structural forces, the unspoken patterns everyone pretends aren't there
+
+Because the work is fragmented — and no one owns the whole — the root cause survives. You might "win," yet still feel hollow. The same fight returns in a new form. Or you lose and never understand why, leaving you powerless to prevent the next round.
+
+This framework doesn't ask you to replace the judge, the lawyers, or the system. It asks you to do the full cycle yourself — in parallel — so you see what they miss, anticipate any outcome, and know exactly what to do next no matter what they decide.
+
+When you hold the whole map in your own hands, you become the one person in the room who isn't surprised, isn't trapped, and sees clearly — whether you win, lose, or walk away.
+
+And the most important part: You don't end up where you started. Each cycle, you evolve. The conflict changes. Your understanding deepens. Or the problem actually ends.
 
 
 
