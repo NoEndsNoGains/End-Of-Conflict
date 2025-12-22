@@ -292,7 +292,13 @@ Animals make you the agent; medical makes you the analyst. The cheat sheet uses 
 - Who is hiding?
 
 *Because the hidden often tells more than the seen — with some exceptions.*
+(Usually there's a hidden player or a hidden layer. Rarely there's neither.)
 
+>**Note:** Eagle asks: Is this fight about *what* — or about *who decides*?
+>
+> About what (the fish, the oil). About who decides (the fishing rights, the drilling rights). If it keeps returning — who decides was never settled, or isn't respected.
+>
+> What Eagle sees can be misleading. That's why Eagle reports to Bloodhound.
 ---
 
 **BLOODHOUND — CHECKs**
@@ -306,117 +312,68 @@ Animals make you the agent; medical makes you the analyst. The cheat sheet uses 
 - What do they want? What do I want?
 - What are they hiding? What am I hiding?
 - What are they missing? What am I missing?
+- What don't they want to see? What don't I want to see?
 
-*Because we all Say, Do, Want, Hide, and Miss — no exception.*
+*Because we all Say, Do, Want, Hide, and Miss and Avoid — no exception.*
 
-> **Note:** Bloodhound gives you data. The **evaluation** of those data (what they cost) in in the hands of Owl. Bloodhound's snif (check) is descriptive; Owl's judgment is evaluative.
+> **Note:** Bloodhound's sniff is descriptive. Owl's judgment is evaluative.
+>
+> The "I" questions are Bloodhound checking Bloodhound.
+>
+> Bloodhound passes data to Owl.
 
 ---
 
 **OWL — JUDGEs**
 
-**Owl Judges what Bloodhound Finds**
+**Owl Judges what Bloodhound Reports**
 
-*Because truth without a verdict is just information.*
+*Because truth needs a verdict to not be just information.*
 
 - Is there anything to judge?
-- What was violated?
-- What was concealed?
-- What was ignored?
-- What must be paid for?
-- What must not?
+- What was violated? (broken — rules, agreements, trust)
+- What was concealed? (hidden — facts, motives, truth)
+- What was ignored? (missed — needs, fears, losses)
+- Who must pay for what?
+- What is nothing to be paid for?
 
-*Because the verdict is Guilty — or Informed. Sometimes one. Sometimes both. Sometimes neither.*
+*Focus is not on people. Focus is on consequences.*
 
-> **Note:** Judgment asks: "What are the consequences of what we checked?"
+*Because the verdict is Guilty — or Informed. Sometimes one. Sometimes both. Saddest when neither.*
+
+> **Note:** Judgment asks: What are the consequences of what Bloodhound checked?
 >
-> If you can't name a consequence — a Violation, a Concealment, or an Ignored need — there might not be a conflict worth resolving through this framework. Or you haven't looked hard enough.
+> No consequence — no verdict. Only information. Sometimes only ignorance. Either way, a problem might still remain.
 >
-> If there is a consequence, Owl delivers a verdict. That verdict informs Lion — but Lion solves what Eagle saw, not what Owl found.
-
+> Owl checks Owl: What do I say, do, want, hide, miss — or don't want to see?
+>
+> Owl delivers verdict to Lion.
 ---
 
 **LION — DECIDEs**
 
-**Lion Decides on what Eagle Sees**
+**Lion Decides on what Eagle Saw**
 
-*Because a verdict isn't a solution.*
+*Because a verdict isn't a solution to a problem that remains.*
 
 - How do we resolve this so it doesn't return?
 
 *Because a solution is "never again" — not "here we go again."*
 
-> **Note: Judgment ≠ Decision**
-> - **Judgment** looks backward: = The verdict on what you checked — backward-looking, evaluative Given what we checked, what's the verdict? Who (if anyone) is accountable? What was violated, concealed, ignored?
-> - **Decision** looks forward: = The solution to the problem that remains — forward-looking, strategicRegardless of the verdict, we still have a problem. How do we solve it?
+> **Note:** Judgment (Owl) is backward — what happened, what it cost. Decision (Lion) is forward — what to do about the problem. 
 >
-Judgment says what happened and what it cost. Decision says what to do about it.
-
+> Owl may find no one did wrong. Lion still has a problem to solve.
 >
-> You can have a verdict of "no one did wrong" and still have a problem to solve.
-
-> **Note: The Three Decision Tests**
-> Lion doesn't decide by instinct. Lion tests every option against three questions:
+> Lion asks: Does what I decide pass?
 > - **L.E.R** — Is it right? (Legal, Ethical, Relational)
-> - **B.U.S** — Is it wise? (Beneficial, Unintended consequences considered, Sustainable)
-> - **A.C.T** — Can it be done? (Achievable, Clear, Timely)
+> - **B.U.S** — Is it wise? (Beneficial, Unintended consequences, Sustainable)
+> - **A.C.T** — Is it doable? (Achievable, Clear, Timely)
 >
-> A decision that fails any test isn't a solution — it's a time bomb.
-
-
-some other notes: ## For Owl to Judge 
-The Three Consequences (V.C.I)
-
-| Consequence | What it captures |
-|-------------|------------------|
-| **Violated** | What was broken — rules, agreements, trust |
-| **Concealed** | What was hidden — facts, motives, truth |
-| **Ignored** | What was missed — needs, fears, losses |
-
-You judge the consequences, not the person.
-
-
-older/newer:
-
-Judgment is an **Audit of Gaps** — the distance between what is and what should be.
-
-| Consequence | What it captures | Examples |
-|-------------|------------------|----------|
-| **Violated** | What was broken | Rules, agreements, trust, integrity breached |
-| **Concealed** | What was hidden | Facts, motives, truth withheld |
-| **Ignored** | What was missed | Needs, fears, wants, losses unacknowledged |
-
-**Note:** These are **lenses**, not boxes. They can overlap. Something can be both Concealed AND Ignored. You evaluate through all three.
-
-This covers:
-- **Accountability** (Violated)
-- **Transparency** (Concealed)
-- **Healing** (Ignored)
-
-*You are not judging the person. You are judging the consequences of what you checked.*
-
-
-Judgment vs Decision: The Verdict and the Solution
-
-**Judgment** and **Decision** are not the same thing.
-
-**Judgment** is backward-looking. It asks: Given what we checked, what's the verdict?
-- Was something violated, concealed, or ignored?
-- Who (if anyone) is accountable?
-- What are the consequences of what happened?
-
-Judgment produces an **evaluation** — not a punishment, not a solution. Just: this is what we found.
-
-**Decision** is forward-looking. It asks: We still have a problem. How do we solve it?
-
-The problem you're solving is not "what someone did wrong." The problem is the **consequence** that exists — regardless of whether anyone is at fault.
-
-**Example:** Two parents want primary custody. Neither did anything wrong. 
-- **Judgment:** No violation. Both are good parents.
-- **But the problem remains:** Two people want something only one can have. A child's needs must be met.
-- **Decision:** How do we solve *that*?
-
-This is why you need both stages. Judgment closes the accountability question. Decision opens the resolution question.
+> Fails any test — not a solution. A time bomb.
+>
+> Lion checks Lion: What do I say, do, want, hide, miss — or don't want to see?
+>
+> Lion gives orders to Ant.
 
 ---
 
@@ -424,14 +381,17 @@ This is why you need both stages. Judgment closes the accountability question. D
 
 **Ant Acts on what Lion Decides**
 
-*Because to decide and not act is empty.*
+*Because to decide demands the act.*
 
 - What must I stop doing?
 - What must I start doing?
-- What will sustain this?
+- What must I continue doing?
 
 *Because to act is not just once — it's all the time.*
 
+> **Note:** Ant checks Ant: What do I say, do, want, hide, miss — or don't want to see?
+>
+> Ant acts. What Ant does becomes what Eagle sees next.
 ---
 
 ## Where Do I Start When I already Started?
@@ -508,10 +468,6 @@ These had not been disucss
 ---
 
 # 1.11 NOTES
-
-**Note on internal conflicts:**
-
-Internal conflicts require stepping outside yourself to see your competing forces as if they were separate parties. This is the hardest application. Internal conflicts rarely stay internal — you must also identify who else is affected.
 
 ## Note on Premature Resolution
 
@@ -650,7 +606,7 @@ because the hidden tells more than the seen.
 
 Bloodhound checks what Eagle maps—
 because what is seen isn't always what's sure,
-because we all say, do, want, hide, and miss.
+because we all say, do, want, hide, miss and avoid.
 **This is No exception.**
 
 ### OWL — JUDGEs
