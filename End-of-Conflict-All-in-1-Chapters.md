@@ -593,34 +593,12 @@ The Unborn (hasn't happened yet)
 
 ## OVERVIEW
 
-jIn development - do not read:
+In development - do not read:
 
 
-CHEAT SHEET (expanded, comprehensive reference)
-
-The Five Stages table
-The Diagnostic Questions (Eagle → Ant)
-The Core Insight (Judgment ≠ Decision)
-The Three Consequences (V.C.I)
-The Three Decision Tests (L.E.R, B.U.S, A.C.T)
-Key Terms
-Where Are You Stuck? (diagnostic table)
-The Circuit (Sensors/Processor/Output)
-Where Do I Start?
-Maybe: the Position/Time matrix from Constraints (that's genuinely useful for locating yourself)
-
-POEM (the philosophy)
-
-"A systematic framework that transforms intractable conflicts..."
-
-NOTES (depth for those who want it)
-
-On Intention
-On Gaming and Manipulation
-On Power
-What Fuels the Movement
-The living/breathing metaphor (heart, tree, water cycle)
-You Play All Roles (the fuller version)
+- CHEAT SHEET 
+- POEM 
+- NOTES
 
 
 
@@ -631,61 +609,65 @@ You Play All Roles (the fuller version)
 
 ## 1.1 What Is This?
 
-A systematic five-stage process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable by separating _what happened_ from _what it means_ from _what to do about it_.
-
+A systematic five-stage process for resolving conflicts that seem intractable (*not "in a tractor"—but close*). It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable by separating _what happened_ from _what it means_ from _what to do about it_.
 
 ## 1.2 What Is Its Purpose?
-To see the conflict as precisely as possible. It doesn't promise resolution. It promises sight. Sight is leverage to end conflict in a way that is:
 
-- fair (L.E.R tests: Legal, Ethical, Relational)
-- wise (B.U.S tests: Beneficial, Unintended consequences considered, Sustainable)
-- doable (A.C.T tests: Achievable, Clear, Timely)
+To see the conflict as precisely as possible. It doesn't promise resolution. It promises sight.
 
-It's not purely win-win (B.U.S accepts necessary losses). Not purely rights-based (L.E.R includes ethics and relationships, not just legal entitlements). Not purely idealistic (A.C.T demands what's actually achievable).
+Sight is leverage to end conflict in a way that is:
 
-**It's pragmatic resolution with ethical constraints.**
+- **Fair** (L.E.R tests: Legal, Ethical, Relational)
+- **Wise** (B.U.S tests: Beneficial, Unintended consequences considered, Sustainable)
+- **Doable** (A.C.T tests: Achievable, Clear, Timely)
+
+It's not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes ethics and relationships, not just legal entitlements. Not purely idealistic—A.C.T demands what's actually achievable.
+
+> **Note:** L.E.R, B.U.S, A.C.T are discussed in Stage 4 "Decide". Don't panic. It's just jargon to make the framework fancier. You already have the gist.
+
+If sight alone doesn't end it, the framework has multiple mechanisms working in parallel to still end it. 
+
+Its design incorporates any and all of these:
+
+- **Exhaustion** — it will make you too tired to lie to yourself any longer
+- **Absurdity** — it will force you to see so clearly you see how ridiculous the fight was in the first place
+- **Collapse** — it will show you were fighting over nothing. The "why" evaporated.
+- **Trick** — it will expose the cracks between what you say and what you do, what you claim you want and what you actually want
+- **Paradox** — it will show you both sides are you. No one left to fight.
+
+**One way or another: pragmatic resolution with ethical constraints.** (Ha. Told ya!)
 
 ## 1. 3 Why it is Needed?
 Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. We skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with decision (acting would transform us), and we choose blindness over action (seeing creates responsibility). The framework externalises what we cannot do intuitively.
 
-## 1.4 When to use it
+## 1.4 When To Use It
 
-Not every frustration is a conflict. Before using this framework, confirm the situation qualifies.
+Not every frustration is a conflict. *Traffic cannot negotiate.* Before using this framework, confirm the situation qualifies.
 
-## Use
- when **all** of the following are true:
+**Use when:**
 
 1. There are at least two positions in genuine disagreement.
-2. Each position is held by someone (or some group) who can choose and act.
-3. You can state what the conflict is about in one sentence.
-4. You know enough about the situation to sketch an initial map.
-WHERE IT HAS PREREQUISITES:
-	1.	Requires willingness - goats won’t engage
-	2.	Requires self-awareness - dog can’t see itself
-	3.	Requires communication - Babel breaks CHECK
-	4.	Assumes you want resolution - tricksters exploit it
-	5.	Doesn’t harness absurdity - rabbits end conflict through humor
-	6.	Doesn’t account for exhaustion - Sneetches resolve through fatigue
+2. You have access to data from all sides.
+3. You have the intention to be honest, objective, and unbiased—or at least to catch yourself when you're not. *(Nice, but not necessary.)*
 
-## Do **not** use:
+> **Note on the dead and the past:**
+> The great grandmother is dead. The great grandfather is dead. But the conflict happened, the data exists, and you are alive. The framework serves the living, even when it examines the dead.
 
-1. There is only frustration, not a second position. ("I hate the traffic" is not a conflict — traffic cannot negotiate.)
-2. The "other side" is a force of nature or the irreversible past. (No agent can respond.)
-3. You cannot yet say what the fight is about. (You need more information before mapping.)
+---
 
-   assumption
-The framework assumes the parties will use it.
-The framework is a tool. Tools require hands willing to pick them up.
-What the stories also revealed:
-Some conflicts don’t end through clarity. They end through:
-	∙	Exhaustion (Sneetches)
-	∙	Absurdity (rabbit flags)
-	∙	Collapse (Babel)
-	∙	Trick (Solomon)
-	∙	Paradox (duck-rabbit)
-Your framework doesn’t claim to be the only exit. It claims to be sight. And sight held.
-## 1.4. 
- 3. ## How to Begin
+## 1.5 What The Framework Requires
+
+The framework is a tool. It requires willingness, self-awareness, the ability to distance yourself from your own position, and a genuine desire for conflict to end well.
+
+If you'd rather fall off the bridge than let the other goat pass—the tool isn't broken. You're just a goat. The framework is not for goats. Baaaa.
+
+---
+
+
+## 1.4. Where do you Start
+
+1. You already did (unless my editor mess up the page ordering)
+2. 
 
 1. **Locate yourself.** Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future? (See Section 2.5.)
 3. **Draft a first map.** List parties, their positions, and what each stands to gain or lose.
