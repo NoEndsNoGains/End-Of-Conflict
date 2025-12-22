@@ -572,23 +572,19 @@ You Play All Roles (the fuller version)
 
 ## 1.1 What Is This?
 
-A systematic process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework forces precision at each stage, preventing the drift that causes most conflict resolution efforts to fail. A systematic framework that transforms intractable conflicts into solvable problems by separating what happened from what to do about it.
+A systematic five-stage process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable by separating _what happened_ from _what it means_ from _what to do about it_.
 
 
+## 1.2 What Is Its Purpose?
+To see the conflict as precisely as possible. It doesn't promise resolution. It promises sight. Sight is a leverage to end conflict in a way that is:
 
-## 1.2 What is it's Purpose? 
-To see the conflict as precisely as possible. Not to win it. Not to be right. To see it clearly to choose better. It doesn't promise resolution. It promises sight. Sight is leverage. 
-The purpose is to **end conflict** in a way that:
+- fair (achieved by L.E.R tests: Legal, Ethical, Relational)
+- wise (achived by B.U.S tests: Beneficial, with no Unintended consequences, Sustainable)
+- doable (A.C.T tests: Achievable, Clear, Timely)
 
-- Is **sustainable** (doesn't reignite)
-- **Serves all parties** (or as many as possible)
-- Is **fair** (L.E.R tests: Legal, Ethical, Relational)
-- Is **wise** (B.U.S tests: Beneficial, Unintended consequences, Sustainable)
-- Is **doable** (A.C.T tests: Achievable, Clear, Timely)
-
-**The value function:** Resolve conflict sustainably and fairly.
 
 It's not purely Pareto (someone may have to lose). Not purely rights-based (though L.E.R includes rights). Not purely restorative (though it can be).
+
 
 ***It's pragmatic resolution with ethical constraints.***
 
@@ -1339,6 +1335,7 @@ A few options:
 -----
 
 Which tone fits? Brutal-funny? Dry-ironic? Philosophical? I can riff more in whatever direction lands.​​​​​​​​​​​​​​​​
+
 
 ## FRAMEWORK
 
