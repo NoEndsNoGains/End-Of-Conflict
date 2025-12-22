@@ -103,7 +103,7 @@ And then the penny drops. It was never about winning. It was never about being r
 
 And the penny drops again. Those who are the real winners, *the real winners*, and those who are the only right, *the only right*, are those who saw it first.
 
-This book doesn't promise to end the conflict. It helps you see what the game is about.
+This doesn't promise to end the conflict". It helps you see what the game is about.
 
 And that—just that—gets you closer to your freedom.
 
@@ -148,11 +148,10 @@ You see, the 2am reader isn't just the parent in court. It's the parent who inst
 
 And there is the 'it's not my fault' story. The 'it's pure genocide' story. The 'I'm not in the conflict—I'm just selling the guns' story.
 
+
 The question isn't whether you're in it. It's *how*.
 
-Here is one of the *how* we did not hear yet. 
-
-And the calcified story. The wound must be forgotten—if you remembered it, you could forgive it. So the wound disappears but the war remains. We are Montagues. They are Capulets. We are from Gaza. They are from Sderot. We are Serb. They are Croat. We are Tutsi. They are Hutu. Ask why and the answers aren't memories—they're inheritance. The feud becomes gravity. The feud gives you purpose. The feud is the family. To end it would be treason against the dead. Oh I hear you already: you speak in your native language but I hear you laud and clear: 
+And the calcified story. The wound must be forgotten—if you remembered it, you could forgive it. So the wound disappears but the war remains. We are Montagues. They are Capulets. We are from Gaza. They are from Sderot. We are Serb. They are Croat. We are Tutsi. They are Hutu. Ask why and the answers aren't memories—they're inheritance. The feud becomes gravity. The feud gives you purpose. The feud is the family. To end it would be treason against the dead. Oh I hear you already: you speak in your native language but I hear you loud and clear: 
 
 You shout: "Non sai un cazzo!", "!את לא יודעת כלום", "!ما بتعرفي شي", "Ne znaš ništa!", "Ntushobora kumenya!"
 
@@ -184,7 +183,7 @@ Freedom comes from stepping out of the right/wrong game entirely. Not "I'm right
 
 That's the real uncomfortable truth.
 
-So if what you need most of all is to _be right-, this is where it ends for you. Money back not guaranteed.
+So if what you need most of all is to _be right_, this is where it ends for you. Money back not guaranteed.
 
 But at least you stay right and you stay full of shit.
 
@@ -244,7 +243,7 @@ Not an accusation. An invitation.
 
 To see the wholeness. The full extent of it. All of it. Yours. Theirs. The mess itself.
 
-Clarity is your reward. And this book is nothing but a system to get you there.
+Clarity is your reward. And this is nothing but a system to get you there.
 
 So the fact that you are still reading this tells us so much.
 
@@ -377,7 +376,7 @@ Even when you're being "brutally honest" with yourself, there's still that part 
 
 It's recursive. The ego finds new ways to protect itself even within the process of examining the ego. You think you're dismantling your defences, but you're just building more sophisticated ones.
 
-So I can't promise to end the game of self-deception. It can only help you play it more consciously. You're going to keep bullshitting yourself, but here's how to catch yourself doing it faster and more often.
+So I can't promise to end the game of self-deception. I can only help you play it more consciously. You're going to keep bullshitting yourself, but here's how to catch yourself doing it faster and more often.
 
 And one more cost the stories whisper but we prefer not to hear: resolution transforms. Not adjusts. Not improves. Transforms.
 
