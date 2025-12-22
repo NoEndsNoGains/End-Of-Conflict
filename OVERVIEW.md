@@ -14,7 +14,7 @@ In development - do not read:
 
 ## 1.1 What Is This?
 
-A systematic five-stage process for resolving conflicts that seem intractable (*not "in a tractor"—but close*). It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable by separating _what happened_ from _what it means_ from _what to do about it_.
+A systematic five-stage process for resolving conflicts that seem intractable (*not "in a tractor"—but close*). It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable (_tractorable_) by separating _what happened_ from _what it means_ from _what to do about it_.
 
 ## 1.2 What Is Its Purpose?
 
@@ -28,11 +28,9 @@ Sight is leverage to end conflict in a way that is:
 
 It's not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes ethics and relationships, not just legal entitlements. Not purely idealistic—A.C.T demands what's actually achievable.
 
-> **Note:** L.E.R, B.U.S, A.C.T are discussed in Stage 4 "Decide". Don't panic. It's just jargon to make the framework fancier. You already have the gist.
+> **Note:** L.E.R, B.U.S, A.C.T are discussed in Stage 4 "Decide". Don't panic. It's just jargon to make the framework fancier — and it works as a memory aid. Win–win we all want.
 
-If sight alone doesn't end it, the framework has multiple mechanisms working in parallel to still end it. 
-
-Its design incorporates any and all of these:
+If sight alone doesn't end it, the framework will—by breaking you instead. Through:
 
 - **Exhaustion** — it will make you too tired to lie to yourself any longer
 - **Absurdity** — it will force you to see so clearly you see how ridiculous the fight was in the first place
@@ -43,7 +41,7 @@ Its design incorporates any and all of these:
 **One way or another: pragmatic resolution with ethical constraints.** (Ha. Told ya!)
 
 ## 1. 3 Why it is Needed?
-Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. We skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with decision (acting would transform us), and we choose blindness over action (seeing creates responsibility). The framework externalises what we cannot do intuitively.
+Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. This allows us to skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with decision (acting would transform us), and we choose blindness over action (seeing creates responsibility). The framework externalises what we cannot do intuitively.
 
 ## 1.4 When To Use It
 
