@@ -576,6 +576,7 @@ The Unborn (hasn't happened yet)
 - 5.1 The Truth Tester — WHAT we can know
 - 5.2 Living Research Protocol — HOW we stay honest
 - 5.3 The Immunity Paradox — WHY we still fail
+  a) a System b) Human
 
 **The EPILOGUE (Hope/Forgiveness)** "Let me be Love"
 
