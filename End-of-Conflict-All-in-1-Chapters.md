@@ -571,7 +571,11 @@ You Play All Roles (the fuller version)
 
 
 
-# Cheat Sheet
+# End of Conflict Cheat Sheet
+## _"Let me be Dry"_
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fff9681-20c2-47a8-8af3-9fb919511539" />
+
+
 
 ## 1.1 What Is This?
 
@@ -579,17 +583,15 @@ A systematic five-stage process for resolving conflicts that seem intractable. I
 
 
 ## 1.2 What Is Its Purpose?
-To see the conflict as precisely as possible. It doesn't promise resolution. It promises sight. Sight is a leverage to end conflict in a way that is:
+To see the conflict as precisely as possible. It doesn't promise resolution. It promises sight. Sight is leverage to end conflict in a way that is:
 
-- fair (achieved by L.E.R tests: Legal, Ethical, Relational)
-- wise (achived by B.U.S tests: Beneficial, with no Unintended consequences, Sustainable)
+- fair (L.E.R tests: Legal, Ethical, Relational)
+- wise (B.U.S tests: Beneficial, Unintended consequences considered, Sustainable)
 - doable (A.C.T tests: Achievable, Clear, Timely)
 
+It's not purely win-win (B.U.S accepts necessary losses). Not purely rights-based (L.E.R includes ethics and relationships, not just legal entitlements). Not purely idealistic (A.C.T demands what's actually achievable).
 
-It's not purely Pareto (someone may have to lose). Not purely rights-based (though L.E.R includes rights). Not purely restorative (though it can be).
-
-
-***It's pragmatic resolution with ethical constraints.***
+**It's pragmatic resolution with ethical constraints.**
 
 ## 1.3 Why is it needed?
 Most conflicts persist not because they're unsolvable, but because we skip the steps resolution requires: we don't name them clearly, we assume instead of verify, we judge people before consequences or forget the consequence or the people, we confuse the verdict with decision, and choose not to see and we choose not to act.
