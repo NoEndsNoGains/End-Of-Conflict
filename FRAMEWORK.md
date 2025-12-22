@@ -20,6 +20,40 @@ They actually agreed where the fence goes. One keeps tearing it down anyway. →
 Option D: Facts are disputed
 They both accept it's a shared boundary, they both accept they should decide together — but they disagree about where the boundary actually is. → Operational. They need better information (a surveyor), not a different authority structure.
 
+You're right to push. The fence keeps falling — but why?
+
+**Option A: Disputed authority**
+"Who owns that strip of land?" → Structural. No fence will hold until ownership is settled.
+
+**Option B: Disputed process**
+"Who gets to decide where the fence goes?" → Structural. They might both accept it's a shared boundary, but neither accepts the other's right to place the fence unilaterally.
+
+**Option C: Refusal to comply**
+They actually *agreed* where the fence goes. One keeps tearing it down anyway. → Not structural. It's enforcement failure. The authority question is settled — one party just won't honour it.
+
+**Option D: Facts are disputed**
+They both accept it's a shared boundary, they both accept they should decide together — but they disagree about where the boundary *actually is*. → Operational. They need better information (a surveyor), not a different authority structure.
+
+---
+
+So the recurring fence isn't automatically structural. Eagle has to ask: **Why does it keep falling?**
+
+- Contested authority → Structural
+- Contested facts → Operational (needs CHECK)
+- Refusal to comply → Enforcement (needs ACT)
+
+The Thermostat
+Two people share a flat.
+Operational: They agree they both live there. They disagree on the temperature. Eagle sees two people pointing at the dial, negotiating.
+Structural: They disagree who controls the thermostat. One changed the password. Eagle sees two people pointing at each other, not at the dial.
+Both: Every week, same fight. They agree on a setting. By Friday, it's changed. Eagle sees the pattern: "This isn't about temperature. It's about who holds the password."
+Enforcement: They agreed on 20°C. One keeps changing it to 24°C anyway. Eagle sees the agreement, sees the override, sees the gap.
+
+
+
+
+
+
 
 
 **What this stage is:** This is the foundation for understanding and solving conflicts. Before you can analyse or resolve anything, you must first define what you are dealing with. This stage focuses on naming what is on the map: 
