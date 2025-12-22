@@ -3,6 +3,8 @@ PART 3: THEORETICAL FOUNDATIONS "Let me be Smart"
 * 3.1 The Foundations of MAP
 * 3.2 The Foundations of CHECK
 
+How does it relate to Fisher and Ury's principled negotiation, Deutsch's cooperation theory, Lederach's conflict transformation? Is it building on existing work or departing from it?
+
 ## Note on Living Matters
 
 End framework isn't a linear ladder; it’s a biological system.
