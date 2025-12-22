@@ -1,11 +1,3 @@
-In development - do not read:
-
-
-- CHEAT SHEET 
-- POEM 
-- NOTES
-
-
 
 # End of Conflict Cheat Sheet
 ## _"Let me be Dry"_
@@ -476,17 +468,15 @@ These had not been disucss
 # 1.11 NOTES
 
 ## Note on Premature Resolution
-
 If, after mapping the conflict, you discover the disagreement was a misunderstanding and everyone now agrees, stop. The framework resolved itself in Stage 1. This is success, not failure.
 
 ## Note on What Fuels the Movement
 The framework runs on whatever force is strong enough to overcome resistance. Fear. Courage. Curiosity. Desperation. Sense-making. Care — when someone you love is affected. Integrity — when the gap between what you know and what you're doing becomes unbearable.
 
-## Note on failure
+## Note on Failure
 The framework will fail. It fails because humans lack the precision of immune systems, and because we cannot see what we're standing in. But it fails diagnostically — showing you exactly where and why it broke.
 
 ## Note on Intention
-
 This framework reveals the structure of conflict — who is involved, what they want, what is true, and what is hidden. It shows you accuracy (or its lack) in judgments made, points to failure when decisions have been made.
 
 That knowledge is power. And power can be used in different ways.
@@ -501,33 +491,24 @@ The framework's purpose is to genuinely do your best to resolve conflict in a wa
 
 **The choice is yours.**
 
-
 ## Note on Power
-
 Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
 
----
+## Note on Why Trying and Failing Matters
+Even if you are the only one trying, and you failed — this matters. One is always more than zero.
 
+Why it matters:
 
-## Note on You Play All Roles 
+- You saw what others refused to see
+- You mapped what the system left unnamed
+- You checked what no one else verified
+- The trace remains — for you, for others, for next time
+- The failure is data. It shows where the blockage is.
+- You evolved. You didn't end where you started.
 
-No one else will—and no one else can.
-In real conflicts, the five stages are almost always split across different people. Each does their fragment, but no single person is responsible for genuine resolution. No one is truly invested in ending the conflict—only in discharging their assigned role.
-In a courtroom, for example:
+No one else was going to do it. You did. It didn't work. But now you know *why* it didn't work — and that knowledge didn't exist before you tried.
 
-The judge JUDGES — but only based on what's presented
-The lawyers CHECK — but biased toward winning for their client
-The parties DECIDE — but only between the narrow options the system allows, and usually from exhaustion rather than clarity
-Enforcement ACTS — mechanically, carrying out orders rather than resolving anything
-And crucially, no one MAPS — no one names the full system: the hidden stakeholders, the structural forces, the unspoken patterns everyone pretends aren't there
-
-Because the work is fragmented—and no one owns the whole—the root cause survives. You might "win," yet still feel hollow. The same fight returns in a new form. Or you lose and never understand why, leaving you powerless to prevent the next round.
-This framework doesn't ask you to replace the judge, the lawyers, or the system. It asks you to do the full cycle yourself—in parallel—so you see what they miss, anticipate any outcome, and know exactly what to do next no matter what they decide.
-When you hold the whole map in your own hands, you become the one person in the room who isn't surprised, isn't trapped, and sees clearly—whether you win, lose, or walk away.
-
-And the most important part: You don't end up where you started. Each cycle, you evolve. The conflict changes. Your understanding deepens. Or the problem actually ends.
-It's not a circle (same place). It's a heart (keeps you alive while you work through it).
-
+One failed attempt with sight beats a thousand blind victories.
 
 ```markdown
 ---
