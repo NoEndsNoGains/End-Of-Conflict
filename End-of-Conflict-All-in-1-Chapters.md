@@ -7,6 +7,7 @@
 - [FRAMEWORK](#framework)
 - [THEORETICAL FOUNDATIONS](#theoretical-foundations)
 - [STRESS TESTING](#stress-testing)
+- [LAUGH](#laugh)
 - [DEEP DIVE](#deep-dive)
 - [End Matters](#end-matters)
 
@@ -2333,7 +2334,17 @@ The brutal question becomes: are you more attached to your story about why the c
 
 That's where it gets maximally uncomfortable—asking people to examine whether their most cherished beliefs about their situation might be part of what keeps them trapped in it. Not dismissing the reality of their experience, but questioning which parts of their interpretation serve freedom versus which parts serve the continuation of the pattern.
 after all that rigor, you discover the conflict was as stupid as arguing over whose rabbit is correct.
-*Warning: Missing file LAUGH.md*
+
+## LAUGH
+
+Sometimes the only thing left it to laugh. 
+I can't do it otherwise.
+
+This book obviously failed if I did not acomplishe even that. 
+
+A list of places where you should be laughting (and where maybe you did not) - if you didn't: what's wrong with your sense of homour??
+
+
 
 ## DEEP DIVE
 
