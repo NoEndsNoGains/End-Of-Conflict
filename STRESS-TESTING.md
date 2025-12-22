@@ -381,6 +381,37 @@ The Giver (Lowry) — False peace through suppression
 
 
 
+Mapping Stories to Stress Testing Structure
+4.2 Three Scales
+ScaleStoriesInside (the war in you)The Shadow (Jung), Hamlet's paralysis, Arjuna's crisis in the Bhagavad Gita, Dr Jekyll & Mr Hyde, the Two WolvesBetween (you and someone else)Cain & Abel, Jacob & Esau, Gilgamesh & Enkidu, the Frog Prince, Medea & JasonBeyond (the war in the world)The Iliad, Ragnarök, The Oresteia (blood feud → courts), Animal Farm, 1984, Montagues & Capulets
+
+4.3 The Five Tests
+TestWhat it stress-testsStoriesNo Villain (both sides are right)Can the framework hold when there's no bad guy?Antigone (moral law vs. state law), The Prodigal Son (both sons have legitimate grievance), Solomon's Judgement (before truth revealed), King Lear (Cordelia's honesty vs. Lear's need), custody disputes with two good parentsThe Liar (one side is gaming it)Can the framework survive bad faith?The Wolf and the Lamb, Animal Farm's pigs, Iago, Rumpelstiltskin (bargains under duress), Br'er Rabbit/Bugs Bunny (justified trickster?)The Weaker (power is unequal)Can the framework work when one side can't be heard?David & Goliath, Horton Hears a Who, Watership Down's Efrafa, The Handmaid's Tale, any trapped-protagonist storyThe Broken (damage can't be undone)Can the framework address the irreversible?Medea (children dead), Oedipus (truth known, eyes gone), King Lear (Cordelia dead), Humpty Dumpty, Urashima Tarō (time passed)The Unborn (hasn't happened yet)Can the framework work on hypotheticals?Sleeping Beauty's curse, Joseph's dreams, prophecy narratives, pre-emptive conflict
+
+What This Does
+Each story becomes a worked example that tests whether the framework holds under that specific strain:
+
+4.3.1 No Villain Test
+Antigone — Antigone must bury her brother (divine law). Creon must enforce the state's decree (civil law). Both are right. Neither can yield without betraying what they are.
+Run the framework:
+
+MAP: Two parties, one corpse, incompatible obligations
+CHECK: What does each say/do/want/hide/miss?
+JUDGE: What's violated? Divine law OR civil law—depending on your frame. The framework can't tell you which frame is correct.
+DECIDE: What solution prevents return? There isn't one. The tragedy is that the framework reveals the impossibility.
+ACT: Antigone acts (buries). Creon acts (punishes). Both die.
+
+What the test reveals: The framework doesn't promise resolution. It promises sight. Sometimes sight shows you there is no exit—only which death you choose.
+
+
+
+
+
+
+
+
+
+
 **Scenario:** Two parents in a divorce both want primary custody. Neither has done anything wrong. Both love the child. Both are good parents.
 
 | Stage | What happens |
