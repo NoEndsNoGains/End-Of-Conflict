@@ -136,17 +136,9 @@ Here is one of the *how* we did not hear yet.
 
 And the calcified story. The wound must be forgotten—if you remembered it, you could forgive it. So the wound disappears but the war remains. We are Montagues. They are Capulets. We are from Gaza. They are from Sderot. We are Serb. They are Croat. We are Tutsi. They are Hutu. Ask why and the answers aren't memories—they're inheritance. The feud becomes gravity. The feud gives you purpose. The feud is the family. To end it would be treason against the dead. Oh I hear you already: you speak in your native language but I hear you laud and clear: 
 
-You tell me:
+You shout: "Non sai un cazzo!", "!את לא יודעת כלום", "!ما بتعرفي شي", "Ne znaš ništa!", "Ntushobora kumenya!"
 
-- "You know shit".
-
-I wishper: 
-
-- "Funny."
-
-
-
-
+I respond: "Funny."
 
 
 
