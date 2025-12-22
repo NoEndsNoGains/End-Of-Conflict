@@ -1303,6 +1303,17 @@ DO NOT READ - NEEDS RE-THINKING/EDITING
 
 ## 3. Stage 1: MAP
 
+# A story on the Farmer's Fence:
+
+Eagle flies high. From above, Eagle sees two kinds of fights:
+
+Operational: Two farmers arguing over where to build the fence. They both accept it's their shared boundary. They just disagree on placement.
+Structural: Two farmers arguing over whose land it is in the first place. No fence will hold until ownership is settled.
+Both: They keep rebuilding the fence. It keeps getting torn down. Eagle notices the pattern: "They're not really fighting about the fence."
+
+
+
+
 **What this stage is:** This is the foundation for understanding and solving conflicts. Before you can analyse or resolve anything, you must first define what you are dealing with. This stage focuses on naming what is on the map: 
 
 **A) Parties** (who is involved) and 
