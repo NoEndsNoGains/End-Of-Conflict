@@ -1290,6 +1290,18 @@ DO NOT READ - NEEDS RE-THINKING/EDITING
 
 ## 3. Stage 1: MAP
 
+
+Should htat be what the dog does??? of what Own should see???
+
+> **Note:** Eagle sees not just *where* the fighting is, but *what kind* of fight it is. Two farmers at a stream:
+> - **Operational** — disputing how many fish each gets (they agree who decides)
+> - **Structural** — disputing who owns the fishing rights (authority contested)
+> - **Both** — same fight every season (operational mask, structural underneath)
+> - **Enforcement** — catch was agreed, one takes more anyway (gap between agreement and action)
+>
+> The type determines what comes next. Wrong diagnosis, wrong tool.
+
+
 # A story on the Farmer's Fence:
 
 Eagle flies high. From above, Eagle sees two kinds of fights:
