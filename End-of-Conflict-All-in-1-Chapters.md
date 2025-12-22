@@ -684,28 +684,18 @@ a) **Position** — your relationship to the conflict
 > **Note on Internal:** > **Note on Internal:** In internal conflicts, you are always both Observer and Party simultaneously. That's consciousness—you watch yourself and you are yourself. This is the hardest position, and the most honest one. To use the framework, step outside yourself and treat your competing forces as if they were separate parties. And remember: internal conflicts rarely stay internal. Identify who else is affected.
 
 b) **Time** — when the conflict is (Past, Present, or Future)
-- **Past**  Already happened. Memory, documents, evidence. You know how it ended. |
-- **Present** | Happening now. Real events, real claims, real parties. |
-- **Future** | Has not played out yet. Projections, assumptions, scenarios. You are preparing. |Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out, your map is incomplete. Simulation is preparation, not resolution.
+- **Past**  Already happened. Memory, documents, evidence. You know how it ended. |Judge with hindsight | Already decided | Already acted — learn |
+- **Present** | Happening now. Real events, real claims, real parties. |You can judge | You can decide | You can act |
+- **Future** | Has not played out yet. Projections, assumptions, scenarios. You are preparing. |Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out, your map is incomplete. Simulation is preparation, not resolution. You are preparing | You are rehearsing | Not yet — simulation |
 
 
 Why Postion:his determines whether you can affect the outcome, what blind spots to expect, and how hard it will be to see clearly.
 Why time: This determines what counts as evidence, whether action is possible, and whether your map is real or hypothetical.
-
-### What Each Combination Allows
-
-| Time | Map | Check | Judgment | Decision | Action |
-|------|-----|-------|----------|----------|--------|
-| **Past** | You can map | Verify against evidence | Judge with hindsight | Already decided | Already acted — learn |
-| **Present** | You can map | Verify against reality | You can judge | You can decide | You can act |
-| **Future** | You can map | Guessing — projections | You are preparing | You are rehearsing | Not yet — simulation |
-
-### Summary: The Pre-Check
-
 | Question | Dimension | What it determines |
 |----------|-----------|-------------------|
 | What is my relationship to this conflict? | Position | Whether you can affect the outcome. Your blind spots. How hard it will be to see. |
 | When is this conflict? | Time | What counts as evidence. Whether action is possible. Whether your map is real or hypothetical. |
+
 
 ***Before you map the conflict, you map your position relative to it.***
 
@@ -885,7 +875,7 @@ Note: **Judgment ≠ Decision**
 
 ---
 
-## Where Do I Start?
+## Where Do I Start When I already Started?
 
 MAP. Start there.
 
@@ -1200,14 +1190,14 @@ It's not a circle (same place). It's a heart (keeps you alive while you work thr
 Eagle maps all that is there—
 because you can't solve what you haven't named,
 because the hidden tells more than the seen.
-**No exception.**
+**With Some exception.**
 
 ### BLOODHOUND — CHECKs
 
 Bloodhound checks what Eagle maps—
 because what is seen isn't always what's sure,
 because we all say, do, want, hide, and miss.
-**No exception.**
+**This is No exception.**
 
 ### OWL — JUDGEs
 
@@ -1248,59 +1238,7 @@ The Eagle is you.
 
 **You are All at Once.**
 ```
-Note from the author 
-Still here?
-Good. The slapping’s done—for now.
-What comes next is quieter. Colder. The part where we stop talking about shit and start looking at it. Systematically. With tables.
-I know. You wanted more fight. More fire. But the fire was just to get you in the door.
-This is the room where the work happens.
-I’ll check back. You won’t be alone. But I can’t do this part for you.
-Ready?
-Yes. Better. The bite without the profanity—and the test earns it.
-
------
-
-*You missed me.*
-
-*Lost me somewhere between the tables and the tests, didn’t you? No one to narrate the Framework. Just instructions. Cold. Clinical. Necessary.*
-
-*Don’t worry. I go nowhere.*
-
-*So. You’ve read it all. Maybe you think you’ve sorted it?*
-
-*Let’s see.*
-
-*No flipping back. No peeking. Just you and what you remember.*
-
------
-
-**The Test**
-
-1. What are the five stages? Name them.
-1. What’s the difference between Judgment and Decision?
-1. Name the three consequences the Owl evaluates.
-1. You’re stuck—same fight, different day. Where do you go?
-1. Who plays all the roles?
-
------
-
-*Done?*
-
-*Now check your answers. Be honest. The only person you’re cheating is you.*
-
-*And if you got them wrong—good. That’s data. Go back. That’s the loop.*
-
-*If you got them right—also good. But knowing isn’t doing.*
-
-*The breath comes next.*
-
------
-
-
-
------
-
-​​​​​​​​​​​​​​​​
+​​​​​​​​​​​
 
 
 ## FRAMEWORK
