@@ -566,6 +566,21 @@ Narrows to bottom: Converges to one action — Ant does one thing
 Centre channel: Direct. Learning doesn't trickle — it shoots back up
 It pumps: Like blood. Like breath. It's alive, not a checklist
 
+# Note on Why Conflicts Persist (What the Stories Teach)
+Beyond power, revenge, and righteousness, the collective stories reveal structural reasons conflicts persist:
+Perspective is positional. Oedipus cannot solve the crime because he is the crime. Alice cannot perceive Wonderland's absurdity—it's simply where she is. We need external structure to see what we're standing in.
+Language fails before dialogue. The Tower of Babel. Animal Farm's redefinitions until "equal" means its opposite. The Wolf argues with the Lamb in perfect logical form, and the Lamb's innocence is irrelevant—the Wolf was never arguing in good faith.
+Time warps. Hamlet thinks until everyone dies. Romeo acts before anyone can check. Lear recognises love after destroying it.
+Identity welds to position. Achilles is his wrath; resolution would feel like self-annihilation. The Sneetches build social order on arbitrary stars.
+Grief hijacks the process. Medea's unmetabolised betrayal becomes annihilation. Hurt that cannot speak as hurt speaks as rage. We dismiss this as noise rather than reading it as data.
+Witnesses fail. The priest and Levite walk past. The crowd assumes someone else will intervene. Bystanding is not neutral—it is complicit.
+False peace masquerades as resolution. The Giver's community has no conflict because it has no feeling. Silence, suppression, and enforced agreement wear resolution's costume.
+Power asymmetry distorts perception itself. "A person's a person no matter how small"—but Horton's world cannot hear the Whos. The powerful cannot see what the powerless cannot escape.
+Exit and voice both get blocked. Watership Down's Efrafa doesn't let you leave. When fleeing is forbidden and speaking is punished, the conflict becomes about access to process itself.
+The story calcifies into structure. Montagues and Capulets no longer remember the original grievance; the feud is the family now.
+Resolution requires transformation. The Frog must become a Prince. Prospero must relinquish power. We expected to walk away unchanged.
+The framework exists because these patterns are invisible from inside them.
+
 ## Note on You Play All Roles 
 
 No one else will—and no one else can.
