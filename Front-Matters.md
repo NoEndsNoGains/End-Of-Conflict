@@ -97,7 +97,7 @@ Not their freedom. Your freedom. That's the only territory you ever control anyw
 
 But the path to freedom has its own monsters.
 
-I'm not thinking Putin. I'm not thinking Hitler. I'm not thinking Stalin.
+I'm not thinking Hitler. Stalin. Mao. Putin. Nor, I think, Netanyahu.
 
 I'm thinking about the real monsters. The most dangerous of them all.
 
