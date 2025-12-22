@@ -293,9 +293,6 @@ Animals make you the agent; medical makes you the analyst. The cheat sheet uses 
 
 *Because the hidden often tells more than the seen — with some exceptions.*
 
-> **Note:** Eagle sees not just where the fighting is, but what kind of fight it is: **Operational vs Structural?**
-
-
 ---
 
 **BLOODHOUND — CHECKs**
