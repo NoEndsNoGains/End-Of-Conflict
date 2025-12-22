@@ -24,6 +24,9 @@
 ---
 
 ## Prologue
+### _Let me be Rude_
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b9850e42-7f56-40c2-bf67-9b1de04968c7" />
 
 
 ## The Shit We Carry
