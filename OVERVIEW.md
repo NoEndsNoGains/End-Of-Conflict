@@ -444,7 +444,9 @@ If you are a party, you are in conflict, regardless whether you chose it or not.
 ---
 
 ## 1.9 You Play All Roles 
-Why you must hold the whole: In real systems, the work is fragmented — each player sees their piece, no one owns the whole. Run the full cycle yourself, in parallel. Not to override, but to see what others cannot. To end conflict, what matters is that you see as much as possible, as precisely as possible, as objectively as possible, as unbiased as possible. You Map. You Check. You Judge. You Decide. You Act.
+Why you must hold the whole: In real systems, the work is fragmented — each player sees their piece, no one owns the whole. Run the full cycle yourself, in parallel. Not to override, but to see what others cannot. You Map. You Check. You Judge. You Decide. You Act.
+
+It's not a circle (same place). It's a heart (keeps you alive while you work through it).
 
 ## 1.10 Key Terms
 
@@ -478,13 +480,10 @@ These had not been disucss
 If, after mapping the conflict, you discover the disagreement was a misunderstanding and everyone now agrees, stop. The framework resolved itself in Stage 1. This is success, not failure.
 
 ## Note on What Fuels the Movement
+The framework runs on whatever force is strong enough to overcome resistance. Fear. Courage. Curiosity. Desperation. Sense-making. Care — when someone you love is affected. Integrity — when the gap between what you know and what you're doing becomes unbearable.
 
-To move between the stages you will need energy. That energy can be anything that makes you "do it." When you sense fear, you might need courage to push forward. Sometimes what moves you forward is curiosity: the need to make sense of something that does not add up. Sometimes it is persistence, when there is exhaustion and you believe you simply cannot sustain the weight of unresolved conflict any longer — and you push forward regardless. Sometimes it is care: someone you love is affected, and that matters more than your own comfort. Sometimes it is integrity: the gap between what you know and what you are doing becomes unbearable.
-
-Or perhaps it does not matter what moves you forward. What matters is that you do move forward. The framework runs on whatever force is strong enough to overcome what is holding you back.
-
-Note on failure
-> The framework will fail. It fails because humans lack the precision of immune systems, and because we cannot see what we're standing in. But it fails diagnostically — showing you exactly where and why it broke.
+## Note on failure
+The framework will fail. It fails because humans lack the precision of immune systems, and because we cannot see what we're standing in. But it fails diagnostically — showing you exactly where and why it broke.
 
 ## Note on Intention
 
@@ -502,9 +501,6 @@ The framework's purpose is to genuinely do your best to resolve conflict in a wa
 
 **The choice is yours.**
 
-## Note on Gaming and Manipulation
-
-The framework acknowledges that actors may strategically misrepresent costs, exaggerate clashes, or game the process. The CHECK stage (asking "What is MY own want?") and the Note on Intention address this directly: the framework reveals truth, but cannot force honest use.
 
 ## Note on Power
 
