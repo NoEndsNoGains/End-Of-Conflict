@@ -1291,6 +1291,47 @@ DO NOT READ - NEEDS RE-THINKING/EDITING
 ## 3. Stage 1: MAP
 
 
+
+
+
+
+
+You're right to question it. Let me trace where each belongs:
+
+**Operational / Structural / Both** = Types of conflict. Eagle sees these. It's about *what kind of fight* this is.
+
+**Enforcement** = Not a type. It's a *finding*. It requires:
+1. Bloodhound to verify: "Was there an agreement? Was it followed?" (gap between said and done)
+2. Owl to judge: "The agreement was violated."
+
+So:
+
+| What | Who | Why |
+|------|-----|-----|
+| Operational / Structural / Both | **Eagle** | Types the conflict — what kind of fight is this? |
+| Enforcement gap | **Bloodhound** | Verifies — they said X, they did Y |
+| Enforcement violation | **Owl** | Judges — the agreement was broken |
+
+---
+
+**Revised Eagle Note:**
+
+> **Note:** Eagle sees not just *where* the fighting is, but *what kind* of fight it is. Two farmers at a stream:
+> - **Operational** — disputing how many fish each gets (they agree who decides)
+> - **Structural** — disputing who owns the fishing rights (authority contested)
+> - **Both** — same fight every season (operational mask, structural underneath)
+>
+> The type determines what comes next. Wrong diagnosis, wrong tool.
+
+---
+
+**Enforcement lives downstream:**
+
+Bloodhound sniffs: "They agreed on the catch. One took more."
+
+Owl judges: "The agreement was violated."
+
+
 Should htat be what the dog does??? of what Own should see???
 
 > **Note:** Eagle sees not just *where* the fighting is, but *what kind* of fight it is. Two farmers at a stream:
