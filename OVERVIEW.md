@@ -12,9 +12,15 @@ In development - do not read:
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fff9681-20c2-47a8-8af3-9fb919511539" />
 
 
-## 1.1 What Is This?
+## 1.1 What Is End of Conflict Framework?
 
-A systematic five-stage process for resolving conflicts that seem intractable (*not "in a tractor"—but close*). It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable (_tractorable_) by separating _what happened_ from _what it means_ from _what to do about it_.
+A systematic five-stage process for resolving conflicts that seem intractable 
+> (*not "in a tractor"—but close*).
+
+It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable 
+> (*not tractorable - tractable*)
+
+by separating _what happened_ from _what it means_ from _what to do about it_.
 
 ## 1.2 What Is Its Purpose?
 
@@ -38,23 +44,27 @@ If sight alone doesn't end it, the framework will—by breaking you instead. Thr
 - **Trick** — it will expose the cracks between what you say and what you do, what you claim you want and what you actually want
 - **Paradox** — it will show you both sides are you. No one left to fight.
 
-**One way or another: pragmatic resolution with ethical constraints.** (Ha. Told ya!)
+**One way or another: pragmatic resolution with ethical constraints.** 
+
+> (Ha. Told ya!)
 
 ## 1. 3 Why it is Needed?
 Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. This allows us to skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with decision (acting would transform us), and we choose blindness over action (seeing creates responsibility). The framework externalises what we cannot do intuitively.
 
 ## 1.4 When To Use It
 
-Not every frustration is a conflict. *Traffic cannot negotiate.* Before using this framework, confirm the situation qualifies.
+Not every frustration is a conflict. Traffic cannot negotiate. Before using this framework, confirm the situation qualifies.
 
 **Use when:**
 
-1. There are at least two positions in genuine disagreement.
+1. There are at least two positions in genuine disagreement (even if they are in you only)
 2. You have access to data from all sides.
-3. You have the intention to be honest, objective, and unbiased—or at least to catch yourself when you're not. *(Nice, but not necessary.)*
+3. You have the intention to be honest, objective, and unbiased—or at least to catch yourself when you're not.
 
-> **Note on the dead and the past:**
-> The great grandmother is dead. The great grandfather is dead. But the conflict happened, the data exists, and you are alive. The framework serves the living, even when it examines the dead.
+> Regarding point 3: Ideal, not required. The framework doesn't care.
+
+**Note on the dead and the past:**
+The great grandmother is dead. The great grandfather is dead. But the conflict happened, the data exists, and you are alive. The framework serves the living, even when it examines the dead.
 
 ---
 
@@ -62,60 +72,38 @@ Not every frustration is a conflict. *Traffic cannot negotiate.* Before using th
 
 The framework is a tool. It requires willingness, self-awareness, the ability to distance yourself from your own position, and a genuine desire for conflict to end well.
 
-If you'd rather fall off the bridge than let the other goat pass—the tool isn't broken. You're just a goat. The framework is not for goats. Baaaa.
+> If you'd rather fall off the bridge than let the other goat pass—the tool isn't broken. You're just a goat. The framework is not for goats. Baaaaaaaaaaaaaaaaaaaaaaaaaa.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/59c02a26-c24a-4aa8-99b4-bed4bc0d385a" />
 
 ---
 
+## 1.6 Where do you Start
 
-## 1.4. Where do you Start
+> If you read the Prologue, you already started. (If you skipped it—no judgment. Okay, some judgment.)
 
-1. You already did (unless my editor mess up the page ordering)
-2. 
+**Locate yourself.** Before you map the conflict, you map your position relative to it.
 
-1. **Locate yourself.** Are you an observer, a party, or dealing with an internal conflict? Is this past, present, or future? (See Section 2.5.)
-3. **Draft a first map.** List parties, their positions, and what each stands to gain or lose.
-4. **Proceed through the stages.** Map → Check → Judgment → Decision → Action.
+Two dimensions set your coordinates: postion and time.
 
-## 2.5 Before You Begin: Locate Yourself
+a) **Position** — your relationship to the conflict
+   - *External*:
+     - **Observer** (no power, no output, no stake—purely private learning)
+     - **Party** (any power, any output, or any stake—direct or indirect)
+   - *Internal*: The conflict is within yourself. You are analyst, all parties, and battlefield at once.
 
-Before you start Stage 1 (Map), you must locate yourself relative to the conflict. Two dimensions set your coordinates.
+> **Note on Observer:** True Observer is rare. It requires no power to affect the outcome (even indirectly), no output (even conversation), and no stake. If you pay taxes, vote, speak, share, or belong to any system connected to the conflict—you're likely a Party. When in doubt, assume Party. Observer must be proven, not assumed.
 
-### Dimension 1: Position — What is your relationship to the conflict?
+> **Note on Internal:** > **Note on Internal:** In internal conflicts, you are always both Observer and Party simultaneously. That's consciousness—you watch yourself and you are yourself. This is the hardest position, and the most honest one. To use the framework, step outside yourself and treat your competing forces as if they were separate parties. And remember: internal conflicts rarely stay internal. Identify who else is affected.
 
-This determines whether you can affect the outcome, what blind spots to expect, and how hard it will be to see clearly.
-
-| Position | Description |
-|----------|-------------|
-| **Observer** | You have no power to affect the outcome. You are analysing only. |
-| **Party** | You have power to affect the outcome — whether as someone *in* the conflict, or someone with authority *over* it. |
-| **Internal** | The conflict is within yourself. You are analyst, all parties, and the battlefield. |
-
-**What counts as a "party"?**
-
-A party is anyone with power to change what happens: the people *in* the conflict (they can escalate, concede, act); a judge (they can decide); a parent mediating between children (they can intervene); a boss resolving a team dispute (they can impose).
-
-**What counts as an "observer"?**
-
-An observer has no power over the outcome: a historian analysing a past war (it is over); a journalist reporting on a dispute (can observe, cannot decide); you analysing someone else's conflict with no involvement (just watching).
-
-**Note on internal conflicts:**
-
-Internal conflicts require stepping outside yourself to see your competing forces as if they were separate parties. This is the hardest application. Internal conflicts rarely stay internal — you must also identify who else is affected.
+b) **Time** — when the conflict is (Past, Present, or Future)
+- **Past**  Already happened. Memory, documents, evidence. You know how it ended. |
+- **Present** | Happening now. Real events, real claims, real parties. |
+- **Future** | Has not played out yet. Projections, assumptions, scenarios. You are preparing. |Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out, your map is incomplete. Simulation is preparation, not resolution.
 
 
-### Dimension 2: Time — When is the conflict?
-
-This determines what counts as evidence, whether action is possible, and whether your map is real or hypothetical.
-
-| Time | Description |
-|------|-------------|
-| **Past** | Already happened. Memory, documents, evidence. You know how it ended. |
-| **Present** | Happening now. Real events, real claims, real parties. |
-| **Future** | Has not played out yet. Projections, assumptions, scenarios. You are preparing. |
-
-**Note on future mode:**
-
-Your map is a hypothesis. You are simulating, not resolving. Until the conflict plays out, your map is incomplete. Simulation is preparation, not resolution.
+Why Postion:his determines whether you can affect the outcome, what blind spots to expect, and how hard it will be to see clearly.
+Why time: This determines what counts as evidence, whether action is possible, and whether your map is real or hypothetical.
 
 ### What Each Combination Allows
 
@@ -134,10 +122,44 @@ Your map is a hypothesis. You are simulating, not resolving. Until the conflict 
 
 ***Before you map the conflict, you map your position relative to it.***
 
+Then **Proceed through the stages.** Map → Check → Judge → Decide → Act (See below)
 
-## 1.5 What next? 
+> Let's do a little test because I am that little biach
+### Quick Check: Where Do You Stand?
 
-## The Five Stages
+**Scenario 1:** You're reading about a celebrity divorce. You don't share, discuss, or care.
+- a) Observer
+- b) Party
+- c) Internal
+
+**Scenario 2:** Your two friends are fighting. Both ask for your advice.
+- a) Observer
+- b) Party
+- c) Internal
+
+**Scenario 3:** You can't decide whether to leave your job or stay.
+- a) Observer
+- b) Party
+- c) Internal
+
+**Scenario 4:** You're a UK citizen. You pay taxes. There's a war your government funds.
+- a) Observer
+- b) Party
+- c) Internal
+
+---
+
+**Answers:**
+
+1. **a) Observer** — no power, no output, no stake
+2. **b) Party** — you have power (your advice affects outcome)
+3. **c) Internal** — the conflict is within you. You are observer and party at once.
+4. **b) Party** — indirect, but connected. Your taxes, your vote, your system.
+
+**The rule:** When in doubt, you're a Party. Internal is always both.
+
+
+## 1.7 The Five Stages
 
 Five stages: 
 - MAP: observation 
@@ -686,109 +708,9 @@ Yes. Better. The bite without the profanity—and the test earns it.
 *The breath comes next.*
 
 -----
-reading it again woyll reveal what they missed reading ot frat timw 
-start or ? 
-**Sun Tzu:**
 
-> “Know yourself, know your enemy, a hundred battles, a hundred victories” → *“Map yourself, check your enemy, judge what’s hidden, decide what remains, act — one conflict, actually ended.”*
 
-**Hamlet:**
-
-> “To be or not to be” → *“To map or not to map — that is not the question. The question is what you’re hiding.”*
-
-**Descartes:**
-
-> “I think therefore I am” → *“I say, I do, I want, I hide, I miss — therefore I am in conflict.”*
-
-**Nietzsche:**
-
-> “He who fights monsters should see to it that he does not become a monster. And if you gaze long into the abyss, the abyss gazes back” → *“He who fights reflections should see to it that he is not the dog. And if you gaze long into the conflict, check whether it gazes back — or just mirrors.”*
-
-**Rumi:**
-
-> “Out beyond ideas of wrongdoing and rightdoing, there is a field. I’ll meet you there.” → *“Out beyond Violated and Concealed and Ignored, there is a decision. I’ll meet you there — if you’ve mapped the field first.”*
-
-**Sherlock Holmes:**
-
-> “When you eliminate the impossible, whatever remains, however improbable, must be the truth” → *“When Bloodhound eliminates what they say from what they do, whatever remains — however uncomfortable — is what they want.”*
-
-**Ecclesiastes:**
-
-> “There is nothing new under the sun” → *“Same fight, different day? There is nothing new — you haven’t mapped it.”*
-
-**Marcus Aurelius:**
-
-> “You have power over your mind, not outside events” → *“You have power over micro-agency — your perception, your reactions, your story. Macro-responsibility belongs elsewhere.”*
-
-**Lao Tzu:**
-
-> “The journey of a thousand miles begins with a single step” → *“The end of conflict begins with Eagle. You cannot check what you haven’t mapped.”*
-
-**Shakespeare (Macbeth):**
-
-> “Fair is foul and foul is fair” → *“What they say is not what they do. What they do is not what they want. Bloodhound knows.”*
-
-**The Bible:**
-
-> “The truth shall set you free” → *“The truth shall set you free — but first, Bloodhound must sniff it out, and Owl must judge what it cost.”*
-
-**Hemingway:**
-
-> “Write drunk, edit sober” → *“Fight blind, map sober.”*
-
-**Maya Angelou:**
-
-> “When someone shows you who they are, believe them the first time” → *“When Bloodhound shows you what they do versus what they say — that’s who they are. No exception.”*
-
-**Kafka:**
-
-> “A cage went in search of a bird” → *“A verdict went in search of a decision. It starved. Judgment is not solution.”*
 
 -----
 
-**My favourite for the transition from prologue to cheat sheet:**
-
-**Dante:**
-
-> “In the middle of the journey of our life, I found myself in a dark wood, for the straight way was lost” → *“In the middle of the conflict, I found myself in noise — for I had not mapped. The slapping showed me the door. The tables are the path.”*
-
------
-
-Want me to do more with specific concepts — like VCI, or the heart-loop, or “you play all roles”?​​​​​​​​​​​​​​​​
-A few options:
-
-**Caesar twist:**
-
-> “Veni, vidi, vici” → *“I slapped, I mapped, I tabled.”*
-
-**Churchill:**
-
-> “This is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the slapping.”
-
-**Dante at the gates of Hell:**
-
-> “Abandon all bullshit, ye who enter here.”
-
-**The Godfather:**
-
-> “I’m gonna make you a table you can’t escape.”
-
-**Princess Bride:**
-
-> “Hello. My name is Eagle. You hid the truth. Prepare to be mapped.”
-
-**Fight Club:**
-
-> “The first rule of End-Of-Conflict: you map the fucking conflict.”
-
-**Socrates:**
-
-> “The unmapped conflict is not worth having.”
-
-**Or original, in your voice:**
-
-> “The slapping will continue until the mapping improves.”
-
------
-
-Which tone fits? Brutal-funny? Dry-ironic? Philosophical? I can riff more in whatever direction lands.​​​​​​​​​​​​​​​​
+​​​​​​​​​​​​​​​​
