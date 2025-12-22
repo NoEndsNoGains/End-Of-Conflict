@@ -295,13 +295,6 @@ Animals make you the agent; medical makes you the analyst. The cheat sheet uses 
 
 > **Note:** Eagle sees not just where the fighting is, but what kind of fight it is: **Operational vs Structural?**
 
-In the Map stage, sub-conflicts are typed by asking: **Is authority contested?**
-
-- **Operational** = They agree who decides. They disagree what to do.
-- **Structural** = They disagree who has the right to decide.
-- **Both** = Looks operational, but keeps recurring. The structural question is unresolved underneath.
-
-**Why it matters:** You cannot fix a conflict using the wrong tool. Operational disputes can be negotiated. Structural disputes require settling the authority question first — otherwise every rule you make will be fought again.
 
 ---
 
