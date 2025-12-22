@@ -132,6 +132,24 @@ And there is the 'it's not my fault' story. The 'it's pure genocide' story. The 
 
 The question isn't whether you're in it. It's *how*.
 
+Here is one of the *how* we did not hear yet. 
+
+And the calcified story. The wound must be forgotten—if you remembered it, you could forgive it. So the wound disappears but the war remains. We are Montagues. They are Capulets. We are from Gaza. They are from Sderot. We are Serb. They are Croat. We are Tutsi. They are Hutu. Ask why and the answers aren't memories—they're inheritance. The feud becomes gravity. The feud gives you purpose. The feud is the family. To end it would be treason against the dead. Oh I hear you already: you speak in your native language but I hear you laud and clear: 
+
+You tell me:
+
+- "You know shit".
+
+I wishper: 
+
+- "Funny."
+
+
+
+
+
+
+
 And then there's the biggest monster. The one we don't even recognise as a story.
 
 Being right.
@@ -291,6 +309,18 @@ This is the river at your back. You've crossed lines that can't be uncrossed. An
 
 The framework can't save us from ourselves. It can only show us what we've done. What we're doing. What we keep doing.
 
+And neither can the systems we built to save us from ourselves. The Oresteia's great invention was the court—a way to end the blood cycle of revenge. Move the conflict from the street to the courtroom. Let reason replace the blade. It worked. For a while.
+
+But give a feud a court, and the feud doesn't seek truth. It seeks leverage. The gavel becomes a cleaner sword. The pattern adapts.
+
+Worse: the court makes the grudge bureaucratic. In a blood-feud, you might eventually grow tired of killing. In a court-feud, the system runs forever. The soldiers are lawyers. The ammunition is procedure. The original wound gets buried under centuries of precedent—harder to reach, impossible to heal.
+
+A river doesn't care if you build a dam. Eventually the water breaks through—or the dam becomes part of the river's path. The institution stops being a barrier. It becomes the channel through which the old hatred flows.
+
+And here's the terrifying part: when the systems built to save us get absorbed, we lose the language to imagine peace. If the court is the only place left to be a Montague, then keeping the court at war is survival. To settle the case is to vanish.
+
+That's the river too.
+
 And it's safe. That's the thing. It's completely safe. Nobody has to know. You can do this alone, in your bed, at 2am. No witnesses. No judgment. Just you and the mirror.
 
 The only question is: why would you want to look?
@@ -338,6 +368,24 @@ Even when you're being "brutally honest" with yourself, there's still that part 
 It's recursive. The ego finds new ways to protect itself even within the process of examining the ego. You think you're dismantling your defences, but you're just building more sophisticated ones.
 
 So this book can't promise to end the game of self-deception. It can only help you play it more consciously. You're going to keep bullshitting yourself, but here's how to catch yourself doing it faster and more often.
+
+And one more cost the stories whisper but we prefer not to hear: resolution transforms. Not adjusts. Not improves. Transforms.
+
+The Frog becomes a Prince—but the Frog is gone. We call it a happy ending, but from the Frog's perspective, it's extinction. The Frog knew the swamp. The Prince must learn the palace. To wear the crown, you forfeit the skin, the instincts, the safety of the mud. 
+
+Healing requires a funeral for the version of you that was hurt.
+
+Prospero gets his kingdom back—but surrenders his magic. He has the power for total revenge. He has the story of his exile to fuel him. But to rejoin the human community, he breaks his staff. He chooses ordinary, peaceful, mortal—over powerful, magical, alone. Most people would rather stay the exile with the wand.
+
+This is why courts fail and feuds continue. Everyone waits for a resolution that lets them keep their magic—the righteous anger, the sense of victimhood, the identity as the one who was wronged. If a Montague stops hating Capulets, he loses the fire that kept him warm for forty years. He has to face the emptiness: Who am I if I am not the man who was wronged?
+
+That's the real lock on the door.
+
+Winning is continuation of the self. Resolution is the death of the self.
+
+You will not walk out of this the same person who walked in. That's not a side effect. That's the price. If you're not willing to become someone else, you're not willing to resolve. You're just hoping to win while staying the same.
+
+Peace is not an agreement on paper. It's a metamorphosis of the soul.
 
 That makes the structure more honest too. Not five steps to enlightenment, but five steps to notice the game while you're playing it.
 
