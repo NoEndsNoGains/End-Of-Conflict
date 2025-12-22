@@ -2333,6 +2333,7 @@ The brutal question becomes: are you more attached to your story about why the c
 
 That's where it gets maximally uncomfortable—asking people to examine whether their most cherished beliefs about their situation might be part of what keeps them trapped in it. Not dismissing the reality of their experience, but questioning which parts of their interpretation serve freedom versus which parts serve the continuation of the pattern.
 after all that rigor, you discover the conflict was as stupid as arguing over whose rabbit is correct.
+*Warning: Missing file LAUGH.md*
 
 ## DEEP DIVE
 
