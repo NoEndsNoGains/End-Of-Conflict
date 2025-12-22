@@ -50,7 +50,8 @@ It's not purely win-win (B.U.S accepts necessary losses). Not purely rights-base
 
 **It's pragmatic resolution with ethical constraints.**
 
-
+## 1. 3 Why it is Needed?
+Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. We skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with decision (acting would transform us), and we choose blindness over action (seeing creates responsibility). The framework externalises what we cannot do intuitively.
 
 ## 1.4 When to use it
 
