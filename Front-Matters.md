@@ -133,17 +133,34 @@ And there is the 'it's not my fault' story. The 'it's pure genocide' story. The 
 
 The question isn't whether you're in it. It's *how*.
 
-And the calcified story. The wound must be forgotten—if you remembered it, you could forgive it. So the wound disappears but the war remains. We are Montagues. They are Capulets. We are from Gaza. They are from Sderot. We are Serb. They are Croat. We are Tutsi. They are Hutu. Ask why and the answers aren't memories—they're inheritance. The feud becomes gravity. The feud gives you purpose. The feud is the family. To end it would be treason against the dead. Oh I hear you already: you speak in your native language but I hear you loud and clear: 
+And the calcified story. The wound must be forgotten—if you remembered it, you could forgive it. So the wound disappears but the war remains. We are Montagues. They are Capulets. We are from Gaza. They are from Sderot. We are Serb. They are Croat. We are Tutsi. They are Hutu. Ask why and the answers aren't memories—they're inheritance. The feud becomes gravity. The feud gives you purpose. The feud is the family. To end it would be treason against the dead.
 
-You shout: "Non sai un cazzo!", "!את לא יודעת כלום", "!ما بتعرفي شي", "Ne znaš ništa!", "Ntushobora kumenya!"
+I hear you shouting in your native tongue:
 
-I respond: "Funny."
+"Non sai un cazzo!", "!את לא יודעת כלום", "!ما بتعرفي شي", "Ne znaš ništa!", "Ntushobora kumenya!"
+
+I think: "Funny."
+
+I say: Think of your grandchildren. And their children. And their children's children.
+
+You say: That's exactly why we fight.
+
+Kill. Kill. Kill.
+
+For me?
+
+For you. For your children. For theirs. For your mother. For her mother.
+
+Now we are immortal. Stronger than death.
+
+Dead before birth. Dead while living. Dead after dying.
+
+Shall we sing?
+
+Rock-a-bye baby, in the treetop...
 
 
-
-And then there's the biggest monster. The one we don't even recognise as a story.
-
-Being right.
+And then there's the biggest monster. The one we don't even recognise as a story. Like a story when we are right.
 
 Being right feels so good. Would you like me to tell you that story now? Yes, you're right. Yes, yes, you're right. Yes, you suffered. Yes and yes and yes.
 
