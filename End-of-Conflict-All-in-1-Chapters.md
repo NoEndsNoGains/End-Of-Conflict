@@ -3566,6 +3566,12 @@ after all that rigor, you discover the conflict was as stupid as arguing over wh
 
 ## LAUGH
 
+
+Let me be funny.
+
+This section is missing.
+Kiddding.....
+
 Sometimes the only thing left it to laugh. 
 I can't do it otherwise.
 
