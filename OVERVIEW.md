@@ -231,10 +231,13 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 - **DECIDE — Treatment** — The full treatment plan, targeting the underlying condition the diagnosis revealed.
 - **ACT — Recovery** — Following through on your part until healed.
 
-> You can't test without symptoms.
-> You can't diagnose without tests.
-> You can't treat what you haven't diagnosed.
-> You can't recover without following the treatment.
+You can't test without symptoms.
+
+You can't diagnose without tests.
+
+You can't treat what you haven't diagnosed.
+
+You can't recover without following the treatment.
 
 > **Note on Accessible vs. Inaccessible Conditions:**
 > Diagnosis may reveal causes you cannot treat: another person's defences, systemic inequities, historical wounds. This is not failure—it is accurate mapping.
@@ -260,26 +263,38 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 
 ## 1.10 The Diagnostic Questions
 
+Each stage plays a different role. Each is led by different questions. Each includes self-interrogation: the same questions you ask about them, you ask about yourself. The framework doesn't exempt you from scrutiny.
+
 **EAGLE — MAPs**
 
-**Eagle Maps all that is There**
+**Eagle Maps the Terrain**
 
-*Because you can't solve what you haven't named.*
+*Because you cannot navigate a field you haven't named.*
 
 - What's the conflict?
 - Where are the friction points?
-- Who are the parties?
-- Who is visible?
-- Who is hiding?
+- Who are the parties? Am I a party?
+- Who is visible? Am I visible?
+- Who is hiding? Am I hiding?
 
-*Because the hidden often tells more than the seen — with some exceptions.*
-(Usually there's a hidden player or a hidden layer. Rarely there's neither.)
+*Focus is not on the "True." Focus is on the "Entire."*
 
->**Note:** Eagle asks: Is this fight about *what* — or about *who decides*?
+Eagle flies at 10,000 feet. It doesn't look for the "truth" yet — that is Bloodhound's job. Eagle looks for the boundaries.
+
+Eagle's enemy is the Fog of War. When you are flooded, the conflict is everywhere and nowhere. Eagle blows the fog away so you can see that the "World-Ending War" is actually a specific dispute over a specific boundary.
+
+Eagle also watches for the map you drew before you looked — the story you already believe, the players you already cast. If your map was drawn before Eagle flew, Eagle is just decorating your assumptions.
+
+Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but is in the conversation; the boss who hasn't spoken but whose shadow is on the table.
+
+> **Note:** Eagle asks: Is this a fight about *what* — or about *who decides*?
 >
-> About what (the fish, the oil). About who decides (the fishing rights, the drilling rights). If it keeps returning — who decides was never settled, or isn't respected.
+> Most people fight about the "what" (the fish, the money, the chores). But if the fight keeps returning, the "what" is a decoy. The real conflict is the authority — who has the right to decide. If "who decides" isn't settled, the "what" will never stay fixed.
 >
-> What Eagle sees can be misleading. That's why Eagle reports to Bloodhound.
+> Eagle checks Eagle: Am I looking at the whole field, or only the part that makes me look like the victim? Am I zoomed in so tight I've lost the horizon?
+>
+> Eagle passes the map to Bloodhound.
+
 ---
 
 **BLOODHOUND — CHECKs**
@@ -295,13 +310,24 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 - What are they missing? What am I missing?
 - What don't they want to see? What don't I want to see?
 
-*Because we all Say, Do, Want, Hide, and Miss and Avoid — no exception.*
+*Because we all Say, Do, Want, Hide, Miss, and Avoid — no exception.*
 
-> **Note:** Bloodhound's sniff is descriptive. Owl's judgment is evaluative.
+Bloodhound doesn't care about your story. It doesn't care who is the hero or who is the villain. It only cares about the scent.
+
+Bloodhound separates the perfume of the narrative from the cold, hard trail of reality.
+
+If you say, "They were being mean," Bloodhound asks, "What was the specific word they said?"
+If you say, "I did my best," Bloodhound asks, "What was the specific action you took?"
+
+Bloodhound's enemy isn't malice. It's the scent you prefer — the one that confirms your story, the one that makes you right. That scent is the one most likely to mislead you.
+
+> **Note:** Bloodhound's sniff is descriptive, not evaluative. That's Owl's job.
 >
-> The "I" questions are Bloodhound checking Bloodhound.
+> Bloodhound finds the trail for both sides of the line. This is where the ice-cold begins: you must smell your own tracks as clearly as theirs.
 >
-> Bloodhound passes data to Owl.
+> Bloodhound checks Bloodhound: Is my nose clogged by my own story? Am I smelling what is actually there, or am I smelling what I expect to find?
+>
+> Bloodhound passes the raw scent to Owl.
 
 ---
 
@@ -309,24 +335,30 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 
 **Owl Judges what Bloodhound Reports**
 
-*Because truth needs a verdict to not be just information.*
+*Because truth needs a verdict to become useful.*
 
 - Is there anything to judge?
 - What was violated? (broken — rules, agreements, trust)
 - What was concealed? (hidden — facts, motives, truth)
 - What was ignored? (missed — needs, fears, losses)
-- Who must pay for what?
-- What is nothing to be paid for?
+- Who is accountable for what?
+- What requires no accountability?
 
 *Focus is not on people. Focus is on consequences.*
 
-*Because the verdict is Guilty — or Informed. Sometimes one. Sometimes both. Saddest when neither.*
+Owl's job isn't to be mean. It's to turn on the lights.
 
-> **Note:** Judgment asks: What are the consequences of what Bloodhound checked?
+Sometimes the lights show you who broke the vase. Sometimes they show you the wind blew it over. Both are verdicts. You know where you stand.
+
+But if Owl keeps its eyes shut, you're still standing in the dark, tripping over the pieces. That is the only failure.
+
+> **Note:** Judgment is the act of assigning *weight* to information.
 >
-> No consequence — no verdict. Only information. Sometimes only ignorance. Either way, a problem might still remain.
+> No consequence — no verdict. If Bloodhound finds a fact but that fact has no bearing on safety, trust, or outcome, Owl lets it go. This prevents the rabbit hole — arguing over details that don't matter to resolution.
 >
 > Owl checks Owl: What do I say, do, want, hide, miss — or don't want to see?
+>
+> *(This is where Part 2 pays off. Because your Ego has a chair, Owl can be honest about "the wind" or "the broken trust" without your Ego screaming that it's being attacked.)*
 >
 > Owl delivers verdict to Lion.
 ---
@@ -335,26 +367,34 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 
 **Lion Decides on what Eagle Saw**
 
-*Because a verdict isn't a solution to a problem that remains.*
+*Because a verdict isn't a solution. The problem remains until someone decides what to do about it.*
 
 - How do we resolve this so it doesn't return?
 
 *Because a solution is "never again" — not "here we go again."*
 
-> **Note:** Judgment (Owl) is backward — what happened, what it cost. Decision (Lion) is forward — what to do about the problem. 
->
-> Owl may find no one did wrong. Lion still has a problem to solve.
->
-> Lion asks: Does what I decide pass?
-> - **L.E.R** — Is it right? (Legal, Ethical, Relational)
-> - **B.U.S** — Is it wise? (Beneficial, Unintended consequences, Sustainable)
-> - **A.C.T** — Is it doable? (Achievable, Clear, Timely)
->
-> Fails any test — not a solution. A time bomb.
->
-> Lion checks Lion: What do I say, do, want, hide, miss — or don't want to see?
->
-> Lion gives orders to Ant.
+Owl turned on the lights. Lion sees.
+
+But seeing isn't deciding. And deciding on the branch — when you saw the root — isn't a solution. It's postponement.
+
+Lion's enemy isn't blindness. Lion already sees. Lion's enemy is the fix that protects Lion from having to change. The branch gets cut. The root grows back. Here we go again.
+
+A solution that lets the problem return isn't a solution. It's a time bomb.
+
+> **Note:** Judgment (Owl) is backward — what happened, what it cost. Decision (Lion) is forward — what to do about the problem.
+
+Owl may find no one did wrong. Lion still has a problem to solve.
+
+Lion asks: Does what I decide pass?
+- **L.E.R** — Is it right? (Legal, Ethical, Relational)
+- **B.U.S** — Is it wise? (Beneficial, Unintended consequences considered, Sustainable)
+- **A.C.T** — Is it doable? (Achievable, Clear, Timely)
+
+Fails any test — not a solution. A time bomb.
+
+Lion checks Lion: What do I say, do, want, hide, miss — or don't want to see?
+
+Lion roars. Ant hears.
 
 ---
 
@@ -370,18 +410,58 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 
 *Because to act is not just once — it's all the time.*
 
-> **Note:** Ant checks Ant: What do I say, do, want, hide, miss — or don't want to see?
->
+Lion roars. Ant digs.
+
+The Ant doesn't care about the drama of the conflict. The Ant cares about the logistics of the peace.
+
+If Lion decides "we will be honest," Ant is the one who has to say the difficult thing at 8am on a Tuesday — tired, annoyed, wishing it wasn't necessary.
+
+Ant's enemy isn't ignorance. Ant heard Lion. Ant's enemy is the old habit that outlives the new decision. The "I know, but..." The "I'll start tomorrow." The quiet return to what was comfortable.
+
+Implementation is the graveyard of good intentions. If Ant doesn't move, Lion was just performing.
+
+> **Note:** Ant operates only within your micro-agency: your perception, your reactions, your choices — the portion of the problem within your control.
+> You cannot act on what you do not control. You can act on your response to it.
+> Ant checks Ant: Am I carrying my weight, or am I waiting for Lion to roar again so I can stop working?
 > Ant acts. What Ant does becomes what Eagle sees next.
+
+> **Note on Self-Checks:**
+> Each stage includes a self-check — a question that catches the specific failure of that stage.
+>
+> But the self-check shifts depending on your role in the conflict.
+>
+> Take Bloodhound's question: "Is my nose clogged by my own story?"
+>
+> - **For a party:** "Am I smelling only what confirms I'm right?"
+> - **For a judge:** "Am I smelling only what lets me close this quickly?"
+> - **For an advisor:** "Am I smelling only what my client wants me to find?"
+>
+> Same question. Different bias. Your role shapes what you're most likely to miss.
+>
+> When you reach each self-check, ask: *Given who I am in this conflict, what am I most tempted to avoid seeing?*
 ---
 
-## Where Do I Start When I already Started?
+## 1.11 Where Do I Start When I already Started?
 
 MAP. Start there.
 
 You cannot check what you haven't mapped. You cannot judge what you haven't checked. You cannot decide what you haven't judged. You cannot act on what you haven't decided.
 
-**In crisis:** Act first. Survive. Then map what happened.
+> **Note on Crisis:**
+> In crisis, the sequence runs backwards. You act first — survival. Instinct. Reflex. No thought.
+>
+> Then you reconstruct:
+> - **ACT** — I did something. I survived.
+> - **DECIDE** — What do I do now? Was that right?
+> - **JUDGE** — What did that mean? Was it good or bad?
+> - **CHECK** — What actually happened? Did I imagine that?
+> - **MAP** — What the hell am I in? How did I get here?
+>
+> This is how trauma processing works. You spend years running the sequence backwards — trying to understand what you already lived through. Many never complete the pass. They never reach MAP. They never see clearly. So they act again. And the loop continues.
+>
+> The framework's normal sequence — MAP first — is the healing sequence. It forces you to see before you act. That's what distinguishes response from reaction.
+>
+> In crisis, you enter through the exit door. The framework still applies. You just have to walk it all the way back to the beginning.
 
 **Process:**
 1. Start with Eagle — define the conflict, identify parties (hidden and invisible), locate friction points
@@ -421,6 +501,19 @@ If you are a party, you are in conflict, regardless whether you chose it or not.
 **Note**: If Lion's decision failed, the problem is upstream—or Lion wasn't really Lion. A genuine Lion can only fail in one way: having good input but refusing to decide. A wrong decision means bad input or a compromised Lion. Either way, go back to Eagle, Bloodhound, or Owl.
 
 **Find the blockage. Go there. Fix it. Move.**
+
+1. MAPEagleSee the fieldThe View from 10,000 feet.2. CHECKBloodhoundFind the factsSmelling the tracks, not the story.3. JUDGEOwlAssign weightTurning on the lights.4. DECIDELionChoose directionPulling the root vs. cutting the branch.5. ACTAntImplementMoving the dirt, one grain at a time.Why this "Sticks"The reader now has a complete Internal Ecosystem.If they are stuck in a loop, they know the Lion is being lazy and cutting branches.If they are confused, they know the Owl hasn't turned on the lights.If they are overwhelmed, they know the Eagle needs to fly higher.The Final Ecosystem
+You now have a complete, cohesive, and "sticky" set of archetypes for Part 3. Here is how they look as a single flow:
+
+Eagle (MAP): The Vision. What is the field?
+
+Bloodhound (CHECK): The Data. What are the tracks?
+
+Owl (JUDGE): The Weight. What is the light?
+
+Lion (DECIDE): The Direction. What is the root?
+
+Ant (ACT): The Labor. What is the habit?
 
 ---
 
