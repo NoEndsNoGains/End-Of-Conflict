@@ -1,3 +1,23 @@
+Before You Begin: Give them a chair
+The framework asks you to be ice-cold. Indifferent. Distant from your own position.
+This is not possible when you are flooded. Forcing neutrality while overwhelmed is not stepping back — it's lying to yourself.
+That does not mean your emotions are wrong. It does not mean the conflict doesn't deserve them. It does not mean something is broken in you.
+The emotions may be enormous: rage, anger, disappointment, frustration, hopelessness, resignation, despair. You might be deathly afraid of the conflict you are in. They belong. They are telling you something matters.
+But the emotions are there trying to help you "win" — to get what you need, to protect you, to end the threat. They have already decided the verdict. They have skipped the steps. And when you are inside it — flooded, afraid, running — it is incomprehensible. You cannot grasp where you are. You cannot see which stage you're in. You are everywhere and nowhere at once.
+The framework offers something different: a path you can trust. Not control over the outcome — control over the process. You can say: "I know where I am. I know what comes next." That is enough to begin.
+You cannot see clearly while they are running you. Sometimes the conflict deserves that you don't do the framework yet. Sometimes what must be honoured first is that these emotions are present. That comes before sight.
+When you're ready:
+This is what I tell my daughters — especially the younger one — when something is troubling them.
+Whatever the emotion is — anger, frustration, fear, despair — imagine it as a creature. Anger might be a pufferfish, spiky and puffed. Grief might be something heavy and slow. It doesn't matter what shape.
+Now: create for each creature the most comfortable chair you can imagine. Shaped exactly for them. Soft where they need soft. Steady where they need steady.
+You are not sending them away. You are not suppressing them. You are containing them — giving them a place to rest, in full view, while you do the work.
+They sit. You see.
+When the work is done, they are still there. Honoured. Not abandoned.
+You don't have to kill your feelings. You just have to give them a safe place to sit so they don't block your view.
+
+
+
+
 
 # End of Conflict Cheat Sheet
 ## _"Let me be Dry"_
@@ -25,7 +45,7 @@ Sight is leverage to end conflict in a way that is:
 - **Wise** (B.U.S: Beneficial, Unintended consequences considered, Sustainable)
 - **Doable** (A.C.T: Achievable, Clear, Timely)
 
-Not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes relationships, not just entitlements. Not purely idealistic—A.C.T demands what's actually achievable.
+Not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes relationships, not just entitlements. Not purely idealistic—A.C.T demands what's actually achievable."The framework gives you a place to stand. Even when the outcome is uncertain, you know where you are in the process. You know what step comes next. That is its own kind of control — not over what happens, but over how you move through it."
 
 ## 1.3.Crucial Clarification: Purpose vs Side Effects
 The framework's purpose isn't advocacy. It's not a better argument. It's not a sharper sword (that is what lawyers do — they serve what their client wants).
