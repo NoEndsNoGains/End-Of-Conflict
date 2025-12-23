@@ -27,6 +27,17 @@ Sight is leverage to end conflict in a way that is:
 
 Not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes relationships, not just entitlements. Not purely idealistic—A.C.T demands what's actually achievable.
 
+## 1.4.Crucial Clarification: Purpose vs Side Effects
+The framework's purpose isn't advocacy. It's not a better argument. It's not a sharper sword (that is what lawyers do to "sell" their client's stories as somehow more meaningful than others).
+The fact that you'll become more effective at articulating your position is a side effect of seeing clearly — not the goal.
+This matters because:
+
+Advocacy assumes your position is correct and seeks to persuade others
+The framework assumes your position might be wrong and seeks to find out
+
+Someone using it as an advocacy tool has already decided the verdict before doing the work. They are not failing at the framework. They are manipulating it — wearing its structure while refusing its purpose.
+The framework assumes indifference to all sides, including your own, with the only purpose being to see everything as clearly as possible.
+
 ## 1.3 Why Is It Needed?
 
 Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. This allows us to skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with solution (acting would transform us), and we choose blindness over action (seeing creates responsibility).
@@ -142,110 +153,7 @@ And remember: internal conflicts rarely stay internal. Identify who else is affe
 
 
 ---
- ## Comprehension Test 1
 
-*The following scenarios draw from real events of the 2020s to illustrate timeless dynamics. Your task: classify your position and time.*
----
-**1.** 1. Imagine you were a Ukrainian computer science student in early 2025, watching Sam Altman and Dario Amodei debate whether AGI would arrive within the decade. You were considering pivoting your thesis toward AI safety. Your supervisor asked you to write—100 times—"I will not build unsafe AI" before you make a decision. You're puzzled, unsure what to do and what it means.
-
-*(Ref: Altman/Amodei AGI timeline debates, 2024–2025)*
-
-- a) Observer / Present
-- b) Internal / Present
-- c) Party (Indirect) / Future
-- d) Observer / Future
-
-**2.** Imagine you are scrolling social media and see strangers debating whether a pop star was right to release a brutally honest breakup album about her ex-husband. You don't comment, don't know anyone involved. You play your husband one song—titled "Pussy Palace"—because you know it will make him laugh.
-
-*(Ref: Allen, "West End Girl" album, October 2025)*
-
-- a) Observer / Present
-- b) Party (Indirect) / Present
-- c) Observer / Past
-- d) Internal / Present
-
-**3.** Imagine you were a Taiwanese journalist in May 2024, covering the military exercises when China encircled the island after President Lai's inauguration speech. You had family in Kinmen. Your editor was waiting for copy.
-
-*(Ref: Joint Sword-2024A exercises, May 23–24, 2024)*
-
-- a) Observer / Present
-- b) Party (Direct) / Present
-- c) Party (Indirect) / Present 
-- d) Internal / Present
-
-**4.** Imagine you were a Brazilian trade negotiator at the December 2025 Mercosur summit in Foz do Iguaçu, watching Lula and Milei openly clash over Venezuela. Your government's position depended on what happened next. You hadn't spoken yet.
-
-*(Ref: Mercosur summit, Foz do Iguaçu, December 20, 2025)*
-
-- a) Observer / Present
-- b) Party (Direct) / Present
-- c) Party (Indirect) / Present
-- d) Party (Direct) / Future
-
-**5.** Imagine you are an epidemiologist in 2028, reviewing anonymised Covid-19 mortality and excess deaths data from 2020–2023 for a WHO report. Officially, you have no connection to any patients, clinicians, governments, or pharmaceutical interests involved. But the anonymised data seems to downplay post-vaccination cardiac events and all-cause mortality spikes, while emphasising virus-only causes. You decide to dig deeper and contact Russell Brand.
-
-*(Ref: Covid-19 pandemic, 2020–2023)*
-
-- a) Observer / Past
-- b) Party (Indirect) / Past
-- c) Observer / Present
-- d) Party (Direct) / Past
-  
-**6.** The framework's primary promise is:
-
-- a) Resolution
-- b) Sight
-- c) Fairness
-- d) Victory
-
-7. Imagine your French colleague is furious about Macron. She wants you to agree he's "finished as a political force—and besides, his wife is probably a man." You're not French, don't vote there, and find the whole thing baffling. Is this a conflict for the framework?
-
-(Ref: French political instability, 2024–2025; Brigitte Macron conspiracy theories; Owens documentary series, 2024)
-
-a) Yes — there are two positions in disagreement
-b) No — you have no stake; she's venting, not negotiating
-c) Yes — her anger makes it internal
-d) No — foreign politics is incomprehensible anyway
-
-**8.** Conflicts persist because resolution is desired less than:
-
-- a) Power, revenge, or righteousness
-- b) Being right
-- c) Avoiding the hard conversation
-- d) All of the above
-
-**9.** The framework requires willingness, self-awareness, the ability to distance yourself from your position, and:
-
-- a) Legal representation
-- b) Agreement from all parties
-- c) A genuine desire for conflict to end well
-- d) Certainty about who is right
-
-**10.** Are you a goat?
-
-- a) Yes
-- b) No
-- c) Still finding out
-- d) Baaaaaaaaaaaaaaaaaaaaaaaaaa
-
----
-
-## Answer Key
-
-- 1. **b** — You are torn between paths, puzzled by the ritual, unsure what commitment you're being asked to make. The conflict is within you.
-- 2. **b** — You have no stake in her divorce, no power over its outcome, and no connection to anyone involved. But you played the song for your husband — that's output. Content from the conflict entered your household. Minimal participation, but non-zero. Party (Indirect), not Observer.
-- 3. **c** — You have professional output, family stake, but you're not a disputant between China and Taiwan.
-- 4. **c** — You are connected through your role; the outcome affects your government, but you're not Lula or Milei.
-- 5. **d** — You were an Observer reviewing the past. Then you noticed something. Then you decided to act. Then you contacted Russell Brand—not a peer-reviewed journal, not your supervisor, not the WHO. You picked a side. You have output. You're now Party (Direct) in a present conflict.
-- 6. **b** — It promises sight, not resolution.
-- 7. **b** — She's venting. You have no power over French politics, no output that affects it, no stake in whether Macron survives or whether Brigitte is who Candace Owens says she is.
-- 8. **d** — Resolution requires surrendering something. Most people prefer to keep what they're holding.
-- 9. **c** — A genuine desire for conflict to end well.
-- 10. **d** — The framework is not for goats. Come back when you're ready.
-
----
-
-> Back to learning...
 
 ## 1.7 What are the Five Stages in End of Conflict Framework?
 
@@ -634,3 +542,103 @@ The Eagle is you.
 **You are All at Once.**
 ```
 ​​​​​​​​​​​
+ ## Comprehension Test 1
+
+*The following scenarios draw from real events of the 2020s to illustrate timeless dynamics. Your task: classify your position and time.*
+---
+**1.** 1. Imagine you were a Ukrainian computer science student in early 2025, watching Sam Altman and Dario Amodei debate whether AGI would arrive within the decade. You were considering pivoting your thesis toward AI safety. Your supervisor asked you to write—100 times—"I will not build unsafe AI" before you make a decision. You're puzzled, unsure what to do and what it means.
+
+*(Ref: Altman/Amodei AGI timeline debates, 2024–2025)*
+
+- a) Observer / Present
+- b) Internal / Present
+- c) Party (Indirect) / Future
+- d) Observer / Future
+
+**2.** Imagine you are scrolling social media and see strangers debating whether a pop star was right to release a brutally honest breakup album about her ex-husband. You don't comment, don't know anyone involved. You play your husband one song—titled "Pussy Palace"—because you know it will make him laugh.
+
+*(Ref: Allen, "West End Girl" album, October 2025)*
+
+- a) Observer / Present
+- b) Party (Indirect) / Present
+- c) Observer / Past
+- d) Internal / Present
+
+**3.** Imagine you were a Taiwanese journalist in May 2024, covering the military exercises when China encircled the island after President Lai's inauguration speech. You had family in Kinmen. Your editor was waiting for copy.
+
+*(Ref: Joint Sword-2024A exercises, May 23–24, 2024)*
+
+- a) Observer / Present
+- b) Party (Direct) / Present
+- c) Party (Indirect) / Present 
+- d) Internal / Present
+
+**4.** Imagine you were a Brazilian trade negotiator at the December 2025 Mercosur summit in Foz do Iguaçu, watching Lula and Milei openly clash over Venezuela. Your government's position depended on what happened next. You hadn't spoken yet.
+
+*(Ref: Mercosur summit, Foz do Iguaçu, December 20, 2025)*
+
+- a) Observer / Present
+- b) Party (Direct) / Present
+- c) Party (Indirect) / Present
+- d) Party (Direct) / Future
+
+**5.** Imagine you are an epidemiologist in 2028, reviewing anonymised Covid-19 mortality and excess deaths data from 2020–2023 for a WHO report. Officially, you have no connection to any patients, clinicians, governments, or pharmaceutical interests involved. But the anonymised data seems to downplay post-vaccination cardiac events and all-cause mortality spikes, while emphasising virus-only causes. You decide to dig deeper and contact Russell Brand.
+
+*(Ref: Covid-19 pandemic, 2020–2023)*
+
+- a) Observer / Past
+- b) Party (Indirect) / Past
+- c) Observer / Present
+- d) Party (Direct) / Past
+  
+**6.** The framework's primary promise is:
+
+- a) Resolution
+- b) Sight
+- c) Fairness
+- d) Victory
+
+7. Imagine your French colleague is furious about Macron. She wants you to agree he's "finished as a political force—and besides, his wife is probably a man." You're not French, don't vote there, and find the whole thing baffling. Is this a conflict for the framework?
+
+(Ref: French political instability, 2024–2025; Brigitte Macron conspiracy theories; Owens documentary series, 2024)
+
+a) Yes — there are two positions in disagreement
+b) No — you have no stake; she's venting, not negotiating
+c) Yes — her anger makes it internal
+d) No — foreign politics is incomprehensible anyway
+
+**8.** Conflicts persist because resolution is desired less than:
+
+- a) Power, revenge, or righteousness
+- b) Being right
+- c) Avoiding the hard conversation
+- d) All of the above
+
+**9.** The framework requires willingness, self-awareness, the ability to distance yourself from your position, and:
+
+- a) Legal representation
+- b) Agreement from all parties
+- c) A genuine desire for conflict to end well
+- d) Certainty about who is right
+
+**10.** Are you a goat?
+
+- a) Yes
+- b) No
+- c) Still finding out
+- d) Baaaaaaaaaaaaaaaaaaaaaaaaaa
+
+---
+
+## Answer Key
+
+- 1. **b** — You are torn between paths, puzzled by the ritual, unsure what commitment you're being asked to make. The conflict is within you.
+- 2. **b** — You have no stake in her divorce, no power over its outcome, and no connection to anyone involved. But you played the song for your husband — that's output. Content from the conflict entered your household. Minimal participation, but non-zero. Party (Indirect), not Observer.
+- 3. **c** — You have professional output, family stake, but you're not a disputant between China and Taiwan.
+- 4. **c** — You are connected through your role; the outcome affects your government, but you're not Lula or Milei.
+- 5. **d** — You were an Observer reviewing the past. Then you noticed something. Then you decided to act. Then you contacted Russell Brand—not a peer-reviewed journal, not your supervisor, not the WHO. You picked a side. You have output. You're now Party (Direct) in a present conflict.
+- 6. **b** — It promises sight, not resolution.
+- 7. **b** — She's venting. You have no power over French politics, no output that affects it, no stake in whether Macron survives or whether Brigitte is who Candace Owens says she is.
+- 8. **d** — Resolution requires surrendering something. Most people prefer to keep what they're holding.
+- 9. **c** — A genuine desire for conflict to end well.
+- 10. **d** — The framework is not for goats. Come back when you're ready.
