@@ -1307,7 +1307,7 @@ You cannot fly a plane full of unseated passengers running up and down the aisle
 
 They wronged you. That's real. The question is: how long do you want to carry it?
 You can choose to say the thing. But first ask: Does it need to be said? Am I the one to say it? Is this the right time? Will saying it change anything — or just relieve me?
-To stand up for yourself, you first need to learn who's worth getting out of your chair for.
+To stand up for yourself, you first need to learn who's worth getting out of your chair for. - Jefferson Fisher
 ----
 
 ### I. What's Flooding You *(Biology/Psychology)*
