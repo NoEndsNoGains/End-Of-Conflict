@@ -1,3 +1,9 @@
+
+Let me be funny.
+
+This section is missing.
+Kiddding.....
+
 Sometimes the only thing left it to laugh. 
 I can't do it otherwise.
 
