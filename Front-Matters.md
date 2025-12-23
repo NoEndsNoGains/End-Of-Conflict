@@ -500,40 +500,28 @@ Ta-da!
 
 
 **PART 1: END OF CONFLICT CHEAT SHEET** "Let me be Dry"
-- 1.1 What is this?
-- 1.2 Core Principle
-- 1.3 The Journey
-- 1.4 The Five Stages (summary table)
-- 1.5 The Chain (Case → Cause → Effect → Cure → Recovery)
-- 1.6 The Three Consequences (Violated, Concealed, Ignored)
-- 1.7 Why Consequences Not People (Verdict vs Sentence) 
-- 1.8 Why This Works
-- 1.9 The Final Test
-- 1.10 The Value Function
-- 1.11 Constraints
-- 1.12 Before You Begin: Locate Yourself
 
 **PART 2: EVERYTHING NEEDS A CHAIR.** — "Let me be Tender"
 
-**PART 2: THE FRAMEWORK** "Let me be Practical"
-- 2.3 Stage 1: MAP
-- 2.4 Stage 2: CHECK
-- 2.5 Stage 3: JUDGE
-- 2.6 Stage 4: DECIDE
-- 2.7 Stage 5: ACT
-- 2.8 Key Clarifications
-- 2.9 Notes
+**PART 3: THE FRAMEWORK** "Let me be Practical"
+- 3.1 Stage 1: MAP
+- 3.2 Stage 2: CHECK
+- 2.3 Stage 3: JUDGE
+- 2.3 Stage 4: DECIDE
+- 2.4 Stage 5: ACT
+- 2.5 Key Clarifications
+- 2.6 Notes
 
-**PART 3: THEORETICAL FOUNDATIONS** "Let me be Smart"
-- 3.1 The Foundations of MAP (what traditions inform boundary-setting, conflict mapping)
-- 3.2 The Foundations of CHECK (epistemology, truth-testing, evidence)
-- 3.3 The Foundations of JUDGE (ethics, L.E.R / B.U.S / A.C.T, the three consequences)
-- 3.4 The Foundations of DECIDE (decision theory, the Mirror Check, Golden Rule)
-- 3.5 The Foundations of ACT (implementation, change theory, power)
+**PART 4: THEORETICAL FOUNDATIONS** "Let me be Smart"
+- 4.1 The Foundations of MAP (what traditions inform boundary-setting, conflict mapping)
+- 4.2 The Foundations of CHECK (epistemology, truth-testing, evidence)
+- 4.3 The Foundations of JUDGE (ethics, L.E.R / B.U.S / A.C.T, the three consequences)
+- 4.4 The Foundations of DECIDE (decision theory, the Mirror Check, Golden Rule)
+- 4.5 The Foundations of ACT (implementation, change theory, power)
 
-**PART 4: STRESS TESTING** "Let me be Brutal"
-- 4.1 Why Break What You Just Built
-- 4.2 Three Scales
+**PART 5: STRESS TESTING** "Let me be Brutal"
+- 5.1 Why Break What You Just Built
+- 5.2 Three Scales
   
 Inside (the war in you)
 
@@ -541,7 +529,7 @@ Between (the war between you and someone else)
 
 Beyond (the war in the world)
 
-- 4.3 The Five Tests
+- 5.3 The Five Tests
 
 No Villain (both sides are right)
 
@@ -553,16 +541,18 @@ The Broken (damage can't be undone)
 
 The Unborn (hasn't happened yet)
 
-****PART 5: Laugh "Let me be Funny "**
+**PART 6: Laugh** "Let me be Funny "**
 - Funny is missing
 - 
-**PART 6: DEEP DIVE** "Let me be Wise"
-- 5.1 The Truth Tester — WHAT we can know
-- 5.2 Living Research Protocol — HOW we stay honest
-- 5.3 The Immunity Paradox — WHY we still fail
+**PART 7: DEEP DIVE** "Let me be Wise"
+- 7.1 The Truth Tester — WHAT we can know
+- 7.2 Living Research Protocol — HOW we stay honest
+- 7.3 The Immunity Paradox — WHY we still fail
   a) a System b) Human
 
 **The EPILOGUE (Hope/Forgiveness)** "Let me be Love"
+
+"Now, let me be silence".
 
 
 
