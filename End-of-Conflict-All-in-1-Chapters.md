@@ -599,7 +599,7 @@ The Unborn (hasn't happened yet)
 
 ## 1.1 What Is End of Conflict Framework?
 
-A systematic five-stage process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable by separating _what happened_ from _what it means_ from _what to do about it_.
+A systematic five-stage process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage—separating _what happened_ from _what it means_ from _what to do about it_. This makes solvable problems tractable. It makes unsolvable ones nameable. Both are progress.
 
 ## 1.2 What Is Its Purpose?
 
