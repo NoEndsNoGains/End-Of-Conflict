@@ -494,12 +494,12 @@ Ta-da!
 
 ## TABLE OF CONTENTS
 
-- Prologue: "Let me be Rude"
+- **PROLOGUE:** "Let me be Rude"
 - New Title Page
 - Table of contents
 
 
-**PART 1: CHEAT SHEET** "Let me be Dry"
+**PART 1: END OF CONFLICT CHEAT SHEET** "Let me be Dry"
 - 1.1 What is this?
 - 1.2 Core Principle
 - 1.3 The Journey
@@ -512,6 +512,8 @@ Ta-da!
 - 1.10 The Value Function
 - 1.11 Constraints
 - 1.12 Before You Begin: Locate Yourself
+
+**PART 2: EVERYTHING NEEDS A CHAIR.** — "Let me be Tender"
 
 **PART 2: THE FRAMEWORK** "Let me be Practical"
 - 2.3 Stage 1: MAP
