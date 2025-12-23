@@ -8,15 +8,20 @@
 # End of Conflict Cheat Sheet
 ## _"Let me be Dry"_
 
-## 1.1 What Is End of Conflict Framework?
 
-A systematic five-stage process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage—separating _what happened_ from _what it means_ from _what to do about it_. This makes solvable problems tractable. It makes unsolvable ones nameable. Both are progress.
+
+
+## 1.1 What Is the End of Conflict Framework?
+
+A systematic five-stage process for seeing conflicts that seem intractable clearly enough to know what to do about them. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage—separating *what happened* from *what it means* from *what to do about it*. This makes solvable problems tractable. It makes unsolvable ones nameable. Both are progress.
+
+---
 
 ## 1.2 What Is Its Purpose?
 
 To see the conflict precisely. The framework promises sight—not resolution. Sight is the vehicle. Resolution, exit, clarity that this cannot be resolved, or conviction that this fight must continue—these are possible destinations. What happens next depends on you. The framework doesn't guarantee how it ends—only that blindness won't be why it continued.
 
-Why "End of Conflict" if some conflicts must last? Because something always ends: the confusion, the reactivity, the self-deception. Even when the fight continues, the fog clears. You stop fighting blind. That's the end the framework delivers.
+Why "End of Conflict" if some conflicts must last? Because something always ends: the confusion, the reactivity, the self-deception. "End" here means the cessation of fog—not necessarily the cessation of the fight. Some conflicts should continue. But they should continue with sight, not blindness. That's the end the framework delivers.
 
 Sight is leverage to end conflict in a way that is:
 
@@ -24,17 +29,26 @@ Sight is leverage to end conflict in a way that is:
 - **Wise** (B.U.S: Beneficial, Unintended consequences considered, Sustainable)
 - **Doable** (A.C.T: Achievable, Clear, Timely)
 
-Not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes relationships, not just entitlements. Not purely idealistic—A.C.T demands what's actually achievable."The framework gives you a place to stand. Even when the outcome is uncertain, you know where you are in the process. You know what step comes next. That is its own kind of control — not over what happens, but over how you move through it."
+Not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes relationships, not just entitlements. Not purely idealistic—A.C.T demands what's actually achievable.
 
-## 1.3.Crucial Clarification: Purpose vs Side Effects
-The framework's purpose isn't advocacy. It's not a better argument. It's not a sharper sword (that is what lawyers do — they serve what their client wants).
-It's not about getting the results you want. It's about what the conflict needs from you. You don't wield the framework; you serve it.
-The fact that you'll become more effective at articulating your position is a side effect of seeing clearly — not the goal.
+The framework gives you a place to stand. Even when the outcome is uncertain, you know where you are in the process. You know what step comes next. That is its own kind of control—not over what happens, but over how you move through it.
+
+---
+
+## 1.3 Crucial Clarification: Purpose vs Side Effects
+
+The framework's purpose isn't advocacy. It's not a better argument. It's not a sharper sword (that is what lawyers do—they serve what their client wants).
+
+It's not about getting the results you want. It's about what the conflict needs from you. You don't wield the framework; you serve its process. But the process serves you back—what you gain is sight, and sight is the only power no one can take from you.
+
+The fact that you'll become more effective at articulating your position is a side effect of seeing clearly—not the goal.
 
 - Advocacy assumes your position is correct and seeks to persuade others
-- The framework assumes all positions might be wrong and seeks to find out what is wrong (substance — e.g. the claim, the motive, the assumption) and where it sits (location — e.g. in you, in them, in the system)
+- The framework assumes all positions might be wrong and seeks to find out what is wrong (substance—e.g. the claim, the motive, the assumption) and where it sits (location—e.g. in you, in them, in the system)
 
 Someone using it as an advocacy tool has already decided the verdict before doing the work. They are not using the framework. They are manipulating it.
+
+---
 
 ## 1.4 Why Is It Needed?
 
@@ -42,77 +56,90 @@ Conflicts persist not because they're unsolvable, but because resolution is desi
 
 The framework externalises what we cannot do intuitively. It addresses five failures of sight:
 
-- **We can't see** — we're inside it, too threatened. The framework reveals.
-- **We see but can't release** — the injustice is real, unaddressed. The framework shows what must be addressed before letting go is possible.
-- **We see and like it** — the conflict gives us identity, purpose, an enemy. The framework exposes what we're getting from the war.
-- **We see but don't know what to do** — paralysis, overwhelm. The framework sequences: this, then this, then this.
-- **We see and the conflict is right** — this fight is protection, not pathology. The framework confirms the stakes.
+- **We can't see**—we're inside it, too threatened. The framework reveals.
+- **We see but can't release**—the injustice is real, unaddressed. The framework shows what must be addressed before letting go is possible.
+- **We see and like it**—the conflict gives us identity, purpose, an enemy. The framework exposes what we're getting from the war.
+- **We see but don't know what to do**—paralysis, overwhelm. The framework sequences: this, then this, then this.
+- **We see and the conflict is right**—this fight is protection, not pathology. The framework confirms the stakes.
 
 Not all conflicts should end. Sometimes the conflict is not dysfunction. It's the last dignity. The only lever. The necessary cost of not accepting what should never be accepted:
 
-- Protection from abuse — the conflict IS the boundary
-- Resistance to oppression — the fight is the integrity
-- Pursuit of justice — the conflict is the only path to truth
-- Defence of the vulnerable — until safe, there is no peace
-- Refusal to comply with wrong — the conflict is the moral act
+- Protection from abuse—the conflict IS the boundary
+- Resistance to oppression—the fight is the integrity
+- Pursuit of justice—the conflict is the only path to truth
+- Defence of the vulnerable—until safe, there is no peace
+- Refusal to comply with wrong—the conflict is the moral act
 
 The framework helps you see: *Is this one of those?* And if yes—fight clearly, not reactively. Know why you're in it. Know what you're protecting. Know the cost and choose it anyway.
 
 The framework doesn't assume peace. It assumes sight.
 
-## 1.4 How Does It Work?
+---
 
-If sight alone doesn't end it, the framework will—by breaking you instead. The mechanism: rigorous honesty repeated until self-deception can't survive it.
+## 1.5 How Does It Work?
 
-- **Exhaustion** — Lies require energy. Truth doesn't.
-- **Absurdity** — You see the fight was bigger than the thing.
-- **Collapse** — The "why" evaporates under inspection.
-- **Trick** — You catch the gap between what you claim and what you want.
-- **Paradox** — In internal conflicts, both sides are you. In external conflicts, you find yourself in them—and them in you. Either way, the enemy becomes harder to locate.
+The framework is a mirror you serve; what it reflects is sight; sight is power; power is yours.
 
+Repeated honest engagement with the framework tends to break what can't survive scrutiny. The framework doesn't do this to you. You do it to yourself, using the framework as the mirror. The mechanism:
 
-## 1.4 When To Use It?
+- **Exhaustion**—Lies require energy. Truth doesn't. Honesty repeated long enough exhausts what isn't true.
+- **Absurdity**—You see the fight was bigger than the thing.
+- **Collapse**—The "why" evaporates under inspection.
+- **Trick**—You catch the gap between what you claim and what you want.
+- **Paradox**—In internal conflicts, both sides are you. In external conflicts, you find yourself in them—and them in you. Either way, the enemy becomes harder to locate.
+
+This breaking is not guaranteed. But it is common. And when it happens, something ends—even if the conflict continues.
+
+---
+
+## 1.6 When To Use It?
 
 Not every frustration is a conflict. Traffic cannot negotiate. Before using this framework, confirm the situation qualifies.
 
 **Use when:**
 
 1. There are at least two positions in genuine disagreement (even if they are in you only)
-2. You have access to data from all sides.
-3. You have the intention to be honest, objective, and unbiased—or at least to catch yourself when you're not.
+2. You have access to *some* data from all sides—or can mark what you're missing
+3. You are willing to *try* to be honest, objective, and unbiased—or at least to notice when you're not
 
-> Regarding point 3: Ideal, not required. The framework doesn't care.
+> Regarding point 3: Trying is enough; perfection isn't required. The framework doesn't care if you fail. It cares if you don't try.
 
 > **Note on the dead and the past:**
-The great grandmother is dead. The great grandfather is dead. But the conflict happened, the data exists, and you are alive. The framework serves the living, even when it examines the dead.
+> The great grandmother is dead. The great grandfather is dead. But the conflict happened, the data exists, and you are alive. The framework serves the living, even when it examines the dead.
 
-> **Note on Incomplete Data**: "Access to data from all sides" is ideal, not binary. You rarely have complete access. You always have some access: what they said, what they did, what is documented, what others observed, what you can reasonably infer.
-Run the framework with what you have. Mark what you're missing. Bloodhound's job includes mapping the gaps — not just checking claims, but noting: this I cannot verify. This I am inferring. This I do not know.
-Incomplete data doesn't stop the framework. It constrains your confidence. Owl judges on available evidence. Lion decides with acknowledged uncertainty. This is not failure — it is honesty about operating conditions.
+> **Note on Incomplete Data:**
+> "Access to data from all sides" is ideal, not binary. You rarely have complete access. You always have some access: what they said, what they did, what is documented, what others observed, what you can reasonably infer.
+>
+> Run the framework with what you have. Mark what you're missing. Bloodhound's job includes mapping the gaps—not just checking claims, but noting: this I cannot verify. This I am inferring. This I do not know.
+>
+> Incomplete data doesn't stop the framework. It constrains your confidence. Owl judges on available evidence. Lion decides with acknowledged uncertainty. This is not failure—it is honesty about operating conditions.
+>
+> *(The five stages use animal archetypes—Eagle, Bloodhound, Owl, Lion, Ant—explained below)*
 
 ---
 
-## 1.5 What does the Framework Require?
+## 1.7 What Does the Framework Require?
+
+The previous section asked whether the *situation* qualifies. This section asks whether *you* do.
 
 The framework is a tool. It requires willingness, self-awareness, the ability to distance yourself from your own position, and a genuine desire for conflict to end well.
 
 > If you'd rather fall off the bridge than let the other goat pass—the tool isn't broken. You're just a goat. The framework is not for goats. Baaaaaaaaaaaaaaaaaaaaaaaaaa.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/59c02a26-c24a-4aa8-99b4-bed4bc0d385a" />
-
-
+![Two goats on a bridge](https://github.com/user-attachments/assets/59c02a26-c24a-4aa8-99b4-bed4bc0d385a)
 
 > **Note on Goats:**
 > The goat metaphor is about refusal, not incapacity.
-> Some people won't use the framework because they prefer the fight — the righteousness, the identity, the familiar war. They could step back. They choose not to. Those are goats.
+>
+> Some people won't use the framework because they prefer the fight—the righteousness, the identity, the familiar war. They could step back. They choose not to. Those are goats.
+>
 > Some people can't. Trauma, danger, survival mode, no psychological safety. Distancing would cost more than staying blind. These are not goats. These are people for whom the framework is not yet safe or possible.
+>
 > The goat chooses the bridge. The trapped can only choose nothing. Know which you are.
 
 ---
 
-## 1.6 Where do you Start?
-
-> If you read the Prologue, you already started. (If you skipped it—no judgment. Okay, some judgment.)
+## 1.8 Where Do You Start?
 
 **Locate yourself.** Before you map the conflict, you map your position relative to it.
 
@@ -128,12 +155,19 @@ Two dimensions set your coordinates: **position** (your relationship to the conf
 
 - **Internal:** The conflict is within yourself. You are analyst, all parties, and battlefield at once.
 
-> **Note on Observer:** True Observer is rare. It requires no power to affect the outcome (even indirectly), no output (even conversation), and no stake. If you pay taxes, vote, speak, share, or belong to any system connected to the conflict—you're likely a Party. When in doubt, assume Party. Observer must be proven, not assumed.
+> **Note on Observer:**
+> True Observer is rare. It requires no power to affect the outcome (even indirectly), no output (even conversation), and no stake. If you pay taxes, vote, speak, share, or belong to any system connected to the conflict—you're likely a Party. When in doubt, assume Party. Observer must be proven, not assumed.
+>
+> Observer is listed for completeness. If you truly have no stake, the framework becomes an intellectual exercise. Most readers are Parties, whether they admit it or not.
 
-> **Note on Observer:** Note on Internal: In internal conflicts, you are always a Party — you have power, output, and stake in your own mind. But you also have the capacity to observe yourself: to watch your thoughts, notice your impulses, witness your competing forces. This observer-capacity is not the same as the framework's Observer position. You're not neutral. You're not without stake. You're a Party who can also watch.
-To use the framework internally: externalise. Name the forces. Give them voices. Make them argue. Then run them through the stages as if they were strangers.
-But internal conflict requires additional scaffolding — how to identify the parties within yourself, how to prevent the analyst from being captured by one of them. That work exists. It is not here. This document focuses on external conflict. The principles transfer inward, but the application is its own territory.
-And remember: internal conflicts rarely stay internal. Identify who else is affected.
+> **Note on Internal:**
+> In internal conflicts, you are always a Party—you have power, output, and stake in your own mind. But you also have the capacity to observe yourself: to watch your thoughts, notice your impulses, witness your competing forces. This observer-capacity is not the same as the framework's Observer position. You're not neutral. You're not without stake. You're a Party who can also watch.
+>
+> To use the framework internally: externalise. Name the forces. Give them voices. Make them argue. Then run them through the stages as if they were strangers.
+>
+> The framework applies to both external and internal conflicts. This section focuses on external conflict for clarity. Internal application follows the same principles but requires additional scaffolding—how to identify the parties within yourself, how to prevent the analyst from being captured by one of them. That work exists. It is not detailed here.
+>
+> And remember: internal conflicts rarely stay internal. Identify who else is affected.
 
 ### b) Time — when the conflict is
 
@@ -147,13 +181,9 @@ And remember: internal conflicts rarely stay internal. Identify who else is affe
 
 ***Before you map the conflict, you map your position relative to it.***
 
-
-
-
 ---
 
-
-## 1.7 What are the Five Stages in End of Conflict Framework?
+## 1.9 What Are the Five Stages in the End of Conflict Framework?
 
 Five stages:
 
@@ -163,7 +193,7 @@ Five stages:
 - **DECIDE:** strategy
 - **ACT:** execution
 
-The framework uses five archetypes — cognitive shortcuts that bypass emotional noise. Two lenses, same logic, different door:
+The framework uses five archetypes—cognitive shortcuts that bypass emotional noise. Two lenses, same logic, different door:
 
 - **Eagle → MAP** (Symptoms)
 - **Bloodhound → CHECK** (Tests)
@@ -177,17 +207,17 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 
 ### The Zoological Chain
 
-- **MAP — Eagle** — *The Vigilant Spotter.* Sees the entire territory from high above: big picture, friction points, and all players — including those invisible to others.
+- **MAP — Eagle** — *The Vigilant Spotter.* Sees the entire territory from high above: big picture, friction points, and all players—including those invisible to others.
 
 - **CHECK — Bloodhound** — *The Thorough Detective.* Sniffs out the truth by comparing what was said versus what was done to reveal hidden motives, true desires, and what is really wanted.
 
-- **JUDGE — Owl** — *The Wise Judge.* Evaluates what was violated, concealed, or ignored — and delivers the verdict on what must be addressed and what must not.
+- **JUDGE — Owl** — *The Wise Judge.* Evaluates what was violated, concealed, or ignored—and delivers the verdict on what must be addressed and what must not.
 
-- **DECIDE — Lion** — *The Strategic Leader.* Circles back to what Eagle saw, now armed with Owl's verdict, and makes the final call to solve the problem at its root.
+- **DECIDE — Lion** — *The Strategic Leader.* Circles back to what Eagle saw, now armed with Owl's verdict, and decides the full solution to the problem at its root—even if only part of that solution is yours to execute.
 
-- **ACT — Ant** — *The Diligent Doer.* Carries out the necessary work to make the solution a reality.
+- **ACT — Ant** — *The Diligent Doer.* Carries out the portion of the solution within your control.
 
-> Eagle sees the problem → Bloodhound verifies the details → Owl judges what's true → Lion decides how to solve what Eagle saw → Ant executes.
+> Eagle sees the problem → Bloodhound verifies the details → Owl judges what it means → Lion decides the solution → Ant executes what's yours to do.
 
 ---
 
@@ -196,24 +226,37 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 - **MAP — Symptoms** — The presenting problem.
 - **CHECK — Tests** — The investigation.
 - **JUDGE — Diagnosis** — What's actually wrong.
-- **DECIDE — Treatment** — Targets the underlying condition the diagnosis revealed.
-- **ACT — Recovery** — Following through until healed.
+- **DECIDE — Treatment** — The full treatment plan, targeting the underlying condition the diagnosis revealed.
+- **ACT — Recovery** — Following through on your part until healed.
 
 > You can't test without symptoms.
 > You can't diagnose without tests.
 > You can't treat what you haven't diagnosed.
 > You can't recover without following the treatment.
 
-> Note on Accessible vs. Inaccessible Conditions:
-> Diagnosis may reveal causes you cannot treat: another person's defences, systemic inequities, historical wounds. This is not failure — it is accurate mapping.
-> Lion operates on the treatable surface — the portion of the problem within your micro-agency. You cannot decide to change what you do not control. You can decide your response to it.
-> The framework's promise holds: you will see clearly. What you do with that sight depends on what is actually accessible to you. Sometimes the clearest sight reveals: this part is not mine to fix.
+> **Note on Accessible vs. Inaccessible Conditions:**
+> Diagnosis may reveal causes you cannot treat: another person's defences, systemic inequities, historical wounds. This is not failure—it is accurate mapping.
+>
+> Lion decides the full solution—all of it. The solution exists whether or not you can execute it alone. But Ant operates only on your micro-agency: your perception, your reactions, your choices—the portion of the problem within your control.
+>
+> You cannot act on what you do not control. You can act on your response to it.
+>
+> The framework's promise holds: you will see clearly. What you do with that sight depends on what is actually accessible to you. Sometimes the clearest sight reveals: this part is not mine to fix. That knowledge is still power. Knowing what's not yours to fix frees you to fix what is.
+
 ---
 
-Animals make you the agent; medical makes you the analyst. The cheat sheet uses animals — because you don't resolve a conflict by studying it. You resolve it by becoming what it requires.
+> **Note on Zoological vs. Medical:**
+> Animals make you the agent; medical makes you the analyst. Both lead to action—but from different positions.
+>
+> With animals, you *become*: I am the Eagle. I am the Bloodhound. You step into the role.
+>
+> With medical, you *observe*: I see symptoms. I run tests. You stand outside the process.
+>
+> The cheat sheet uses animals—because the medical metaphor, although helpful, lets you stay yourself, and the framework argues that's exactly what has to change.
 
 
-## 1.8 The Diagnostic Questions
+
+## 1.10 The Diagnostic Questions
 
 **EAGLE — MAPs**
 
@@ -479,6 +522,9 @@ The framework does not mean perfection. It means enough. Enough to see more clea
 
 ## Note on Notes I missed
 Every thought could be a note. Every note spawns ten more. At some point you stop refining and start using. What's here is not complete. It is enough.
+
+##Note on How to say it in one sentence:
+The framework is a mirror you serve; what it reflects is sight; sight is power; power is yours.
 
 
 ```markdown
