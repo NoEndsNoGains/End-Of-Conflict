@@ -1,6 +1,7 @@
 ---
 
 ## Pre-Flight Check — "Let me be Tender"
+Everyone seat down
 
 The framework asks you to be ice-cold. Indifferent. Distant from your own position.
 
@@ -256,4 +257,28 @@ The ice-cold distance of the framework is not the absence of these things. It is
 
 ---
 
-**Anything else missing?**
+
+A Hopi Elder Speaks
+Attributed to the Elders, Oraibi, Arizona, Hopi Nation — June 8, 2000
+
+"You have been telling the people that this is the Eleventh Hour, now you must go back and tell the people that this is the Hour. And there are things to be considered...
+Where are you living?
+What are you doing?
+What are your relationships?
+Are you in right relation?
+Where is your water?
+Know your garden.
+It is time to speak your Truth.
+Create your community.
+Be good to each other.
+And do not look outside yourself for the leader."
+Then he clasped his hands together, smiled, and said, "This could be a good time!"
+"There is a river flowing now very fast. It is so great and swift that there are those who will be afraid. They will try to hold on to the shore. They will feel they are torn apart and will suffer greatly.
+"Know the river has its destination. The elders say we must let go of the shore, push off into the middle of the river, keep our eyes open, and our heads above water. And I say, see who is in there with you and celebrate. At this time in history, we are to take nothing personally. Least of all ourselves. For the moment that we do, our spiritual growth and journey comes to a halt.
+"The time for the lone wolf is over.
+Gather yourselves!
+Banish the word struggle from your attitude and your vocabulary.
+All that we do now must be done in a sacred manner and in celebration.
+"We are the ones we've been waiting for."
+
+— The Elders, Oraibi, Arizona, Hopi Nation
