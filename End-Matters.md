@@ -121,3 +121,31 @@ A part of the Mossi empire ended up in Ghana.
 A part of the Soussou empire ended up in the Mandingo empire.
 A part of the Mandingo empire ended up with the Mossi.
 
+# Glossary
+
+| Term | What it means |
+|------|---------------|
+| **A.C.T** | Achievable, Clear, Timely — is it doable? |
+| **Ant** | The fifth stage (ACT). Executes the portion of the solution within your control. Enemy: the old habit that outlives the new decision. |
+| **B.U.S** | Beneficial, Unintended consequences considered, Sustainable — is it wise? |
+| **Betta fish** | Fighting your own reflection without knowing it |
+| **Bloodhound** | The second stage (CHECK). Verifies what Eagle mapped. Separates the scent you prefer from the cold trail of reality. Enemy: confirmation bias. |
+| **Defensive self-deception** | The bullshit that keeps the conflict going |
+| **Eagle** | The first stage (MAP). Sees the whole terrain from 10,000 feet. Enemy: the Fog of War and the map you drew before you looked. |
+| **Fog of War** | The overwhelm that makes conflict feel everywhere and nowhere. Eagle's enemy. |
+| **Goat** | Someone who would rather fall off the bridge than let the other pass. Chooses the fight over resolution. The framework is not for goats. |
+| **Immunity Paradox** | Why the same defences that protect you also keep you stuck. We lack the precision, targeting, and memory that immune systems have. |
+| **Internal conflict** | A conflict within yourself. You are analyst, all parties, and battlefield at once. |
+| **L.E.R** | Legal, Ethical, Relational — is it right? |
+| **Lion** | The fourth stage (DECIDE). Chooses the full solution — even if only part is yours to execute. Enemy: the fix that protects Lion from having to change. |
+| **Living Research Protocol** | Notice → Materialise → Trace → Fail → Commit → Dissolve. Break it before it breaks you. |
+| **Macro-responsibility** | Who's responsible for changing systems — distributed by power |
+| **Micro-agency** | The small territory you actually control — your perception, reactions, choices |
+| **Observer** | Position with no power, no output, no stake. Rare. When in doubt, assume Party. |
+| **Owl** | The third stage (JUDGE). Assigns weight to information. Turns on the lights. Enemy: eyes shut. |
+| **Party** | Position with any power, any output, or any stake. Direct (disputant) or Indirect (connected). |
+| **Protective self-deception** | The bullshit you need to survive |
+| **Time bomb** | A solution that lets the problem return. Not a solution — a postponement. |
+| **Truth Tester** | Measures the gap between what you believe and what you can prove |
+
+---
