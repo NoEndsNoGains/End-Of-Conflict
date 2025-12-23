@@ -4,6 +4,7 @@
 
 - [Front Matters](#front-matters)
 - [OVERVIEW](#overview)
+- [EVERYTHING NEEDS A CHAIR](#everything-needs-a-chair)
 - [FRAMEWORK](#framework)
 - [THEORETICAL FOUNDATIONS](#theoretical-foundations)
 - [STRESS TESTING](#stress-testing)
@@ -1251,6 +1252,11 @@ d) No — foreign politics is incomprehensible anyway
 - 8. **d** — Resolution requires surrendering something. Most people prefer to keep what they're holding.
 - 9. **c** — A genuine desire for conflict to end well.
 - 10. **d** — The framework is not for goats. Come back when you're ready.
+
+
+## EVERYTHING NEEDS A CHAIR
+
+
 
 
 ## FRAMEWORK
