@@ -48,6 +48,8 @@ The fact that you'll become more effective at articulating your position is a si
 
 Someone using it as an advocacy tool has already decided the verdict before doing the work. They are not using the framework. They are manipulating it.
 
+The framework rests on a different principle: _I don't have to agree with you to understand you._ Sight without endorsement.
+
 ---
 
 ## 1.4 Why Is It Needed?
