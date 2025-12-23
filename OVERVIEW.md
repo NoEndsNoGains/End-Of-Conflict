@@ -27,18 +27,17 @@ Sight is leverage to end conflict in a way that is:
 
 Not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes relationships, not just entitlements. Not purely idealistic—A.C.T demands what's actually achievable.
 
-## 1.4.Crucial Clarification: Purpose vs Side Effects
-The framework's purpose isn't advocacy. It's not a better argument. It's not a sharper sword (that is what lawyers do to "sell" their client's stories as somehow more meaningful than others).
+## 1.3.Crucial Clarification: Purpose vs Side Effects
+The framework's purpose isn't advocacy. It's not a better argument. It's not a sharper sword (that is what lawyers do — they serve what their client wants).
+It's not about getting the results you want. It's about what the conflict needs from you. You don't wield the framework; you serve it.
 The fact that you'll become more effective at articulating your position is a side effect of seeing clearly — not the goal.
-This matters because:
 
-Advocacy assumes your position is correct and seeks to persuade others
-The framework assumes your position might be wrong and seeks to find out
+- Advocacy assumes your position is correct and seeks to persuade others
+- The framework assumes all positions might be wrong and seeks to find out what is wrong (substance — e.g. the claim, the motive, the assumption) and where it sits (location — e.g. in you, in them, in the system)
 
-Someone using it as an advocacy tool has already decided the verdict before doing the work. They are not failing at the framework. They are manipulating it — wearing its structure while refusing its purpose.
-The framework assumes indifference to all sides, including your own, with the only purpose being to see everything as clearly as possible.
+Someone using it as an advocacy tool has already decided the verdict before doing the work. They are not using the framework. They are manipulating it.
 
-## 1.3 Why Is It Needed?
+## 1.4 Why Is It Needed?
 
 Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. This allows us to skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with solution (acting would transform us), and we choose blindness over action (seeing creates responsibility).
 
