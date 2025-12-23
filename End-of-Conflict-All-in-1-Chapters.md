@@ -592,60 +592,63 @@ The Unborn (hasn't happened yet)
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fff9681-20c2-47a8-8af3-9fb919511539" />
 
 
+
+
+# End of Conflict Cheat Sheet
+## _"Let me be Dry"_
+
 ## 1.1 What Is End of Conflict Framework?
 
-A systematic five-stage process for resolving conflicts that seem intractable 
-> (*not "in a tractor"—but close*).
-
-It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable 
-> (*not tractorable - tractable*)
-
-by separating _what happened_ from _what it means_ from _what to do about it_.
+A systematic five-stage process for resolving conflicts that seem intractable. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage, making solvable problems tractable by separating _what happened_ from _what it means_ from _what to do about it_.
 
 ## 1.2 What Is Its Purpose?
 
-To see the conflict as precisely as possible. It doesn't promise resolution. It promises sight.
+To see the conflict precisely. The framework promises sight—not resolution. Sight is the vehicle. Resolution, exit, clarity that this cannot be resolved, or conviction that this fight must continue—these are possible destinations. What happens next depends on you. The framework doesn't guarantee how it ends—only that blindness won't be why it continued.
 
-> **Note on the Name:**
->  The framework is called "End of Conflict" because that's the destination. Sight is the vehicle. It promises sight — not resolution — because sight is what the framework delivers. What happens next depends on you. Sight may produce resolution. It may produce exit.
-> It may produce "this cannot be resolved — only survived or escalated." All of these end the conflict, or end your confusion about it. The promise is honest: you will see. The name is honest: conflict ends. The framework doesn't guarantee how it ends — only that
-> blindness won't be why it continued.
+Why "End of Conflict" if some conflicts must last? Because something always ends: the confusion, the reactivity, the self-deception. Even when the fight continues, the fog clears. You stop fighting blind. That's the end the framework delivers.
 
 Sight is leverage to end conflict in a way that is:
 
-- **Fair** (L.E.R tests: Legal, Ethical, Relational)
-- **Wise** (B.U.S tests: Beneficial, Unintended consequences considered, Sustainable)
-- **Doable** (A.C.T tests: Achievable, Clear, Timely)
+- **Fair** (L.E.R: Legal, Ethical, Relational)
+- **Wise** (B.U.S: Beneficial, Unintended consequences considered, Sustainable)
+- **Doable** (A.C.T: Achievable, Clear, Timely)
 
-It's not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes ethics and relationships, not just legal entitlements. Not purely idealistic—A.C.T demands what's actually achievable.
+Not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L.E.R includes relationships, not just entitlements. Not purely idealistic—A.C.T demands what's actually achievable.
 
-> **Note:** L.E.R, B.U.S, A.C.T are discussed in Stage 4 "Decide". Don't panic. It's just jargon to make the framework fancier — and it works as a memory aid. Win–win we all want.
+## 1.3 Why Is It Needed?
 
-If sight alone doesn't end it, the framework will—by breaking you instead. Through:
+Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. This allows us to skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with solution (acting would transform us), and we choose blindness over action (seeing creates responsibility).
 
-- **Exhaustion** — Running the stages tires your capacity to maintain defensive positions. Lies require energy. Truth doesn't. You become too tired to lie to yourself any longer.
-- **Absurdity** — Clear mapping reveals the actual size of what you're fighting over. Sometimes it's smaller than the fight. You see how ridiculous this was.
-- **Collapse** —  The "why" evaporates under inspection. You were fighting over something that no longer exists, or never did.
-- **Trick** — Bloodhound exposes the gap between what you claim to want and what you actually want. You catch yourself.
-- **Paradox** — In internal conflicts, both sides are you. Seeing this clearly leaves no one to fight.
+The framework externalises what we cannot do intuitively. It addresses five failures of sight:
 
-Note on Breaking:
-The framework breaks you by forcing repetition under honesty constraints.
+- **We can't see** — we're inside it, too threatened. The framework reveals.
+- **We see but can't release** — the injustice is real, unaddressed. The framework shows what must be addressed before letting go is possible.
+- **We see and like it** — the conflict gives us identity, purpose, an enemy. The framework exposes what we're getting from the war.
+- **We see but don't know what to do** — paralysis, overwhelm. The framework sequences: this, then this, then this.
+- **We see and the conflict is right** — this fight is protection, not pathology. The framework confirms the stakes.
 
-Exhaustion — Running the stages again and again tires your capacity to maintain defensive positions. Lies require energy. Truth doesn't.
-Absurdity — Clear mapping reveals the actual size of what you're fighting over. Sometimes it's smaller than the fight.
-Collapse — The "why" evaporates under inspection. You were fighting over something that no longer exists, or never did.
-Trick — Bloodhound exposes the gap between what you claim to want and what you actually want. You catch yourself.
-Paradox — In internal conflicts, both sides are you. Seeing this clearly leaves no one to fight.
+Not all conflicts should end. Sometimes the conflict is not dysfunction. It's the last dignity. The only lever. The necessary cost of not accepting what should never be accepted:
 
-The mechanism is simple: rigorous honesty repeated until self-deception can't survive it.
+- Protection from abuse — the conflict IS the boundary
+- Resistance to oppression — the fight is the integrity
+- Pursuit of justice — the conflict is the only path to truth
+- Defence of the vulnerable — until safe, there is no peace
+- Refusal to comply with wrong — the conflict is the moral act
 
-**One way or another: pragmatic resolution with ethical constraints.** 
+The framework helps you see: *Is this one of those?* And if yes—fight clearly, not reactively. Know why you're in it. Know what you're protecting. Know the cost and choose it anyway.
 
-> (Ha. Told ya!)
+The framework doesn't assume peace. It assumes sight.
 
-## 1. 3 Why it is Needed?
-Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. This allows us to skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with decision (acting would transform us), and we choose blindness over action (seeing creates responsibility). The framework externalises what we cannot do intuitively.
+## 1.4 How Does It Work?
+
+If sight alone doesn't end it, the framework will—by breaking you instead. The mechanism: rigorous honesty repeated until self-deception can't survive it.
+
+- **Exhaustion** — Lies require energy. Truth doesn't.
+- **Absurdity** — You see the fight was bigger than the thing.
+- **Collapse** — The "why" evaporates under inspection.
+- **Trick** — You catch the gap between what you claim and what you want.
+- **Paradox** — In internal conflicts, both sides are you. In external conflicts, you find yourself in them—and them in you. Either way, the enemy becomes harder to locate.
+
 
 ## 1.4 When To Use It?
 
