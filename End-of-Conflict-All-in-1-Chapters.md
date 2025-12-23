@@ -623,6 +623,10 @@ Not purely win-win—B.U.S accepts necessary losses. Not purely rights-based—L
 
 The framework gives you a place to stand. Even when the outcome is uncertain, you know where you are in the process. You know what step comes next. That is its own kind of control—not over what happens, but over how you move through it.
 
+The framework is not just a conflict resolution tool. It is a sovereignty tool. It returns agency to you by reminding you: while you cannot control the bridge, the weather, or the other goat — you own your eyes and your feet.
+
+---
+
 ---
 
 ## 1.3 Crucial Clarification: Purpose vs Side Effects
@@ -665,6 +669,22 @@ Not all conflicts should end. Sometimes the conflict is not dysfunction. It's th
 The framework helps you see: *Is this one of those?* And if yes—fight clearly, not reactively. Know why you're in it. Know what you're protecting. Know the cost and choose it anyway.
 
 The framework doesn't assume peace. It assumes sight.
+
+---
+
+**Check yourself:**
+
+You just read: *"Conflicts persist because we'd rather be Right than be Done."*
+
+Your gut reaction was:
+
+- a) "Wow. My ex needs to see this immediately."
+- b) "I agree completely. Peace is the goal."
+- c) "What if I'm right AND the other person is a literal monster?"
+- d) "This is a bit aggressive. I don't like the tone."
+- e) "No. Conflict replaces the lack of justice."
+
+**The Verdict:** Whatever you felt — that's your Scent. Note it. Don't wash it off. When you meet Bloodhound, give it to him. He sniffs. 
 
 ---
 
@@ -731,6 +751,18 @@ The framework is a tool. It requires willingness, self-awareness, the ability to
 
 ---
 
+**Check yourself:**
+
+Are you a goat?
+- a) Yes
+- b) Still finding out
+- c) No
+- d) Baaaaaaaaaaaaaaaaaaaaaaaaaa
+
+*(Answer: Anything but a and d. The framework is not for goats.)*
+
+---
+
 ## 1.8 Where Do You Start?
 
 **Locate yourself.** Before you map the conflict, you map your position relative to it.
@@ -772,6 +804,23 @@ Two dimensions set your coordinates: **position** (your relationship to the conf
 ---
 
 ***Before you map the conflict, you map your position relative to it.***
+
+---
+
+**Check yourself:**
+
+X buzzes about a pop star's brutal breakup album. You don't comment. You don't know anyone involved.
+
+Then you play one song for your husband — "Pussy Palace" — because it'll make him laugh.
+
+You are now:
+
+- a) Still Observer — I didn't comment
+- b) Still Observer — not my conflict
+- c) Party (Indirect) — I had output
+- d) Uninvolved — just scrolling
+
+**The Verdict:** c. You pressed play. Output. Party. Positions shift.
 
 ---
 
@@ -1042,6 +1091,19 @@ You can't recover without following the treatment.
 
 ---
 
+**Check yourself:**
+
+You just read about five animals. Your first thought was:
+
+- a) "I have a PhD. I can get the concept without the animals, thank you."
+- b) "I'm definitely the Eagle. I see everything."
+- c) "Which one am I? I think I'm a Lion."
+- d) "This is a bit 'self-help' for my taste."
+
+**The Verdict:** You're all of them. That's the point. If you're in conflict, you need help. You're a mess. Animals can help.
+
+---
+
 ## 1.10 How Do I Begin?
 
 MAP. Start there.
@@ -1101,7 +1163,7 @@ If you are a party, you are in conflict, regardless of whether you chose it or n
 | Confused — they say one thing, do another | Noise | BLOODHOUND — verify it |
 | Fixes that blow up later | Time bomb | OWL — judge it |
 | Endless talk, no action | Paralysis | LION — decide it |
-| Know what to do but not doing it | Stuck | ANT — act now |
+| Know what to do but not doing it | Hesitation | ANT — move one grain |
 | Same fight, different day | Information gap | EAGLE — map it |
 
 ---
@@ -1120,27 +1182,42 @@ If you are a party, you are in conflict, regardless of whether you chose it or n
 
 ---
 
+### When the Animal Turns
+
+Each role has a shadow (at least one) — the corrupted version of itself.
+
+| Animal | Shadow | What it looks like |
+|--------|--------|-------------------|
+| Eagle | **Vulture** | Only circling for carcasses — hunting the other's faults, not mapping the whole |
+| Bloodhound | **Inquisitor** | Using facts as weapons to trap, not trails to follow |
+| Owl | **Critic** | Judging without intent to move toward decision — verdicts for their own sake |
+| Lion | **Tyrant** | Deciding what *they* must do, not what *you* will do |
+| Ant | **Martyr** | Carrying the load while resenting every grain |
+
+If you recognise the shadow, you've stopped using the framework. You're performing it.
+
+> **Note:** You run all five. Not one. Not your favourite. All five. That's the point.
+
+---
+
 **Find the blockage. Go there. Fix it. Move.**
 
 ---
 
-## 1.12 You Play All Roles
+ **Check yourself:**
 
-In real systems, the work is fragmented. Each player sees their piece. No one owns the whole.
+You just read a lot of notes. Your guess:
 
-The lawyer sees liability. The therapist sees feelings. The mediator sees positions. The manager sees outcomes. Each is blind to what the others hold.
+- a) First draft had 47 more.
+- b) At least 3 are still missed.
+- c) This is what happens when people are gaslit for years: overexplanation.
+- d) Usless. Didn't learn a thing.
+- e) Boring.
+- f) Pseudo-knowlege.
+- g) I am sure there are more to come.
 
-Run the full cycle yourself, in parallel. Not to override them — but to see what they cannot.
+**The Verdict:** Can't be given. Professionalism.
 
-You Map. You Check. You Judge. You Decide. You Act.
-
-Not because you're better. Because you're the only one guaranteed to be present at every stage.
-
-> The framework isn't a circle — where you end up back where you started.
->
-> It's a heart — pumping while you work through it. Keeping you alive until the conflict is done.
-
----
 ---
 
 ## 1.13 Further Notes
@@ -1256,77 +1333,66 @@ At some point you stop refining and start using. What's here is not complete. It
 ### Note on How to Say It in One Sentence
 The framework is a mirror you serve; what it reflects is sight; sight is power; power is yours.
 
+---
+**Final check:**
 
+You are 90 years old. Looking back at this conflict.
 
-## 1.13 Key Terms
+- a) "I'm so glad I spent four years proving I was 10% more right."
+- b) "Holding that grudge really protected my dignity."
+- c) "I wasted my life on a bridge with a goat."
 
-These had not been disucss 
-
-| Term | What it means |
-|------|---------------|
-| Betta fish | Fighting your own reflection without knowing it |
-| Truth Tester | Tool that reveals gaps between what you believe and what you can prove |
-| Living Research Protocol | Method that encourages you to break all your claims on purpose|
-| Immunity Paradox | Why the same defences that protect you also keep you stuck |
-| Micro-agency | The small territory you actually control — your perception, reactions, stories |
-| Macro-responsibility | Who's responsible for changing systems — distributed by power |
-| Protective self-deception | The bullshit you need to survive |
-| Defensive self-deception | The bullshit that keeps the conflict going |
-- **L.E.R** = Legal, Ethical, Relational (fairness, rights)
-- **B.U.S** = Beneficial, Unintended consequences, Sustainable (long-term effects)
-- **A.C.T** = Achievable, Clear, Timely (feasibility)
-| Term | What it means |
-|------|---------------|
-| Truth Tester | Measures the gap between documentary evidence and actual reality |
-| Living Research Protocol | Notice → Materialise → Trace → Fail → Commit → Dissolve. Break it before it breaks you. |
-| Immunity Paradox | Why we fail: human nature and system: we lack the precision, targeting, and memory that immune systems have |
+**The Verdict:** You are currently choosing a or b. The framework isn't here to save the relationship. It's here to save your time. You are dying. Act accordingly.
 
 ---
-
-
-```markdown
----
-
 # All At Once
 
 ### EAGLE — MAPs
-
 Eagle maps all that is there—
-because you can't solve what you haven't named,
-because the hidden tells more than the seen.
-**With Some exception.**
+because you can't navigate what you haven't named,
+because the hidden holds the key to the seen.
+Fog is the only exception.
 
 ### BLOODHOUND — CHECKs
-
-Bloodhound checks what Eagle maps—
+Bloodhound checks the map and the mapper—
 because what is seen isn't always what's sure,
-because we all say, do, want, hide, miss and avoid.
-**This is No exception.**
+because we all say, do, want, hide, miss, and avoid.
+This is no exception.
 
 ### OWL — JUDGEs
-
-Owl judges what Bloodhound finds—
+Owl judges the weight of the scent—
 because truth without a verdict never draws a line,
-because a verdict is Guilty or Informed.
+because a verdict is Justice or Insight.
 Sometimes one.
 Sometimes both.
 Saddest when it's neither.
 
 ### LION — DECIDEs
-
-Lion decides what the Eagle sees—
+Lion decides the shape of the future—
 because the verdict answers what was found,
-because the solution must answer what was seen.
-The solution is "never again,"
+and the solution must answer what was seen.
+Because you cut the root, the branch stays—
+so birds sing "never again,"
 not "here we go again."
 
 ### ANT — ACTs
-
-Ant acts on what Lion decides—
-because to decide demands the act,
-because action is not once—
+Ant acts on the Lion's word—
+because to decide without acting is God knows what,
+because the work is not once—
 it is all the time.
 It is every time.
+
+---
+
+## The Integration
+
+The Ant carries the Lion.
+The Lion honors the Owl.
+The Owl trusts the Bloodhound.
+The Bloodhound serves the Eagle.
+
+The Eagle is the beginning.
+The Ant is the proof.
 
 ---
 
@@ -1341,108 +1407,9 @@ The Eagle is first.
 The Eagle is you.
 
 **You are All at Once.**
-```
-​​​​​​​​​​​
- ## Comprehension Test 1
-
-*The following scenarios draw from real events of the 2020s to illustrate timeless dynamics. Your task: classify your position and time.*
----
-**1.** 1. Imagine you were a Ukrainian computer science student in early 2025, watching Sam Altman and Dario Amodei debate whether AGI would arrive within the decade. You were considering pivoting your thesis toward AI safety. Your supervisor asked you to write—100 times—"I will not build unsafe AI" before you make a decision. You're puzzled, unsure what to do and what it means.
-
-*(Ref: Altman/Amodei AGI timeline debates, 2024–2025)*
-
-- a) Observer / Present
-- b) Internal / Present
-- c) Party (Indirect) / Future
-- d) Observer / Future
-
-**2.** Imagine you are scrolling social media and see strangers debating whether a pop star was right to release a brutally honest breakup album about her ex-husband. You don't comment, don't know anyone involved. You play your husband one song—titled "Pussy Palace"—because you know it will make him laugh.
-
-*(Ref: Allen, "West End Girl" album, October 2025)*
-
-- a) Observer / Present
-- b) Party (Indirect) / Present
-- c) Observer / Past
-- d) Internal / Present
-
-**3.** Imagine you were a Taiwanese journalist in May 2024, covering the military exercises when China encircled the island after President Lai's inauguration speech. You had family in Kinmen. Your editor was waiting for copy.
-
-*(Ref: Joint Sword-2024A exercises, May 23–24, 2024)*
-
-- a) Observer / Present
-- b) Party (Direct) / Present
-- c) Party (Indirect) / Present 
-- d) Internal / Present
-
-**4.** Imagine you were a Brazilian trade negotiator at the December 2025 Mercosur summit in Foz do Iguaçu, watching Lula and Milei openly clash over Venezuela. Your government's position depended on what happened next. You hadn't spoken yet.
-
-*(Ref: Mercosur summit, Foz do Iguaçu, December 20, 2025)*
-
-- a) Observer / Present
-- b) Party (Direct) / Present
-- c) Party (Indirect) / Present
-- d) Party (Direct) / Future
-
-**5.** Imagine you are an epidemiologist in 2028, reviewing anonymised Covid-19 mortality and excess deaths data from 2020–2023 for a WHO report. Officially, you have no connection to any patients, clinicians, governments, or pharmaceutical interests involved. But the anonymised data seems to downplay post-vaccination cardiac events and all-cause mortality spikes, while emphasising virus-only causes. You decide to dig deeper and contact Russell Brand.
-
-*(Ref: Covid-19 pandemic, 2020–2023)*
-
-- a) Observer / Past
-- b) Party (Indirect) / Past
-- c) Observer / Present
-- d) Party (Direct) / Past
-  
-**6.** The framework's primary promise is:
-
-- a) Resolution
-- b) Sight
-- c) Fairness
-- d) Victory
-
-7. Imagine your French colleague is furious about Macron. She wants you to agree he's "finished as a political force—and besides, his wife is probably a man." You're not French, don't vote there, and find the whole thing baffling. Is this a conflict for the framework?
-
-(Ref: French political instability, 2024–2025; Brigitte Macron conspiracy theories; Owens documentary series, 2024)
-
-a) Yes — there are two positions in disagreement
-b) No — you have no stake; she's venting, not negotiating
-c) Yes — her anger makes it internal
-d) No — foreign politics is incomprehensible anyway
-
-**8.** Conflicts persist because resolution is desired less than:
-
-- a) Power, revenge, or righteousness
-- b) Being right
-- c) Avoiding the hard conversation
-- d) All of the above
-
-**9.** The framework requires willingness, self-awareness, the ability to distance yourself from your position, and:
-
-- a) Legal representation
-- b) Agreement from all parties
-- c) A genuine desire for conflict to end well
-- d) Certainty about who is right
-
-**10.** Are you a goat?
-
-- a) Yes
-- b) No
-- c) Still finding out
-- d) Baaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ---
 
-## Answer Key
-
-- 1. **b** — You are torn between paths, puzzled by the ritual, unsure what commitment you're being asked to make. The conflict is within you.
-- 2. **b** — You have no stake in her divorce, no power over its outcome, and no connection to anyone involved. But you played the song for your husband — that's output. Content from the conflict entered your household. Minimal participation, but non-zero. Party (Indirect), not Observer.
-- 3. **c** — You have professional output, family stake, but you're not a disputant between China and Taiwan.
-- 4. **c** — You are connected through your role; the outcome affects your government, but you're not Lula or Milei.
-- 5. **d** — You were an Observer reviewing the past. Then you noticed something. Then you decided to act. Then you contacted Russell Brand—not a peer-reviewed journal, not your supervisor, not the WHO. You picked a side. You have output. You're now Party (Direct) in a present conflict.
-- 6. **b** — It promises sight, not resolution.
-- 7. **b** — She's venting. You have no power over French politics, no output that affects it, no stake in whether Macron survives or whether Brigitte is who Candace Owens says she is.
-- 8. **d** — Resolution requires surrendering something. Most people prefer to keep what they're holding.
-- 9. **c** — A genuine desire for conflict to end well.
-- 10. **d** — The framework is not for goats. Come back when you're ready.
 
 
 ## EVERYTHING NEEDS A CHAIR
