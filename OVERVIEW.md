@@ -3,14 +3,6 @@
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fff9681-20c2-47a8-8af3-9fb919511539" />
 
 
-
-
-# End of Conflict Cheat Sheet
-## _"Let me be Dry"_
-
-
-
-
 ## 1.1 What Is the End of Conflict Framework?
 
 A systematic five-stage process for seeing conflicts that seem intractable clearly enough to know what to do about them. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage—separating *what happened* from *what it means* from *what to do about it*. This makes solvable problems tractable. It makes unsolvable ones nameable. Both are progress.
@@ -207,63 +199,9 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 
 ---
 
-### The Zoological Chain
-
-- **MAP — Eagle** — *The Vigilant Spotter.* Sees the entire territory from high above: big picture, friction points, and all players—including those invisible to others.
-
-- **CHECK — Bloodhound** — *The Thorough Detective.* Sniffs out the truth by comparing what was said versus what was done to reveal hidden motives, true desires, and what is really wanted.
-
-- **JUDGE — Owl** — *The Wise Judge.* Evaluates what was violated, concealed, or ignored—and delivers the verdict on what must be addressed and what must not.
-
-- **DECIDE — Lion** — *The Strategic Leader.* Circles back to what Eagle saw, now armed with Owl's verdict, and decides the full solution to the problem at its root—even if only part of that solution is yours to execute.
-
-- **ACT — Ant** — *The Diligent Doer.* Carries out the portion of the solution within your control.
-
-> Eagle sees the problem → Bloodhound verifies the details → Owl judges what it means → Lion decides the solution → Ant executes what's yours to do.
-
----
-
-### The Clinical Chain
-
-- **MAP — Symptoms** — The presenting problem.
-- **CHECK — Tests** — The investigation.
-- **JUDGE — Diagnosis** — What's actually wrong.
-- **DECIDE — Treatment** — The full treatment plan, targeting the underlying condition the diagnosis revealed.
-- **ACT — Recovery** — Following through on your part until healed.
-
-You can't test without symptoms.
-
-You can't diagnose without tests.
-
-You can't treat what you haven't diagnosed.
-
-You can't recover without following the treatment.
-
-> **Note on Accessible vs. Inaccessible Conditions:**
-> Diagnosis may reveal causes you cannot treat: another person's defences, systemic inequities, historical wounds. This is not failure—it is accurate mapping.
->
-> Lion decides the full solution—all of it. The solution exists whether or not you can execute it alone. But Ant operates only on your micro-agency: your perception, your reactions, your choices—the portion of the problem within your control.
->
-> You cannot act on what you do not control. You can act on your response to it.
->
-> The framework's promise holds: you will see clearly. What you do with that sight depends on what is actually accessible to you. Sometimes the clearest sight reveals: this part is not mine to fix. That knowledge is still power. Knowing what's not yours to fix frees you to fix what is.
-
----
-
-> **Note on Zoological vs. Medical:**
-> Animals make you the agent; medical makes you the analyst. Both lead to action—but from different positions.
->
-> With animals, you *become*: I am the Eagle. I am the Bloodhound. You step into the role.
->
-> With medical, you *observe*: I see symptoms. I run tests. You stand outside the process.
->
-> The cheat sheet uses animals—because the medical metaphor, although helpful, lets you stay yourself, and the framework argues that's exactly what has to change.
-
-
-
-## 1.10 The Diagnostic Questions
-
 Each stage plays a different role. Each is led by different questions. Each includes self-interrogation: the same questions you ask about them, you ask about yourself. The framework doesn't exempt you from scrutiny.
+
+---
 
 **EAGLE — MAPs**
 
@@ -361,6 +299,7 @@ But if Owl keeps its eyes shut, you're still standing in the dark, tripping over
 > *(This is where Part 2 pays off. Because your Ego has a chair, Owl can be honest about "the wind" or "the broken trust" without your Ego screaming that it's being attacked.)*
 >
 > Owl delivers verdict to Lion.
+
 ---
 
 **LION — DECIDEs**
@@ -412,6 +351,10 @@ Lion roars. Ant hears.
 
 Lion roars. Ant digs.
 
+The Ant is the only animal that touches the ground. Eagle flies. Bloodhound sniffs. Owl watches. Lion roars. But Ant digs.
+
+In conflict, you cannot move the other person's feet. You can only move your own.
+
 The Ant doesn't care about the drama of the conflict. The Ant cares about the logistics of the peace.
 
 If Lion decides "we will be honest," Ant is the one who has to say the difficult thing at 8am on a Tuesday — tired, annoyed, wishing it wasn't necessary.
@@ -420,10 +363,69 @@ Ant's enemy isn't ignorance. Ant heard Lion. Ant's enemy is the old habit that o
 
 Implementation is the graveyard of good intentions. If Ant doesn't move, Lion was just performing.
 
+This is the antidote to hopelessness. When you realise Ant only needs to move your grains of sand, the conflict stops being an immovable mountain.
+
 > **Note:** Ant operates only within your micro-agency: your perception, your reactions, your choices — the portion of the problem within your control.
-> You cannot act on what you do not control. You can act on your response to it.
+>
 > Ant checks Ant: Am I carrying my weight, or am I waiting for Lion to roar again so I can stop working?
+>
 > Ant acts. What Ant does becomes what Eagle sees next.
+
+---
+
+### The Clinical Chain (Alternative Lens)
+
+If animals don't resonate, use medical:
+
+- **MAP — Symptoms** — The presenting problem.
+- **CHECK — Tests** — The investigation.
+- **JUDGE — Diagnosis** — What's actually wrong.
+- **DECIDE — Treatment** — The full treatment plan, targeting the underlying condition the diagnosis revealed.
+- **ACT — Recovery** — Following through on your part until healed.
+
+You can't test without symptoms.
+
+You can't diagnose without tests.
+
+You can't treat what you haven't diagnosed.
+
+You can't recover without following the treatment.
+
+---
+
+> **Note on Accessible vs. Inaccessible Conditions:**
+> Diagnosis may reveal causes you cannot treat: another person's defences, systemic inequities, historical wounds. This is not failure—it is accurate mapping.
+>
+> Lion decides the full solution—all of it. The solution exists whether or not you can execute it alone. But Ant operates only on your micro-agency: your perception, your reactions, your choices—the portion of the problem within your control.
+>
+> You cannot act on what you do not control. You can act on your response to it.
+>
+> The framework's promise holds: you will see clearly. What you do with that sight depends on what is actually accessible to you. Sometimes the clearest sight reveals: this part is not mine to fix. That knowledge is still power. Knowing what's not yours to fix frees you to fix what is.
+
+---
+
+> **Note on Zoological vs. Medical:**
+> Animals make you the agent; medical makes you the analyst. Both lead to action—but from different positions.
+>
+> With animals, you *become*: I am the Eagle. I am the Bloodhound. You step into the role.
+>
+> With medical, you *observe*: I see symptoms. I run tests. You stand outside the process.
+>
+> The cheat sheet uses animals—because the medical metaphor, although helpful, lets you stay yourself, and the framework argues that's exactly what has to change.
+
+---
+
+> **Note on the Two Halves:**
+> The framework divides in two.
+>
+> **Stages 1–3 (Eagle, Bloodhound, Owl):** Research. What is true?
+> **Stages 4–5 (Lion, Ant):** Response. What do I do about it?
+>
+> The first half is outward-facing — seeing the field, checking the evidence, weighing consequences. The second half is inward-facing — choosing your path, moving your feet.
+>
+> You cannot skip from Eagle to Ant. But you also cannot stay in Owl forever. Research without response is avoidance. Response without research is reaction.
+
+---
 
 > **Note on Self-Checks:**
 > Each stage includes a self-check — a question that catches the specific failure of that stage.
@@ -439,9 +441,10 @@ Implementation is the graveyard of good intentions. If Ant doesn't move, Lion wa
 > Same question. Different bias. Your role shapes what you're most likely to miss.
 >
 > When you reach each self-check, ask: *Given who I am in this conflict, what am I most tempted to avoid seeing?*
+
 ---
 
-## 1.11 Where Do I Start When I already Started?
+## 1.10 How Do I Begin?
 
 MAP. Start there.
 
@@ -464,30 +467,35 @@ You cannot check what you haven't mapped. You cannot judge what you haven't chec
 > In crisis, you enter through the exit door. The framework still applies. You just have to walk it all the way back to the beginning.
 
 **Process:**
-1. Start with Eagle — define the conflict, identify parties (hidden and invisible), locate friction points
+
+1. Eagle first — define the conflict, identify parties (hidden and visible), locate friction points
 2. Pick ONE friction point
 3. Run it through all five stages
 4. Return to Eagle — has the map changed?
 5. Pick the next friction point
-6. Repeat
+6. Repeat until the map stops changing — or until you've addressed what matters most
 
 ---
 
-## 1.8 The Loop
+## 1.11 The Loop
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e13fcec-8252-48f9-ab9b-581664417dc5" />
+![The Loop](https://github.com/user-attachments/assets/3e13fcec-8252-48f9-ab9b-581664417dc5)
 
-The five stages of the framework within the framework is not a checklist. It is loops with each stage producing provisional outputs subject to continues updates as new information emerges.
+The five stages of the framework is not a checklist. It is loops — each stage producing provisional outputs subject to continuous updates as new information emerges.
 
-If you are a party, you are in conflict, regardless whether you chose it or not. And if you are in conflict, one way or another you are acting. The only relevant question is whether your action is informed or blind.
+If you are a party, you are in conflict, regardless of whether you chose it or not. And if you are in conflict, one way or another you are acting. The only relevant question is whether your action is informed or blind.
 
-## The Circuit
+---
+
+### The Circuit
 
 - **EAGLE / BLOODHOUND** = Sensors (truth vs noise)
 - **OWL / LION** = Processor (liability + strategy)
 - **ANT** = Output (your current move)
 
-## Where Are You Stuck?
+---
+
+### Where Are You Stuck?
 
 | Symptom | Error | Go to... |
 |---------|-------|----------|
@@ -498,31 +506,161 @@ If you are a party, you are in conflict, regardless whether you chose it or not.
 | Know what to do but not doing it | Stuck | ANT — act now |
 | Same fight, different day | Information gap | EAGLE — map it |
 
-**Note**: If Lion's decision failed, the problem is upstream—or Lion wasn't really Lion. A genuine Lion can only fail in one way: having good input but refusing to decide. A wrong decision means bad input or a compromised Lion. Either way, go back to Eagle, Bloodhound, or Owl.
+---
 
-**Find the blockage. Go there. Fix it. Move.**
-
-1. MAPEagleSee the fieldThe View from 10,000 feet.2. CHECKBloodhoundFind the factsSmelling the tracks, not the story.3. JUDGEOwlAssign weightTurning on the lights.4. DECIDELionChoose directionPulling the root vs. cutting the branch.5. ACTAntImplementMoving the dirt, one grain at a time.Why this "Sticks"The reader now has a complete Internal Ecosystem.If they are stuck in a loop, they know the Lion is being lazy and cutting branches.If they are confused, they know the Owl hasn't turned on the lights.If they are overwhelmed, they know the Eagle needs to fly higher.The Final Ecosystem
-You now have a complete, cohesive, and "sticky" set of archetypes for Part 3. Here is how they look as a single flow:
-
-Eagle (MAP): The Vision. What is the field?
-
-Bloodhound (CHECK): The Data. What are the tracks?
-
-Owl (JUDGE): The Weight. What is the light?
-
-Lion (DECIDE): The Direction. What is the root?
-
-Ant (ACT): The Labor. What is the habit?
+> **Note on Failure:**
+> When a stage's output is wrong, the problem is usually upstream.
+>
+> - **Bloodhound wrong?** → Check Eagle's map.
+> - **Owl wrong?** → Check Bloodhound's data.
+> - **Lion wrong?** → Check Owl's verdict.
+> - **Ant wrong?** → Check Lion's direction.
+>
+> Only Eagle has no upstream. If Eagle is wrong, Eagle is wrong — fly again.
+>
+> The exception: each stage can also fail on its own terms — bias, avoidance, resistance, habit. If upstream was good and output was bad, the stage itself failed. Re-run it honestly.
 
 ---
 
-## 1.9 You Play All Roles 
-Why you must hold the whole: In real systems, the work is fragmented — each player sees their piece, no one owns the whole. Run the full cycle yourself, in parallel. Not to override, but to see what others cannot. You Map. You Check. You Judge. You Decide. You Act.
+**Find the blockage. Go there. Fix it. Move.**
 
-It's not a circle (same place). It's a heart (keeps you alive while you work through it).
+---
 
-## 1.10 Key Terms
+## 1.12 You Play All Roles
+
+In real systems, the work is fragmented. Each player sees their piece. No one owns the whole.
+
+The lawyer sees liability. The therapist sees feelings. The mediator sees positions. The manager sees outcomes. Each is blind to what the others hold.
+
+Run the full cycle yourself, in parallel. Not to override them — but to see what they cannot.
+
+You Map. You Check. You Judge. You Decide. You Act.
+
+Not because you're better. Because you're the only one guaranteed to be present at every stage.
+
+> The framework isn't a circle — where you end up back where you started.
+>
+> It's a heart — pumping while you work through it. Keeping you alive until the conflict is done.
+
+---
+---
+
+## 1.13 Further Notes
+
+### Note on Premature Resolution
+If, after mapping the conflict, you discover the disagreement was a misunderstanding and everyone now agrees — stop. The framework resolved itself in Stage 1. This is success, not failure.
+
+---
+
+### Note on Limitations
+This framework assumes conflicts are primarily epistemic problems — that the obstacle to resolution is seeing clearly.
+
+But many conflicts persist not because parties can't see, but because they *can* see, and what they see makes resolution impossible without loss they're unwilling to accept. Often this means loss of being right — or loss of identity.
+
+The framework cannot make someone accept a loss they refuse to accept. It can only show you that this is what's happening.
+
+---
+
+### Note on Failure
+The framework will fail. It fails because humans lack the precision of immune systems, and because we cannot see what we're standing in.
+
+But it fails diagnostically — showing you exactly where and why it broke.
+
+---
+
+### Note on Why Trying and Failing Matters
+Even if you are the only one trying, and you failed — this matters. One is always more than zero.
+
+Why it matters:
+
+- You saw what others refused to see
+- You mapped what the system left unnamed
+- You checked what no one else verified
+- The trace remains — for you, for others, for next time
+- The failure is data. It shows where the blockage is.
+- You evolved. You didn't end where you started.
+
+No one else was going to do it. You did. It didn't work. But now you know *why* it didn't work — and that knowledge didn't exist before you tried.
+
+One failed attempt with sight beats a thousand blind victories.
+
+---
+
+### Note on Power
+Who gets to Map, Judge, and Choose?
+
+The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
+
+---
+
+### Note on Power Asymmetry
+The framework surfaces power imbalances. It does not eliminate them.
+
+If the other party has more power and refuses to engage, you cannot compel them. The framework offers no magic for this. But it offers something else: you still see better than you did.
+
+What sight gives the less powerful party:
+
+- **Accuracy** — You stop misreading the situation. You see what you're actually facing, not what you wish you were facing.
+- **Efficiency** — You stop wasting resources on strategies that require their cooperation when none is coming.
+- **Timing** — You see when to push, when to wait, when to exit.
+- **Protection** — You recognise manipulation, gaslighting, and bad faith for what they are. Clarity is armour.
+- **Documentation** — What you map exists. For third parties. For courts. For the record. For later.
+- **Micro-agency** — You cannot control the outcome. You can control your response to it. That territory remains yours.
+
+They can choose not to engage. They cannot choose what you see.
+
+Sometimes the clearest sight reveals: this cannot be resolved — only survived, exited, or escalated to someone with more power. That knowledge is not failure. It is the framework working.
+
+---
+
+### Note on Intention
+This framework reveals the structure of conflict — who is involved, what they want, what is true, and what is hidden.
+
+That knowledge is power. And power can be used in different ways.
+
+If your intention is resolution — to end the conflict in a way that is fair and sustainable — this framework will guide you there.
+
+But if your intention is to win at any cost — to use truth as a weapon for your benefit alone — this framework will serve that too.
+
+The framework cannot protect you from that choice. That is not its function.
+
+**The choice is yours.**
+
+---
+
+### Note on Self-Interrogation
+Bloodhound checks Bloodhound. Owl checks Owl. Lion checks Lion. Ant checks Ant.
+
+You can ask. You cannot guarantee answers. You are inside what you're examining. Gaps remain. Some of what you hide, you hide from yourself.
+
+The framework does not require perfection. It requires enough. Enough to see more clearly than before. Enough to move. What remains unverified is still mapped as unverified.
+
+Honest sight, not perfect sight.
+
+---
+
+### Note on What Fuels the Movement
+The framework runs on whatever force is strong enough to overcome resistance.
+
+Fear. Courage. Curiosity. Desperation. Sense-making. Care — when someone you love is affected. Integrity — when the gap between what you know and what you're doing becomes unbearable.
+
+Any of these will do. The framework doesn't care which one gets you moving. It only cares that you move.
+
+---
+
+### Note on Notes I Missed
+Every thought could be a note. Every note spawns ten more.
+
+At some point you stop refining and start using. What's here is not complete. It is enough.
+
+---
+
+### Note on How to Say It in One Sentence
+The framework is a mirror you serve; what it reflects is sight; sight is power; power is yours.
+
+
+
+## 1.13 Key Terms
 
 These had not been disucss 
 
@@ -546,80 +684,6 @@ These had not been disucss
 | Immunity Paradox | Why we fail: human nature and system: we lack the precision, targeting, and memory that immune systems have |
 
 ---
-
-# 1.11 NOTES
-
-## Note on Premature Resolution
-If, after mapping the conflict, you discover the disagreement was a misunderstanding and everyone now agrees, stop. The framework resolved itself in Stage 1. This is success, not failure.
-
-## Note on What Fuels the Movement
-The framework runs on whatever force is strong enough to overcome resistance. Fear. Courage. Curiosity. Desperation. Sense-making. Care — when someone you love is affected. Integrity — when the gap between what you know and what you're doing becomes unbearable.
-
-## Note on Failure
-The framework will fail. It fails because humans lack the precision of immune systems, and because we cannot see what we're standing in. But it fails diagnostically — showing you exactly where and why it broke.
-
-## Note on Intention
-This framework reveals the structure of conflict — who is involved, what they want, what is true, and what is hidden. It shows you accuracy (or its lack) in judgments made, points to failure when decisions have been made.
-
-That knowledge is power. And power can be used in different ways.
-
-If your intention is resolution — to end the conflict in a way that is fair and sustainable — this framework will guide you there.
-
-But if your intention is to win at any cost — to use that truth as a weapon for your benefit — this framework will serve that too.
-
-The framework cannot protect you from that choice as that is not what this framework's function is.
-
-The framework's purpose is to genuinely do your best to resolve conflict in a way that the solution is sustainable and serves us all.
-
-**The choice is yours.**
-
-## Note on Power
-Who gets to Map, Judge, and Choose? The Position dimension (Observer, Party, Internal) addresses your relationship to the conflict and your power to affect outcomes. Power asymmetries between parties are real — the framework surfaces them but does not eliminate them.
-
-## Note on Power Asymmetry:
-The framework surfaces power imbalances. It does not eliminate them.
-If the other party has more power and refuses to engage, you cannot compel them. The framework offers no magic for this. But it offers something else: you still see better than you did.
-What sight gives the less powerful party:
-
-Accuracy — You stop misreading the situation. You see what you're actually facing, not what you wish you were facing.
-Efficiency — You stop wasting resources on strategies that require their cooperation when none is coming.
-Timing — You see when to push, when to wait, when to exit.
-Protection — You recognise manipulation, gaslighting, and bad faith for what they are. Clarity is armour.
-Documentation — What you map exists. For third parties. For courts. For the record. For later.
-Micro-agency — You cannot control the outcome. You can control your response to it. That territory remains yours.
-
-They can choose not to engage. They cannot choose what you see.
-Sometimes the clearest sight reveals: this cannot be resolved — only survived, exited, or escalated to someone with more power. That knowledge is not failure. It is the framework working.
-
-## Note on Limitations
-This framework assumes conflicts are primarily epistemic problems — that the obstacle to resolution is seeing clearly. But many conflicts persist not because parties can't see, but because they can see, and what they see makes resolution impossible without loss they're unwilling to accept. Often this would equal lost of being right or and identity. 
-
-## Note on Why Trying and Failing Matters
-Even if you are the only one trying, and you failed — this matters. One is always more than zero.
-
-Why it matters:
-
-- You saw what others refused to see
-- You mapped what the system left unnamed
-- You checked what no one else verified
-- The trace remains — for you, for others, for next time
-- The failure is data. It shows where the blockage is.
-- You evolved. You didn't end where you started.
-
-No one else was going to do it. You did. It didn't work. But now you know *why* it didn't work — and that knowledge didn't exist before you tried.
-
-One failed attempt with sight beats a thousand blind victories.
-
-## Note on Self-Interrogation:
-Bloodhound checks Bloodhound: What do I say, do, want, hide, miss, avoid?
-You can ask. You cannot guarantee answers. You are inside what you're examining. Gaps remain. Some of what you hide, you hide from yourself.
-The framework does not mean perfection. It means enough. Enough to see more clearly than before. Enough to move. What remains unverified is still mapped as unverified. Honest sight, not perfect sight.
-
-## Note on Notes I missed
-Every thought could be a note. Every note spawns ten more. At some point you stop refining and start using. What's here is not complete. It is enough.
-
-##Note on How to say it in one sentence:
-The framework is a mirror you serve; what it reflects is sight; sight is power; power is yours.
 
 
 ```markdown
