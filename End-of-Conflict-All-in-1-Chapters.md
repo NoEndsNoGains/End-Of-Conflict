@@ -1001,6 +1001,19 @@ If you find a fact that makes you look good, sniff it twice. It might be a decoy
 
 ---
 
+Check yourself:
+You just finished Bloodhound. Your current state is:
+
+a) The Overachiever: "Eagle mapped. Bloodhound sniffed. I am a god of objectivity."
+b) The Skeptic: "Is this an elaborate way to tell me I'm a jerk?"
+c) The Zoo-Goer: "How many animals are left? I was told there would be an Ant."
+d) The Scroller: Stopped reading. Just here for the goat pictures.
+e) The Misled: "This was supposed to be a cheat sheet, not a..."
+
+The Verdict: If you picked d, Bloodhound saw you skip the Omissions section. He's not mad — he's just a dog. He's passing you to Owl. She doesn't blink, and she's currently weighing your soul. If you picked e — you're right. See "Right vs. Free," p. x
+
+---
+
 ## OWL — JUDGEs
 
 ### Owl Judges what Bloodhound Reports
@@ -1624,23 +1637,9 @@ If you recognise the shadow, you've stopped using the framework. You're performi
 
 ---
 
- **Check yourself:**
+## 1.13 Legal disclaimers 
 
-You just read a lot of notes. Your guess:
-
-- a) First draft had 47 more.
-- b) At least 3 are still missed.
-- c) This is what happens when people are gaslit for years: overexplanation.
-- d) Usless. Didn't learn a thing.
-- e) Boring.
-- f) Pseudo-knowlege.
-- g) I am sure there are more to come.
-
-**The Verdict:** Can't be given. Professionalism.
-
----
-
-## 1.13 Further Notes
+(or: The Parts That Don't Fit Neatly Anywhere Else, Also Known As “Fine Print Written in Slightly Smaller Font So You Feel Like You Read It But You Didn’t”)
 
 ### Note on Premature Resolution
 If, after mapping the conflict, you discover the disagreement was a misunderstanding and everyone now agrees — stop. The framework resolved itself in Stage 1. This is success, not failure.
