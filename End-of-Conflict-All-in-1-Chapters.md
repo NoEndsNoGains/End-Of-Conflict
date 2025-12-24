@@ -597,7 +597,7 @@ The Unborn (hasn't happened yet)
 REORDER: 
 | Position | Section |
 |----------|---------|
-| 1 | What Is It + Purpose (1.1 + 1.2 merged, trimmed) |
+| 1 | What Is It + Purpose (1.1 + 1.2 merged, OR LEAVE?) |
 | 2 | How Does It Work (1.5) |
 | 3 | The Five Stages — the animals (1.9) |
 | 4 | How Do I Begin (1.10) |
