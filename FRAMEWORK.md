@@ -1,4 +1,8 @@
-## 4. Stage 1: EAGLE MAPs
+## 4. FRAMEWORK 
+
+## Stage 1: EAGLE MAPs
+
+<img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/c369c724-9700-4011-9ce4-92c8fad4ac9c" />
 
 ## 4.1. WHAT WE LEARNT FROM A CHEAT SHEET 
 
@@ -13,42 +17,27 @@ _Because repetion is a king_
 **Questions Eagle asks:**
 
 - What's the conflict? (the big name)
-  - *(Note: The name itself may be contested. What you call the conflict reveals whose map you're using.)*
-- What are the friction points?
-- Who claims each friction point? Does the other party agree it's a friction point — or call it something else? 
-  - *(Note: they may move it up a level — "Hair isn't a conflict, it's just proof that mother is controlling")*
-- Who are the parties? Am I a party? 
-  - *(This tells Eagle their position in the conflict)*
-- What is fog? *(cannot see — too heavy to move)*
-- What is forbidden? *(told not to fly there)*
-- What is beyond the horizon? *(exists, affects the field, but outside current view)*
+- Who are the parties? Am I a party?
+- What are the battlefields? (the specific friction points)
+- Who is fighting on each battlefield? Are both parties there — or did one leave and declare the war over?
+- What is fog? (cannot see — too heavy to move)
+- What is flood? (too much — cannot think)
+- What is forbidden? (told not to fly there — and by whom?)
+- What is beyond the horizon? (exists, affects the field, but outside current view)
 
 *Focus is not on the "True." Focus is on the "Entire."*
 
 Eagle flies at 10,000 feet. It doesn't verify yet — that is Bloodhound's job. Eagle looks for the boundaries. (These boundaries can be wrong. That's why Bloodhound comes next.)
 
-Eagle's enemy is Fog. When you are flooded, the conflict is everywhere and nowhere. Eagle blows the fog away so you can see that the "World-Ending War" is actually specific disputes over specific boundaries.
+Eagle has two enemies:
 
-Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but is in the conversation; the boss who hasn't spoken but whose rules must be obeyed.
+**Fog** — cannot see. Information is hidden or inaccessible. What's happening in the other household. How the institution decides. What they actually want.
 
----
+**Flood** — cannot think. Too much, all at once. Six years of history. Every issue connected to every other. Can't tell what matters from what doesn't.
 
-> **Note:** Eagle asks: What level is this fight actually on?
->
-> **Level 1 — WHAT** (the substance)  
-> What are we fighting about? The fish, the phone, the hair. If this is settled, the fight ends.
->
-> **Level 2 — WHO DECIDES** (the authority)  
-> Who has the right to decide? If "who decides" isn't settled, every "what" becomes a power struggle. The substance is a decoy.
->
-> **Level 3 — HOW TO DECIDE TOGETHER** (the process)  
-> Both have authority — but how do they use it? One wants coordination. One wants autonomy. Both can decide. Their models of deciding are incompatible. The authority is settled. The process is not.
->
-> Level 3 can be present even when Level 2 seems settled. One party may accept the authority but reject the process: "You have the right to decide, but not without considering my interests." This is Level 3 disguised as Level 2.
->
-> Most fights present as Level 1. If they keep returning, check Level 2. If authority is shared but nothing gets resolved, check Level 3.
->
-> Eagle must name which level the fight is actually on.
+Eagle blows fog away to reveal. Eagle drains flood to focus. The "World-Ending War" becomes specific disputes over specific boundaries.
+
+Not all parties announce themselves. Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but is in the conversation; the boss who hasn't spoken but whose rules must be obeyed.
 
 ---
 
@@ -56,9 +45,74 @@ Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but i
 
 Not all conflicts look the same.
 
+- **When the conflict has multiple names:** "War" vs "Special Operation." "Parental dispute" vs "Mother's control issues." Note all names — each name reveals a position. This is data for Bloodhound. And check: which name do YOU use? That reveals your position too.
+
+- **When one party denies the conflict:** They may call it "a process," "a determination," "a boundary," or "proof of your problem." What they call it instead is data. If one party says "there is no conflict" — that itself is data.
+
+- **When you're fighting alone:** You see a battlefield. They don't. They decided and left. Your fighting is what THEY call the problem — not the issue itself.
+
+- **When a party has no face:** Institutions, systems, policies, internalized voices. Ask: Who specifically has authority? Who made the rule? Who enforces it? Who benefits from it staying unchanged?
+
+- **When both parties agree on facts but not meaning:** Same friction point, opposite interpretation. "Yes, you want to write" / "Yes, writing is selfish." "Yes, I have authority" / "Yes, but not without consulting me." Same map, different legends. Map both meanings.
+
+- **When one party wants recognition, the other offers process:** These cannot meet on the same level. Name the gap.
+
+- **When the conflict is internal:** All parties are you. Fog is thicker. The horizon may be drawn by an internalized other. You are the battlefield.
+
+- **When fog is heaviest:** You are inside what you're examining. Internal conflicts, long-standing disputes, and fights with powerful institutions all have heavier fog — because you cannot step outside to see the whole.
+
+- **When the horizon was drawn by someone else:** A parent whose voice you internalized, a contract you signed, a court that ruled, a system that set the frame. Ask: Who benefits from where the horizon sits? Did I accept a map before Eagle flew?
+
+- **When something is forbidden:** Note whose forbidden it is. One party's "irrelevant" is another party's "central." The West treats NATO's role in 2008-2014 as closed; Russia treats Ukrainian agency as non-existent. Both are "forbidden zones" — but for different parties.
+
+---
+
+### Eagle checks Eagle
+
+- Do I understand what my job is? *(Map the entire terrain — not find truth, not judge, not decide, not interpret patterns)*
+- Do I know how to do my job well? *(Fly above the whole field, not only parts I like flying over. See the horizon. Don't get lost in it.)*
+- Am I an Eagle or a Vulture? *(Vulture only circles for carcasses, hunting the other's faults, not mapping the whole)*
+- Who gave me this job? Who told me where the horizon ends? *(The boundaries I accept may have been drawn by someone with interests. Who benefits from where I was told not to fly?)*
+
+---
+
+*Eagle passes the map to Bloodhound.*
+
+
+
+
+
+
+
+
+OPERATIONAL TO STRUCTURAL 
+
+Not all conflicts look the same.
+
 - **When one party denies the conflict:** They may call it "a process," "a determination," "a boundary," or "proof of your problem." What they call it instead is data. If one party says "there is no conflict" — that itself is data.
 
 - **When a party has no face:** Institution
+
+
+
+
+
+
+
+
+
+
+
+
+the orginal qustions:
+ What's the conflict? (the big name)
+  *(Note: The name itself may be contested. What you call the conflict reveals whose map you're using.)*
+- What are the friction points?
+- Who claims each friction point? Does the other party agree it's a friction point — or call it something else? (Note: they may move it up a level — "Hair isn't a conflict, it's just proof that mother is controlling")
+- Who are the parties? Am I a party? (This tells Eagle their position in the conflict)
+- What is fog? (cannot see — too heavy to move)
+- What is forbidden? (told not to fly there)
+- What is beyond the horizon? (exists, affects the field, but outside current view)
 
 
 
