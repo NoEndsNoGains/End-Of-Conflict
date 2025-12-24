@@ -440,6 +440,37 @@ Bounded — they know exactly when they are finished; they don’t overwork the 
 Finally Each Stage must logicallly connect to the next: e.g. We drew a Map in stage 0 so that... in stage 1, 2, 3: truth, judge, decide.....
 
 
+Yes. This is deeper. Eagle must check not just "am I doing my job well" but "who defined my job":
+
+---
+
+**Eagle checks Eagle first:**
+
+1. **Do I understand what my job is?** (Map the entire terrain — not find truth, not judge, not decide)
+
+2. **Do I know how to do my job well?** (Fly above the whole field, not only parts I like flying over. See the horizon. Don't get lost in it.)
+
+3. **Am I an Eagle or a Vulture?** (Vulture only circles for carcasses, hunting the other's faults, not mapping the whole)
+
+4. **Who gave me this job? Who told me where the horizon ends?** (The boundaries I accept may have been drawn by someone with interests. Court said "don't fly over hair." Appeal said "lives with is closed." Father says "there is no conflict." These are not neutral. Who benefits from where I was told not to fly?)
+
+---
+
+This changes everything. Because in your case:
+
+| Who drew the boundary | What they said | Who benefits |
+|-----------------------|----------------|--------------|
+| Court | "Hair is day-to-day — not your territory" | Father (pattern continues unexamined) |
+| Appeal | "Lives with is closed — don't revisit" | Father (structural advantage locked in) |
+| Father | "There is no conflict" | Father (if no conflict, no map needed) |
+
+**Eagle's first job is to notice: the map came pre-drawn.**
+
+---
+
+Does this capture what you meant?
+
+
 
 ## Stage 2: BoodHount
 
