@@ -2028,6 +2028,38 @@ DO NOT READ - NEEDS RE-THINKING/EDITING
 
 ## 3. Stage 1: MAP
 
+## WHAT WE LEARNT FROM A CHEAT SHEET 
+
+EAGLE — MAPs
+
+Eagle Maps the Terrain
+
+Because you cannot navigate a field you haven't named.
+
+What's the conflict?
+Where are the friction points?
+Who are the parties? Am I a party?
+Who is visible? Am I visible?
+Who is hiding? Am I hiding?
+Focus is not on the "True." Focus is on the "Entire."
+
+Eagle flies at 10,000 feet. It doesn't look for the "truth" yet — that is Bloodhound's job. Eagle looks for the boundaries. It must name how EACH party sees the conflict. If it only map one perspective, the map has been drawn before Eagle flew."
+
+Eagle's enemy is the Fog of War. When you are flooded, the conflict is everywhere and nowhere. Eagle blows the fog away so you can see that the "World-Ending War" is actually a specific dispute over a specific boundary.
+
+Eagle also watches for the map you drew before you looked — the story you already believe, the players you already cast. If your map was drawn before Eagle flew, Eagle is just decorating your assumptions.
+
+Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but is in the conversation; the boss who hasn't spoken but whose shadow is on the table.
+
+Note: Eagle asks: Is this a fight about what — or about who decides?
+
+Most people fight about the "what" (the fish, the money, the chores). But if the fight keeps returning, the "what" is a decoy. The real conflict is the authority — who has the right to decide. If "who decides" isn't settled, the "what" will never stay fixed.
+
+Eagle checks Eagle: Am I looking at the whole field, or only the part that makes me look like the victim? Am I zoomed in so tight I've lost the horizon? Am I an Eagle or more like a Vulture (the shadow) — "only circling for carcasses, hunting the other's faults, not mapping the whole."
+
+Eagle passes the map to Bloodhound.
+
+
 
 You're right to question it. Let me trace where each belongs:
 
