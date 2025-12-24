@@ -526,6 +526,7 @@ Ta-da!
 # The End of Conflict Framework
 
 ---
+<img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/f6165be2-b560-4b02-b21f-3a810cedf909" />
 
 
 ## TABLE OF CONTENTS (Cheat Shit first or You are full of Shit first???)
