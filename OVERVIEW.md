@@ -266,7 +266,8 @@ Each stage plays a different role. Each is led by different questions. Each incl
 
 *Focus is not on the "True." Focus is on the "Entire."*
 
-Eagle flies at 10,000 feet. It doesn't look for the "truth" yet — that is Bloodhound's job. Eagle looks for the boundaries.
+
+Eagle flies at 10,000 feet. It doesn't look for the "truth" yet — that is Bloodhound's job. Eagle looks for the boundaries. It must name how EACH party sees the conflict. If it only map one perspective, the map has been drawn before Eagle flew."
 
 Eagle's enemy is the Fog of War. When you are flooded, the conflict is everywhere and nowhere. Eagle blows the fog away so you can see that the "World-Ending War" is actually a specific dispute over a specific boundary.
 
@@ -278,7 +279,7 @@ Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but i
 >
 > Most people fight about the "what" (the fish, the money, the chores). But if the fight keeps returning, the "what" is a decoy. The real conflict is the authority — who has the right to decide. If "who decides" isn't settled, the "what" will never stay fixed.
 >
-> Eagle checks Eagle: Am I looking at the whole field, or only the part that makes me look like the victim? Am I zoomed in so tight I've lost the horizon?
+> Eagle checks Eagle: Am I looking at the whole field, or only the part that makes me look like the victim? Am I zoomed in so tight I've lost the horizon? Am I an Eagle or more like a Vulture (the shadow) — "only circling for carcasses, hunting the other's faults, not mapping the whole."
 >
 > Eagle passes the map to Bloodhound.
 
