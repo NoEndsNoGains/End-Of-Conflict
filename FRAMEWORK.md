@@ -1,12 +1,131 @@
-## 4. FRAMEWORK 
+## Before You Take the First Step: Locate Yourself
 
-## Stage 1: EAGLE MAPs
+*Before you map the conflict, you map your position relative to it.*
+
+---
+
+### Why This Matters
+
+Your position determines what you see — and what you literally cannot see.
+
+**The Mother:** Sees threats to her children. Blind spot: her own reactivity.
+
+**The Judge:** Sees two competing legal claims. Blind spot: her own internal biases.
+
+**The Child:** Sees two people they love who cannot be in the same room. Blind spot: the legal machine shaping their life.
+
+Same conflict. Three positions. Three blind spots. Three different maps.
+
+---
+
+### 0A. What Is My Position?
+
+| Position | Definition |
+|----------|------------|
+| **Observer** | No power, no output, no stake. Purely private learning. *(Extremely rare.)* |
+| **Party — Direct** | You are IN the conflict: disputant, victim, aggressor, decision-maker, the child, the court. |
+| **Party — Indirect** | You are CONNECTED to the conflict but not inside it: advisor, witness, commentator, affected bystander. |
+
+**The Reality Check:** If you are reading this to "win" or "to be right," you are a Party.
+
+**Your role shapes your blind spot:**
+
+| If you are... | You likely see... | Your blind spot... |
+|---------------|-------------------|-------------------|
+| A disputant (mother, father) | Threats to yourself or your children | Your own reactivity, your own contribution |
+| A decision-maker (judge, court) | Two competing claims | Your own internal biases |
+| The affected (child, grandparent) | Two people who can't be in a room | The legal/structural machine shaping your life |
+
+**My position:** _______________________________________
+
+**My role within that position:** _______________________________________
+---
+
+### 0B. What Am I Protecting?
+
+What you protect is what you will refuse to map.
+
+Are you protecting:
+- Your reputation?
+- Your job or career?
+- Your "Good Parent" badge?
+- A secret shame?
+- Something you did that harmed someone?
+
+**If you don't name what you're protecting, the Eagle will fly with one eye closed.**
+
+**What do I protect?**
+
+_______________________________________
+
+**What am I most likely to miss from this position?**
+
+_______________________________________
+
+---
+
+### 0C. When Are You Looking At This Conflict?
+
+You are always looking FROM now. But the conflict itself may be in a different time.
+
+| Time | Definition | Why It Matters |
+|------|------------|----------------|
+| **Past** | Already happened. You know how it ended. | Sense-making, release, justice, or prevention. |
+| **Present** | Happening now. | You can see, judge, decide, and act. |
+| **Future** | Has not played out yet. | Your map is hypothesis. Simulation, not resolution. |
+
+**The conflict I am mapping is:** ☐ Past  ☐ Present  ☐ Future
+
+---
+
+### Note: Position Can Shift
+
+You locate yourself once at the start. But the act of mapping can change your position.
+
+The moment you use this framework to gain sight, you are no longer passive — you have become an Agent. If your position shifts during the process, note it.
+
+**The map changes when the mapper changes.**
+
+---
+
+### Note: The Map Reflects the Map-Maker
+
+Different parties will draw different maps of the same conflict. This is not a bug — it's data.
+
+Your map is YOUR map. It reflects what you can see from where you stand. Later stages will test it against what others see.
+
+---
+
+*Now Eagle can fly.*
+
+
+---
+
+### Check Yourself
+
+You just read "Locate Yourself." Your current state is:
+
+- a) "Oh shit. I'm a Party. I have something to lose."
+- b) "I'm definitely an Observer. This isn't about me."
+- c) "I don't need to answer 'what am I protecting.' I'm not protecting anything."
+- d) "This is a lot of forms. Can we just get to the part where I'm right?"
+
+**The Verdict:** 
+- If you picked (a): Good. You're ready. Eagle can fly.
+- If you picked (b), (c), or (d): You're in the Fog. Go back to 0B. Name what you're protecting. Then try again.
+
+
+
+
+
+
+
+
+
+
+# STAGE 1: EAGLE MAPs
 
 <img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/c369c724-9700-4011-9ce4-92c8fad4ac9c" />
-
-## 4.1. WHAT WE LEARNT FROM A CHEAT SHEET 
-
-_Because repetion is a king_
 
 ## EAGLE — MAPs
 
@@ -14,65 +133,307 @@ _Because repetion is a king_
 
 *Because you cannot navigate a field you haven't named.*
 
-**Questions Eagle asks:**
+---
 
-- What's the conflict? (the big name)
-- Who are the parties? Am I a party?
-- What are the battlefields? (the specific friction points)
-- Who is fighting on each battlefield? Are both parties there — or did one leave and declare the war over?
-- What is fog? (cannot see — too heavy to move)
-- What is flood? (too much — cannot think)
-- What is forbidden? (told not to fly there — and by whom?)
-- What is beyond the horizon? (exists, affects the field, but outside current view)
+### What Eagle Does
 
-*Focus is not on the "True." Focus is on the "Entire."*
+Eagle flies at 10,000 feet. From up there, the "World-Ending War" becomes something nameable: specific parties, specific friction points, specific zones where sight is blocked.
 
-Eagle flies at 10,000 feet. It doesn't verify yet — that is Bloodhound's job. Eagle looks for the boundaries. (These boundaries can be wrong. That's why Bloodhound comes next.)
+Eagle doesn't verify — that's Bloodhound's job. Eagle doesn't judge — that's Owl. Eagle doesn't decide — that's Lion.
 
-Eagle has two enemies:
+**Eagle's focus is not on the "True." Eagle's focus is on the "Entire."**
 
-**Fog** — cannot see. Information is hidden or inaccessible. What's happening in the other household. How the institution decides. What they actually want.
-
-**Flood** — cannot think. Too much, all at once. Six years of history. Every issue connected to every other. Can't tell what matters from what doesn't.
-
-Eagle blows fog away to reveal. Eagle drains flood to focus. The "World-Ending War" becomes specific disputes over specific boundaries.
-
-Not all parties announce themselves. Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but is in the conversation; the boss who hasn't spoken but whose rules must be obeyed.
+Eagle just sees the whole.
 
 ---
 
-### Eagle adapts to the terrain
+### Eagle's Sequence
 
-Not all conflicts look the same.
+1. **The Big Picture** — Name the conflict itself
+2. **The Parties** — Who is involved (including those hidden or denied)
+3. **The Battlefields** — The specific friction points within the big conflict
 
-- **When the conflict has multiple names:** "War" vs "Special Operation." "Parental dispute" vs "Mother's control issues." Note all names — each name reveals a position. This is data for Bloodhound. And check: which name do YOU use? That reveals your position too.
-
-- **When one party denies the conflict:** They may call it "a process," "a determination," "a boundary," or "proof of your problem." What they call it instead is data. If one party says "there is no conflict" — that itself is data.
-
-- **When you're fighting alone:** You see a battlefield. They don't. They decided and left. Your fighting is what THEY call the problem — not the issue itself.
-
-- **When a party has no face:** Institutions, systems, policies, internalized voices. Ask: Who specifically has authority? Who made the rule? Who enforces it? Who benefits from it staying unchanged?
-
-- **When both parties agree on facts but not meaning:** Same friction point, opposite interpretation. "Yes, you want to write" / "Yes, writing is selfish." "Yes, I have authority" / "Yes, but not without consulting me." Same map, different legends. Map both meanings.
-
-- **When one party wants recognition, the other offers process:** These cannot meet on the same level. Name the gap.
-
-- **When the conflict is internal:** All parties are you. Fog is thicker. The horizon may be drawn by an internalized other. You are the battlefield.
-
-- **When fog is heaviest:** You are inside what you're examining. Internal conflicts, long-standing disputes, and fights with powerful institutions all have heavier fog — because you cannot step outside to see the whole.
-
-- **When the horizon was drawn by someone else:** A parent whose voice you internalized, a contract you signed, a court that ruled, a system that set the frame. Ask: Who benefits from where the horizon sits? Did I accept a map before Eagle flew?
-
-- **When something is forbidden:** Note whose forbidden it is. One party's "irrelevant" is another party's "central." The West treats NATO's role in 2008-2014 as closed; Russia treats Ukrainian agency as non-existent. Both are "forbidden zones" — but for different parties.
+For each of these, Eagle notes what's VISIBLE and what's NOT — and WHY it's not visible.
 
 ---
 
-### Eagle checks Eagle
+### Why You Can't See Something
 
-- Do I understand what my job is? *(Map the entire terrain — not find truth, not judge, not decide, not interpret patterns)*
-- Do I know how to do my job well? *(Fly above the whole field, not only parts I like flying over. See the horizon. Don't get lost in it.)*
-- Am I an Eagle or a Vulture? *(Vulture only circles for carcasses, hunting the other's faults, not mapping the whole)*
-- Who gave me this job? Who told me where the horizon ends? *(The boundaries I accept may have been drawn by someone with interests. Who benefits from where I was told not to fly?)*
+Not everything on the map is visible. When something is hidden, ask WHY:
+
+| Reason | Definition | Example |
+|--------|------------|---------|
+| **FOG** | Information is hidden or inaccessible. You don't have it. | What happens in the other household. What they actually want. Who made the decision. |
+| **FORBIDDEN** | Someone told you not to look there. A rule, a law, a social norm. | "The stepmother isn't a party." "Hair is day-to-day, not a PR matter." "We don't discuss 2014." |
+| **HORIZON** | Outside the frame. The system won't examine it. The door is closed. | Court won't look at third-party influence. Appeal failed — that route is gone. The "lives with" order is settled. |
+
+Something can be fog AND forbidden AND horizon at once. The question isn't which category — it's: *What can't I see, and why?*
+
+**Note on Fog Density:** Some conflicts have heavier fog than others. Long-standing disputes and fights with powerful institutions have the heaviest — because you are inside what you're examining and cannot step outside to see the whole. 
+
+**The longer you've been in the war, the less you can trust your own eyes.**
+
+---
+
+### Eagle's Enemies
+
+**FOG** — Cannot see. The information exists but you don't have access.
+
+**FLOOD** — Cannot think. The terrain is vast. Gaza-Israel has hundreds of battlefields. A five-year custody dispute has dozens of incidents. This isn't failure — it's reality. Eagle maps what Eagle can. The puzzle continues.
+
+Eagle blows fog away to reveal. Eagle accepts flood and keeps mapping.
+
+---
+
+### STEP 1: Name the Big Conflict
+
+Every conflict has a name. But the name you use reveals whose map you're holding.
+
+**The test:** If this were resolved, would the current round of fighting visibly end? (The newspaper test — what would the headline say?)
+
+---
+
+**Example — Ukraine:**
+- One side calls it: "War" / "Invasion" / "Unprovoked aggression"
+- Other side calls it: "Special military operation" / "Denazification" / "NATO expansion response"
+
+Same events. Different names. Each name contains a verdict.
+
+**Example — Family court:**
+- Mother calls it: "Systematic exclusion from parental responsibility"
+- Father calls it: "Mother's controlling behaviour" / "Serial litigation"
+- Court calls it: "Repeated applications" (hence the s91(14) order)
+
+If you only know one name, you only have one map.
+
+---
+
+**1A. What is the BIG NAME of this conflict?**
+
+Not the individual battles — the whole war.
+
+_______________________________________
+
+**1B. What does each party call it?**
+
+| Party | What they call this conflict |
+|-------|------------------------------|
+| | |
+| | |
+| | |
+
+**1C. If a party says "there is no conflict" — what do they call it instead?**
+
+*(Examples: "a process," "a boundary," "already decided," "your problem")*
+
+_______________________________________
+
+---
+
+### STEP 2: Identify the Parties
+
+A party is anyone with power, output, or stake in this conflict.
+
+But not all parties announce themselves. And some actively deny they're involved.
+
+---
+
+**Types of parties:**
+
+| Type | Definition | Example |
+|------|------------|---------|
+| **Visible** | Openly involved. Everyone knows they're a party. | The mother. The father. Ukraine. Russia. |
+| **Hidden** | In the room but not announced. Their influence shapes the conflict but isn't named. | The mother-in-law. The boss whose policy applies. NATO (depending who you ask). |
+| **Denied** | Actively claims they're NOT involved — but they are. | The stepmother who writes the messages but "isn't a party." The advisor who shaped the decision but takes no responsibility. |
+| **Institutional** | A system, not a person. But someone inside it holds authority. | The court. The company. The government. |
+
+For institutions, ask: *Who specifically has authority? Who made the rule? Who enforces it? Who benefits from it staying unchanged?*
+
+---
+
+**2A. List all visible parties:**
+
+| Party | Their role in this conflict |
+|-------|----------------------------|
+| | |
+| | |
+
+**2B. List hidden parties:**
+
+*Who is in the conversation but not in the room? Whose influence shapes this but isn't named?*
+
+| Hidden party | How do they affect the conflict? |
+|--------------|----------------------------------|
+| | |
+
+**2C. List denied parties:**
+
+*Who claims they're not involved — but the evidence says otherwise?*
+
+| Denied party | What suggests they ARE involved? |
+|--------------|----------------------------------|
+| | |
+
+**2D. For any institutional party:**
+
+| Institution | Who has authority? | Who made the rule? | Who enforces it? |
+|-------------|-------------------|-------------------|------------------|
+| | | | |
+
+---
+
+**2E. What's NOT visible about the parties — and why?**
+
+| What can't I see? | Is it FOG, FORBIDDEN, or HORIZON? | Why? |
+|-------------------|-----------------------------------|------|
+| | | |
+
+---
+
+### STEP 3: Map the Battlefields
+
+A battlefield is a specific friction point — not the whole war.
+
+The war in Ukraine contains battlefields: Crimea, Donbas, energy supply, NATO membership, sanctions. Each is a specific zone of contest.
+
+A custody dispute contains battlefields: the phone, the dentist, the therapy, the half-terms, the hair. Each is a specific friction point.
+
+---
+
+**For each battlefield, Eagle asks:**
+- What is this friction point?
+- What do I call it? What do they call it?
+- Do both parties agree this is a battlefield — or does one deny it?
+
+---
+
+**Watch for: The Level Jump**
+
+Sometimes a party will refuse to engage with a battlefield by jumping to a higher level.
+
+You say: "He cut the child's hair without telling me."
+They say: "This is just proof that you're a controlling serial-litigator."
+
+You're talking about hair (Level 1). They're talking about your fundamental character (Level 2/3). They aren't fighting about the friction point — they're using it as evidence for a different claim.
+
+When this happens, note it. It is data.
+
+---
+
+**Watch for: "Recognition vs. Process"**
+
+Sometimes one party wants **recognition** (acknowledgment of harm, of rights, of their position) while the other offers **process** (a procedure, a policy, a workaround).
+
+These cannot meet on the same level. One says "see me." The other says "follow this step." If you see this gap, name it.
+
+---
+
+**Example — Hair:**
+
+| Element | My version | Their version |
+|---------|------------|---------------|
+| **What I call it** | "Conflict over grooming that proves unwillingness to coordinate" | "Day-to-day decision, not a PR matter" |
+| **Is this a battlefield?** | Yes — I'm fighting | He said: "I won't inform you. I'll cut when I want." Then stopped engaging. |
+| **Status** | I continue. He left and declared it closed. My continuing is what HE calls the problem. |
+
+---
+
+**3A. List all battlefields:**
+
+| # | Friction point | What I call it | What they call it |
+|---|----------------|----------------|-------------------|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+
+**3B. For each battlefield — what's the status?**
+
+| # | Both parties engaged? | Or... |
+|---|-----------------------|-------|
+| 1 | ☐ Yes | ☐ One party left ☐ One party denies it's a battlefield ☐ Level Jump |
+| 2 | ☐ Yes | ☐ One party left ☐ One party denies it's a battlefield ☐ Level Jump |
+| 3 | ☐ Yes | ☐ One party left ☐ One party denies it's a battlefield ☐ Level Jump |
+| 4 | ☐ Yes | ☐ One party left ☐ One party denies it's a battlefield ☐ Level Jump |
+| 5 | ☐ Yes | ☐ One party left ☐ One party denies it's a battlefield ☐ Level Jump |
+
+*If they left: Your continued fighting is what THEY call the problem.*
+*If they deny: They say this isn't a battlefield at all.*
+*If they moved it up: They're using this as evidence for a bigger claim.*
+
+---
+
+**3C. What's NOT visible about the battlefields — and why?**
+
+| What can't I see? | Is it FOG, FORBIDDEN, or HORIZON? | Why? |
+|-------------------|-----------------------------------|------|
+| | | |
+
+---
+
+### STEP 4: Eagle Checks Eagle
+
+Before passing to Bloodhound, Eagle turns the questions on itself.
+
+---
+
+**Understanding the job:**
+
+| Question | Your answer |
+|----------|-------------|
+| Do I understand what my job is? *(Map the entire terrain — not find truth, not judge, not decide, not interpret patterns)* | |
+| Do I know how to do my job well? *(Fly above the whole field, not only parts I like flying over)* | |
+
+---
+
+**Checking for Vulture:**
+
+| Question | Your honest answer |
+|----------|-------------------|
+| What do I say, do, want, hide, miss — or don't want to see? | |
+| Whose map am I using? | |
+| Am I mapping the WHOLE field — or just my side of the fence? | |
+
+---
+
+**Checking the boundaries:**
+
+| Question | Your honest answer |
+|----------|-------------------|
+| Who told me where the horizon ends? | |
+| Do they benefit from that boundary? | |
+| Did I accept a map before Eagle flew? | |
+
+**Am I Eagle or Vulture?**
+
+Eagle sees the mountain.
+Vulture sees the carcass.
+
+*(Vulture only circles for the other's faults, waiting for them to fail. Eagle maps the whole field — including the parts that make you look bad.)*
+
+---
+
+### Eagle's Output
+
+Eagle passes to Bloodhound:
+
+1. **The analyst's position** — and what they're likely to miss
+2. **The big conflict** — all parties' names for it
+3. **The parties** — visible, hidden, denied, institutional (with authority breakdown)
+4. **The battlefields** — each one named by both sides, with status (engaged / left / denied / moved up a level)
+5. **What's not visible** — and whether it's fog, forbidden, or horizon
+6. **Eagle's self-check** — any Vulture tendencies noted
+
+---
+
+### What Happens Next
+
+Bloodhound receives the map.
+
+Bloodhound decides which battlefield to sniff first. Then Bloodhound verifies: *Is this real? What actually happened? What does each party say, do, want, hide, miss?*
+
+Eagle named the terrain. Bloodhound checks the scent.
 
 ---
 
@@ -85,6 +446,110 @@ Not all conflicts look the same.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Stage 2: BoodHount
+
+
+Question: What standards of evidence should apply in Reality? How do we handle conflicting testimony where both parties claim different things happened?
+
+**What this stage is:** This is where you test reality. Stage 1 gave you the map — who is fighting and what they are fighting about. But a map is not truth. Each party has their version of events. Their version might be accurate, mistaken, or deliberately false. Before you can judge (Stage 3) or decide (Stage 4), you must know what actually happened.
+
+**Objective:** Establish what is true in each sub-conflict.
+
+**Why:** You cannot make good decisions without knowing what is real. This stage separates fact from claim, action from word, and surfaces where the two diverge.
+
+**Input:** The sub-conflicts identified in Stage 1.
+
+**Output:** For each sub-conflict — verified facts, detected inaccuracies, and candidate wants (what each party actually appears to want, based on evidence).
+
+**How to use:** Complete all four steps (CAPTURE → TEST → INFER → CHECK) for each sub-conflict identified in Stage 1. Work through one sub-conflict fully before moving to the next.
+
+# The old draft asks: "For each party: what do they gain or lose if the conflict continues vs if it ends?"
+
+---
+
+## The Structure
+
+For each sub-conflict from Stage 1, you do four moves:
+
+| Move | Action | Purpose |
+|------|--------|---------|
+| **1. CAPTURE** | Record what each party says vs what they do | Gather the raw data |
+| **2. TEST** | Check claims against evidence | Separate truth from distortion |
+| **3. INFER** | Hypothesise what each party actually wants | Surface hidden motives |
+| **4. CHECK** | Challenge your own analysis | Protect against your bias |
+
+---
+
+## 1. CAPTURE
+"When one party wants recognition, the other offers process" - this is impotant what do I do with this? is this this stage??????
+
+**What to do:** For each party in the sub-conflict, record two things — what they SAY and what they DO.
+
+**Why:** Truth hides in the gap between words and actions. You cannot see the gap until you lay them side by side.
+
+**Definitions:**
+
+| Element | Definition | Example |
+|---------|------------|---------|
+| **SAY** | What the party claims — about actions, facts, or reasons | "I didn't restrict contact" / "Adding you would expose my card details" |
+| **DO** | What the party actually did — observable actions | Imposed 8pm restriction / Refused to add to Family Sharing |
+
+**How:** Ask these questions:
+- What does this party claim they did?
+- What does this party claim is true (facts, explanations, reasons)?
+- What did this party actually do? (Observable, documentable actions)
+
+
+# STAGE 3: OWL JUDGEs
+
+owl should have: who benefits question: and a table: Powerful Example Missing:
+The "who drew the boundary" table:
+Who drew the boundaryWhat they saidWho benefitsCourt"Hair is day-to-day — not your territory"FatherAppeal"Lives with is closed — don't revisit"FatherFather"There is no conflict"Father
+This makes the "who drew the horizon" question concrete. ✗ MISSING
+section 1 - move to Owl
+
+### Owl Evaluates the Boundaries
+
+Eagle mapped the fog, the forbidden, and the horizon. Owl now asks: **Who benefits from where those boundaries were drawn?**
+
+| Who drew the boundary | What they said | Who benefits |
+|-----------------------|----------------|--------------|
+| | | |
+| | | |
+| | | |
+
+**Example — Family Court:**
+
+| Who drew the boundary | What they said | Who benefits |
+|-----------------------|----------------|--------------|
+| Court | "Hair is day-to-day — not your territory" | Father (pattern continues unexamined) |
+| Appeal | "Lives with is closed — don't revisit" | Father (structural advantage locked in) |
+| Father | "There is no conflict" | Father (if no conflict, no map needed) |
+
+If the boundaries consistently benefit one party, that is data. Owl weighs it.
+
+
 OPERATIONAL TO STRUCTURAL 
 
 Not all conflicts look the same.
@@ -92,30 +557,6 @@ Not all conflicts look the same.
 - **When one party denies the conflict:** They may call it "a process," "a determination," "a boundary," or "proof of your problem." What they call it instead is data. If one party says "there is no conflict" — that itself is data.
 
 - **When a party has no face:** Institution
-
-
-
-
-
-
-
-
-
-
-
-
-the orginal qustions:
- What's the conflict? (the big name)
-  *(Note: The name itself may be contested. What you call the conflict reveals whose map you're using.)*
-- What are the friction points?
-- Who claims each friction point? Does the other party agree it's a friction point — or call it something else? (Note: they may move it up a level — "Hair isn't a conflict, it's just proof that mother is controlling")
-- Who are the parties? Am I a party? (This tells Eagle their position in the conflict)
-- What is fog? (cannot see — too heavy to move)
-- What is forbidden? (told not to fly there)
-- What is beyond the horizon? (exists, affects the field, but outside current view)
-
-
-
 
 **Operational / Structural / Both** = Types of conflict. Eagle sees these. It's about *what kind of fight* this is.
 
@@ -207,394 +648,22 @@ Structural: They disagree who controls the thermostat. One changed the password.
 Both: Every week, same fight. They agree on a setting. By Friday, it's changed. Eagle sees the pattern: "This isn't about temperature. It's about who holds the password."
 Enforcement: They agreed on 20°C. One keeps changing it to 24°C anyway. Eagle sees the agreement, sees the override, sees the gap.
 
+The Operational / Structural / Both / Enforcement framework goes in Owl, alongside the existing Levels (Level 1: What, Level 2: Who Decides, Level 3: How to Decide Together).
+They're doing the same work — diagnosing depth.
 
+One clarification:
+Your existing Levels already cover this:
 
+Operational ≈ Level 1
+Structural ≈ Level 2 / Level 3
+Enforcement = Owl judging: "Agreement existed. It was violated."
 
+You may not need both frameworks. Or you merge them.
 
 
 
+# OLD NOTES Stage 3: JUDGMENT
 
-**What this stage is:** This is the foundation for understanding and solving conflicts. Before you can analyse or resolve anything, you must first define what you are dealing with. This stage focuses on naming what is on the map: 
-
-**A) Parties** (who is involved) and 
-**B) Conflict** (what they are fighting about).
-
-It is the simplest part of the process — yet it is often skipped or done carelessly. If you get the map wrong, everything that follows will be wrong too.
-
-**Objective:** Draw the map of the conflict before you analyse it.
-
-**Why:** You cannot analyse what you haven't defined. This stage sets the boundaries. Everything in later stages (Stage 1: Truth, Stage 2: Judgment, Stage 3: Decision) will rest on the clarity of the componets you identified. If you skip this, your analysis will drift.
-
-**Output:** A one-page map showing: Parties and Conflict — both named, categorised, and typed.
-
-A note on criticality:
-The framework requires a critical mass of defined elements to work: Parties and Conflict, both named, categorised, and typed.
-If you skip parties, you miss who is sustaining the conflict.
-If you skip sub-conflicts, you have a label but nothing to analyse.
-If you skip types, you will use the wrong tool.
-Miss any of these, and your analysis is sub-critical — it will not yield insight. It will fizzle.
-Stage 0 is the move to supercriticality: defining the boundaries so clearly that the conflict's structure becomes visible and inevitable.
-
-A note on symmetry:
-Stage 1 (Truth) requires symmetrical pressure — equal scrutiny applied to all parties' claims and all sub-conflicts.
-Any asymmetry — favouring one party's narrative, ignoring one sub-conflict — prevents the core truth from being revealed.
-Bias is not just unfair. It is inefficient. It produces a distorted map and a failed resolution.
-
-A note on staging:
-The visible fights (Operational) are the primary explosions — loud, obvious, immediate.
-The hidden fight (Structural) is the secondary — the sustained power source underneath.
-The framework forces you to use the energy from analysing the visible to reach and address the structural core.
-If you only resolve operational disputes, the conflict will reignite. You have not reached the secondary.
-
----
-
-## The Structure
-
-This stage clarifies two things: **A. Parties** and **B. Conflict**
-
-For each, you do three moves: **Name → Categorise → Type**
-
-| Move | A. PARTIES | B. CONFLICT |
-|------|------------|-------------|
-| **1. Name** | List who is involved | Name the main conflict |
-| **2. Categorise** | Main / Sub | Main conflict / Sub-conflicts |
-| **3. Type** | Benefits / Loses / Both / ? | Operational / Structural / Both |
-
----
-
-## A. PARTIES
-
-### A1. Name
-
-**What to do:** List everyone connected to the conflict.
-
-**Why:** Conflicts persist because of parties you don't see. The visible fighters are easy to spot. The hidden beneficiaries are why the conflict won't end.
-
-**How:** Ask these questions:
-1. Who is visibly fighting?
-2. Who else is connected but not visibly fighting?
-3. For each party: what do they gain or lose if the conflict **continues** vs if it **ends**?
-
----
-
-### A2. Categorise
-
-**What to do:** Categorise each party by their level of visibility.
-
-**Definitions:**
-
-| Level | Definition |
-|-------|------------|
-| **Main** | Parties who visibly take actions inside the conflict |
-| **Sub** | Parties who influence outcomes without taking visible action |
-
----
-
-### A3. Type
-
-**What to do:** Classify each party by their interest in the conflict continuing.
-
-**Definitions:**
-
-| Type | Definition |
-|------|------------|
-| **Benefits** | Gains if conflict continues — they have no reason to end it |
-| **Loses** | Harmed if conflict continues — they want it to end |
-| **Both** | Gains something AND loses something — the conflict continues because what they gain is worth more to them than what they lose |
-| **?** | Unclear — flag for Stage 1 |
-
-**Why classify interests?** This tells you who wants peace and who doesn't. "Benefits" parties want the conflict to continue. "Loses" parties want it to end. "Both" parties are stuck in a trade-off — they tolerate the loss because they value the gain more.
-
----
-
-### A. PARTIES — Fill in:
-
-| Party | Level | Type | Notes |
-|-------|-------|------|-------|
-| *(example: Russia)* | Main | Both | Gains buffer zone, loses economic ties |
-| | | | |
-| | | | |
-| | | | |
-
-**Notes guidance:** Surface observations only. If the party is an organisation, you may note: who is the human decision-maker?
-
-**When to stop:** You have listed everyone you can think of. Only include actors who could conceivably change their behaviour if the conflict ended. You can always add more later if Stage 1 reveals hidden parties.
-
----
-
-## B. CONFLICT
-
-### B1. Name
-
-**What to do:** Name what the main parties are fighting about.
-
-**Why:** This is the container. Everything else sits inside it. If you name it wrong, your whole analysis is off.
-
-**How:** Ask — what would a newspaper headline say?
-
-**The Test:** If this were resolved, would the current round of fighting visibly end?
-
-**Definition:**
-
-| Main Conflict |
-|---------------|
-| The visible, current, external fight. Not the history. Not the hidden causes. Just what you can see they are fighting about right now. |
-
-**Non-examples (too abstract):**
-
-| Wrong (analysis) | Right (map) |
-|------------------|-------------|
-| "Incompatible worldviews" | "Dispute over custody arrangements" |
-| "Lack of trust" | "War in Ukraine" |
-| "Control issues" | "Disagreement over phone rules" |
-
----
-
-### B2. Categorise
-
-**What to do:** List the specific fights inside the main conflict.
-
-**Why:** The main conflict is the container. Sub-conflicts are what's inside. You will analyse each one separately in Stage 1.
-
-**How:** Ask — what exactly are they fighting about? What are the individual disputes?
-
-**Definition:**
-
-| Sub-conflict |
-|--------------|
-| A specific, concrete disagreement. Something you could point to and say "they are fighting about this." |
-
-**Aim for 3–6.** Fewer = under-mapped. More = too granular.
-
-If you have more than 6: group similar ones together, or check if some belong in a different main conflict.
-
-**Sanity check:** Each sub-conflict must obviously sit inside the main conflict. If it doesn't, rewrite the main conflict — or park that dispute for a separate map.
-
----
-
-### B3. Type
-
-**What to do:** Classify each sub-conflict.
-
-**Why:** The type tells you how hard it will be to resolve and what kind of solution is needed.
-
-**How:** Ask — is this fight about what to do, or about who gets to decide?
-
-**Definitions:**
-
-| Type | Definition | How to recognise |
-|------|------------|------------------|
-| **Operational** | They agree who decides. They disagree about what to do. | "We both have authority, we just disagree on the approach." |
-| **Structural** | They disagree about who has the right to decide. | "I don't accept your authority" or "Who controls this?" |
-| **Both** | Operational on the surface, but it keeps recurring because the structural question is unresolved. | Fights that never stay solved. |
-
-**Why classify type?** Because you cannot fix a conflict using the wrong tool. If it's operational, you can negotiate the rule. If it's structural, you first have to agree who gets to decide — otherwise every rule you make will be fought again.
-
-**Triggers for "Both":**
-- A party frames it as a "matter of principle" or "this sets a precedent"
-- Resolving the operational issue wouldn't actually stop this fight recurring
-
----
-
-### B. CONFLICT — Fill in:
-
-| Main Conflict |
-|---------------|
-| |
-
-| Sub-conflict | Type |
-|--------------|------|
-| | Operational / Structural / Both |
-| | Operational / Structural / Both |
-| | Operational / Structural / Both |
-| | Operational / Structural / Both |
-| | Operational / Structural / Both |
-| | Operational / Structural / Both |
-
----
-
-## Stage 0 Output Checklist
-
-Before moving to Stage 1 (TRUTH), confirm:
-
-**A. Parties:**
-- ✓ Named (listed all parties)
-- ✓ Categorised (Main / Sub)
-- ✓ Typed (Benefits / Loses / Both / ?)
-
-**B. Conflict:**
-- ✓ Named (main conflict passes newspaper test)
-- ✓ Categorised (3–6 sub-conflicts, each inside the main conflict)
-- ✓ Typed (each sub-conflict: Operational / Structural / Both)
-
----
-
-## What You Now Have
-
-You have your map:
-
-- **A. Parties** — who is involved, how visible they are (Main/Sub), and what their interest is (Benefits/Loses/Both)
-- **B. Conflict** — what they are fighting about (main conflict), what the specific disputes are (sub-conflicts), and what type each dispute is (Operational/Structural/Both)
-
-**But you don't know what's actually true.**
-
-Each party has their version. Their version might be accurate, or wrong, or a lie, or a misunderstanding.
-
-**To know what to do, you need to know what's true.**
-
----
-
-## Why Zoom Into Sub-Conflicts?
-
-The main conflict ("custody dispute" or "war in Ukraine") is too big to analyse directly. You cannot find truth at that level — it's just a label.
-
-Truth lives in the specific disputes:
-- Not "custody dispute" → but "the phone disagreement on 15 November"
-- Not "war in Ukraine" → but "what happened in Bucha"
-
-Each sub-conflict is where claims are made, actions are taken, and truth can be tested.
-
-**Stage 0 is the view from above** — you see the whole territory.
-**Stage 1 zooms in** — you walk into each sub-conflict and see what actually happened.
-
----
-
-## The Link to Stage 1
-
-**Stage 0 gives you the map** — who is playing, what they're fighting about, and what type of fight it is.
-
-**But you cannot act on a map. You can only act on truth.**
-
-**Stage 1 zooms into each sub-conflict, one by one, to find the truth:** what actually happened vs what is claimed.
-
-Stage 1 asks, for each sub-conflict:
-1. What happened? (the events)
-2. What does each party say happened? (the claims)
-3. Do they match?
-4. Where they don't match — is it a lie, a mistake, a misunderstanding, or something hidden?
-
-**Only when you know what is true (Stage 1) can you judge (Stage 2) and decide what to do (Stage 3).**
-
-
-* The map may be revised as Stage 1 reveals new parties, conflicts, or information
-* Note: The map reflects the map-maker's perspective. Different parties may draw different maps.
-
-
-
-Instruction: 
-Imagine you are giving Stage 0 to someone who knows nothing about the conflict and nothing about the framework. Your job is to tell them exactly what Stage 0 is and how to complete it.
-
-Stage 0 should explain:
-What Stage 0 is:
-It is the step where they Name the Map — meaning:
-What is on the map? (the conflicts)
-Who is on the map? (the parties)
-
-What they need to produce:
-A clear map of the conflict with defined parties, defined conflicts, and correct classifications.
-
-How they should do it:
-You must guide them with:
-How (instructions)
-Why (the purpose behind each instruction)
-Definitions (so nothing depends on interpretation)
-Questions they can ask themselves to generate the right content
-
-What the instructions must achieve:
-The instructions must be:
-Logical — each step follows naturally; no one questions the reasoning
-Simple — they always know what action to take; zero confusion
-Precise — every term and category is clearly defined; no ambiguity
-Complete — nothing important is missing; they have everything they need
-Bounded — they know exactly when they are finished; they don’t overwork the step
-
-Finally Each Stage must logicallly connect to the next: e.g. We drew a Map in stage 0 so that... in stage 1, 2, 3: truth, judge, decide.....
-
-
-Yes. This is deeper. Eagle must check not just "am I doing my job well" but "who defined my job":
-
----
-
-**Eagle checks Eagle first:**
-
-1. **Do I understand what my job is?** (Map the entire terrain — not find truth, not judge, not decide)
-
-2. **Do I know how to do my job well?** (Fly above the whole field, not only parts I like flying over. See the horizon. Don't get lost in it.)
-
-3. **Am I an Eagle or a Vulture?** (Vulture only circles for carcasses, hunting the other's faults, not mapping the whole)
-
-4. **Who gave me this job? Who told me where the horizon ends?** (The boundaries I accept may have been drawn by someone with interests. Court said "don't fly over hair." Appeal said "lives with is closed." Father says "there is no conflict." These are not neutral. Who benefits from where I was told not to fly?)
-
----
-
-This changes everything. Because in your case:
-
-| Who drew the boundary | What they said | Who benefits |
-|-----------------------|----------------|--------------|
-| Court | "Hair is day-to-day — not your territory" | Father (pattern continues unexamined) |
-| Appeal | "Lives with is closed — don't revisit" | Father (structural advantage locked in) |
-| Father | "There is no conflict" | Father (if no conflict, no map needed) |
-
-**Eagle's first job is to notice: the map came pre-drawn.**
-
----
-
-Does this capture what you meant?
-
-
-
-## Stage 2: BoodHount
-
-
-Question: What standards of evidence should apply in Reality? How do we handle conflicting testimony where both parties claim different things happened?
-
-**What this stage is:** This is where you test reality. Stage 1 gave you the map — who is fighting and what they are fighting about. But a map is not truth. Each party has their version of events. Their version might be accurate, mistaken, or deliberately false. Before you can judge (Stage 3) or decide (Stage 4), you must know what actually happened.
-
-**Objective:** Establish what is true in each sub-conflict.
-
-**Why:** You cannot make good decisions without knowing what is real. This stage separates fact from claim, action from word, and surfaces where the two diverge.
-
-**Input:** The sub-conflicts identified in Stage 1.
-
-**Output:** For each sub-conflict — verified facts, detected inaccuracies, and candidate wants (what each party actually appears to want, based on evidence).
-
-**How to use:** Complete all four steps (CAPTURE → TEST → INFER → CHECK) for each sub-conflict identified in Stage 1. Work through one sub-conflict fully before moving to the next.
-
----
-
-## The Structure
-
-For each sub-conflict from Stage 1, you do four moves:
-
-| Move | Action | Purpose |
-|------|--------|---------|
-| **1. CAPTURE** | Record what each party says vs what they do | Gather the raw data |
-| **2. TEST** | Check claims against evidence | Separate truth from distortion |
-| **3. INFER** | Hypothesise what each party actually wants | Surface hidden motives |
-| **4. CHECK** | Challenge your own analysis | Protect against your bias |
-
----
-
-## 1. CAPTURE
-
-**What to do:** For each party in the sub-conflict, record two things — what they SAY and what they DO.
-
-**Why:** Truth hides in the gap between words and actions. You cannot see the gap until you lay them side by side.
-
-**Definitions:**
-
-| Element | Definition | Example |
-|---------|------------|---------|
-| **SAY** | What the party claims — about actions, facts, or reasons | "I didn't restrict contact" / "Adding you would expose my card details" |
-| **DO** | What the party actually did — observable actions | Imposed 8pm restriction / Refused to add to Family Sharing |
-
-**How:** Ask these questions:
-- What does this party claim they did?
-- What does this party claim is true (facts, explanations, reasons)?
-- What did this party actually do? (Observable, documentable actions)
-
-
-Stage 3: JUDGMENT
 JUDGMENT identifies what must be addressed before you can move to resolution.
 What must end.
 What this stage is: This is where you evaluate what went wrong. Stage 2 (Truth) established what actually happened and what each party needs. But knowing what is true is not the same as knowing what failed, who is accountable, and what must be addressed before resolution is possible.
