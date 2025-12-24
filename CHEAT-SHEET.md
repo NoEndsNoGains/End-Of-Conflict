@@ -29,8 +29,6 @@ The framework is not just a conflict resolution tool. It is a sovereignty tool. 
 
 ---
 
----
-
 ## 1.3 Crucial Clarification: Purpose vs Side Effects
 
 The framework's purpose isn't advocacy. It's not a better argument. It's not a sharper sword (that is what lawyers do—they serve what their client wants).
@@ -409,13 +407,17 @@ If you find a fact that makes you look good, sniff it twice. It might be a decoy
 Check yourself:
 You just finished Bloodhound. Your current state is:
 
-a) The Overachiever: "Eagle mapped. Bloodhound sniffed. I am a god of objectivity."
+a) The Overachiever: "Eagle maps. Bloodhound sniffs. And??"
 b) The Skeptic: "Is this an elaborate way to tell me I'm a jerk?"
 c) The Zoo-Goer: "How many animals are left? I was told there would be an Ant."
-d) The Scroller: Stopped reading. Just here for the goat pictures.
-e) The Misled: "This was supposed to be a cheat sheet, not a..."
+d) The Scroller: Stopped reading. Just here for the goat picture.
+e) The Knower: "F...k. I knew she won't let go. She wrote about me — that little Beach."
 
-The Verdict: If you picked d, Bloodhound saw you skip the Omissions section. He's not mad — he's just a dog. He's passing you to Owl. She doesn't blink, and she's currently weighing your soul. If you picked e — you're right. See "Right vs. Free," p. x
+The Verdict: If you picked d, Bloodhound saw you skip the Omissions section. He's not mad — he's just a dog. He's passing you to Owl. She doesn't blink, and she's currently weighing your soul. If you picked e — you're right. See "Right vs. Free" in _The Monsters_.
+
+> **Note:** To Poets
+> I owe an apology to everyone who ever wrote real poetry and didn't trade it for jokes and pictures of goats. I didn't have a choice. The work only works if people read it. And this — the quizzes, the goats, the "beach" — is what makes people read. Forgive me. Or
+> don't. You're probably still on page one, being beautiful. And yes, I like "Notes." See _Legal Disclaimer_.
 
 ---
 
