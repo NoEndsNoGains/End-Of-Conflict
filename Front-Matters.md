@@ -509,7 +509,7 @@ Ta-da!
 ---
 
 
-## TABLE OF CONTENTS
+## TABLE OF CONTENTS (Cheat Shit first or You are full of Shit first???)
 
 **PART 1: CHEAT SHEET** "Let me be Dry"
 
