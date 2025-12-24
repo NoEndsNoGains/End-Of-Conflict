@@ -280,6 +280,11 @@ Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but i
 > Most people fight about the "what" (the fish, the money, the chores). But if the fight keeps returning, the "what" is a decoy. The real conflict is the authority — who has the right to decide. If "who decides" isn't settled, the "what" will never stay fixed.
 >
 > Eagle checks Eagle: Am I looking at the whole field, or only the part that makes me look like the victim? Am I zoomed in so tight I've lost the horizon? Am I an Eagle or more like a Vulture (the shadow) — "only circling for carcasses, hunting the other's faults, not mapping the whole."
+> 
+> **Note on Fog and Forbidden Zones:**
+Eagle identifies gaps: "Here is fog — I cannot see this territory." "Here is forbidden — I was told not to fly here."
+Owl evaluates gaps: "What does the fog conceal?" "What does the forbidden zone cost?" "Is the absence from the map itself data?"
+Eagle maps the hole. Owl judges what the hole means.
 >
 > Eagle passes the map to Bloodhound.
 
