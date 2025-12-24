@@ -594,6 +594,24 @@ The Unborn (hasn't happened yet)
 
 ## CHEAT SHEET
 
+REORDER: 
+| Position | Section |
+|----------|---------|
+| 1 | What Is It + Purpose (1.1 + 1.2 merged, trimmed) |
+| 2 | How Does It Work (1.5) |
+| 3 | The Five Stages — the animals (1.9) |
+| 4 | How Do I Begin (1.10) |
+| 5 | The Loop (1.11) |
+| 6 | Where Do You Start — Position & Time (1.8) |
+| 7 | When To Use It (1.6) |
+| 8 | What Does It Require (1.7) |
+| 9 | Why Is It Needed (1.4) |
+| 10 | Purpose vs Side Effects (1.3) |
+| 11 | Legal disclaimers (1.13) |
+
+
+
+
 # End of Conflict Cheat Sheet
 ## _"Let me be Dry"_
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fff9681-20c2-47a8-8af3-9fb919511539" />
