@@ -252,42 +252,84 @@ Each stage plays a different role. Each is led by different questions. Each incl
 
 ---
 
-**EAGLE — MAPs**
+## EAGLE — MAPs
 
-**Eagle Maps the Terrain**
+### Eagle Maps the Terrain
 
 *Because you cannot navigate a field you haven't named.*
 
-- What's the conflict?
-- Where are the friction points?
-- Who are the parties? Am I a party?
-- Who is visible? Am I visible?
-- Who is hiding? Am I hiding?
+**Questions Eagle asks:**
+
+- What's the conflict? (the big name)
+  - *(Note: The name itself may be contested. What you call the conflict reveals whose map you're using.)*
+- What are the friction points?
+- Who claims each friction point? Does the other party agree it's a friction point — or call it something else? 
+  - *(Note: they may move it up a level — "Hair isn't a conflict, it's just proof that mother is controlling")*
+- Who are the parties? Am I a party? 
+  - *(This tells Eagle their position in the conflict)*
+- What is fog? *(cannot see — too heavy to move)*
+- What is forbidden? *(told not to fly there)*
+- What is beyond the horizon? *(exists, affects the field, but outside current view)*
 
 *Focus is not on the "True." Focus is on the "Entire."*
 
+Eagle flies at 10,000 feet. It doesn't verify yet — that is Bloodhound's job. Eagle looks for the boundaries. (These boundaries can be wrong. That's why Bloodhound comes next.)
 
-Eagle flies at 10,000 feet. It doesn't look for the "truth" yet — that is Bloodhound's job. Eagle looks for the boundaries. It must name how EACH party sees the conflict. If it only map one perspective, the map has been drawn before Eagle flew."
+Eagle's enemy is Fog. When you are flooded, the conflict is everywhere and nowhere. Eagle blows the fog away so you can see that the "World-Ending War" is actually specific disputes over specific boundaries.
 
-Eagle's enemy is the Fog of War. When you are flooded, the conflict is everywhere and nowhere. Eagle blows the fog away so you can see that the "World-Ending War" is actually a specific dispute over a specific boundary.
+Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but is in the conversation; the boss who hasn't spoken but whose rules must be obeyed.
 
-Eagle also watches for the map you drew before you looked — the story you already believe, the players you already cast. If your map was drawn before Eagle flew, Eagle is just decorating your assumptions.
+---
 
-Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but is in the conversation; the boss who hasn't spoken but whose shadow is on the table.
-
-> **Note:** Eagle asks: Is this a fight about *what* — or about *who decides*?
+> **Note:** Eagle asks: What level is this fight actually on?
 >
-> Most people fight about the "what" (the fish, the money, the chores). But if the fight keeps returning, the "what" is a decoy. The real conflict is the authority — who has the right to decide. If "who decides" isn't settled, the "what" will never stay fixed.
+> **Level 1 — WHAT** (the substance)  
+> What are we fighting about? The fish, the phone, the hair. If this is settled, the fight ends.
 >
-> Eagle checks Eagle: Am I looking at the whole field, or only the part that makes me look like the victim? Am I zoomed in so tight I've lost the horizon? Am I an Eagle or more like a Vulture (the shadow) — "only circling for carcasses, hunting the other's faults, not mapping the whole."
-> 
-> **Note on Fog and Forbidden Zones:**
-Eagle identifies gaps: "Here is fog — I cannot see this territory." "Here is forbidden — I was told not to fly here."
-Owl evaluates gaps: "What does the fog conceal?" "What does the forbidden zone cost?" "Is the absence from the map itself data?"
-Eagle maps the hole. Owl judges what the hole means.
+> **Level 2 — WHO DECIDES** (the authority)  
+> Who has the right to decide? If "who decides" isn't settled, every "what" becomes a power struggle. The substance is a decoy.
 >
-> Eagle passes the map to Bloodhound.
+> **Level 3 — HOW TO DECIDE TOGETHER** (the process)  
+> Both have authority — but how do they use it? One wants coordination. One wants autonomy. Both can decide. Their models of deciding are incompatible. The authority is settled. The process is not.
+>
+> Level 3 can be present even when Level 2 seems settled. One party may accept the authority but reject the process: "You have the right to decide, but not without considering my interests." This is Level 3 disguised as Level 2.
+>
+> Most fights present as Level 1. If they keep returning, check Level 2. If authority is shared but nothing gets resolved, check Level 3.
+>
+> Eagle must name which level the fight is actually on.
 
+---
+
+### Eagle adapts to the terrain
+
+Not all conflicts look the same.
+
+- **When one party denies the conflict:** They may call it "a process," "a determination," "a boundary," or "proof of your problem." What they call it instead is data. If one party says "there is no conflict" — that itself is data.
+
+- **When a party has no face:** Institutions, systems, policies, internalized voices. Ask: Who specifically has authority? Who made the rule? Who enforces it? Who benefits from it staying unchanged?
+
+- **When both parties agree on facts but not meaning:** Same friction point, opposite interpretation. "Yes, you want to write" / "Yes, writing is selfish." "Yes, I have authority" / "Yes, but not without consulting me." Same map, different legends. Map both meanings.
+
+- **When one party wants recognition, the other offers process:** These cannot meet on the same level. Name the gap.
+
+- **When the conflict is internal:** All parties are you. Fog is thicker. The horizon may be drawn by an internalized other. You are the battlefield.
+
+- **When fog is heaviest:** You are inside what you're examining. Internal conflicts, long-standing disputes, and fights with powerful institutions all have heavier fog — because you cannot step outside to see the whole.
+
+- **When the horizon was drawn by someone else:** A parent whose voice you internalized, a contract you signed, a court that ruled, a system that set the frame. Ask: Who benefits from where the horizon sits? Did I accept a map before Eagle flew?
+
+---
+
+### Eagle checks Eagle
+
+- Do I understand what my job is? *(Map the entire terrain — not find truth, not judge, not decide)*
+- Do I know how to do my job well? *(Fly above the whole field, not only parts I like flying over. See the horizon. Don't get lost in it.)*
+- Am I an Eagle or a Vulture? *(Vulture only circles for carcasses, hunting the other's faults, not mapping the whole)*
+- Who gave me this job? Who told me where the horizon ends? *(The boundaries I accept may have been drawn by someone with interests. Who benefits from where I was told not to fly?)*
+
+---
+
+*Eagle passes the map to Bloodhound.*
 ---
 
 **BLOODHOUND — CHECKs**
@@ -295,6 +337,9 @@ Eagle maps the hole. Owl judges what the hole means.
 **Bloodhound Checks what Eagle Maps**
 
 *Because what is seen isn't always what's true.*
+
+EAGLE: "Here are the friction points each party claims"
+BLOODHOUND: "Here is what each party says vs. does about those points"
 
 - What do they say? What do I say?
 - What do they do? What do I do?
@@ -354,6 +399,11 @@ But if Owl keeps its eyes shut, you're still standing in the dark, tripping over
 > *(This is where Part 2 pays off. Because your Ego has a chair, Owl can be honest about "the wind" or "the broken trust" without your Ego screaming that it's being attacked.)*
 >
 > Owl delivers verdict to Lion.
+>
+> Owl evaluates gaps: "What does the fog conceal?" "What does the forbidden zone cost?" "Is the absence from the map itself data?"
+Eagle maps the hole. Owl judges what the hole means.
+> Note on Fog and Forbidden Zones:
+Eagle identifies gaps. Owl evaluates them: What does the fog conceal? What does the forbidden zone cost? Is the absence from the map itself data? Eagle maps the hole. Owl judges what the hole means.
 
 ---
 
