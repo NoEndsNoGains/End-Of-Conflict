@@ -122,6 +122,16 @@ This is my first book.
 ### What I'm looking for:
 A publisher who believes in the book itself, and who can bring the marketing expertise. 
 
+
 ### Where am I based?
 Uk, Somerset.
+
+### Ideas for the future:
+- **A. Original** — Full book, raw, funny ("You're Full of Shit")
+- **B. Academic** — Journal article, formal, citable
+- **C. Practitioner** — Handbook for mediators, coaches, lawyers
+- **D. Workbook** — Templates only, fillable
+- **E. One-Pager** — Poster / infographic ("The Loop")
+- **F. Digital** — Quiz: "Which Animal Are You Stuck In?"
+- **G. Children's** — Picture book: "The Five Friends on the Bridge"
 
