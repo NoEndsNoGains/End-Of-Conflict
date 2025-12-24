@@ -511,16 +511,13 @@ Ta-da!
 
 ## TABLE OF CONTENTS
 
-- **PROLOGUE:** "Let me be Rude"
-- New Title Page
-- Table of contents
+**PART 1: CHEAT SHEET** "Let me be Dry"
 
+**PART 2: YOU ARE FULL OF SHIT:** "Let me be Rude"
 
-**PART 1: END OF CONFLICT CHEAT SHEET** "Let me be Dry"
+**PART 3: EVERYTHING NEEDS A CHAIR.** "Let me be Tender"
 
-**PART 2: EVERYTHING NEEDS A CHAIR.** — "Let me be Tender"
-
-**PART 3: THE FRAMEWORK** "Let me be Practical"
+**PART 4: THE FRAMEWORK** "Let me be Practical"
 - 3.1 Stage 1: MAP
 - 3.2 Stage 2: CHECK
 - 2.3 Stage 3: JUDGE
