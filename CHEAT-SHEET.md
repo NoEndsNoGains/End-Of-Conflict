@@ -1158,6 +1158,19 @@ Honest sight, not perfect sight.
 
 ---
 
+### Note: Clarity Comes in Layers
+
+If you are inside this conflict, clarity will not arrive instantly.
+
+Expect this:
+- **First pass:** Defensive, incomplete, full of gaps.
+- **Second pass:** Uncomfortable realizations.
+- **Third pass:** Seeing the system more than the person.
+- **Eventually:** The terrifying but liberating moment where the next move becomes obvious — not because you're right, but because you finally see the whole terrain.
+
+The framework doesn't pretend clarity is instant. It just refuses to let you move forward until you've at least tried to see your own blindness.
+
+---
 ### Note on What Fuels the Movement
 The framework runs on whatever force is strong enough to overcome resistance.
 
