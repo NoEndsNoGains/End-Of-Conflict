@@ -2028,11 +2028,6 @@ DO NOT READ - NEEDS RE-THINKING/EDITING
 ## 3. Stage 1: MAP
 
 
-
-
-
-
-
 You're right to question it. Let me trace where each belongs:
 
 **Operational / Structural / Both** = Types of conflict. Eagle sees these. It's about *what kind of fight* this is.
@@ -2430,7 +2425,7 @@ Finally Each Stage must logicallly connect to the next: e.g. We drew a Map in st
 
 
 
-## Stage 2: REALITY
+## Stage 2: BoodHount
 
 
 Question: What standards of evidence should apply in Reality? How do we handle conflicting testimony where both parties claim different things happened?
@@ -2963,6 +2958,13 @@ When you hold the whole map in your own hands, you become the one person in the 
 
 And the most important part: You don't end up where you started. Each cycle, you evolve. The conflict changes. Your understanding deepens. Or the problem actually ends.
 
+Text message on Ant
+
+1 sands vs. a Mountain - COLLECTIVE FORCE
+
+https://www.youtube.com/watch?v=ZHpu7ngQxwE
+https://www.youtube.com/watch?v=70xfOBVWwPY
+https://www.youtube.com/watch?v=dnPNRIBRa7k
 
 
 ## THEORETICAL FOUNDATIONS
