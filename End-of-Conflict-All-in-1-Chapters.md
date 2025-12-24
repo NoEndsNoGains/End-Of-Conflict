@@ -2492,6 +2492,14 @@ Your position determines what you see — and what you literally cannot see.
 
 Same conflict. Three positions. Three blind spots. Three different maps.
 
+### The Hardest Step
+
+This is the hardest and most important step in the entire framework.
+
+Not because it's complicated — it isn't. But because it asks you to admit: **I am a Party with something to protect.**
+
+Everything else only works after that.
+
 ---
 
 ### 0A. What Is My Position?
@@ -2521,6 +2529,16 @@ Same conflict. Three positions. Three blind spots. Three different maps.
 
 What you protect is what you will refuse to map.
 
+**Why this question is hard:**
+
+What you're protecting won't FEEL like protection. It will feel like truth. It will feel like survival.
+
+"I'm not protecting anything. I'm just trying to protect my kids from harm."
+
+That's what protection sounds like from the inside. The framework asks you to name it anyway — not because your concern isn't real, but because unnamed protection becomes a blind spot.
+
+---
+
 Are you protecting:
 - Your reputation?
 - Your job or career?
@@ -2537,8 +2555,6 @@ _______________________________________
 **What am I most likely to miss from this position?**
 
 _______________________________________
-
----
 
 ### 0C. When Are You Looking At This Conflict?
 
@@ -2945,6 +2961,11 @@ Eagle named the terrain. Bloodhound checks the scent.
 
 ## Stage 2: BoodHount
 
+**Watch for: Same Facts, Different Meaning**
+
+Sometimes when you verify, you discover both parties agree on WHAT happened — but disagree completely on what it MEANS.
+
+This is important. It means the fight isn't about facts. It's about interpretation. That's data for Owl.
 
 Question: What standards of evidence should apply in Reality? How do we handle conflicting testimony where both parties claim different things happened?
 
