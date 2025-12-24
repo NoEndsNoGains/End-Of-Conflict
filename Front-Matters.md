@@ -137,7 +137,7 @@ And the calcified story. The wound must be forgotten—if you remembered it, you
 
 I hear you shouting in your native tongue:
 
-"Non sai un cazzo!", "!את לא יודעת כלום", "!ما بتعرفي شي", "Ne znaš ništa!", "Ntushobora kumenya!"
+"Non sai un cazzo!", "!את לא יודעת כלום", "!ما بتعرفي شي", "Ne znaš ništa!", "Ntushobora kumenya!", "You know shit!"
 
 I think: "Funny."
 
