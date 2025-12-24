@@ -25,7 +25,7 @@ jobs:
           # Fixed order of chapters
           chapters=(
             "Front-Matters.md"
-            "OVERVIEW.md"
+            "CHEAT-SHEET.md"
             "EVERYTHING-NEEDS-A-CHAIR.md"     # ← Added here
             "FRAMEWORK.md"
             "THEORETICAL-FOUNDATIONS.md"
