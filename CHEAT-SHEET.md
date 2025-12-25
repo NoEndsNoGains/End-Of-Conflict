@@ -219,6 +219,17 @@ Two dimensions set your coordinates: **position** (your relationship to the conf
 
 - **Future** — Has not played out yet. Projections, assumptions, scenarios. Your map is a hypothesis. Simulation is preparation, not resolution.
 
+### Your Coordinates
+
+Your position determines what you see — and what you literally cannot see.
+
+Before Eagle flies, you map your own coordinates — your position, your wants, your fears, what you're hiding, what you can't see, and the physics of the battlefield you're standing on.
+
+These coordinates predict where each animal will cheat. Your WANT will pull Eagle's map toward your win. Your FEAR will clog Bloodhound's nose. Your BLIND SPOT will make Owl's verdict comfortable instead of true.
+
+The Self-Checks exist to catch your coordinates in the act.
+
+**Fill in your Coordinate Card before Eagle flies.** *(See "Location, Location, Location" for the full card and instructions.)*
 ---
 
 ***Before you map the conflict, you map your position relative to it.***
@@ -247,13 +258,23 @@ You are now:
 Before Eagle flies, fill in your Coordinate Card *(see "Location, Location, Location" for full instructions)*:
 ```
 MY COORDINATES:
+
+PERSONAL (Where I Stand)
 1. POSITION: I am a _______. ☐ Party (Direct) ☐ Party (Indirect) ☐ Observer
 2. WANT: I want _______.
 3. FEAR: I am afraid of losing _______.
 4. GAME: What I'm not saying out loud is _______.
 5. BLIND SPOT: What I'm hiding from myself is _______.
 6. HORIZON: What I can't see from this position is _______.
+
+TEMPORAL (When This Is)
 7. TIME: ☐ Past ☐ Present ☐ Future
+
+SYSTEM (The Physics of the Battlefield)
+8. MASS: My position's weight: ☐ Heavy ☐ Medium ☐ Light ☐ Crushed
+         Their position's weight: ☐ Heavy ☐ Medium ☐ Light ☐ Crushed
+         Am I fighting gravity? ☐ Yes ☐ No
+9. ENTROPY: Can I afford to continue? ☐ Yes ☐ No ☐ Not for much longer
 ```
 
 **Keep this card visible throughout. Each animal will try to cheat based on your coordinates.**
@@ -358,14 +379,6 @@ Not all conflicts look the same.
 
 *Check your Coordinate Card. Your coordinates predict where you cheated.*
 
-| Your Coordinate | How it corrupts Eagle | The Catch Question |
-|-----------------|----------------------|-------------------|
-| **WANT** | You mapped toward your win | Did I map what THEY want as carefully as what I want? |
-| **FEAR** | You erased what terrifies you | Did I map what I'm afraid to see? |
-| **GAME** | You hid your own moves | Did I map my own strategy as a feature of the terrain? |
-| **BLIND SPOT** | You flattened what you don't want to see | Did I map the parts that make me look bad? |
-| **HORIZON** | You stopped at what you can't see | Did I mark where my vision ends — and ask what's beyond it? |
-
 **The Master Question:**
 > If someone with opposite coordinates mapped this conflict, what would THEY see that I missed?
 
@@ -443,14 +456,6 @@ If you find a fact that makes you look good, sniff it twice. It might be a decoy
 ### Bloodhound checks Bloodhound
 
 *Check your Coordinate Card. Your coordinates predict where your nose lied.*
-
-| Your Coordinate | How it corrupts Bloodhound | The Catch Question |
-|-----------------|---------------------------|-------------------|
-| **WANT** | You sniffed only for confirming scents | Did I follow trails that contradict my preferred outcome? |
-| **FEAR** | You avoided trails that scare you | Did I sniff where I was afraid to go? |
-| **GAME** | You didn't sniff your own trail | Did I verify what I SAY vs what I DO as rigorously as I checked them? |
-| **BLIND SPOT** | You called your preferred scent "neutral" | Did I notice when I stopped sniffing because I liked what I found? |
-| **HORIZON** | You didn't track what happened outside your view | Did I note what I CANNOT verify — and mark it as unknown? |
 
 **The Master Question:**
 > If Bloodhound worked for the other party, what scent would they find on ME?
@@ -597,14 +602,6 @@ If your verdict feels satisfying, check it twice. Comfort is suspicious.
 ### Owl checks Owl
 
 *Check your Coordinate Card. Your coordinates predict where your verdict lied.*
-
-| Your Coordinate | How it corrupts Owl | The Catch Question |
-|-----------------|---------------------|-------------------|
-| **WANT** | You weighed evidence toward your preferred verdict | Did I weigh facts that hurt my case as heavily as facts that help it? |
-| **FEAR** | You rushed judgment to escape discomfort | Did I sit with uncertainty long enough — or did I close the case to feel safe? |
-| **GAME** | You judged them harshly, yourself leniently | Did I apply the same standard to my violations as to theirs? |
-| **BLIND SPOT** | Your verdict is comfortable | Does my verdict require ME to change? If not — check it twice. |
-| **HORIZON** | You judged only what you can see | Did I account for what I cannot see — or did I pretend my view is complete? |
 
 **The Master Question:**
 > If Owl worked for the other party, what verdict would they reach about ME?
@@ -767,14 +764,6 @@ If your decision feels like escaping the conversation, check it twice. Escape is
 
 *Check your Coordinate Card. Your coordinates predict where your decision lied.*
 
-| Your Coordinate | How it corrupts Lion | The Catch Question |
-|-----------------|----------------------|-------------------|
-| **WANT** | You decided what gets you your win | Is this decision good for the CONFLICT — or just good for ME? |
-| **FEAR** | You avoided decisions that face your terror | Did I avoid a better decision because it required me to face what I fear? |
-| **GAME** | You decided what THEY must do, not what YOU will do | Does my decision command MY feet — or just wish for theirs? |
-| **BLIND SPOT** | You chose the solution that doesn't require you to change | Does this decision let me stay the same? If yes — it's probably wrong. |
-| **HORIZON** | You didn't account for forces you can't see | Did I plan for what's beyond my horizon — or will I be surprised? |
-
 **The Master Question:**
 > If Lion decided for the OTHER party, what would they decide about ME?
 
@@ -920,14 +909,6 @@ Implementation is the graveyard of good intentions. If Ant doesn't move, Lion wa
 
 *Check your Coordinate Card. Your coordinates predict where your feet lied.*
 
-| Your Coordinate | How it corrupts Ant | The Catch Question |
-|-----------------|---------------------|-------------------|
-| **WANT** | You act only when it serves your win | Am I doing the step — or waiting for a step that feels like winning? |
-| **FEAR** | You freeze when action touches your terror | Am I avoiding this step because it's wrong — or because it scares me? |
-| **GAME** | You perform action instead of doing it | Am I actually moving — or just looking like I'm moving? |
-| **BLIND SPOT** | You revert to old habits without noticing | Have I drifted back to the pattern Lion just broke? |
-| **HORIZON** | You miss obstacles you couldn't see coming | When I hit an obstacle, do I report it — or suffer in silence? |
-
 **The Master Question:**
 > If Ant worked for the other party, what step would they see ME avoiding?
 
@@ -939,8 +920,6 @@ Implementation is the graveyard of good intentions. If Ant doesn't move, Lion wa
   - *Martyr carries the load while resenting every grain — and uses that resentment to justify stopping*
   - *Sluggard waits for the "feeling" to move; Ant moves until the feeling follows*
 - What habit am I protecting by not acting?
-
----
 
 ---
 
