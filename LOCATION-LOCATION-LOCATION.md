@@ -873,6 +873,10 @@ You can just sit. I sat. Sometimes sitting can take a very, very long time.
 
 Sit.
 
+I drew you a very special chair.
+
+
+
 And then — maybe a visit with a psychologist. Popping to a friend. At least a hello to a neighbour. A hug. A small smile from someone who sees you. A good cry. A journal session. A long walk. A shorter walk. A warm bath. A cold shower.
 
 But maybe, in the place where you are — that physical place of you being cracked open — there is no bath. No shower. Maybe there is no water. No safe street to walk. No one to hug. A total absence of fancy tansy.
