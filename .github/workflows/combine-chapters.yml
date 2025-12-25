@@ -1,18 +1,16 @@
 name: Combine Chapters
-
 on:
   push:
     paths:
-      - '*.md'                        # Any markdown file in root
+      - '*.md' # Any markdown file in root
       - '.github/workflows/combine-chapters.yml'
-  workflow_dispatch:                  # Allow manual trigger
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   combine:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,13 +20,14 @@ jobs:
           OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
           BOOK_TITLE="End of Conflict"
 
-          # Fixed order of chapters
+          # Fixed order of chapters (updated to match the provided summary)
           chapters=(
             "Front-Matters.md"
             "CHEAT-SHEET.md"
-            "EVERYTHING-NEEDS-A-CHAIR.md"     # ← Added here
-            "FRAMEWORK.md"
-            "THEORETICAL-FOUNDATIONS.md"
+            "EVERYTHING-NEEDS-A-CHAIR.md"
+            "LOCATION-LOCATION-LOCATION.md"  # ← Added here
+            "THEORETICAL-FOUNDATIONS.md"     # ← Moved after LOCATION
+            "FRAMEWORK.md"                   # ← Moved after THEORETICAL-FOUNDATIONS
             "STRESS-TESTING.md"
             "LAUGH.md"
             "DEEP-DIVE.md"
@@ -37,14 +36,12 @@ jobs:
 
           # Start fresh
           > "$OUTPUT"
-
           echo "# $BOOK_TITLE" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
           echo "## Table of Contents" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
 
           toc_lines=()
-
           for file in "${chapters[@]}"; do
             # Skip if file doesn't exist
             if [ ! -f "$file" ]; then
@@ -58,46 +55,4 @@ jobs:
             anchor=$(echo "$basename" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 
             # Add to TOC
-            toc_lines+=("- [$clean_title](#$anchor)")
-
-            # Add chapter header
-            echo "" >> "$OUTPUT"
-            echo "## $clean_title" >> "$OUTPUT"
-            echo "" >> "$OUTPUT"
-
-            # Append file content
-            cat "$file" >> "$OUTPUT"
-            echo "" >> "$OUTPUT"
-          done
-
-          # Rebuild file with full TOC inserted at the top
-          {
-            echo "# $BOOK_TITLE"
-            echo ""
-            echo "## Table of Contents"
-            echo ""
-            printf "%s\n" "${toc_lines[@]}"
-            echo ""
-            echo "---"
-            echo ""
-            # Everything after the initial placeholder TOC
-            tail -n +5 "$OUTPUT"
-          } > "$OUTPUT.tmp" && mv "$OUTPUT.tmp" "$OUTPUT"
-
-          echo "Combined file created: $OUTPUT with ${#toc_lines[@]} sections."
-
-      - name: Commit and push if combined file changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
-
-          if git diff --quiet --exit-code -- "$OUTPUT"; then
-            echo "No changes in combined file — nothing to commit."
-          else
-            echo "Changes detected in combined file — committing."
-            git add "$OUTPUT"
-            git commit -m "Auto-update: Rebuild combined chapters"
-            git push
-          fi
+            toc_lines+=("-
