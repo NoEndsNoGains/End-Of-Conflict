@@ -4,7 +4,7 @@ on:
     paths:
       - '*.md' # Any markdown file in root
       - '.github/workflows/combine-chapters.yml'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   combine:
@@ -20,21 +20,19 @@ jobs:
           OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
           BOOK_TITLE="End of Conflict"
 
-          # Fixed order of chapters — now matches your UPDATED SUMMARY exactly
           chapters=(
             "Front-Matters.md"
             "CHEAT-SHEET.md"
             "EVERYTHING-NEEDS-A-CHAIR.md"
             "LOCATION-LOCATION-LOCATION.md"
-            "THEORETICAL-FOUNDATIONS.md"     # ← Correctly before FRAMEWORK
-            "FRAMEWORK.md"                   # ← After THEORETICAL-FOUNDATIONS
+            "THEORETICAL-FOUNDATIONS.md"
+            "FRAMEWORK.md"
             "STRESS-TESTING.md"
             "LAUGH.md"
             "DEEP-DIVE.md"
             "End-Matters.md"
           )
 
-          # Start fresh
           > "$OUTPUT"
           echo "# $BOOK_TITLE" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
@@ -43,42 +41,52 @@ jobs:
 
           toc_lines=()
           for file in "${chapters[@]}"; do
-            # Skip if file doesn't exist
             if [ ! -f "$file" ]; then
               echo "*Warning: Missing file $file*" >> "$OUTPUT"
               continue
             fi
 
-            # Generate clean title and anchor from filename
             basename="${file%.md}"
             clean_title=$(echo "$basename" | tr '-' ' ' | tr '_' ' ' | sed 's/\b\w/\u&/g')
             anchor=$(echo "$basename" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 
-            # Add to TOC
             toc_lines+=("- [$clean_title](#$anchor)")
 
-            # Add chapter header
             echo "" >> "$OUTPUT"
             echo "## $clean_title" >> "$OUTPUT"
             echo "" >> "$OUTPUT"
-
-            # Append file content
             cat "$file" >> "$OUTPUT"
             echo "" >> "$OUTPUT"
           done
 
-          # Rebuild file with full TOC inserted at the top
+          # FIXED: Cross-compatible TOC printing (works on macOS and Linux)
           {
             echo "# $BOOK_TITLE"
             echo ""
             echo "## Table of Contents"
             echo ""
-            printf "%s\n" "${toc_lines[@]}"
+            for line in "${toc_lines[@]}"; do
+              echo "$line"
+            done
             echo ""
             echo "---"
             echo ""
-            # Everything after the initial placeholder TOC
             tail -n +5 "$OUTPUT"
           } > "$OUTPUT.tmp" && mv "$OUTPUT.tmp" "$OUTPUT"
 
-          echo "Combined file created: $OUTPUT
+          echo "Combined file created: $OUTPUT with ${#toc_lines[@]} sections."
+
+      - name: Commit and push if combined file changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
+
+          if git diff --quiet --exit-code -- "$OUTPUT"; then
+            echo "No changes in combined file — nothing to commit."
+          else
+            echo "Changes detected in combined file — committing."
+            git add "$OUTPUT"
+            git commit -m "Auto-update: Rebuild combined chapters"
+            git push
+          fi
