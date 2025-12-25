@@ -763,8 +763,6 @@ If your decision feels like escaping the conversation, check it twice. Escape is
 
 ---
 
----
-
 ### Lion checks Lion
 
 *Check your Coordinate Card. Your coordinates predict where your decision lied.*
