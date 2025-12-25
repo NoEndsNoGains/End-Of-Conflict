@@ -862,6 +862,9 @@ Animals make you the agent. Medical makes you the analyst. Pick your door.
 
 Each stage plays a different role. Each is led by different questions. Each includes self-interrogation: the same questions you ask about them, you ask about yourself. The framework doesn't exempt you from scrutiny.
 
+<img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/66c59673-3560-4b8e-bf19-01f6a086d101" />
+
+
 ---
 
 ## EAGLE — MAPs
