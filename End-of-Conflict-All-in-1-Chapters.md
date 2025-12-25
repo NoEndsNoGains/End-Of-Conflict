@@ -2490,10 +2490,9 @@ There's also the **Garden of Eden** as the counterpoint — the original "you ca
 
 ## LOCATION LOCATION LOCATION
 
+# PART X: LOCATION, LOCATION, LOCATION
+
 <img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/0afe01d2-7fc4-4ce1-834e-9e41abe4a6f9" />
-
-
-## Before You Take the First Step: Locate Yourself
 
 *Before you map the conflict, you map your position relative to it.*
 
@@ -2501,7 +2500,11 @@ There's also the **Garden of Eden** as the counterpoint — the original "you ca
 
 ---
 
-### Why This Matters
+### Why This Matters?
+
+Immagine this scenario: 
+
+
 
 Your position determines what you see — and what you literally cannot see.
 
