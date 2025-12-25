@@ -1,11 +1,19 @@
-name: Combine Chapters
+- [CHEAT SHEET.md](CHEAT-SHEET.md)
+- [PROLOGUE](Front-Matters.md)
+- [EVERYTHING NEEDS A CHAIR](EVERYTHING-NEEDS-A-CHAIR.md)
+- [LOCATION, LOCATION, LOCATION](LOCATION-LOCATION-LOCATION.md)
+- [FRAMEWORK](FRAMEWORK.md)
+- [STRESS-TESTING](STRESS-TESTING.md)
+- [LAUGH](LAUGH.md)
+- [THEORETICAL FOUNDATIONS](THEORETICAL-FOUNDATIONS.md)
+- [DEEP-DIVE](DEEP-DIVE.md)
+- [End Matters](End-Matters.md) - can you update the workflow with this order? I think this will be better: name: Combine Chapters
 on:
   push:
     paths:
       - '*.md' # Any markdown file in root
       - '.github/workflows/combine-chapters.yml'
   workflow_dispatch:
-
 jobs:
   combine:
     runs-on: ubuntu-latest
@@ -14,12 +22,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Combine Markdown chapters
         run: |
           OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
           BOOK_TITLE="End of Conflict"
-
           chapters=(
             "Front-Matters.md"
             "CHEAT-SHEET.md"
@@ -32,33 +38,27 @@ jobs:
             "DEEP-DIVE.md"
             "End-Matters.md"
           )
-
           > "$OUTPUT"
           echo "# $BOOK_TITLE" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
           echo "## Table of Contents" >> "$OUTPUT"
           echo "" >> "$OUTPUT"
-
           toc_lines=()
           for file in "${chapters[@]}"; do
             if [ ! -f "$file" ]; then
               echo "*Warning: Missing file $file*" >> "$OUTPUT"
               continue
             fi
-
             basename="${file%.md}"
             clean_title=$(echo "$basename" | tr '-' ' ' | tr '_' ' ' | sed 's/\b\w/\u&/g')
             anchor=$(echo "$basename" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
-
             toc_lines+=("- [$clean_title](#$anchor)")
-
             echo "" >> "$OUTPUT"
             echo "## $clean_title" >> "$OUTPUT"
             echo "" >> "$OUTPUT"
             cat "$file" >> "$OUTPUT"
             echo "" >> "$OUTPUT"
           done
-
           # FIXED: Cross-compatible TOC printing (works on macOS and Linux)
           {
             echo "# $BOOK_TITLE"
@@ -73,15 +73,12 @@ jobs:
             echo ""
             tail -n +5 "$OUTPUT"
           } > "$OUTPUT.tmp" && mv "$OUTPUT.tmp" "$OUTPUT"
-
           echo "Combined file created: $OUTPUT with ${#toc_lines[@]} sections."
-
       - name: Commit and push if combined file changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           OUTPUT="End-of-Conflict-All-in-1-Chapters.md"
-
           if git diff --quiet --exit-code -- "$OUTPUT"; then
             echo "No changes in combined file — nothing to commit."
           else
