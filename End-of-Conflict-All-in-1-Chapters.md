@@ -2474,9 +2474,16 @@ There's also the **Garden of Eden** as the counterpoint — the original "you ca
 
 ## FRAMEWORK
 
+
+# FRAMEWORK 
+
+
+
 ## Before You Take the First Step: Locate Yourself
 
 *Before you map the conflict, you map your position relative to it.*
+
+**MAIN QUESTION: WHO ARE YOU IN POSTION TO THIS CONFLICT?**
 
 ---
 
@@ -2486,7 +2493,7 @@ Your position determines what you see — and what you literally cannot see.
 
 **The Mother:** Sees threats to her children. Blind spot: her own reactivity.
 
-**The Judge:** Sees two competing legal claims. Blind spot: her own internal biases.
+**The Judge:** Sees two competing legal claims. Blind spot: his own internal biases.
 
 **The Child:** Sees two people they love who cannot be in the same room. Blind spot: the legal machine shaping their life.
 
