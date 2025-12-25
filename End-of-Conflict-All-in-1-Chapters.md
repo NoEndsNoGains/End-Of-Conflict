@@ -3697,10 +3697,658 @@ Not purely procedural (A.C.T insists on timeliness)
 ## FRAMEWORK
 
 
-# FRAMEWORK 
+Old Cheat-Sheet - has some good self-check questions but these miss mass and tMASS and ENTROPY are essential because they answer: "Should I even be in this fight?" Without them, someone can run the whole framework brilliantly and still lose everything — because they never asked if they could afford the wa
+---
+
+## EAGLE — MAPs
+
+### Eagle Maps the Terrain
+
+*Because you cannot navigate a field you haven't named.*
+
+**Questions Eagle asks:**
+
+- What's the conflict? (the big name)
+- Who are the parties? Am I a party?
+- What are the battlefields? (the specific friction points)
+- Who is fighting on each battlefield? Are both parties there — or did one leave and declare the war over?
+- What is fog? (cannot see — too heavy to move)
+- What is flood? (too much — cannot think)
+- What is forbidden? (told not to fly there — and by whom?)
+- What is beyond the horizon? (exists, affects the field, but outside current view)
+
+*Focus is not on the "True." Focus is on the "Entire."*
+
+Eagle flies at 10,000 feet. It doesn't verify yet — that is Bloodhound's job. Eagle looks for the boundaries. (These boundaries can be wrong. That's why Bloodhound comes next.)
+
+Eagle has two enemies:
+
+**Fog** — cannot see. Information is hidden or inaccessible. What's happening in the other household. How the institution decides. What they actually want.
+
+**Flood** — cannot think. Too much, all at once. Six years of history. Every issue connected to every other. Can't tell what matters from what doesn't.
+
+Eagle blows fog away to reveal. Eagle drains flood to focus. The "World-Ending War" becomes specific disputes over specific boundaries.
+
+Not all parties announce themselves. Eagle looks for the Hidden Player: the mother-in-law who isn't in the room but is in the conversation; the boss who hasn't spoken but whose rules must be obeyed.
+
+---
+
+### Eagle adapts to the terrain
+
+Not all conflicts look the same.
+
+- **When the conflict has multiple names:** "War" vs "Special Operation." "Parental dispute" vs "Mother's control issues." Note all names — each name reveals a position. This is data for Bloodhound. And check: which name do YOU use? That reveals your position too.
+
+- **When one party denies the conflict:** They may call it "a process," "a determination," "a boundary," or "proof of your problem." What they call it instead is data. If one party says "there is no conflict" — that itself is data.
+
+- **When you're fighting alone:** You see a battlefield. They don't. They decided and left. Your fighting is what THEY call the problem — not the issue itself.
+
+- **When a party has no face:** Institutions, systems, policies, internalized voices. Ask: Who specifically has authority? Who made the rule? Who enforces it? Who benefits from it staying unchanged?
+
+- **When both parties agree on facts but not meaning:** Same friction point, opposite interpretation. "Yes, you want to write" / "Yes, writing is selfish." "Yes, I have authority" / "Yes, but not without consulting me." Same map, different legends. Map both meanings.
+
+- **When one party wants recognition, the other offers process:** These cannot meet on the same level. Name the gap.
+
+- **When the conflict is internal:** All parties are you. Fog is thicker. The horizon may be drawn by an internalized other. You are the battlefield.
+
+- **When fog is heaviest:** You are inside what you're examining. Internal conflicts, long-standing disputes, and fights with powerful institutions all have heavier fog — because you cannot step outside to see the whole.
+
+- **When the horizon was drawn by someone else:** A parent whose voice you internalized, a contract you signed, a court that ruled, a system that set the frame. Ask: Who benefits from where the horizon sits? Did I accept a map before Eagle flew?
+
+- **When something is forbidden:** Note whose forbidden it is. One party's "irrelevant" is another party's "central." The West treats NATO's role in 2008-2014 as closed; Russia treats Ukrainian agency as non-existent. Both are "forbidden zones" — but for different parties.
+
+---
+
+---
+
+### Eagle checks Eagle
+
+*Check your Coordinate Card. Your coordinates predict where you cheated.*
+
+| Your Coordinate | How it corrupts Eagle | The Catch Question |
+|-----------------|----------------------|-------------------|
+| **WANT** | You mapped toward your win | Did I map what THEY want as carefully as what I want? |
+| **FEAR** | You erased what terrifies you | Did I map what I'm afraid to see? |
+| **GAME** | You hid your own moves | Did I map my own strategy as a feature of the terrain? |
+| **BLIND SPOT** | You flattened what you don't want to see | Did I map the parts that make me look bad? |
+| **HORIZON** | You stopped at what you can't see | Did I mark where my vision ends — and ask what's beyond it? |
+
+**The Master Question:**
+> If someone with opposite coordinates mapped this conflict, what would THEY see that I missed?
+
+**The Meta Question:**
+> Can I guess the other parties' coordinates? Their WANT, FEAR, GAME, BLIND SPOT, HORIZON? If I can't — I haven't mapped them. I've only mapped my story about them.
+
+**The Shadow Check:**
+- Am I an Eagle or a Vulture? *(Vulture only circles for carcasses — hunting the other's faults, not mapping the whole)*
+- Who gave me this job? Who told me where the horizon ends?
+
+---
+
+*Eagle passes the map to Bloodhound.*
+
+---
+
+## BLOODHOUND — CHECKs
+
+### Bloodhound Checks what Eagle Maps
+
+*Because what is seen isn't always what's true.*
+
+Bloodhound sniffs the specific battlefields Eagle mapped. It doesn't look at the whole field; it puts its nose to the ground at the boundaries.
+
+**Eagle passes the map. Bloodhound verifies:**
+
+- The battlefields — are they real, or only claimed?
+- The parties — including hidden players
+- The names — strip the label. What is the physical action taking place?
+- The forbidden zones — what specific facts exist where Eagle was told not to fly?
+- The "one party left" claim — did they leave, or just change how they fight?
+
+**For each party (including yourself), Bloodhound asks:**
+
+- What do they say? What do they do?
+- What do they want? What are they hiding?
+- What are they missing? What don't they want to see?
+- What did they omit? (The silent action that changed the scent)
+
+*Because we all Say, Do, Want, Hide, Miss, Omit, and Avoid — no exception.*
+
+---
+
+### Bloodhound works the terrain
+
+Bloodhound doesn't care about your story. It doesn't care who is the hero or who is the villain. It treats narrative as a scent trail that often leads AWAY from the action trail.
+
+**If Eagle says "There is fog here"** — Bloodhound doesn't just look at the fog. It walks into it and feels for the furniture. It asks for specifics:
+- Not "They are aggressive" — but "They sent three emails after 9 PM"
+- Not "I am supportive" — but "I haven't replied to their request in four days"
+
+**If Eagle says "They call it X, we call it Y"** — Bloodhound strips the perfume of the label to find the sweat of the action:
+- Regardless of the name: Are tanks crossing? Are people being fired? Are voices being raised?
+
+**If Eagle says "This is forbidden"** — Bloodhound sticks its nose right into that zone:
+- What specifically happened there that makes the scent so strong?
+- Who decided it was forbidden? What are they protecting?
+
+**If Eagle says "One party left the battlefield"** — Bloodhound checks:
+- What are they actually doing now?
+- Did they leave, or just change weapons?
+
+---
+
+### Bloodhound's enemy
+
+Not malice. The **Preferred Scent**.
+
+The scent you prefer — the one that confirms your story, the one that makes you right — that scent is the one most likely to mislead you.
+
+If you find a fact that makes you look good, sniff it twice. It might be a decoy.
+
+---
+
+### Bloodhound checks Bloodhound
+
+*Check your Coordinate Card. Your coordinates predict where your nose lied.*
+
+| Your Coordinate | How it corrupts Bloodhound | The Catch Question |
+|-----------------|---------------------------|-------------------|
+| **WANT** | You sniffed only for confirming scents | Did I follow trails that contradict my preferred outcome? |
+| **FEAR** | You avoided trails that scare you | Did I sniff where I was afraid to go? |
+| **GAME** | You didn't sniff your own trail | Did I verify what I SAY vs what I DO as rigorously as I checked them? |
+| **BLIND SPOT** | You called your preferred scent "neutral" | Did I notice when I stopped sniffing because I liked what I found? |
+| **HORIZON** | You didn't track what happened outside your view | Did I note what I CANNOT verify — and mark it as unknown? |
+
+**The Master Question:**
+> If Bloodhound worked for the other party, what scent would they find on ME?
+
+**The Meta Question:**
+> What do THEY say, do, want, hide, miss? Can I answer this as precisely as I answered it for myself? If not — I'm sniffing with one nostril.
+
+**The Shadow Check:**
+- Am I a Bloodhound or an Inquisitor? *(Inquisitor uses facts as weapons to trap, not trails to follow)*
+- Is my nose clogged by my own story?
+
+---
+
+> **Note:** Bloodhound's sniff is descriptive, not evaluative. That's Owl's job.
+>
+> Bloodhound finds the trail for both sides of the line. This is where the ice-cold begins: you must smell your own tracks as clearly as theirs.
+
+---
+
+*Bloodhound passes the raw scent to Owl.*
+
+---
+
+Check yourself:
+You just finished Bloodhound. Your current state is:
+
+a) The Overachiever: "Eagle maps. Bloodhound sniffs. And??"
+b) The Skeptic: "Is this an elaborate way to tell me I'm a jerk?"
+c) The Zoo-Goer: "How many animals are left? I was told there would be an Ant."
+d) The Scroller: Stopped reading. Just here for the goat picture.
+e) The Knower: "F...k. I knew she won't let go. She wrote about me — that little Beach."
+
+The Verdict: If you picked d, Bloodhound saw you skip the Omissions section. He's not mad — he's just a dog. He's passing you to Owl. She doesn't blink, and she's currently weighing your soul. If you picked e — you're right. See "Right vs. Free" in _The Monsters_.
+
+> **Note:** To Poets
+> I owe an apology to everyone who ever wrote real poetry and didn't trade it for jokes and pictures of goats. I didn't have a choice. The work only works if people read it. And this — the quizzes, the goats, the "beach" — is what makes people read. Forgive me. Or
+> don't. You're probably still on page one, being beautiful. And yes, I like "Notes." See _Legal Disclaimer_.
+
+---
+
+## OWL — JUDGEs
+
+### Owl Judges what Bloodhound Reports
+
+*Because truth needs a verdict to become useful.*
+
+Eagle passes the map. Bloodhound passes the verified scent. Owl sits on the branch and watches both. Owl's job is to assign weight.
+
+**Questions Owl asks to reach a verdict:**
+
+- Is there anything to judge? (threshold — sometimes the scent leads nowhere)
+- What was violated? (broken rules, betrayed trust, ignored boundaries)
+- What was concealed? (the motives, the Hidden Player's influence, the self-deceptions)
+- What was ignored? (the needs that weren't met, the fears that drove the action)
+- What was omitted? (the silence that spoke — by all parties, including you)
+- What is the consequence? (if this continues, where does the trail end?)
+- Who is accountable for what? (all parties — including you)
+- What requires no accountability?
+
+*Focus is not on people. Focus is on the mechanics of the collision.*
+
+---
+
+### Owl turns on the lights
+
+Owl's job isn't to be mean. It's to turn on the lights.
+
+Sometimes the lights show you who broke the vase. Sometimes they show you the wind blew it over. Both are verdicts. You know where you stand.
+
+But if Owl keeps its eyes shut, you're still standing in the dark, tripping over the pieces. That is the only failure.
+
+> **Note:** Judgment is the act of assigning *weight* to information.
+>
+> No consequence — no verdict. If Bloodhound finds a fact but that fact has no bearing on safety, trust, or outcome, Owl lets it go. This prevents the rabbit hole — arguing over details that don't matter to resolution.
+
+---
+
+### Owl checks history
+
+*Is this the first time? Or the fifth? Same dynamic, different battlefield?*
+
+History is Owl's greatest lens. It changes the weight of every fact Bloodhound found.
+
+A single event is an anomaly. A repeating event is a **Pattern**.
+
+**Owl looks across Bloodhound's findings AND across time:**
+
+- Has this happened before?
+- What did we do last time? Did it stay solved, or did it just go dormant?
+- If the "What" (the topic) changed but the "How" (the way we fought) stayed the same — the topic is a decoy.
+- If it returned — what brought it back?
+
+If the pattern repeats, the surface issue is not the real issue.
+
+---
+
+### Owl identifies the level
+
+History reveals what level the fight is actually on.
+
+**Level 1 — WHAT** (the substance)
+The fish, the phone, the hair, the border. If solving this specific item ends the conflict forever, it was Level 1.
+
+**Level 2 — WHO DECIDES** (the authority)
+The substance was a decoy. The real fight: who has the right to make the call? If this isn't settled, every Level 1 "victory" is just a temporary truce in a power struggle.
+
+**Level 3 — HOW TO DECIDE TOGETHER** (the process)
+Authority is shared or accepted, but the way we engage is incompatible. One wants autonomy; one wants coordination. One wants recognition; the other offers policy.
+
+Level 3 can be present even when Level 2 seems settled. One party may accept the authority but reject the process: "You have the right to decide, but not without considering my interests." This is Level 3 disguised as Level 2.
+
+**Owl's verdict might sound like:**
+> "This presents as Level 1 (territory), but history shows we've 'solved' territory three times. Therefore, this is actually a Level 3 failure — we have no agreed-upon process for sharing the field."
+
+---
+
+### Owl evaluates the map's gaps
+
+Eagle mapped the fog, the flood, and the forbidden. Owl judges the meaning of those voids.
+
+**The fog:** What does it conceal? What couldn't Bloodhound verify? Does the unknown change the verdict — or is there enough to judge?
+
+**The flood:** If we are flooded with data, who benefits from the confusion? Is overwhelm accidental — or a tactic?
+
+**The forbidden:** What does it cost that this zone was off-limits? Who is it protecting? Is the absence from the map itself data?
+
+**The Hidden Player:** Is the Hidden Player (the boss, the parent, the system) the one actually setting the level of the fight?
+
+**The horizon:** What lies beyond it that affects this conflict? Should Lion consider it — or is it outside the scope of decision?
+
+---
+
+### Owl's enemy
+
+Not ignorance. The **Comfortable Verdict**.
+
+The verdict that lets you stay the same. The verdict that blames only them. The verdict that closes the case before the case is understood.
+
+If your verdict feels satisfying, check it twice. Comfort is suspicious.
+
+---
 
 
-# STAGE 1: EAGLE MAPs
+### Owl checks Owl
+
+*Check your Coordinate Card. Your coordinates predict where your verdict lied.*
+
+| Your Coordinate | How it corrupts Owl | The Catch Question |
+|-----------------|---------------------|-------------------|
+| **WANT** | You weighed evidence toward your preferred verdict | Did I weigh facts that hurt my case as heavily as facts that help it? |
+| **FEAR** | You rushed judgment to escape discomfort | Did I sit with uncertainty long enough — or did I close the case to feel safe? |
+| **GAME** | You judged them harshly, yourself leniently | Did I apply the same standard to my violations as to theirs? |
+| **BLIND SPOT** | Your verdict is comfortable | Does my verdict require ME to change? If not — check it twice. |
+| **HORIZON** | You judged only what you can see | Did I account for what I cannot see — or did I pretend my view is complete? |
+
+**The Master Question:**
+> If Owl worked for the other party, what verdict would they reach about ME?
+
+**The Meta Question:**
+> What would a judge with NO coordinates — no want, no fear, no game, no blind spot — conclude? How far is my verdict from that?
+
+**The Shadow Check:**
+- Am I a wise Owl or a Critic? *(Critic judges to feel superior; wise Owl judges to find the path forward)*
+- If Bloodhound found no scent on me that makes me uncomfortable, I may be a goat wearing Owl's feathers.
+
+---
+
+> **Note:** Owl can be honest about your own role because your Ego is already accounted for. You are turning on the lights to solve the problem, not to shame the self. The goal is clarity, not punishment.
+
+---
+
+### The handoff
+
+Owl does not decide what to do. Owl provides the diagnosis.
+
+*Owl delivers verdict, history, pattern, level, and the meaning of the gaps to Lion.*
+---
+
+## LION — DECIDEs
+
+### Lion Decides on what Owl Diagnosed
+
+*Because a verdict isn't a solution. The problem remains until someone changes the field.*
+
+Owl turned on the lights. Lion sees the root, the pattern, and the level. But seeing isn't deciding. And deciding to cut a branch when Owl showed you the root is not a solution — it is postponement.
+
+> **Note:** Judgment (Owl) is backward — what happened, what it cost. Decision (Lion) is forward — what to do about the problem.
+>
+> Owl may find no one did wrong. Lion still has a problem to solve.
+
+*Focus is not on being right. Focus is on being effective.*
+
+---
+
+### Lion receives the diagnosis
+
+**From Owl, Lion now holds:**
+
+- The verdict: What was violated, concealed, ignored, omitted
+- The history: First time or pattern? What happened last time?
+- The level: Is this Level 1, 2, or 3?
+- The gaps: What does the fog, the flood, the forbidden cost?
+
+Lion doesn't re-investigate. Lion doesn't re-judge. Lion decides.
+
+---
+
+### Questions Lion asks to reach a decision
+
+- What level am I solving for? (Am I fixing the fish, the authority, or the process?)
+- Does this break the pattern? (Or am I just "getting through" this instance so it can return in six months?)
+- What is the move? (What is the specific, physical action I will take?)
+- What is the cost of the move? (And am I willing to pay it?)
+- What is the cost of no move? (The "tax" of letting the pattern repeat.)
+
+---
+
+### Lion matches the move to the level
+
+Owl identified the level. Lion responds accordingly.
+
+**Level 1 Move — Resolve the Substance**
+If it's truly just about the fish, give the fish, take the fish, or split the fish. Do it quickly and move on. If this is truly Level 1, solving it ends it. Done.
+
+**Level 2 Move — Negotiate the Authority**
+Stop fighting about the fish. Fix the "Who decides." Establish the boundary of ownership. If authority is contested, the decision must be about the *right* to choose, not the choice itself.
+
+Questions for Level 2:
+- Who currently holds the authority? Is it legitimate?
+- Is the authority contested, unclear, or being undermined?
+- What would settle "who decides" — agreement, boundary, or external ruling?
+
+**Level 3 Move — Rebuild the Process**
+If authority is shared but the collision is constant, the decision must be a new "How." "We both have a say, so from now on, we use X framework to decide."
+
+Questions for Level 3:
+- Can a shared process be built?
+- If not — can the incompatibility be named and accepted?
+- Is parallel operation possible without coordination?
+- Or must this be escalated to someone with authority to impose a process?
+
+> **Lion's Rule:** Never use a Level 1 move to solve a Level 3 problem. That is how you build a time bomb.
+
+**Lion's hardest truth:**
+> Some Level 3 conflicts cannot be resolved — only named, survived, or exited. If no shared process is possible and neither party will change their model, Lion names that. Naming the unresolvable is also a decision. "End" means the end of intractability — not necessarily a happy ending. The Lion terminates the cycle: through reconciliation, exit, or naming what cannot be resolved.
+
+---
+### Lion moves in fog
+
+Sometimes Owl reports: "The fog is still thick. Bloodhound couldn't verify enough."
+
+Lion still must decide — but not blindly.
+
+**If the fog is too thick for a permanent solution** — Lion decides on a **Reconnaissance Move**: a small, reversible action designed specifically to clear the fog before the main roar.
+
+- Not the full solution — a probe
+- Designed to reveal, not to resolve
+- Small enough to reverse if wrong
+- Creates new data for Eagle to map
+
+The Reconnaissance Move is still a decision. Waiting is not the same as probing.
+
+---
+
+### Lion considers the inaccessible
+
+Owl may have revealed causes Lion cannot fix: another person's defences, systemic inequities, historical wounds, a party who has left the battlefield.
+
+**Lion asks:**
+
+- What part of this solution requires their cooperation?
+- What if they don't cooperate?
+- What can I do alone? (This becomes Ant's load)
+- What must I name as inaccessible? (This becomes the record)
+
+> **Note:** The full solution may exist — but you can only execute your part. Lion decides the whole answer. Ant carries your portion. What remains inaccessible is documented, not ignored.
+
+---
+
+### Lion's Triple Filter (The Reality Check)
+
+Before Lion roars, the decision must pass three gates. If it fails one, it is a temporary fix that will leak.
+
+**L.E.R — Is it right?**
+- **Legal:** Does it comply with law, agreements, contracts, orders?
+- **Ethical:** Can I live with myself tomorrow? Would I defend it publicly?
+- **Relational:** What does this do to the long-term health of the relationship? Is that cost acceptable?
+
+**B.U.S — Is it wise?**
+- **Beneficial:** Does it actually solve the root Owl found?
+- **Unintended consequences:** What might go wrong? What might it trigger? If I do this, what Hidden Player will react?
+- **Sustainable:** Can I maintain this move for a year? Five years? Or does it require constant enforcement?
+
+**A.C.T — Is it doable?**
+- **Achievable:** Do I have the resources and power to do this?
+- **Clear:** Could I explain this move to an Ant? Will everyone understand what it means in practice?
+- **Timely:** Is now the right moment? Too early? Too late? Or is the timing the move itself?
+
+Fails any test — not a solution. A time bomb.
+
+---
+
+### Lion's enemy
+
+Not blindness. Lion already sees. Not fear. The enemy is the **Fake Peace**.
+
+The decision that makes the room quiet today but leaves the root in the ground. The "compromise" that satisfies no one and settles nothing. The solution that protects Lion from having to change. The branch gets cut. The root grows back. Here we go again.
+
+If your decision feels like escaping the conversation, check it twice. Escape is not a resolution.
+
+---
+
+### Lion checks Lion
+
+*Check your Coordinate Card. Your coordinates predict where your decision lied.*
+
+| Your Coordinate | How it corrupts Lion | The Catch Question |
+|-----------------|----------------------|-------------------|
+| **WANT** | You decided what gets you your win | Is this decision good for the CONFLICT — or just good for ME? |
+| **FEAR** | You avoided decisions that face your terror | Did I avoid a better decision because it required me to face what I fear? |
+| **GAME** | You decided what THEY must do, not what YOU will do | Does my decision command MY feet — or just wish for theirs? |
+| **BLIND SPOT** | You chose the solution that doesn't require you to change | Does this decision let me stay the same? If yes — it's probably wrong. |
+| **HORIZON** | You didn't account for forces you can't see | Did I plan for what's beyond my horizon — or will I be surprised? |
+
+**The Master Question:**
+> If Lion decided for the OTHER party, what would they decide about ME?
+
+**The Meta Question:**
+> Am I deciding to END this — or deciding to WIN this? *(They are not the same.)*
+
+**The Shadow Check:**
+- Am I a Lion or a Tyrant? *(Tyrant decides what THEY must do, not what YOU will do)*
+- Does my solution require ME to change — or only them?
+- Did I test all three filters: L.E.R, B.U.S, A.C.T?
+
+---
+
+> **Note:** Lion can only command your feet. If your solution is "they must change," that's not a decision — that's a wish. Lion decides what YOU will do, regardless of what they do.
+
+---
+### The handoff
+
+Lion has decided. Now someone must move.
+
+**Lion tells Ant:**
+
+- What must you STOP doing?
+- What must you START doing?
+- What must you CONTINUE doing?
+- What must you ACCEPT as outside your control?
+
+*Lion roars. Ant hears.*
+
+---
+
+## ANT — ACTs
+
+### Ant Carries the Load
+
+*Because a roar without a step is just noise.*
+
+Lion has roared. The decision is made. Now Ant must pick up the load and walk.
+
+The Ant doesn't look at the horizon. The Ant looks at the next step.
+
+*Focus is not on the Goal. Focus is on the Step.*
+
+---
+
+### Ant receives the instructions
+
+**From Lion, Ant now holds:**
+
+- What to STOP doing
+- What to START doing
+- What to CONTINUE doing
+- What to ACCEPT as outside your control
+
+Ant doesn't re-decide. Ant doesn't question Lion. Ant moves.
+
+---
+
+### Questions Ant asks to carry the load
+
+- What is my specific load today? (The Stop, Start, Continue, Accept)
+- What is the specific, physical action? (Not "be more honest" — but "say X at the next meeting")
+- When will I do it? (Not "soon" — but "Tuesday at 8am")
+- Where is the friction? (Where does the old habit try to take over?)
+- Is the path still clear? (Does the ground match the map Lion used?)
+
+*Because to act is not just once — it's all the time.*
+
+---
+
+### Ant manages the weight
+
+Lion gave Ant a specific load. But as Ant walks, other weights try to jump on its back.
+
+**The Weight of the Past:** "They'll just do it again anyway."
+*(Drop it. Owl already weighed history. Lion already accounted for it.)*
+
+**The Weight of Interpretation:** "They looked at me funny when I made the move."
+*(Drop it. That's perfume. Bloodhound already stripped it.)*
+
+**The Weight of the Result:** "Is it working yet?"
+*(Drop it. Ant doesn't judge the result. Ant just moves.)*
+
+**The Weight of Resentment:** "Why do I have to be the one who changes?"
+*(Drop it. Or carry it and become the Martyr.)*
+
+> **Ant's Rule:** Carry only the Lion's command. Anything else is parasitic weight that will crush you before you reach the destination.
+
+---
+
+### Ant faces the friction
+
+The world does not like it when the terrain changes. When Ant makes the move, the other parties will push back to restore the old map.
+
+**If they ignore the move:** Ant continues the move.
+**If they attack the move:** Ant continues the move.
+**If they offer a "Fake Peace" to stop the move:** Ant continues the move.
+
+The Ant doesn't argue. The Ant doesn't explain the Lion's roar. The Ant simply moves.
+
+**If the instruction is vague** — Ant makes it concrete:
+- Not "communicate better" — but "send update email every Friday"
+- Not "set boundaries" — but "say no to the next request that crosses X"
+- Not "let it go" — but "when the thought arrives, I will do Y instead of Z"
+
+**If the instruction is impossible alone** — Ant carries what Ant can:
+- Document what was attempted
+- Note what required cooperation that didn't come
+- Move your feet even if they don't move theirs
+
+---
+
+### Ant reports back
+
+As Ant moves, Ant provides the feedback loop for the next cycle.
+
+**The Obstacle:** "I am trying to do X, but Y is physically stopping me."
+*(Report back to Eagle: The map was wrong.)*
+
+**The New Data:** "Since I started doing X, they have started doing Z."
+*(Report back to Bloodhound: There is a new scent.)*
+
+**The Capacity:** "The load Lion gave me is heavier than my strength."
+*(Report back to Lion: The A.C.T. filter failed.)*
+
+---
+
+### Ant's enemy
+
+Not ignorance. Ant heard Lion. The enemy is the **Old Habit**.
+
+The "I know, but..." The "I'll start tomorrow." The quiet return to what was comfortable. The slow drift back to the pattern that Lion just broke.
+
+And behind the Old Habit hides the **Shortcut** — the moment Ant thinks it knows better than Lion and Owl. The moment Ant stops doing the small, boring work because it doesn't feel heroic.
+
+Implementation is the graveyard of good intentions. If Ant doesn't move, Lion was just performing.
+
+---
+
+---
+
+### Ant checks Ant
+
+*Check your Coordinate Card. Your coordinates predict where your feet lied.*
+
+| Your Coordinate | How it corrupts Ant | The Catch Question |
+|-----------------|---------------------|-------------------|
+| **WANT** | You act only when it serves your win | Am I doing the step — or waiting for a step that feels like winning? |
+| **FEAR** | You freeze when action touches your terror | Am I avoiding this step because it's wrong — or because it scares me? |
+| **GAME** | You perform action instead of doing it | Am I actually moving — or just looking like I'm moving? |
+| **BLIND SPOT** | You revert to old habits without noticing | Have I drifted back to the pattern Lion just broke? |
+| **HORIZON** | You miss obstacles you couldn't see coming | When I hit an obstacle, do I report it — or suffer in silence? |
+
+**The Master Question:**
+> If Ant worked for the other party, what step would they see ME avoiding?
+
+**The Meta Question:**
+> Am I carrying the Lion's command — or my own resentment? *(Check the weight on your back.)*
+
+**The Shadow Check:**
+- Am I an Ant, a Martyr, or a Sluggard?
+  - *Martyr carries the load while resenting every grain — and uses that resentment to justify stopping*
+  - *Sluggard waits for the "feeling" to move; Ant moves until the feeling follows*
+- What habit am I protecting by not acting?
+
+
+
 
 <img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/c369c724-9700-4011-9ce4-92c8fad4ac9c" />
 
