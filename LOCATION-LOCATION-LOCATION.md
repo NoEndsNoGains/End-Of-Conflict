@@ -30,9 +30,33 @@ Not because it's complicated — it isn't. But because it asks you to admit: **I
 
 Everything else only works after that.
 
+### The Cost of Seeing
+
+Locating yourself honestly costs something. Name the cost.
+
+What story about yourself ends when you fill in this card truthfully?
+
+The story that you're the victim? The innocent one? The one who tried everything? The one who had no choice?
+
+If you're not willing to lose that story, you're not ready to locate. You'll just fill in the card the way the story needs it filled in.
+
 ---
 
-## The Six Coordinates
+## The Three Dimensions
+
+Location is not flat. It has three dimensions — and most people only see one.
+
+| Dimension | Role | What it locates | What it prevents |
+|-----------|------|-----------------|------------------|
+| **Personal** | The Internal GPS | Where YOU stand | Self-Deception |
+| **Temporal** | The Timeline | When the conflict is | Anachronism (fighting yesterday's war) |
+| **System** | The Laws of Nature | The physics of the battlefield | Futility (fighting gravity, ignoring the bill) |
+
+Most parties are so focused on their Personal coordinates — their Fear, their Game — that they are blind to the System coordinates. They don't see that the battlefield itself is consuming them.
+
+---
+
+## The Personal Coordinates
 
 Think of these as the GPS points that tell you exactly where you are standing before Eagle can fly.
 
@@ -45,9 +69,50 @@ Think of these as the GPS points that tell you exactly where you are standing be
 | **5. BLIND SPOT** | What am I hiding from MYSELF? | Self-deception. The story I tell myself. |
 | **6. HORIZON** | What CAN'T I see from this position? | Structural impossibility. Not unwillingness — incapacity. |
 
-Plus:
+---
+
+## The Temporal Coordinate
 
 | **7. TIME** | When is this conflict? | Past / Present / Future. |
+
+You are always looking FROM now. But the conflict itself may be in a different time.
+
+| Time | Definition | Why It Matters |
+|------|------------|----------------|
+| **Past** | Already happened. You know how it ended. | Sense-making, release, justice, or prevention. |
+| **Present** | Happening now. | You can see, judge, decide, and act. |
+| **Future** | Has not played out yet. | Your map is hypothesis. Simulation, not resolution. |
+
+---
+
+## The System Coordinates
+
+These locate the physics of the battlefield — the forces that operate whether you see them or not.
+
+| Coordinate | The Question | What It Captures |
+|------------|--------------|------------------|
+| **8. MASS** | How much does each position weigh? | Gravitational pull. Power. Who bends the field. |
+| **9. ENTROPY** | What is this conflict costing to maintain? | Degradation. The bill. What's being consumed. |
+
+### MASS: The Weight
+
+Not all positions have equal gravity.
+
+The court has more mass than the parent. Thirteen witnesses have more mass than one mother. A government has more mass than a citizen. Western media templates have more mass than a single journalist's doubt.
+
+Mass pulls. The heavier position doesn't need to enforce — it bends the field around it. Others fall toward it without knowing why.
+
+**The Trap of Mass:** A party with high WANT but low MASS will often get crushed by the system's gravity, regardless of how "right" they are. You don't negotiate with a black hole. You calculate for it.
+
+### ENTROPY: The Cost
+
+Conflict is a heat-producing engine. It consumes.
+
+Every position you hold has a maintenance cost: money, time, mental health, relationships, childhoods. The meter is always running. The longer you hold, the more you pay.
+
+**The Trap of Entropy:** Many people "win" a conflict only to realize they are standing in a graveyard. They got the verdict. They lost the decade. They proved they were right. They have nothing left.
+
+If the TIME is long and the ENTROPY is high, the system is designed to bleed the parties dry before a decision is ever reached. This is not a bug. For some systems, this IS the function.
 
 ---
 
@@ -260,6 +325,20 @@ The framework says: **There is no observer. There is only the question — whose
 
 ---
 
+## Note: From Villainy to Predictability
+
+When you see the 13 Witnesses through the lens of biology, they stop being "liars" and start being "organisms attempting to survive."
+
+When you see the Judge through the lens of cognitive bias, he stops being "corrupt" and starts being "a human with a brain that shortcuts."
+
+When you see the New Partner through the lens of game theory, she stops being "evil" and starts being "a rational actor protecting her investment."
+
+This matters for Owl. If you judge them as villains, your verdict is punishment. If you judge them as predictable, your verdict addresses the mechanism — not just the behaviour.
+
+**The coordinates don't excuse. They explain.** And explanation is how you stop the machine from running the same program again.
+
+---
+
 ## The Distinction: BLIND SPOT vs HORIZON
 
 These are different:
@@ -303,23 +382,15 @@ These are different:
 
 ---
 
-## Time: When Is This Conflict?
-
-You are always looking FROM now. But the conflict itself may be in a different time.
-
-| Time | Definition | Why It Matters |
-|------|------------|----------------|
-| **Past** | Already happened. You know how it ended. | Sense-making, release, justice, or prevention. |
-| **Present** | Happening now. | You can see, judge, decide, and act. |
-| **Future** | Has not played out yet. | Your map is hypothesis. Simulation, not resolution. |
-
----
-
 ## Your Coordinate Card
 
 Fill this in honestly. This is your pre-flight check.
 ```
 MY COORDINATES:
+
+═══════════════════════════════════════════════════════════════
+PERSONAL COORDINATES (Where I Stand)
+═══════════════════════════════════════════════════════════════
 
 1. POSITION: I am a _________________________________.
    ☐ Party (Direct)  ☐ Party (Indirect)  ☐ Observer (prove it)
@@ -341,16 +412,116 @@ MY COORDINATES:
    __________________________________________________.
    (What is structurally invisible from where I stand?)
 
+═══════════════════════════════════════════════════════════════
+TEMPORAL COORDINATE (When This Is)
+═══════════════════════════════════════════════════════════════
+
 7. TIME: This conflict is:
    ☐ Past  ☐ Present  ☐ Future
 
-SYSTEM CHECK:
+═══════════════════════════════════════════════════════════════
+SYSTEM COORDINATES (The Physics of the Battlefield)
+═══════════════════════════════════════════════════════════════
+
+8. MASS: What is the weight of each position?
+   My position's mass:    ☐ Heavy  ☐ Medium  ☐ Light  ☐ Crushed
+   Their position's mass: ☐ Heavy  ☐ Medium  ☐ Light  ☐ Crushed
+   
+   What institution, group, or narrative is adding mass to one side?
+   __________________________________________________
+   
+   Am I fighting gravity? ☐ Yes  ☐ No  ☐ I don't know yet
+
+9. ENTROPY: What is this conflict costing me to maintain?
+   Financial (money spent, lost, at risk): _______________
+   Emotional (anxiety, rage, hypervigilance): _______________
+   Physical (health, sleep, body): _______________
+   Relational (friendships, family, children): _______________
+   Time (years already / years to come): _______________
+   
+   Can I afford to continue? ☐ Yes  ☐ No  ☐ Not for much longer
+
+═══════════════════════════════════════════════════════════════
+SYSTEM CHECK (The Machine)
+═══════════════════════════════════════════════════════════════
+
 What machine might I be part of that I cannot see?
 __________________________________________________
 
 Whose bricks am I carrying?
 __________________________________________________
 ```
+
+---
+
+## The Deeper Checks
+
+You filled in your card. Now go deeper.
+
+---
+
+### The Body Check
+
+Where do you feel this conflict in your body?
+
+The chest? The throat? The jaw? The gut? The shoulders?
+
+Conflict lives in the body before it lives in the mind. Your nervous system decided this was danger before you had words for it.
+
+If you can't locate where it sits, you may not be ready to map it yet. The body knows what the mind won't admit.
+
+**Write it down:** *When I think about this conflict, I feel it in my _______________.*
+
+---
+
+### The Secondary Gains Check
+
+What would you LOSE if this conflict ended tomorrow?
+
+Not what you'd gain. What you'd *lose*.
+
+Purpose? Identity? An enemy? A reason to get up? The right to be angry? The moral high ground? A story that makes sense of your life?
+
+The conflict may be giving you more than you admit. If you can't name what you get from it, you can't see why you stay.
+
+**Write it down:** *If this ended tomorrow, I would lose _______________.*
+
+---
+
+### The Cost Check (Entropy)
+
+You filled in the ENTROPY coordinate. Now look at it.
+
+What is this conflict COSTING you to maintain your position?
+
+Not what you'd lose if it ended (that's Secondary Gains). What you're SPENDING to stay in it.
+
+Conflict is an entropy accelerator. It breaks down resources faster than they can regenerate. Systems move toward disorder unless energy is added to maintain structure. You are the energy. You are being consumed.
+
+**The brutal questions:**
+
+- Can you afford to maintain this position?
+- At what point does the cost exceed what you're protecting?
+- If you "win" after ten years, what will be left?
+- Are you winning the battle and losing the war on your own life?
+
+**Write it down:** *This conflict has already cost me _______________. If it continues another year, it will cost me _______________.*
+
+---
+
+### The Verification Check
+
+You filled in your own card. But by definition, you cannot see your own BLIND SPOT.
+
+**The Test:** Have someone who knows you — and who is not on your side — fill in your Coordinate Card for you.
+
+Not your ally. Not your therapist (unless they're willing to be brutal). Someone who has seen you in this conflict and isn't invested in your story.
+
+Compare the two cards.
+
+Where they differ: that's data. That's the gap between who you think you are and how you land on others.
+
+If you're not willing to do this, ask yourself why.
 
 ---
 
@@ -380,6 +551,47 @@ This is what you look like from across the field.
 
 ---
 
+## The Power Check
+
+Not all coordinates are equal.
+
+The Judge's BLIND SPOT becomes the mother's reality. The system's HORIZON becomes everyone's map. Some people's coordinates get enforced. Others get erased.
+
+**Ask yourself:**
+
+In this conflict, whose coordinates become the "official" version?
+
+Who has the power to make their map the map?
+
+Whose WANT gets resourced? Whose FEAR gets dismissed? Whose GAME gets protected? Whose BLIND SPOT never gets named because no one dares?
+
+And where are YOU in this hierarchy? Are your coordinates the ones that get enforced — or erased?
+
+**Write it down:** *The coordinates that get enforced in this conflict belong to _______________.*
+
+---
+
+## The Mass Check
+
+You filled in your MASS coordinate. Now think about what it means.
+
+Mass is not the same as Power. Power can be exercised. Mass just *is*. It bends the field around it. Others fall toward it without choosing to.
+
+**The questions:**
+
+- How much mass does MY position have in this system?
+- How much mass does THEIR position have?
+- What institution, group, or narrative is adding mass to one side?
+- Am I fighting gravity?
+
+**The hard truth:** If you have low mass and they have high mass, being "right" may not matter. A single parent has less mass than a court system. A whistleblower has less mass than a corporation. A citizen has less mass than a state.
+
+This doesn't mean you shouldn't fight. It means you should fight with your eyes open. You stop shouting at the storm and start measuring the wind speed.
+
+**Write it down:** *The position with the most mass in this conflict is _______________. My mass relative to theirs is _______________.*
+
+---
+
 ## Note: Position Can Shift
 
 You locate yourself once at the start. But the act of mapping can change your position.
@@ -398,6 +610,38 @@ Your map is YOUR map. It reflects what you can see from where you stand. Later s
 
 ---
 
+## The Inheritance Check
+
+You named your POSITION. But what about your GAME?
+
+Not just the position you inherited — the *strategy* you inherited.
+
+How did your family fight? How did your culture teach you to protect yourself? What game did you learn before you knew you were learning it?
+
+The silent treatment. The explosion. The guilt trip. The disappearing act. The "everything is fine." The score-keeping. The martyrdom.
+
+You may be playing a game you didn't choose and can't see — because it feels like "just how things are done."
+
+**Write it down:** *The game my family/culture taught me to play is _______________.*
+
+---
+
+## The Shift Check
+
+How have your coordinates changed since this began?
+
+Your WANT in month one may not be your WANT in year five. The FEAR that drove you at the start may have transformed into something else. The GAME you were playing may have escalated — or collapsed.
+
+If your coordinates have shifted, note it. This is not inconsistency. This is data about how the conflict has changed you.
+
+**Write it down:**
+
+*When this began, my WANT was _______________. Now it is _______________.*
+
+*When this began, my FEAR was _______________. Now it is _______________.*
+
+---
+
 ## What Your Location Predicts
 
 Your coordinates tell you why you will fail the Self-Checks.
@@ -412,7 +656,25 @@ When you run **Lion:** Your GAME will tempt you to decide what THEY must do, not
 
 When you run **Ant:** Your HORIZON will make you miss obstacles you couldn't see coming.
 
+**The System coordinates predict something else:**
+
+Your **MASS** tells you whether you're fighting a fair fight or fighting gravity.
+
+Your **ENTROPY** tells you whether you can afford to keep fighting at all.
+
 **The Self-Checks exist to catch your coordinates in the act.**
+
+---
+
+## The Strategic Survival Question
+
+With all three dimensions visible — Personal, Temporal, System — you can now ask the question that most parties never ask:
+
+**Even if I am right (Personal), and even if the time is now (Temporal), do I have the mass to withstand the gravity of this machine, and can I afford the entropy required to reach the end?**
+
+This is not about giving up. This is about fighting with sight.
+
+You stop being a Party and become a Physicist. You stop shouting at the storm and start measuring the wind speed.
 
 ---
 
@@ -420,7 +682,7 @@ When you run **Ant:** Your HORIZON will make you miss obstacles you couldn't see
 
 You just read "Location, Location, Location." Your current state is:
 
-- a) "Oh shit. I'm a Party. I have coordinates. I have blind spots. I have a horizon."
+- a) "Oh shit. I'm a Party. I have coordinates. I have blind spots. I have a horizon. And I might be fighting gravity while the clock runs out on my resources."
 - b) "I'm definitely an Observer. This isn't about me."
 - c) "I don't need to fill in the Coordinate Card. I already know who I am."
 - d) "This is a lot of forms. Can we just get to the part where I'm right?"
@@ -442,12 +704,14 @@ You are about to draw a map of the conflict. Your coordinates tell you which par
 - Your **GAME** will hide your own moves.
 - Your **BLIND SPOT** will flatten what you don't want to see.
 - Your **HORIZON** will cut off what you can't see from here.
+- Your **MASS** will make you underestimate what you're up against.
+- Your **ENTROPY** will make you ignore the cost of staying in the fight.
 
 Keep the card visible. When Eagle asks "Did I map the whole terrain?" — check your coordinates. That's where you cheated.
 
 ---
 
-You have your coordinates. You know where you stand. You know what you want, what you fear, what you're hiding, what you can't see.
+You have your coordinates. You know where you stand. You know what you want, what you fear, what you're hiding, what you can't see. You know the weight of your position and the cost of holding it.
 
 Your Location tells you WHY you will fail the Self-Checks.
 
@@ -467,10 +731,26 @@ Now Eagle can fly — with both eyes open.
 
 | What | Purpose |
 |------|---------|
-| **The Six Coordinates** | GPS for your position before mapping |
+| **The Three Dimensions** | Personal, Temporal, System — the complete vector map |
+| **The Personal Coordinates (1-6)** | GPS for where YOU stand |
+| **The Temporal Coordinate (7)** | When the conflict is |
+| **The System Coordinates (8-9)** | MASS (weight/power) and ENTROPY (cost/degradation) |
 | **Seven Scenarios** | Each illuminates one coordinate |
 | **Group A (The Machine)** | How we are used — the coordinated outcome |
 | **Group B (The Mirror)** | How we use ourselves — now it's about YOU |
+| **Villainy → Predictability** | They're not evil — they're organisms. Judge the mechanism. |
 | **Your Coordinate Card** | Pre-flight check — fill in before Eagle flies |
+| **The Deeper Checks** | Body, Secondary Gains, Cost, Verification — what the card alone can't catch |
 | **The Meta Question** | Guess their coordinates — and what you look like to them |
-| **The Handoff** | Keep the card visible — the Self-Checks will catch you |
+| **The Power Check** | Whose coordinates get enforced? |
+| **The Mass Check** | Are you fighting gravity? |
+| **The Inheritance Check** | What game did you learn before you knew? |
+
+
+Before You Fly
+You just filled in your Coordinate Card. You located your body. You named what you'd lose. You counted the cost. You guessed their coordinates. You saw what you look like from across the field.
+That's a lot.
+If something cracked open — if you're sitting with more than you expected — that's not failure. That's the chapter working.
+
+ACTION: Book a visit with a psychologist. Or at least have a good cry. A journal session. A long walk. Something.
+Then come back. Eagle will wait.
