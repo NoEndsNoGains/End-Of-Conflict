@@ -3406,9 +3406,11 @@ Now Eagle can fly — with both eyes open.
 | **The Personal Coordinates (1-6)** | GPS for where YOU stand |
 | **The Temporal Coordinate (7)** | When the conflict is |
 | **The System Coordinates (8-9)** | MASS (weight/power) and ENTROPY (cost/degradation) |
-| **Seven Scenarios** | Each illuminates one coordinate |
-| **Group A (The Machine)** | How we are used — the coordinated outcome |
-| **Group B (The Mirror)** | How we use ourselves — now it's about YOU |
+| **Nine Scenarios** | Each illuminates one coordinate |
+| **Dimension 1 Scenarios (Personal)** | Position, Want, Fear, Game, Blind Spot, Horizon — where you stand |
+| **Dimension 2 Scenario (Temporal)** | Time — when the conflict is |
+| **Dimension 3 Scenarios (System)** | Mass, Entropy — the physics consuming you |
+| **Coda: The Inherited Map** | You didn't choose the structure. But you're in it. |
 | **Villainy → Predictability** | They're not evil — they're organisms. Judge the mechanism. |
 | **Your Coordinate Card** | Pre-flight check — fill in before Eagle flies |
 | **The Deeper Checks** | Body, Secondary Gains, Cost, Verification — what the card alone can't catch |
@@ -3417,14 +3419,41 @@ Now Eagle can fly — with both eyes open.
 | **The Mass Check** | Are you fighting gravity? |
 | **The Inheritance Check** | What game did you learn before you knew? |
 
+---
 
-Before You Fly
+## Before You Fly
+
 You just filled in your Coordinate Card. You located your body. You named what you'd lose. You counted the cost. You guessed their coordinates. You saw what you look like from across the field.
+
 That's a lot.
+
 If something cracked open — if you're sitting with more than you expected — that's not failure. That's the chapter working.
 
-ACTION: Book a visit with a psychologist. Or at least have a good cry. A journal session. A long walk. Bath? Something.If you think you don't need anything of these you have not done the work. 
-Then come back. Eagle will wait.
+You can just sit. I sat. Sometimes sitting can take a very, very long time.
+
+Sit.
+
+And then — maybe a visit with a psychologist. Popping to a friend. At least a hello to a neighbour. A hug. A small smile from someone who sees you. A good cry. A journal session. A long walk. A shorter walk. A warm bath. A cold shower.
+
+But maybe, in the place where you are — that physical place of you being cracked open — there is no bath. No shower. Maybe there is no water. No safe street to walk. No one to hug. A total absence of fancy tansy.
+
+How do you hold yourself then?
+
+How do you tender yourself when you've been so very hard? When the room you've placed yourself in has only mirrors — up, down, every wall — and all the mirrors are cold and none is soft? And all of them show every crack of you so fully naked?  
+
+If I said "breathe," I worry you'd slap me through the pages of this book. I might actually see the hand reaching out.
+
+So I say nothing.
+
+But if you still tell yourself you don't need any of it — not the breath, not the hug, not even this thing we all so very need: *"I see you. I understand."* — then you haven't done the work.
+
+Go back. Read the chapter again.
+
+Then come back.
+
+Eagle will wait.
+
+---
 
 
 ## THEORETICAL FOUNDATIONS
