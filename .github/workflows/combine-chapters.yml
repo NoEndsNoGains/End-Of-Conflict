@@ -1,13 +1,4 @@
-- [CHEAT SHEET.md](CHEAT-SHEET.md)
-- [PROLOGUE](Front-Matters.md)
-- [EVERYTHING NEEDS A CHAIR](EVERYTHING-NEEDS-A-CHAIR.md)
-- [LOCATION, LOCATION, LOCATION](LOCATION-LOCATION-LOCATION.md)
-- [FRAMEWORK](FRAMEWORK.md)
-- [STRESS-TESTING](STRESS-TESTING.md)
-- [LAUGH](LAUGH.md)
-- [THEORETICAL FOUNDATIONS](THEORETICAL-FOUNDATIONS.md)
-- [DEEP-DIVE](DEEP-DIVE.md)
-- [End Matters](End-Matters.md) - can you update the workflow with this order? I think this will be better: name: Combine Chapters
+name: Combine Chapters
 on:
   push:
     paths:
