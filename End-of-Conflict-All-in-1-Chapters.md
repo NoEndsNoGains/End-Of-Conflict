@@ -2594,7 +2594,7 @@ Everything else only works after that.
 
 Locating yourself honestly costs something. Name the cost.
 
-What story about yourself ends when you fill in this card truthfully?
+What story about yourself ends when you answer truthfully?
 
 The story that you're the victim? The innocent one? The one who tried everything? The one who had no choice?
 
@@ -2604,9 +2604,11 @@ If you're not willing to lose that story, you're not ready to locate. You'll jus
 
 ## The Three Dimensions
 
-Location is not flat. It has three dimensions — and most people only see one.
+Location is not flat. It has three dimensions — and most people only see one: personal, temporal, system.
 
-Think of it like this: You're standing in a field, arguing about who owns the fence. You know exactly where you stand (Personal). You might even know this fight started three years ago (Temporal). But you don't notice the field itself — its slope, its toll, its physics (System). The ground you're fighting on is not neutral. It has weight. It has a meter running. And it doesn't care who's right.
+Think of it like this: 
+
+You're standing in a field, arguing about who owns the fence. You know exactly where you stand (Personal). You might even know this fight started three years ago (Temporal). But you don't notice the field itself — its slope, its toll, its physics (System). The ground you're fighting on is not neutral. It has weight. It has a meter running. And it doesn't care who's right.
 
 | Dimension | Role | What it locates | What it prevents |
 |-----------|------|-----------------|------------------|
@@ -3093,7 +3095,39 @@ __________________________________________________
 
 ## The Deeper Checks
 
+---
+
+## The Deeper Checks
+
 You filled in your card. Now go deeper.
+
+Why? Because the card captures what you can name. The deeper checks catch what you can't — or won't.
+
+But if you've had enough... who would blame you? This is already more than most people do. The card alone is more honesty than most conflicts ever see.
+
+Still here?
+
+The purpose of going deeper is to notice what this conflict is costing you — not just in arguments or outcomes, but in your body, your identity, your life. The card maps where you stand. The deeper checks measure what standing there is taking from you.
+
+To see it exactly:
+
+Sometimes the winner is the one lying in the cold bed, staring at the ceiling, frozen in righteousness.
+
+But sometimes it's the loser. The mother whose children were taken. She doesn't have the warm table. She doesn't have the steam rising from the soup, the chair scraping, the small hand reaching for bread. That was taken from her.
+
+And now she faces a different question:
+What is the fight costing her on top of what was already stolen?
+
+She's already paid once — when they took her children. Is she paying twice? Three times? Is the fight to prove she was right consuming what little she has left — her health, her sleep, her capacity to be whole when they finally come back?
+
+The card shows the score. The deeper checks show the tax.
+
+For some, the tax is the warmth they refuse to return to.
+
+For others, the tax is what the fight is taking from what's left.
+
+Both need to look. Both need to count. Both need to ask: Can I afford this? And if I can — is this how I want to spend what I have?
+
 
 ---
 
@@ -3389,7 +3423,7 @@ You just filled in your Coordinate Card. You located your body. You named what y
 That's a lot.
 If something cracked open — if you're sitting with more than you expected — that's not failure. That's the chapter working.
 
-ACTION: Book a visit with a psychologist. Or at least have a good cry. A journal session. A long walk. Something.
+ACTION: Book a visit with a psychologist. Or at least have a good cry. A journal session. A long walk. Bath? Something.If you think you don't need anything of these you have not done the work. 
 Then come back. Eagle will wait.
 
 
