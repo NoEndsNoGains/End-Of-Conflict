@@ -16,7 +16,7 @@ REORDER:
 
 
 
-# End of Conflict Cheat Sheet
+# End of Conflict Cheat Sheet - EBOLA MANUAL
 ## _"Let me be Dry"_
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fff9681-20c2-47a8-8af3-9fb919511539" />
 
@@ -958,12 +958,14 @@ You just read about five animals. Your first thought was:
 
 - a) "I have a PhD. I can get the concept without the animals, thank you."
 - b) "I'm definitely the Eagle. I see everything."
-- c) "Which one am I? I think I'm a Lion."
+- c) Are these five like this deadly virus EBOLA but aimed to kill conflict?"
 - d) "This is a bit 'self-help' for my taste."
 
-**The Verdict:** You're all of them. That's the point. If you're in conflict, you need help. You're a mess. Animals can help.
+**The Verdict:** Whatever pleases you but I personally like c.
 
 ---
+EBOLA - THE END OF CONFLICT FRAMEWORK
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3a8cc807-cf08-4e4f-a9ef-66734a3a7751" />
 
 ## 1.10 How Do I Begin?
 
@@ -1194,15 +1196,25 @@ At some point you stop refining and start using. What's here is not complete. It
 The framework is a mirror you serve; what it reflects is sight; sight is power; power is yours.
 
 ---
-**Final check:**
+The Audit Questions:
 
-You are 90 years old. Looking back at this conflict.
+The Sight Question: Was I a Mapper or a Vulture? Did I spend my years seeking the whole terrain — or just circling for carcasses?
+The Weight Question: Did I carry a Sword or a Wound? Am I remembered for the receipts I kept, or the burden I refused to put down?
+The Legacy Question: Am I leaving my grandchildren a Map or a Curse? Is this "justice" — or just my unspent rage in nicer wrapping?
+The Agency Question: Did I own my Feet or my Excuses? Was I waiting for them to change so I could finally start living?
 
-- a) "I'm so glad I spent four years proving I was 10% more right."
-- b) "Holding that grudge really protected my dignity."
-- c) "I wasted my life on a bridge with a goat."
 
-**The Verdict:** You are currently choosing a or b. The framework isn't here to save the relationship. It's here to save your time. You are dying. Act accordingly.
+The Verdicts:
+The Vulture: You aren't strong. You're just cold. Ninety years of being right. Zero years of being free. Statues don't have lives. They have surfaces.
+The Inquisitor: You are a librarian of misery. You won every argument. You lost every year. You're planning a funeral speech for a war nobody else remembers.
+The Critic: You diagnosed everything. You fixed nothing. You watched your life like it was someone else's problem.
+The Tyrant: You stayed on the bridge waiting for the other goat to move. Now you're both stone. The bridge is still blocked.
+The Sluggard: You were going to act. Tomorrow. When the moment was right. The moment came. The moment went. You're still waiting.
+The Martyr: You aren't a hero. You're a debt. You "gave everything" to a fight that didn't ask for it. Your sacrifice is an invoice you're mailing to your grandchildren.
+The Awakened: This is the only exit. It hurts — because it names the waste. But it's the only position that lets you die as a human instead of a combatant.
+
+The mirror is clear.
+You can continue as a Knower — already right, already done, already dead inside.Nurse calls: Doctor, another patience calls for cheesy pasta!
 
 ---
 # All At Once
