@@ -242,6 +242,28 @@ You are now:
 
 ---
 
+### Your Coordinate Card
+
+Before Eagle flies, fill in your Coordinate Card *(see "Location, Location, Location" for full instructions)*:
+```
+MY COORDINATES:
+1. POSITION: I am a _______. ☐ Party (Direct) ☐ Party (Indirect) ☐ Observer
+2. WANT: I want _______.
+3. FEAR: I am afraid of losing _______.
+4. GAME: What I'm not saying out loud is _______.
+5. BLIND SPOT: What I'm hiding from myself is _______.
+6. HORIZON: What I can't see from this position is _______.
+7. TIME: ☐ Past ☐ Present ☐ Future
+```
+
+**Keep this card visible throughout. Each animal will try to cheat based on your coordinates.**
+
+**An Observer watches the weather. A Party builds the storm.**
+
+---
+
+---
+
 ## 1.9 What Are the Five Stages in the End of Conflict Framework?
 
 Five stages:
@@ -330,14 +352,30 @@ Not all conflicts look the same.
 
 ---
 
+---
+
 ### Eagle checks Eagle
 
-- What do I say, do, want, hide, miss — or don't want to see?
-- Do I understand what my job is? *(Map the entire terrain — not find truth, not judge, not decide, not interpret patterns)*
-- Do I know how to do my job well? *(Fly above the whole field, not only parts I like flying over. See the horizon. Don't get lost in it.)*
-- If I am a party, whose map am I using? Am I mapping the field, or just my side of the fence?
-- Am I an Eagle or a Vulture? *(Vulture only circles for carcasses, hunting the other's faults, not mapping the whole)*
-- Who gave me this job? Who told me where the horizon ends? *(The boundaries I accept may have been drawn by someone with interests. Who benefits from where I was told not to fly?)*
+*Check your Coordinate Card. Your coordinates predict where you cheated.*
+
+| Your Coordinate | How it corrupts Eagle | The Catch Question |
+|-----------------|----------------------|-------------------|
+| **WANT** | You mapped toward your win | Did I map what THEY want as carefully as what I want? |
+| **FEAR** | You erased what terrifies you | Did I map what I'm afraid to see? |
+| **GAME** | You hid your own moves | Did I map my own strategy as a feature of the terrain? |
+| **BLIND SPOT** | You flattened what you don't want to see | Did I map the parts that make me look bad? |
+| **HORIZON** | You stopped at what you can't see | Did I mark where my vision ends — and ask what's beyond it? |
+
+**The Master Question:**
+> If someone with opposite coordinates mapped this conflict, what would THEY see that I missed?
+
+**The Meta Question:**
+> Can I guess the other parties' coordinates? Their WANT, FEAR, GAME, BLIND SPOT, HORIZON? If I can't — I haven't mapped them. I've only mapped my story about them.
+
+**The Shadow Check:**
+- Am I an Eagle or a Vulture? *(Vulture only circles for carcasses — hunting the other's faults, not mapping the whole)*
+- Who gave me this job? Who told me where the horizon ends?
+
 ---
 
 *Eagle passes the map to Bloodhound.*
@@ -404,14 +442,25 @@ If you find a fact that makes you look good, sniff it twice. It might be a decoy
 
 ### Bloodhound checks Bloodhound
 
-- What do I say, do, want, hide, miss — or don't want to see? *(Bloodhound's method applied to Bloodhound)*
-- Is my nose clogged by my own story?
-- Am I smelling what is actually there, or what I expect to find?
-- Did I verify ALL parties — including hidden players, including myself?
-- Did I walk into the fog, or just note it from the edge?
-- Did I check the forbidden — or accept it without sniffing?
-- Did I track the omissions — the silences, the non-replies, the choices not to act?
+*Check your Coordinate Card. Your coordinates predict where your nose lied.*
+
+| Your Coordinate | How it corrupts Bloodhound | The Catch Question |
+|-----------------|---------------------------|-------------------|
+| **WANT** | You sniffed only for confirming scents | Did I follow trails that contradict my preferred outcome? |
+| **FEAR** | You avoided trails that scare you | Did I sniff where I was afraid to go? |
+| **GAME** | You didn't sniff your own trail | Did I verify what I SAY vs what I DO as rigorously as I checked them? |
+| **BLIND SPOT** | You called your preferred scent "neutral" | Did I notice when I stopped sniffing because I liked what I found? |
+| **HORIZON** | You didn't track what happened outside your view | Did I note what I CANNOT verify — and mark it as unknown? |
+
+**The Master Question:**
+> If Bloodhound worked for the other party, what scent would they find on ME?
+
+**The Meta Question:**
+> What do THEY say, do, want, hide, miss? Can I answer this as precisely as I answered it for myself? If not — I'm sniffing with one nostril.
+
+**The Shadow Check:**
 - Am I a Bloodhound or an Inquisitor? *(Inquisitor uses facts as weapons to trap, not trails to follow)*
+- Is my nose clogged by my own story?
 
 ---
 
@@ -544,17 +593,30 @@ If your verdict feels satisfying, check it twice. Comfort is suspicious.
 
 ---
 
+
 ### Owl checks Owl
 
-- What do I say, do, want, hide, miss — or don't want to see?
-- Did I judge the entire field — or only the parts that make me look innocent?
-- What is MY role in the pattern? What did I violate, conceal, ignore, omit?
-- Did I assign weight based on consequences — or based on who I want to be right?
-- Did I let go of what doesn't matter — or did I hoard grievances?
-- Did I check history — or did I treat this as the first time because that's easier?
-- Am I stuck in the past? Am I judging based on a pattern that no longer exists?
-- Am I a wise Owl or a Critic? *(Critic judges to feel superior; wise Owl judges to find the path to resolution)*
--  If Bloodhound found no scent on me that makes me uncomfortable, I may be a goat wearing  Owl's feathers.
+*Check your Coordinate Card. Your coordinates predict where your verdict lied.*
+
+| Your Coordinate | How it corrupts Owl | The Catch Question |
+|-----------------|---------------------|-------------------|
+| **WANT** | You weighed evidence toward your preferred verdict | Did I weigh facts that hurt my case as heavily as facts that help it? |
+| **FEAR** | You rushed judgment to escape discomfort | Did I sit with uncertainty long enough — or did I close the case to feel safe? |
+| **GAME** | You judged them harshly, yourself leniently | Did I apply the same standard to my violations as to theirs? |
+| **BLIND SPOT** | Your verdict is comfortable | Does my verdict require ME to change? If not — check it twice. |
+| **HORIZON** | You judged only what you can see | Did I account for what I cannot see — or did I pretend my view is complete? |
+
+**The Master Question:**
+> If Owl worked for the other party, what verdict would they reach about ME?
+
+**The Meta Question:**
+> What would a judge with NO coordinates — no want, no fear, no game, no blind spot — conclude? How far is my verdict from that?
+
+**The Shadow Check:**
+- Am I a wise Owl or a Critic? *(Critic judges to feel superior; wise Owl judges to find the path forward)*
+- If Bloodhound found no scent on me that makes me uncomfortable, I may be a goat wearing Owl's feathers.
+
+---
 
 > **Note:** Owl can be honest about your own role because your Ego is already accounted for. You are turning on the lights to solve the problem, not to shame the self. The goal is clarity, not punishment.
 
@@ -701,18 +763,32 @@ If your decision feels like escaping the conversation, check it twice. Escape is
 
 ---
 
+---
+
 ### Lion checks Lion
 
-- What do I say, do, want, hide, miss — or don't want to see?
-- Did I address the right level — or did I solve Level 1 because Level 2 scares me?
-- Does my solution require ME to change — or only them?
-- Am I cutting the branch because the root would cost me something?
-- Am I making this move to **transform** the situation, or to **punish** a party?
-- Did I account for my own **omissions** that Owl found?
-- Did I test all three: L.E.R, B.U.S, A.C.T?
-- **Who hears my roar?** Is my decision communicated clearly to everyone on the map, including the Hidden Players?
-- If the Hidden Player holds the Level 2 key, does my move engage them directly — or am I just roaring at a proxy?
+*Check your Coordinate Card. Your coordinates predict where your decision lied.*
+
+| Your Coordinate | How it corrupts Lion | The Catch Question |
+|-----------------|----------------------|-------------------|
+| **WANT** | You decided what gets you your win | Is this decision good for the CONFLICT — or just good for ME? |
+| **FEAR** | You avoided decisions that face your terror | Did I avoid a better decision because it required me to face what I fear? |
+| **GAME** | You decided what THEY must do, not what YOU will do | Does my decision command MY feet — or just wish for theirs? |
+| **BLIND SPOT** | You chose the solution that doesn't require you to change | Does this decision let me stay the same? If yes — it's probably wrong. |
+| **HORIZON** | You didn't account for forces you can't see | Did I plan for what's beyond my horizon — or will I be surprised? |
+
+**The Master Question:**
+> If Lion decided for the OTHER party, what would they decide about ME?
+
+**The Meta Question:**
+> Am I deciding to END this — or deciding to WIN this? *(They are not the same.)*
+
+**The Shadow Check:**
 - Am I a Lion or a Tyrant? *(Tyrant decides what THEY must do, not what YOU will do)*
+- Does my solution require ME to change — or only them?
+- Did I test all three filters: L.E.R, B.U.S, A.C.T?
+
+---
 
 > **Note:** Lion can only command your feet. If your solution is "they must change," that's not a decision — that's a wish. Lion decides what YOU will do, regardless of what they do.
 
@@ -840,18 +916,33 @@ Implementation is the graveyard of good intentions. If Ant doesn't move, Lion wa
 
 ---
 
+---
+
 ### Ant checks Ant
 
-- What do I say, do, want, hide, miss — or don't want to see?
-- Am I moving my feet — or just thinking about moving them?
-- Am I carrying the Lion's command — or my own resentment?
-- Am I doing the specific thing Lion commanded — or a "version" that feels safer?
-- Did I drop the parasitic weights of past, interpretation, result, and resentment?
-- Am I reporting new obstacles — or suffering in silence?
-- What habit am I protecting by not acting?
+*Check your Coordinate Card. Your coordinates predict where your feet lied.*
+
+| Your Coordinate | How it corrupts Ant | The Catch Question |
+|-----------------|---------------------|-------------------|
+| **WANT** | You act only when it serves your win | Am I doing the step — or waiting for a step that feels like winning? |
+| **FEAR** | You freeze when action touches your terror | Am I avoiding this step because it's wrong — or because it scares me? |
+| **GAME** | You perform action instead of doing it | Am I actually moving — or just looking like I'm moving? |
+| **BLIND SPOT** | You revert to old habits without noticing | Have I drifted back to the pattern Lion just broke? |
+| **HORIZON** | You miss obstacles you couldn't see coming | When I hit an obstacle, do I report it — or suffer in silence? |
+
+**The Master Question:**
+> If Ant worked for the other party, what step would they see ME avoiding?
+
+**The Meta Question:**
+> Am I carrying the Lion's command — or my own resentment? *(Check the weight on your back.)*
+
+**The Shadow Check:**
 - Am I an Ant, a Martyr, or a Sluggard?
-  - *(Martyr carries the load while resenting every grain — and uses that resentment to justify stopping)*
-  - *(Sluggard waits for the "feeling" to move; Ant moves until the feeling follows)*
+  - *Martyr carries the load while resenting every grain — and uses that resentment to justify stopping*
+  - *Sluggard waits for the "feeling" to move; Ant moves until the feeling follows*
+- What habit am I protecting by not acting?
+
+---
 
 ---
 
