@@ -513,6 +513,65 @@ Lion has decided. Now someone must move.
 
 *Lion roars. Ant hears.*
 
+You just named something crucial. This could be a Note or it could be a framework for Lion — how to choose which battles to fight and how:
+
+---
+
+### Note on Changing Without Exposing
+
+Some things can be changed. Some things must be swallowed. The difference isn't about importance — it's about *face*.
+
+**The categories:**
+
+| Issue | Can it change? | Why? |
+|-------|----------------|------|
+| **a) Live with** | No — accept it | Too small to fight, or too embedded to move |
+| **b) Half-terms** | Yes — negotiate | Room for compromise, no one loses face |
+| **c) 3:15pm** | No — swallow it | Changing it requires admitting stupidity. He won't. |
+| **d) Travel section** | Yes — reframe | Can be changed if presented as clarification, not correction |
+
+**The 3:15pm trap:**
+
+The only way to change it is to show him how stupid it is.
+
+But showing him how stupid it is proves you're playing him.
+
+And if he sees you're playing him, he'll dig in forever — not because the rule is right, but because *you* tried to make him wrong.
+
+So you can't reveal the game. You have to play it.
+
+**The strategy:**
+
+To change a ruling without exposing it:
+- Don't say "this is wrong" — say "this could be clearer"
+- Don't say "you made a mistake" — say "circumstances have changed"
+- Don't say "this is stupid" — say "this creates unintended conflict"
+- Give them language that sounds like their idea
+- Let them be the hero of the fix
+
+**The cost:**
+
+You become them. You play the game. You win by playing it better, not by exposing it.
+
+This is not justice. This is how things actually change.
+
+The framework gives you sight to see the game. It doesn't exempt you from playing it.
+
+**The question for Lion:**
+
+For each issue, ask:
+1. Can this change without someone losing face?
+2. If not — is the ENTROPY of fighting worth more than the cost of swallowing?
+3. If I fight — am I exposing or playing?
+4. If I expose — will they dig in?
+5. If I play — can I live with becoming them?
+
+**Write it down:** *For each issue in this conflict: Can it change? How? At what cost to their face — and mine?*
+
+---
+
+Do you want this added to the Notes? Or does this belong in the Lion chapter as part of decision-making strategy?
+
 ---
 
 ## ANT — ACTs
