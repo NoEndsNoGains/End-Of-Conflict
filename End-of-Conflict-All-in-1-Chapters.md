@@ -3429,7 +3429,7 @@ That's a lot.
 
 If something cracked open — if you're sitting with more than you expected — that's not failure. That's the chapter working.
 
-You can just sit. I sat. Sometimes sitting can take a very, very long time.
+You can just sit. I sat. Sometimes sitting can take a very, very long time. I drew you a chair
 
 Sit.
 
