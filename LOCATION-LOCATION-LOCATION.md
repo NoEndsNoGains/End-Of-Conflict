@@ -869,27 +869,30 @@ That's a lot.
 
 If something cracked open — if you're sitting with more than you expected — that's not failure. That's the chapter working.
 
-You can just sit. I sat. Sometimes sitting can take a very, very long time. I drew you a chair
+You can just sit. I sat. Sometimes sitting can take a very, very long time. I drew you a chair. I did not draw you a blanket nor a cup of tea. If you like the chair I drew you can sit on it. 
 
 Sit.
 
-I drew you a very special chair.
+<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/d888a6cb-96bc-42fc-8650-449277966f99" />
 
 
+And then — maybe a visit with a psychologist? Popping to a friend? At least a hello to a neighbour. A hug? A small smile from someone you will never see again? A good cry. A journal session. A long walk. A shorter walk. A warm bath. A cold shower. TV on. TV off. Music on? No music.
 
-And then — maybe a visit with a psychologist. Popping to a friend. At least a hello to a neighbour. A hug. A small smile from someone who sees you. A good cry. A journal session. A long walk. A shorter walk. A warm bath. A cold shower.
-
-But maybe, in the place where you are — that physical place of you being cracked open — there is no bath. No shower. Maybe there is no water. No safe street to walk. No one to hug. A total absence of fancy tansy.
+But maybe, in the place where you are — that physical place of you being cracked open — there is no bath. No shower. Maybe there is no water. No safe street to walk. No one to hug. A total absence of any Western rotten world calls fancy tansy.
 
 How do you hold yourself then?
 
-How do you tender yourself when you've been so very hard? When the room you've placed yourself in has only mirrors — up, down, every wall — and all the mirrors are cold and none is soft? And all of them show every crack of you so fully naked?  
+How do you tender yourself when you've been so very hard? When the room you've placed yourself in has only mirrors — up, down, every wall — and all the mirrors are cold, and smooth, and none is soft? And all of them show every crack? And you so fully naked?  
 
 If I said "breathe," I worry you'd slap me through the pages of this book. I might actually see the hand reaching out.
 
 So I say nothing.
 
 But if you still tell yourself you don't need any of it — not the breath, not the hug, not even this thing we all so very need: *"I see you. I understand."* — then you haven't done the work.
+
+Because: I see you. I understand.
+
+Funny.
 
 Go back. Read the chapter again.
 
