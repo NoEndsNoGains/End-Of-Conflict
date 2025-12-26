@@ -2558,7 +2558,7 @@ There's also the **Garden of Eden** as the counterpoint — the original "you ca
 
 ## LOCATION LOCATION LOCATION
 
-# PART X: LOCATION, LOCATION, LOCATION - Let me be Exact
+# PART X: LOCATION, LOCATION, LOCATION - "Let me be Exact"
 
 <img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/0afe01d2-7fc4-4ce1-834e-9e41abe4a6f9" />
 
@@ -3429,7 +3429,9 @@ That's a lot.
 
 If something cracked open — if you're sitting with more than you expected — that's not failure. That's the chapter working.
 
-You can just sit. I sat. Sometimes sitting can take a very, very long time. I drew you a chair. I did not draw you a blanket nor a cup of tea. If you like the chair I drew you can sit on it. 
+You can just sit. I sat. Sometimes sitting can take a very, very long time. I drew you a chair. I did not draw you a blanket nor a cup of tea. If I had, the blanket would be military wool — the kind that saves your life while scratching you raw. The tea would have no milk, no sugar, not even a lemon.
+
+If you like the chair I drew you can sit on it. 
 
 Sit.
 
@@ -3438,7 +3440,7 @@ Sit.
 
 And then — maybe a visit with a psychologist? Popping to a friend? At least a hello to a neighbour. A hug? A small smile from someone you will never see again? A good cry. A journal session. A long walk. A shorter walk. A warm bath. A cold shower. TV on. TV off. Music on? No music.
 
-But maybe, in the place where you are — that physical place of you being cracked open — there is no bath. No shower. Maybe there is no water. No safe street to walk. No one to hug. A total absence of any Western rotten world calls fancy tansy.
+But maybe, in the place where you are — that physical place of you being cracked open — there is no bath. No shower. Maybe there is no water. No safe street to walk. No one to hug. A total zeroing absence of anything the Western rotten world woudl call the "fancy tansy".
 
 How do you hold yourself then?
 
