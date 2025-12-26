@@ -892,7 +892,7 @@ So I say nothing.
 
 But if you still tell yourself you don't need any of it — not the breath, not the hug, not even this thing we all so very need: *"I see you. I understand."* — then you haven't done the work.
 
-Because: I see you. I understand.
+But _I see you. I understand. I am looking now._
 
 Funny.
 
