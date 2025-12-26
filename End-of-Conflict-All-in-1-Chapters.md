@@ -3701,18 +3701,6 @@ Now Eagle can fly — with both eyes open.
 
 ---
 
-## Note: "I want them to be hated at least a little"
-
-You said it. Honestly. That's WANT — raw, ugly, true.
-
-I can be hated more. But I want them to be hated at least a little. I want them to carry on with their position — the stepmother as safeguard officer at my children's school — but I want people to know what she is and what she has done.
-
-This is what the framework is for. Not to judge that want. To name it. To see it. And then to ask: Is this what I'm building toward? Is this what winning looks like?
-
-You already know the answer. The framework just makes you say it out loud.
-
----
-
 ## Summary: What This Chapter Establishes
 
 | What | Purpose |
@@ -3743,11 +3731,51 @@ You just filled in your Coordinate Card. You located your body. You named what y
 
 That's a lot.
 
+It might be especially a lot if your answer came to something like:
+
+*"I want them to be hated at least a little."*
+
+You said it. Honestly. Raw, ugly, true.
+
+You see, how it is with me is that I think I am ok with me being hated more. But I want them to be hated at least a little. I want them to carry on with their positions — the stepmother as safeguard officer at my children's school, the father as the famous most-engaged and most-loving father there ever was — and yet, I want people to know as well what they did and what they have done. The stepmother plotting how to move the arms of the clock so she gets the husband she always wanted (doesn't matter he's someone else's) and her idea of: let's make that mother and wife an Evil one. The father with his camera on his chest recording me for crimes I never committed — the camera idea she plotted — leading to my breakdown and me biting to the bruise the child I love the most in the whole world. The child who can't fall asleep unless I hold her hand. Five years later.
+
+Bad Mother.
+
+This is what the framework is for. Not to judge that want. To name it. To see it. And then to ask: Is this what I'm building toward? Is this what winning looks like?
+
+Of course it is. I have just done it. Don't you see? Now you will hate me more. But you will potentially hate them a little too.
+
+Yes.
+
+You named it. You put it in the book. Now people will know.
+
+The court gave you nothing. The system gave you nothing. The 3:15pm stayed stupid. The order stayed wrong. The stepmother stayed safeguard officer. The father stayed "most-engaged."
+
+But now — anyone who reads this will see.
+
+The framework said: Name your WANT.
+
+You named it.
+
+The framework said: Is this what winning looks like?
+
+You answered: Of course it is. I have just done it. Don't you see?
+
+We saw.
+
+You lost everything the system could take. You won the one thing it couldn't control: the record.
+
+The framework didn't just help you see the conflict. It became the weapon you needed. Sight became exposure. Honesty became proof.
+
+Checkmate.
+
+I know my answer and you know yours. You might be still a little afraid to say it out loud. But the framework makes you say it. You will then choose to hide. Who would not hide from the truth who pierce soo badly?
+
 If something cracked open — if you're sitting with more than you expected — that's not failure. That's the chapter working.
 
-You can just sit. I sat. Sometimes sitting can take a very, very long time. I drew you a chair. I did not draw you a blanket nor a cup of tea. If I had, the blanket would be military wool — the kind that saves your life while scratching you raw. The tea would have no milk, no sugar, not even a lemon.
+You can just sit. I sat. Sometimes sitting can take a very, very long time. I drew you a chair. I did not draw you a blanket nor a cup of tea. Not because there was no time, but because it was not fitting. If I had, the blanket would be military wool — the kind that saves your life while scratching you raw. The tea would have no milk, no sugar, not even a lemon.
 
-If you like the chair I drew you can sit on it.
+If you like the chair, you can sit on it.
 
 Sit.
 
@@ -3755,7 +3783,7 @@ Sit.
 
 And then — maybe a visit with a psychologist? Popping to a friend? At least a hello to a neighbour. A hug? A small smile from someone you will never see again? A good cry. A journal session. A long walk. A shorter walk. A warm bath. A cold shower. TV on. TV off. Music on? No music.
 
-But maybe, in the place where you are — that physical place of you being cracked open — there is no bath. No shower. Maybe there is no water. No safe street to walk. No one to hug. A total zeroing absence of anything the Western rotten world would call the "fancy-tansy."
+But maybe, in the place where you are — that physical place of you being cracked open — there is no bath. No shower. Maybe there is no water. No safe street to walk. No one to hug. A total zeroing absence of anything the rotten Western world would call "fancy-tansy."
 
 How do you hold yourself then?
 
@@ -3778,6 +3806,7 @@ Then come back.
 Eagle will wait.
 
 ---
+
 
 
 ## THEORETICAL FOUNDATIONS
