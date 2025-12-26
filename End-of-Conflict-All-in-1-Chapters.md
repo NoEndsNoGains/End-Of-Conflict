@@ -4299,6 +4299,606 @@ Not purely procedural (A.C.T insists on timeliness)
 ## FRAMEWORK
 
 
+---
+
+## EAGLE — MAPs
+
+### The Handoff from Location
+
+You have your Coordinate Card. You know where you stand. You know what you want, what you fear, what you're hiding, what you can't see. You know the weight of your position and the cost of holding it.
+
+Now Eagle flies.
+
+But your Card comes with you. It tells you where Eagle will cheat:
+
+| Your Coordinate | Where Eagle will lie |
+|-----------------|---------------------|
+| WANT | You'll map toward your win |
+| FEAR | You'll erase what terrifies you |
+| GAME | You'll hide your own moves from the map |
+| BLIND SPOT | You'll flatten what you don't want to see |
+| HORIZON | You'll stop at the edge of your vision and call it the edge of the world |
+| MASS | You'll underestimate what you're fighting against |
+| ENTROPY | You'll ignore what the mapping itself is costing you |
+
+Keep the Card visible. You'll need it at the end.
+
+---
+
+### What Eagle Does
+
+Eagle flies at 10,000 feet. From up there, the "World-Ending War" becomes something nameable: specific parties, specific friction points, specific zones where sight is blocked.
+
+Eagle doesn't verify — that's Bloodhound's job.
+Eagle doesn't judge — that's Owl.
+Eagle doesn't decide — that's Lion.
+Eagle doesn't act — that's Ant.
+
+**Eagle's focus is not on the "True." Eagle's focus is on the "Entire."**
+
+Eagle sees the whole field — including the parts you don't want to see.
+
+---
+
+### Eagle's Sequence
+
+| Step | What Eagle Maps |
+|------|-----------------|
+| 1 | **The Conflict** — Name the war itself |
+| 2 | **The Parties** — Who is involved (including those hidden or denied) |
+| 3 | **The Battlefields** — The specific friction points |
+| 4 | **The Type** — What kind of fight is this? |
+| 5 | **The Invisible** — What can't be seen, and why |
+
+---
+
+### STEP 1: Name the Conflict
+
+Every conflict has a name. But the name you use reveals whose map you're holding.
+
+**The test:** If this were resolved, would the fighting visibly end?
+
+---
+
+**Example — Ukraine:**
+
+| Party | What they call it |
+|-------|-------------------|
+| Ukraine / West | "War" / "Invasion" / "Unprovoked aggression" |
+| Russia | "Special military operation" / "Denazification" / "NATO expansion response" |
+
+Same events. Different names. Each name contains a verdict.
+
+---
+
+**Example — Family Court:**
+
+| Party | What they call it |
+|-------|-------------------|
+| Mother | "Systematic exclusion from parental responsibility" |
+| Father | "Mother's controlling behaviour" / "Serial litigation" |
+| Court | "Repeated applications" (hence the restriction order) |
+
+If you only know one name, you only have one map.
+
+---
+
+**1A. What is the BIG NAME of this conflict?**
+
+_______________________________________
+
+**1B. What does each party call it?**
+
+| Party | What they call this conflict |
+|-------|------------------------------|
+| | |
+| | |
+| | |
+
+**1C. If a party says "there is no conflict" — what do they call it instead?**
+
+_(Examples: "a process," "a boundary," "already decided," "your problem")_
+
+_______________________________________
+
+**Eagle's Note:** If one party says "there is no conflict" — that itself is data. They have declared the war over. Your continued fighting is what THEY call the problem.
+
+---
+
+### STEP 2: Identify the Parties
+
+A party is anyone with power, output, or stake in this conflict.
+
+Not all parties announce themselves. Some actively deny they're involved.
+
+---
+
+**Types of parties:**
+
+| Type | Definition | Example |
+|------|------------|---------|
+| **Visible** | Openly involved. Everyone knows. | The mother. The father. Ukraine. Russia. |
+| **Hidden** | In the room but not announced. Influence shapes the conflict but isn't named. | The mother-in-law. The boss. NATO (depending who you ask). |
+| **Denied** | Actively claims NOT involved — but is. | The stepmother who writes the messages but "isn't a party." The advisor who shaped the decision but takes no responsibility. |
+| **Institutional** | A system, not a person. But someone inside holds authority. | The court. The company. The government. |
+
+**For institutions, ask:** Who specifically has authority? Who made the rule? Who enforces it? Who benefits from it staying unchanged?
+
+---
+
+**2A. List all visible parties:**
+
+| Party | Their role |
+|-------|------------|
+| | |
+| | |
+
+**2B. List hidden parties:**
+
+| Hidden party | How do they affect the conflict? |
+|--------------|----------------------------------|
+| | |
+
+**2C. List denied parties:**
+
+| Denied party | What suggests they ARE involved? |
+|--------------|----------------------------------|
+| | |
+
+**2D. For institutional parties:**
+
+| Institution | Who has authority? | Who made the rule? | Who enforces it? | Who benefits? |
+|-------------|-------------------|-------------------|------------------|---------------|
+| | | | | |
+
+---
+
+### STEP 3: Map the Battlefields
+
+A battlefield is a specific friction point — not the whole war.
+
+The war in Ukraine contains battlefields: Crimea, Donbas, energy supply, NATO membership, sanctions.
+
+A custody dispute contains battlefields: the phone, the dentist, the therapy, the half-terms, the hair.
+
+---
+
+**For each battlefield, Eagle asks:**
+- What is this friction point?
+- What do I call it? What do they call it?
+- Do both parties agree this is a battlefield — or does one deny it?
+- Is one party still fighting while the other declared victory and left?
+
+---
+
+**3A. List all battlefields:**
+
+| # | Friction point | What I call it | What they call it |
+|---|----------------|----------------|-------------------|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+
+**3B. For each battlefield — what's the status?**
+
+| # | Both engaged? | Or... |
+|---|---------------|-------|
+| 1 | ☐ Yes | ☐ One left ☐ One denies it's a battlefield ☐ Level Jump |
+| 2 | ☐ Yes | ☐ One left ☐ One denies it's a battlefield ☐ Level Jump |
+| 3 | ☐ Yes | ☐ One left ☐ One denies it's a battlefield ☐ Level Jump |
+
+---
+
+**Watch for: The Level Jump**
+
+Sometimes a party refuses to engage with a battlefield by jumping to a higher level.
+
+You say: "He cut the child's hair without telling me."
+They say: "This is just proof that you're a controlling serial-litigator."
+
+You're talking about hair. They're talking about your fundamental character.
+
+They aren't fighting about the friction point — they're using it as evidence for a different claim.
+
+When this happens, note it. It is data.
+
+---
+
+**Watch for: Recognition vs Process**
+
+Sometimes one party wants **recognition** — acknowledgment of harm, of rights, of their position.
+
+The other party offers **process** — a procedure, a policy, a workaround.
+
+These cannot meet on the same level. One says "see me." The other says "follow this step."
+
+If you see this gap, name it. Eagle spots it. Owl will judge what it means.
+
+---
+
+### STEP 4: Type the Conflict
+
+Not all conflicts are the same shape. Eagle sees what kind of fight this is.
+
+---
+
+**The Farmer's Fence:**
+
+Two farmers keep fighting about a fence. But why does it keep falling?
+
+| Type | What's contested | Example |
+|------|------------------|---------|
+| **Operational** | The substance — they agree who decides, just disagree on what | "Where should the fence go?" |
+| **Structural** | The authority — who has the right to decide at all | "Whose land is this?" / "Who gets to place the fence?" |
+| **Both** | It looks operational but keeps recurring — the substance is a mask | Same fight every season. They're not really fighting about the fence. |
+
+---
+
+**The Thermostat:**
+
+Two people share a flat.
+
+| Type | What it looks like |
+|------|-------------------|
+| **Operational** | They agree they both live there. They disagree on the temperature. Two people pointing at the dial. |
+| **Structural** | They disagree who controls the thermostat. One changed the password. Two people pointing at each other. |
+| **Both** | Every week, same fight. They agree on a setting. By Friday, it's changed. This isn't about temperature. It's about who holds the password. |
+
+---
+
+**Why this matters:**
+
+If you treat a structural conflict as operational, you'll "solve" the fish and be back here in six months fighting about the fence.
+
+If you treat an operational conflict as structural, you'll escalate a disagreement into a war about authority that didn't need to happen.
+
+**Eagle types it. Owl confirms it. Lion responds accordingly.**
+
+---
+
+**4A. What type is this conflict?**
+
+| Battlefield | Operational | Structural | Both |
+|-------------|-------------|------------|------|
+| 1 | ☐ | ☐ | ☐ |
+| 2 | ☐ | ☐ | ☐ |
+| 3 | ☐ | ☐ | ☐ |
+
+**4B. If "Both" — what's the structural issue underneath?**
+
+_______________________________________
+
+---
+
+### STEP 5: Map the Invisible
+
+Not everything on the map is visible. When something is hidden, ask WHY.
+
+---
+
+| Reason | Definition | Example |
+|--------|------------|---------|
+| **FOG** | Information is hidden or inaccessible. You don't have it. | What happens in the other household. What they actually want. Who made the decision. |
+| **FORBIDDEN** | Someone told you not to look there. A rule, a norm, a threat. | "The stepmother isn't a party." "Hair is day-to-day, not a PR matter." "We don't discuss 2014." |
+| **HORIZON** | Outside the frame. The system won't examine it. The door is closed. | Court won't look at third-party influence. Appeal failed — that route is gone. The "lives with" order is settled. |
+
+Something can be fog AND forbidden AND horizon at once. The question isn't which category — it's: *What can't I see, and why?*
+
+---
+
+**5A. What's NOT visible — and why?**
+
+| What can't I see? | FOG | FORBIDDEN | HORIZON | Who benefits from this being invisible? |
+|-------------------|-----|-----------|---------|----------------------------------------|
+| | ☐ | ☐ | ☐ | |
+| | ☐ | ☐ | ☐ | |
+| | ☐ | ☐ | ☐ | |
+
+---
+
+**Note on Fog Density:**
+
+Some conflicts have heavier fog than others.
+
+- Long-standing disputes have heavy fog — you are inside what you're examining
+- Fights with powerful institutions have heavy fog — they control what you can see
+- Internal conflicts have the heaviest fog — you cannot step outside yourself
+
+**The longer you've been in the war, the less you can trust your own eyes.**
+
+---
+
+**Note on Who Drew the Boundary:**
+
+Every "forbidden" and every "horizon" was drawn by someone. Ask who — and who benefits.
+
+| Who drew the boundary | What they said | Who benefits |
+|-----------------------|----------------|--------------|
+| | | |
+| | | |
+
+**Example — Family Court:**
+
+| Who drew the boundary | What they said | Who benefits |
+|-----------------------|----------------|--------------|
+| Court | "Hair is day-to-day — not your territory" | Father (pattern continues unexamined) |
+| Appeal | "Lives with is closed — don't revisit" | Father (structural advantage locked in) |
+| Father | "There is no conflict" | Father (if no conflict, no map needed) |
+
+If the boundaries consistently benefit one party, that is data.
+
+---
+
+### Eagle's Enemies
+
+**FOG** — Cannot see. The information exists but you don't have access.
+
+**FLOOD** — Cannot think. Too much, all at once. Six years of history. Every issue connected to every other. Can't tell what matters from what doesn't.
+
+Eagle blows fog away to reveal. Eagle drains flood to focus.
+
+But some fog won't clear. Some flood won't drain. Eagle maps what Eagle can. The puzzle continues.
+
+---
+
+### Eagle Checks Eagle
+
+Before passing to Bloodhound, Eagle turns the questions on itself.
+
+**Check your Coordinate Card. Your coordinates predict where you cheated.**
+
+---
+
+| Your Coordinate | How it corrupts Eagle | The Catch Question |
+|-----------------|----------------------|-------------------|
+| **WANT** | You mapped toward your win | Did I map what THEY want as carefully as what I want? |
+| **FEAR** | You erased what terrifies you | Did I map what I'm afraid to see? |
+| **GAME** | You hid your own moves | Did I map my own strategy as a feature of the terrain? |
+| **BLIND SPOT** | You flattened what you don't want to see | Did I map the parts that make me look bad? |
+| **HORIZON** | You stopped at what you can't see | Did I mark where my vision ends — and ask what's beyond it? |
+| **MASS** | You underestimated the gravity against you | Did I map who has weight in this system — and whether I'm fighting uphill? |
+| **ENTROPY** | You ignored the cost | Did I map what this conflict is consuming — and whether the mapping itself is worth the expense? |
+
+---
+
+**The Master Question:**
+
+> If someone with opposite coordinates mapped this conflict, what would THEY see that I missed?
+
+---
+
+**The Meta Question:**
+
+> Can I guess the other parties' coordinates? Their WANT, FEAR, GAME, BLIND SPOT, HORIZON? If I can't — I haven't mapped them. I've only mapped my story about them.
+
+---
+
+**The Shadow Check:**
+
+Am I Eagle or Vulture?
+
+- **Eagle** sees the mountain — the whole terrain, including the parts that make you look bad
+- **Vulture** sees the carcass — only circles for the other's faults, waiting for them to fail
+
+If your map is full of their failures and empty of yours, you're a Vulture wearing Eagle's feathers.
+
+---
+
+**The Gravity Check:**
+
+> Am I fighting gravity?
+>
+> Does my map show the MASS of each position — or did I assume the field is flat?
+>
+> A single parent has less mass than a court system. A whistleblower has less mass than a corporation. A citizen has less mass than a state.
+>
+> If I didn't map the weight, I don't know what I'm flying into.
+
+---
+
+**The Cost Check:**
+
+> What is this mapping costing me?
+>
+> Eagle can fly forever. You cannot. The longer you map, the more ENTROPY you spend.
+>
+> Is the detail worth the cost? Or am I mapping to avoid deciding?
+
+---
+
+### Eagle's Output
+
+Eagle passes to Bloodhound:
+
+1. **The analyst's Coordinate Card** — and what they're likely to miss
+2. **The conflict** — all parties' names for it
+3. **The parties** — visible, hidden, denied, institutional
+4. **The battlefields** — each one named by both sides, with status
+5. **The type** — operational, structural, or both
+6. **The invisible** — what's fog, forbidden, or horizon — and who benefits
+7. **Eagle's self-check** — any Vulture tendencies, gravity blindness, or entropy leaks noted
+
+---
+
+### The Handoff to Bloodhound
+
+Eagle has mapped the terrain. But a map is not truth.
+
+Bloodhound receives the map and asks: *Is this real? What actually happened?*
+
+Eagle named the battlefields. Bloodhound sniffs each one.
+
+Eagle spotted the parties. Bloodhound verifies: *What do they say? What do they do? What's the gap?*
+
+Eagle noted the type. Bloodhound checks: *Is it really operational — or is there a structural fight underneath?*
+
+Eagle marked the invisible. Bloodhound sticks its nose into the fog and feels for the furniture.
+
+**Eagle sees the shape. Bloodhound checks the scent.**
+
+---
+
+*Eagle passes the map to Bloodhound.*
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## What Makes Sense
+
+**The core sequence:**
+- LOCATION = Know yourself (your coordinates)
+- EAGLE = Map the terrain (the conflict)
+- BLOODHOUND = Verify (what actually happened)
+- OWL = Judge (what it means)
+- LION = Decide (what to do)
+- ANT = Act (carry the load)
+
+**The self-checks work.** Each animal checks itself against the Coordinate Card. Your WANT corrupts Eagle. Your FEAR clogs Bloodhound. Your BLIND SPOT makes Owl comfortable. Your GAME makes Lion command their feet, not yours.
+
+**The enemies are clear.** Eagle's enemy = Fog/Flood. Bloodhound's enemy = Preferred Scent. Owl's enemy = Comfortable Verdict. Lion's enemy = Fake Peace. Ant's enemy = Old Habit.
+
+---
+
+## What Doesn't Make Sense Yet
+
+**1. MASS and ENTROPY are missing from the self-checks.**
+
+You noted this. The old cheat-sheet asks about WANT, FEAR, GAME, BLIND SPOT, HORIZON — but never asks:
+- "Am I fighting gravity?" (MASS)
+- "Can I afford this fight?" (ENTROPY)
+
+These need to be added to every animal's self-check.
+
+---
+
+**2. Where does Operational/Structural/Enforcement go?**
+
+The document is confused:
+
+> "Should that be what the dog does??? or what Owl should see???"
+
+**My answer:**
+
+| Concept | Who sees it | Why |
+|---------|-------------|-----|
+| **Operational vs Structural** | EAGLE | Eagle types the conflict — what kind of fight is this? |
+| **Enforcement gap** | BLOODHOUND | Bloodhound sniffs: they said X, did Y |
+| **Enforcement violation** | OWL | Owl judges: agreement was broken |
+
+Eagle sees the shape. Bloodhound verifies the scent. Owl assigns weight.
+
+---
+
+**3. L.E.R / B.U.S / A.C.T appears twice and is unmoored.**
+
+This is Lion's triple filter — but it's floating in the document without clear integration. It belongs inside Lion:
+
+> "Before Lion roars, the decision must pass three gates."
+
+The detailed philosophical grounding (Kant, consequentialism, pragmatism) may be too much for the main text. Consider moving it to an appendix or "For Nerds" section.
+
+---
+
+**4. "Recognition vs Process" is noted but never placed.**
+
+You wrote:
+> "When one party wants recognition, the other offers process — these cannot meet on the same level."
+
+This is important. But where does it live?
+
+**My suggestion:** Eagle spots it (the gap). Owl names it (Level 3 failure — incompatible models of how to engage).
+
+---
+
+**5. The "Note on Changing Without Exposing" is dropped in randomly.**
+
+This is brilliant strategy — but it's Lion territory, not Location. Move it to Lion under:
+
+> "Lion considers: Can this change without someone losing face?"
+
+---
+
+**6. Stage numbers vs animal names.**
+
+Some sections say "Stage 2" or "Stage 3." The framework uses animals. Pick one. I'd say: use animals. The animals stick.
+
+---
+
+## What's Missing
+
+**1. The Location → Eagle handoff.**
+
+You've written Location. You've written Eagle. But there's no explicit moment where:
+> "You have your Coordinate Card. Now Eagle flies — but your Card tells you where Eagle will cheat."
+
+The handoff exists in Location ("The Handoff" section) but Eagle doesn't explicitly receive it.
+
+---
+
+**2. The full MASS/ENTROPY integration.**
+
+Every animal should ask:
+- "Am I fighting gravity here?"
+- "What is this costing me?"
+
+Right now, only Location asks these. The animals don't.
+
+---
+
+**3. A clean summary table of the whole framework.**
+
+Something like:
+
+| Stage | Animal | Question | Enemy | Self-Check |
+|-------|--------|----------|-------|------------|
+| 0 | LOCATION | Where do I stand? | Self-deception | Coordinate Card |
+| 1 | EAGLE | What is the terrain? | Fog / Flood | Did I map the whole field? |
+| 2 | BLOODHOUND | What actually happened? | Preferred Scent | Did I sniff my own trail? |
+| 3 | OWL | What does it mean? | Comfortable Verdict | Does my verdict require ME to change? |
+| 4 | LION | What will I do? | Fake Peace | Does my decision command MY feet? |
+| 5 | ANT | Am I doing it? | Old Habit | Have I drifted back to the pattern? |
+
+---
+
+## The Verdict
+
+The content is there. The architecture is not.
+
+**What needs to happen:**
+
+1. Add MASS and ENTROPY to every animal's self-check
+2. Place Operational/Structural in Eagle, Enforcement in Bloodhound→Owl
+3. Anchor L.E.R / B.U.S / A.C.T inside Lion
+4. Place "Recognition vs Process" in Eagle (spots) and Owl (names)
+5. Move "Changing Without Exposing" to Lion
+6. Write the Location → Eagle handoff explicitly
+7. Create a master summary table
+
+---
+
+
 Old Cheat-Sheet - has some good self-check questions but these miss mass and tMASS and ENTROPY are essential because they answer: "Should I even be in this fight?" Without them, someone can run the whole framework brilliantly and still lose everything — because they never asked if they could afford the wa
 ---
 
