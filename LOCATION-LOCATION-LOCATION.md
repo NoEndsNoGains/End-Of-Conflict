@@ -702,7 +702,17 @@ The child already knows. Children fill in the card without words. They know who 
 
 You filled in your card. Now go deeper.
 
-Why? Because the card captures what you can name. The deeper checks catch what you can't — or won't.
+The card captures what you can name. The deeper checks catch what you can't — or won't.
+
+They're organized by where the truth is hiding:
+
+- **Body** — What your nervous system knows before your mind admits it
+- **Math** — The calculus you haven't done honestly
+- **Mirror** — What others see that you can't
+- **System** — The physics you're ignoring
+- **Time** — What you inherited and how you've changed
+
+---
 
 But if you've had enough... who would blame you? This is already more than most people do. The card alone is more honesty than most conflicts ever see.
 
@@ -992,9 +1002,13 @@ You stop being a Party and become a Physicist. You stop shouting at the storm an
 
 ## Notes
 
+These aren't checks. These are truths about the process that don't fit into a blank.
+
 ---
 
-### Note on Exposure
+### On Seeing
+
+**Note on Exposure**
 
 You cannot see them clearly without seeing yourself first. The framework asks you to locate your coordinates — your GAME, your BLIND SPOT, your shame. This is not preparation. This is the price.
 
@@ -1008,7 +1022,7 @@ Who goes first? Who has the guts to be seen so they can finally see?
 
 ---
 
-### Note on Relational Location
+**Note on Relational Location**
 
 Your coordinates don't exist in isolation. POSITION is your role *in this conflict*. MASS is your weight *relative to theirs*. HORIZON is what you can't see *from where you stand in relation to them*.
 
@@ -1018,7 +1032,9 @@ You are not a fixed point. You are a position in a field — and the field inclu
 
 ---
 
-### Note on the Peel
+### On the Process
+
+**Note on the Peel**
 
 The framework looks linear: Eagle → Bloodhound → Owl → Lion → Ant.
 
@@ -1032,7 +1048,27 @@ Like a chaotic pendulum — the movement looks random. But trace it long enough 
 
 ---
 
-### Note on Silence
+**Note on Position Shifting**
+
+You locate yourself once at the start. But the act of mapping can change your position.
+
+The moment you use this framework to gain sight, you are no longer passive — you have become an Agent. If your position shifts during the process, note it.
+
+The map changes when the mapper changes.
+
+---
+
+**Note on the Map-Maker**
+
+Different parties will draw different maps of the same conflict. This is not a bug — it's data.
+
+Your map is YOUR map. It reflects what you can see from where you stand. Later stages will test it against what others see.
+
+---
+
+### On Silence
+
+**Note on Silence**
 
 You think silence protects you. It doesn't. Silence has entropy too.
 
@@ -1042,40 +1078,9 @@ Naming can be weaponized against you — yes. But not naming weaponizes you agai
 
 ---
 
-### Note: Position Can Shift
+### On the System
 
-You locate yourself once at the start. But the act of mapping can change your position.
-
-The moment you use this framework to gain sight, you are no longer passive — you have become an Agent. If your position shifts during the process, note it.
-
-**The map changes when the mapper changes.**
-
----
-
-### Note: The Map Reflects the Map-Maker
-
-Different parties will draw different maps of the same conflict. This is not a bug — it's data.
-
-Your map is YOUR map. It reflects what you can see from where you stand. Later stages will test it against what others see.
-
----
-
-### Note on Unresolvable Conflicts
-
-Not every conflict ends with resolution. Some end with:
-
-- **Naming:** "We have incompatible needs. Neither of us is wrong."
-- **Surviving:** Earplugs. Adaptation. Lowered expectations.
-- **Exiting:** Leave. Move. End the relationship.
-- **Escalating:** Bring in a third party with more MASS.
-
-The framework doesn't promise peace. It promises sight. And sometimes sight reveals: this will not resolve. It will only be managed.
-
-That knowledge is not failure. That knowledge is the framework working.
-
----
-
-### Note on System Coherence
+**Note on System Coherence**
 
 The system's first loyalty is to itself.
 
@@ -1093,7 +1098,22 @@ The gaslighting is not personal. It's mechanical. It's cheaper to make you doubt
 
 ---
 
-### Note on "Stop Fighting"
+**Note on Unresolvable Conflicts**
+
+Not every conflict ends with resolution. Some end with:
+
+- **Naming:** "We have incompatible needs. Neither of us is wrong."
+- **Surviving:** Earplugs. Adaptation. Lowered expectations.
+- **Exiting:** Leave. Move. End the relationship.
+- **Escalating:** Bring in a third party with more MASS.
+
+The framework doesn't promise peace. It promises sight. And sometimes sight reveals: this will not resolve. It will only be managed.
+
+That knowledge is not failure. That knowledge is the framework working.
+
+---
+
+**Note on "Stop Fighting"**
 
 When they tell you to stop fighting, ask: Stop fighting for what?
 
@@ -1105,7 +1125,7 @@ The framework doesn't tell you which one you're in. It gives you the tools to fi
 
 ---
 
-### Note on Fighting Stupidness
+**Note on Fighting Stupidness**
 
 The 3:15pm isn't about 3:15pm.
 
@@ -1137,7 +1157,9 @@ You can stop fighting and still refuse to agree.
 
 ---
 
-### Note on Needing Your Enemy
+### On Strategy
+
+**Note on Needing Your Enemy**
 
 Here's the hardest truth: to end the conflict, you need them.
 
