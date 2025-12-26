@@ -4669,6 +4669,11 @@ If your decision feels like escaping the conversation, check it twice. Escape is
 
 > **Note:** Lion can only command your feet. If your solution is "they must change," that's not a decision — that's a wish. Lion decides what YOU will do, regardless of what they do.
 
+**HOW THE LION MUST ADDRESS THE ELEPHANTS IN THE ROOM**
+- HIS ASSUMPTIONS, like live iwth is x, 3.15pm is rulled on, Hair is only about - she is trying to change the order. 
+- HIS PREFIOUS MISTAKES
+- 
+
 ---
 ### The handoff
 
