@@ -3612,38 +3612,6 @@ That knowledge is not failure. That knowledge is the framework working.
 
 ---
 
-**Note on Fighting Stupidness**
-
-The 3:15pm isn't about 3:15pm.
-
-It's about being asked to swallow something that doesn't make sense.
-
-"Let it go" sounds wise. But what does "let it go" actually mean here? It means: agree that the stupid thing is acceptable. Pretend the illogical is logical. Stop fighting — not because the fight is wrong, but because fighting costs more than accepting absurdity.
-
-And that's what you can't swallow.
-
-You're not fighting for 3:15pm. You're not even fighting for the bank holiday. You're fighting STUPIDNESS.
-
-The principle. The logic. The truth. The idea that things should make sense, and when they don't, someone should fix them.
-
-But the system doesn't care about sense. The system cares about coherence — its own coherence. And "we decided it, therefore it's right" is coherence enough for the system.
-
-So you're left with a choice:
-
-**Option A:** Keep fighting. Spend ENTROPY on proving the obvious. Watch the system outlast you.
-
-**Option B:** Swallow it. Let them be stupid. Let the illogical stand. Save your ENTROPY for fights you can win.
-
-**Option C:** Name it. Say: "This is stupid. I know it's stupid. You know it's stupid. I'm stopping not because I agree — but because fighting stupid costs more than accepting stupid. The record shows what this is."
-
-Option C is not surrender. Option C is sight.
-
-You can stop fighting and still refuse to agree.
-
-**Write it down:** *What am I actually fighting? Is it the thing — or the stupidness of the thing?*
-
----
-
 ### On Strategy
 
 **Note on Needing Your Enemy**
