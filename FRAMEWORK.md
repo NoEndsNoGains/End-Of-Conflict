@@ -1440,6 +1440,8 @@ You fucking need these twats. And that's the hardest truth.
 
 The framework gives you sight. But sight without strategy is just suffering with clarity. Sometimes the strategic move is to let them save face — not because they deserve it, but because you need the conflict to end more than you need them to know they were wrong.
 
+**Note on Rule and NAMING THE RULES** - MY DECISIONS** - WHAT RULES TO THEY APPROVE???
+**
 ---
 
 
