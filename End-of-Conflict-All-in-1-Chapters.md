@@ -3612,18 +3612,6 @@ That knowledge is not failure. That knowledge is the framework working.
 
 ---
 
-**Note on "Stop Fighting"**
-
-When they tell you to stop fighting, ask: Stop fighting for what?
-
-If the answer is "stop fighting for something that doesn't make sense" — that's not peace. That's surrender to absurdity.
-
-Some fights are pathology. Some fights are the last sanity.
-
-The framework doesn't tell you which one you're in. It gives you the tools to find out.
-
----
-
 **Note on Fighting Stupidness**
 
 The 3:15pm isn't about 3:15pm.
