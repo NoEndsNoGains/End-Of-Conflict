@@ -3911,6 +3911,8 @@ You said it. Honestly, ugly, true.
 
 You see, how it is with me is that I think I am ok with me being hated more. But I want them to be hated at least a little. I want them to carry on with their positions — the stepmother as safeguard officer at my children's school, the father as the famous most-engaged and most-loving father there ever was — and yet, I want people to know as well what they did and what they have done. The stepmother plotting how to move the arms of the clock so she gets the husband she always wanted (doesn't matter he's someone else's) and her idea of: let's make that mother and wife an Evil one. The father with his camera on his chest recording me for crimes I never committed — the camera idea she plotted — leading to my breakdown and me biting to the bruise the child I love the most in the whole world. The child who can't fall asleep unless I hold her hand. Five years later.
 
+And I cannot undo that. They used it. They will always have it. And the child still can't fall asleep unless I hold her hand.
+
 Bad Mother.
 
 This is what the framework is for. Not to judge that want. To name it. To see it. And then to ask: Is this what I'm building toward? Is this what winning looks like?
