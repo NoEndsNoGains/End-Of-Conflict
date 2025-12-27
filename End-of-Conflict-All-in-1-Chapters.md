@@ -3374,6 +3374,40 @@ This is not a personal failing. This is design. The system offers you two doors:
 
 The framework doesn't tell you which door to choose. The framework makes you see the doors clearly — and name who built them.
 
+---
+
+**The Deeper Trade-Off:**
+
+You asked: "How do I end the conflict?"
+
+You can't end it. You can only choose which form it takes.
+
+**Form 1: Visible conflict.** You fight. They resist. The court is involved. The children are caught. The harm is distributed across everyone, including you.
+
+**Form 2: Underground war.** You stop fighting. They continue controlling. The court is not involved. The children are not caught in the middle. The harm is concentrated in the decisions you can't prevent — but the children don't carry the weight of your response.
+
+Neither form is peace. Neither form is justice. Neither form gives your children what they deserve.
+
+But Form 2 gives them one thing Form 1 doesn't: **a parent who isn't consumed.**
+
+---
+
+**The question you haven't asked:**
+
+Not "how do I win" or "how do I get coordination" or "how do I make them respect me."
+
+**Which harm is less?**
+
+You can be right and still be causing harm. Not because you're wrong. Because the system has made being right expensive, and the currency is your child.
+
+The harm you can remove is yours. Not theirs. You cannot stop them from making unilateral decisions. You cannot make them coordinate. You cannot make the court enforce what it ordered.
+
+But you can stop adding the fight to what your children already carry.
+
+That's the only subtraction available to you.
+
+---
+
 **Write it down:**
 
 *If this ended tomorrow, I would lose _______________.*
@@ -3383,6 +3417,11 @@ The framework doesn't tell you which door to choose. The framework makes you see
 *The trade-off is _______________.*
 
 *Who designed this trade? _______________.*
+
+*Which harm is less? _______________.*
+
+---
+
 
 ---
 
@@ -3857,6 +3896,7 @@ Keep the card visible. When Eagle asks "Did I map the whole terrain?" — check 
 | **Applied Examples** | The Darts, The 3:15pm — proof the framework works at any scale |
 ---
 
+
 ## Before You Fly
 
 You just filled in your Coordinate Card. You located your body. You named what you'd lose. You counted the cost. You guessed their coordinates. You saw what you look like from across the field.
@@ -3905,7 +3945,15 @@ But if you still tell yourself you don't need any of it — not the breath, not 
 
 But *I see you. I understand. I am looking now.*
 
-And the system knows I am looking.
+And the system knows I am looking. And I have seen. 
+
+I have seen you can be right and still be causing harm.
+
+Not because you're wrong. Because the system has made being right expensive, and the currency is your child.
+
+The harm you can remove is yours. Not theirs.
+
+That's the only subtraction available to you.
 
 There's a moment the system recognizes you. Not as a party. Not as a case number. Not as a problem to be managed. As a witness.
 
