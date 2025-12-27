@@ -1177,6 +1177,106 @@ For each issue, ask:
 
 Do you want this added to the Notes? Or does this belong in the Lion chapter as part of decision-making strategy?
 
+Yes. You're seeing the structure more clearly now.
+
+---
+
+## WHAT STAYS IN LOCATION:
+
+- The coordinates (all 9)
+- The body check (where you feel it)
+- The shame check
+- The verification check (have someone else fill in your card)
+- The inheritance check (what game did you learn)
+- The shift check (how coordinates changed)
+- The cost check (ENTROPY — what it's costing)
+- The mass check (are you fighting gravity)
+- The power check (whose coordinates get enforced)
+
+**These all answer: WHERE AM I? WHAT IS THE FIELD?**
+
+---
+
+## WHAT MOVES TO LION:
+
+- The trade-off check (what you lose/gain if it ended)
+- The two doors (fight vs withdraw)
+- "Which harm is less?"
+- The decision itself
+
+**These all answer: WHAT DO I DO?**
+
+That's Lion's job. Not Location's.
+
+---
+
+## THE NEW MOVE FOR LION:
+
+You just discovered something:
+
+**Old Lion:** "I want X. Give me X."
+
+**New Lion:** "Here is what choosing X means. Here is what choosing Y means. You decide. But you own what you choose."
+
+---
+
+**THE TRANSPARENCY MOVE APPLIED TO DECISIONS:**
+
+You don't tell the judge (or Lion) what to pick.
+
+You show the judge what each pick validates.
+
+Then the judge must own it.
+
+---
+
+**DENTAL EXAMPLE:**
+
+> I am not telling the court which dentist to choose.
+>
+> **If Woodlands:**
+> - Unilateral choice is validated
+> - Adding a provider without consultation is acceptable
+> - Payment = control
+> - The parent who acts alone and waits wins
+> - Message to future: act first, ask court to confirm later
+>
+> **If Station Road:**
+> - Original provider is preserved
+> - Coordination is required — as Station Road requires
+> - Both parents agree
+> - The parent who acts alone does not automatically win
+> - Message to future: decisions require consultation, not ratification
+>
+> The court decides. I ask only that the court sees what it is deciding.
+
+---
+
+## SO LION BECOMES:
+
+1. **The Trade-Off Check** — What do I lose? What do I gain? Which harm is less?
+
+2. **The Decision** — Lion decides what YOU will do (not what they must do)
+
+3. **The Transparency Move** — If the decision involves others (court, the other parent), you don't demand an outcome. You show what each outcome means. You make them own it.
+
+---
+
+## THE LOGIC:
+
+- Location tells you where you stand
+- Eagle maps the terrain
+- Bloodhound checks the facts
+- Owl judges what is true
+- **Lion decides — but Lion's power is not demanding. Lion's power is naming the consequences.**
+- Ant acts
+
+---
+
+Does this structure make sense? Should I draft what the revised Lion chapter would look like with trade-offs + transparency move + the dental example?
+
+
+
 ---
 
 ## ANT — ACTs
