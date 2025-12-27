@@ -1414,6 +1414,34 @@ You can stop fighting and still refuse to agree.
 
 **Write it down:** *What am I actually fighting? Is it the thing — or the stupidness of the thing?*
 
+**Note on Needing Your Enemy**
+
+Here's the hardest truth: to end the conflict, you need them.
+
+The judge who ruled wrongly. The father who lied. The stepmother who orchestrated. The neighbor who won't stop playing darts.
+
+You need them.
+
+Not their apology. Not their admission. Not their shame. You need their *cooperation*.
+
+Which means you can't humiliate them. You can't corner them. You can't make them lose face — even when they deserve to.
+
+Because if you do, they won't play. They'll dig in. They'll defend the 3:15pm forever rather than admit it was stupid. They'll keep throwing darts just to prove you can't make them stop.
+
+So how do you do it?
+
+You give them a door. A way to end it without admitting they were wrong. A way to change course that looks like their idea. A way to stop that doesn't require them to say "I made a mistake."
+
+This is not justice. This is not fair. This is strategy.
+
+You do it because you need them. You need the court to work with you. You need the father to parent with you. You need the neighbor to live next to you.
+
+You fucking need these twats. And that's the hardest truth.
+
+The framework gives you sight. But sight without strategy is just suffering with clarity. Sometimes the strategic move is to let them save face — not because they deserve it, but because you need the conflict to end more than you need them to know they were wrong.
+
+---
+
 
 ---
 
