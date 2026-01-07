@@ -7294,6 +7294,128 @@ That's where it gets maximally uncomfortable—asking people to examine whether 
 after all that rigor, you discover the conflict was as stupid as arguing over whose rabbit is correct.
 
 
+Stress Testing: Conversation opened. 1 unread message.
+
+Skip to content
+Using Gmail with screen readers
+2 of 42,454
+The Good Jew
+Inbox
+
+Michael Inzlicht from Speak Now Regret Later <michaelinzlicht@substack.com> Unsubscribe
+12:51 (2 hours ago)
+to me
+
+
+Forwarded this email? Subscribe here for more
+
+The Good Jew
+Michael Inzlicht
+Jan 7
+ 
+
+
+
+
+READ IN APP
+ 
+My life changed irrevocably two years ago. And I am far from alone.
+
+Upgrade to paid
+Nearly every Jew I know—no matter their political beliefs or ideological commitments—has had to reckon with how their ethnic/religious/cultural group is now perceived. For many like me, this is a new thing.
+
+I didn’t know it at the time, but I grew up in a golden age of Jew tolerance, where Jew hatred was something I learned about from dusty textbooks or my father’s and uncle’s stories of Living While Jewish in Europe. Sure, I witnessed some acts of hate—in 1987, my synagogue in suburban Montreal was graffitied with swastikas and the phrase “Burn Jews”—but this was the exception. I never thought my Judaism made a lick of difference in how I was treated.
+
+That carefree sense of psychological (and even physical) safety is no longer. The god damned plane has crashed into the mountain. I got a taste for this on October 8th, 2023, when demonstrators on the streets and campuses of North America’s finest cities were telling Jews to go back to Poland. But nothing could prepare me for what was to come.
+
+The Geography of Forgiveness
+The Geography of Forgiveness
+Michael Inzlicht
+·
+December 10, 2025
+Read full story
+Over the past two years, Jews around the world have been ostracized, vandalized, shot at, poisoned, and murdered. I could list incident after incident. The Jewish schools shot at multiple times, the shops set ablaze, the mezuzahs ripped from doors, the families attacked in their homes. After a while they blur together, which is its own horror.
+
+The one I can’t shake is Bondi Beach, Australia. Fifteen Jews hunted and massacred while they gathered for family fun on the beach celebrating Hannukah. How ordinary the day must have started for them. Coffee, maybe. Latkes. And then.
+
+The collective response from non-Jews has typically been thoughts and prayers. Governments will say antisemitism has no place in Canada or the UK or Australia, but hardly anything is ever done. These are the sympathetic responses, mind you. You’ll also see responses that obfuscate, minimize, or deny—folks weren’t murdered because they were Jewish but because they were Zionists; this was a false-flag operation carried out by the Mossad. Some people even hold Jews responsible for the hate directed at them: Jews have it coming to them because of what is happening in the Middle East.
+
+If you are Jewish and reading this, none of this is new. Maybe you don’t pay attention to all the latest incidents, but you know your bubby and zaida are scared. Maybe you don’t do what I do—doomscroll through the latest incidents of Jew hatred each night before bed—but you’re aware that you are (again) one of the world’s bad guys.
+
+So, this post is not for you, fellow Heebs. This one’s for the gentiles.
+
+Before unloading my feelings, let me say that I find writing this whole thing cringe. Not because my feelings aren’t valid, but because I hate the idea of being that Jew, the Jew that complains about antisemitism. I used to make fun of paranoid Jews, those who saw antisemitism hiding in every dark corner. Sometimes I still think my fellow Jews are paranoid, seeing everything through antisemitism-tinted glasses. But, at other times, I see how folks contort themselves to excuse hateful behaviour as anything other than antisemitic. For example, when a Jewish family was harassed at the Toronto Zoo simply for being Jewish, some commenters on Reddit wondered if the family brought this upon themselves not because of anything they said or did but because of their implied political views.
+
+I don’t want to speak for other Jews, only for myself, but I know of only a few Jews whose lives have been unchanged. Those on the political right look in horror as some in the MAGA coalition breathe new life to ancient antisemitic tropes. Fearing for their physical safety, this has led to a surge in gun ownership among American Jews, a group with almost no gun culture. I have even met Canadian Jews who are considering moving to the US because they believe they’re safer there than here. Some American Jewish communities have even set up programs to help Canadian Jews relocate.
+
+But it is the more numerous Jews on the political left whose lives have really been upended. Given my own center-left leaning and my job as a university professor, many of the folks I work with or live near are liberals or far-left progressives. And given that being anti-Israel is the omnicause for progressives—destroy Israel and, like the Death Star, all the world’s problems disappear—this has made my life and the life of other left-leaning Jews more challenging.
+
+A Letter to the Letter Signers
+A Letter to the Letter Signers
+Michael Inzlicht
+·
+October 16, 2024
+Read full story
+It mostly happened in little ways, but I can’t help but notice how I have been othered. A few summers ago, I was speaking to an old friend about my daughter, but as soon as I mentioned her bat-mitzvah, my friend froze, clearly uncomfortable. He then said that despite having attended a few bar- and bat-mitzvahs in his youth, the idea of attending a Jewish rite of passage felt different to him now. To my dear friend, a progressive university professor in the US, celebrating Jewish religious rituals now felt fraught, even political. I recoiled in disgust.
+
+This othering has been uncomfortable, yes, but it has also been frightening. My family and I are now worried for our physical safety. I told my daughter, who wears a Star of David necklace, to hide it in public. My father—an observant Jew—no longer walks in public with a yarmulke but hides it under a hat. When people ask me where I’m really from, I say that while my father is from Belgium, my mother’s family hails from Yemen. What I don’t tell them is that my mother’s family were refugees from Yemen who settled in what eventually became Israel. To be clear, I am more comfortable claiming my Yemeni heritage than my Israeli one. This despite Yemen’s decade-long civil war having killed, starved, and displaced more people than the entirety of the Israel-Palestine conflict. I’m more comfortable because Yemen is not seen as the source of all the world’s problems.
+
+I’m ashamed of myself for my cowardice. How could I tell my daughter to push down her Jewish pride? Why am I scared to tell people my octogenarian mom is Israeli?
+
+I’m doing what so many Jews have done throughout our history: hiding parts of myself. I realize that to be accepted by my non-Jewish peers, I need to be a “good jew,” pushing back those parts of myself that are considered vulgar. Generations ago, being a “good Jew” might have meant dressing, eating, or worshipping differently to fit in. Today, many young and progressive Jews need to have the correct political attitudes—read, anti-Zionism—to be “good Jews” and thus acceptable in progressive circles. They’re being asked to renounce their belief in Jewish self-determination if they want to be seen as fully human.
+
+While some Jews indeed do this, don’t let the prominent featuring of anti-Israel Jews in news stories fool you into thinking this is a mainstream view. Only 6% of Canadian Jews reject Israel as a Jewish state; just 1% identify as anti-Zionist[1]. What’s actually happened is the opposite: the rise of what some call October 8th Jews—those of us who woke up the day after the massacre to find our supposed allies celebrating or silent. Many of us have reconnected with our Jewish identities. I’m no exception. My family and I now hold a regular shabbat dinner. We have attended community Passover and Hannukah celebrations. We are more selective about our friendships, feeling particularly comfortable around other Jews.
+
+
+So, what do I want from you, my non-Jewish friends, colleagues, neighbours?
+
+I don’t want you to become Zionists. I don’t want you to change your politics or your views on the conflict in the Middle East. I’m not asking for agreement.
+
+I’m asking you to see me. To understand that when you stay silent about Jewish shops being firebombed or Jewish schools being shot at, that silence lands on my doorstep.
+
+I’m asking you to hold two thoughts in your head at once: that Palestinians are suffering and that Jews are suffering too. Both things can be true.
+
+Most of all, I’m asking you not to make me earn my humanity by having the right politics. For the vast majority of us, Jewish identity is inseparable from Israel. Not its government or policies, but the idea of a Jewish homeland, a place of refuge. Asking us to renounce that to be accepted is asking us to amputate part of ourselves.
+
+I realize this is a lot to ask. Maybe too much. But I’ve hidden parts of myself for long enough. My father shouldn’t have to hide his yarmulke under a hat. My daughter shouldn’t have to tuck away her Star of David. And maybe, just maybe, I shouldn’t have to think twice before telling you where my mother is from.
+
+[1] While 94% of Canadian Jews support Israel’s right to exist as a Jewish state, only 55% call themselves Zionists. The discrepancy likely reflects how toxic the word Zionism has become rather than any actual opposition to a Jewish homeland. This interpretation is supported by the fact that 84% of Canadian Jews report feeling emotionally attached to Israel, while a mere 1% identify as anti-Zionist.
+
+Speak Now Regret Later is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+
+Upgrade to paid
+If this made you think (or made you laugh), here’s how you can support me:
+
+Share this with your friends, your enemies, or anyone who enjoys stirring the pot.
+
+Leave a ❤️, a comment, or both—validation fuels my writing (and my fragile ego).
+
+Get a paid subscription for benefits like an archive full of my best work, exclusive posts, and invitations to Drink and Regret, a monthly happy hour for lively discussions, bold questions, and maybe a few regrets.
+
+You’re currently a free subscriber to Speak Now Regret Later. If you’re ready to abide, upgrade for subscriber-only posts, Regrets Now, and the full archive. The rug isn’t the only thing that really ties it all together.
+
+Upgrade to paid
+ 
+Share
+ 
+ 
+Like
+Comment
+Restack
+ 
+© 2026 Michael Inzlicht
+548 Market Street PMB 72296, San Francisco, CA 94104
+Unsubscribe
+
+Start writing
+
+
+Compose:
+Fwd: Book Proposal: Iguana on the Wall: Family Court Transparency Reform
+MinimisePop-outClose
+Page 140 of 143 Page 137 of 143 Page 130 of 143 Page 115 of 143 Page 101 of 143 Page 83 of 143 Page 56 of 143 Page 40 of 143 Page 28 of 143 Page 18 of 143 Page 14 of 143 Page 10 of 143 Page 7 of 143 Page 6 of 143 Page 3 of 143 Page 2 of 143 Page 1 of 143richardelaanja@hotmail.com. Press Tab to insert.
+
+
 ## LAUGH
 
 
