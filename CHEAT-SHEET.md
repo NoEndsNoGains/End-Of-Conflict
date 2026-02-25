@@ -1,33 +1,19 @@
-REORDER: 
-| Position | Section |
-|----------|---------|
-| 1 | What Is It + Purpose (1.1 + 1.2 merged, OR LEAVE?) |
-| 2 | How Does It Work (1.5) |
-| 3 | The Five Stages — the animals (1.9) |
-| 4 | How Do I Begin (1.10) |
-| 5 | The Loop (1.11) |
-| 6 | Where Do You Start — Position & Time (1.8) |
-| 7 | When To Use It (1.6) |
-| 8 | What Does It Require (1.7) |
-| 9 | Why Is It Needed (1.4) |
-| 10 | Purpose vs Side Effects (1.3) |
-| 11 | Legal disclaimers (1.13) |
-
-
-
-
-# End of Conflict Cheat Sheet - EBOLA MANUAL
+# End of Conflict Cheat Sheet
 ## _"Let me be Dry"_
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fff9681-20c2-47a8-8af3-9fb919511539" />
 
+_This is the cheat sheet. The whole framework, compressed. No stories, no history, no persuasion — just the architecture.
+The book is the flood. This is dry land.
+It is not an easy read. Every sentence carries weight, and none of them explain themselves twice. There are no stories here to carry you through — just structure, demanding that you think about each line before moving to the next. That's the point. A cheat sheet is a reference, not a narrative. It hurts until you know what it's referring to.
+You may not be ready to use it yet. If you're not — you're not. That's fine. Go read another chapter. Let the stories do their work. Come back to this when you need it. It will be here, and it will be dry._
 
-## 1.1 What Is the End of Conflict Framework?
+## What Is the End of Conflict Framework?
 
 A systematic five-stage process for seeing conflicts that seem intractable clearly enough to know what to do about them. It applies to disputes between people, groups, or institutions, and to internal dilemmas within one person (modelled as competing "parties"). The framework demands precision at each stage—separating *what happened* from *what it means* from *what to do about it*. This makes solvable problems tractable. It makes unsolvable ones nameable. Both are progress.
 
 ---
 
-## 1.2 What Is Its Purpose?
+## What Is Its Purpose?
 
 To see the conflict precisely. The framework promises sight—not resolution. Sight is the vehicle. Resolution, exit, clarity that this cannot be resolved, or conviction that this fight must continue—these are possible destinations. What happens next depends on you. The framework doesn't guarantee how it ends—only that blindness won't be why it continued.
 
@@ -45,68 +31,11 @@ The framework gives you a place to stand. Even when the outcome is uncertain, yo
 
 The framework is not just a conflict resolution tool. It is a sovereignty tool. It returns agency to you by reminding you: while you cannot control the bridge, the weather, or the other goat — you own your eyes and your feet.
 
----
-
-## 1.3 Crucial Clarification: Purpose vs Side Effects
-
-The framework's purpose isn't advocacy. It's not a better argument. It's not a sharper sword (that is what lawyers do—they serve what their client wants).
-
-It's not about getting the results you want. It's about what the conflict needs from you. You don't wield the framework; you serve its process. But the process serves you back—what you gain is sight, and sight is the only power no one can take from you.
-
-The fact that you'll become more effective at articulating your position is a side effect of seeing clearly—not the goal.
-
-- Advocacy assumes your position is correct and seeks to persuade others
-- The framework assumes all positions might be wrong and seeks to find out what is wrong (substance—e.g. the claim, the motive, the assumption) and where it sits (location—e.g. in you, in them, in the system)
-
-Someone using it as an advocacy tool has already decided the verdict before doing the work. They are not using the framework. They are manipulating it.
-
-The framework rests on a different principle: _I don't have to agree with you to understand you._ Sight without endorsement.
+The framework's research stages rest on a different principle: _I don't have to agree with you to understand you._ Sight without endorsement. The response stages (Lion, Ant) then require commitment — but commitment built on sight, not reflex.
 
 ---
 
-## 1.4 Why Is It Needed?
-
-Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. This allows us to skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with solution (acting would transform us), and we choose blindness over action (seeing creates responsibility).
-
-The framework externalises what we cannot do intuitively. It addresses five failures of sight:
-
-- **We can't see**—we're inside it, too threatened. The framework reveals.
-- **We see but can't release**—the injustice is real, unaddressed. The framework shows what must be addressed before letting go is possible.
-- **We see and like it**—the conflict gives us identity, purpose, an enemy. The framework exposes what we're getting from the war.
-- **We see but don't know what to do**—paralysis, overwhelm. The framework sequences: this, then this, then this.
-- **We see and the conflict is right**—this fight is protection, not pathology. The framework confirms the stakes.
-
-Not all conflicts should end. Sometimes the conflict is not dysfunction. It's the last dignity. The only lever. The necessary cost of not accepting what should never be accepted:
-
-- Protection from abuse—the conflict IS the boundary
-- Resistance to oppression—the fight is the integrity
-- Pursuit of justice—the conflict is the only path to truth
-- Defence of the vulnerable—until safe, there is no peace
-- Refusal to comply with wrong—the conflict is the moral act
-
-The framework helps you see: *Is this one of those?* And if yes—fight clearly, not reactively. Know why you're in it. Know what you're protecting. Know the cost and choose it anyway.
-
-The framework doesn't assume peace. It assumes sight.
-
----
-
-**Check yourself:**
-
-You just read: *"Conflicts persist because we'd rather be Right than be Done."*
-
-Your gut reaction was:
-
-- a) "Wow. My ex needs to see this immediately."
-- b) "I agree completely. Peace is the goal."
-- c) "What if I'm right AND the other person is a literal monster?"
-- d) "This is a bit aggressive. I don't like the tone."
-- e) "No. Conflict replaces the lack of justice."
-
-**The Verdict:** Whatever you felt — that's your Scent. Note it. Don't wash it off. When you meet Bloodhound, give it to him. He sniffs. 
-
----
-
-## 1.5 How Does It Work?
+## How Does It Work?
 
 The framework is a mirror you serve; what it reflects is sight; sight is power; power is yours.
 
@@ -122,170 +51,7 @@ This breaking is not guaranteed. But it is common. And when it happens, somethin
 
 ---
 
-## 1.6 When To Use It?
-
-Not every frustration is a conflict. Traffic cannot negotiate. Before using this framework, confirm the situation qualifies.
-
-**Use when:**
-
-1. There are at least two positions in genuine disagreement (even if they are in you only)
-2. You have access to *some* data from all sides—or can mark what you're missing
-3. You are willing to *try* to be honest, objective, and unbiased—or at least to notice when you're not
-
-> Regarding point 3: Trying is enough; perfection isn't required. The framework doesn't care if you fail. It cares if you don't try.
-
-> **Note on the dead and the past:**
-> The great grandmother is dead. The great grandfather is dead. But the conflict happened, the data exists, and you are alive. The framework serves the living, even when it examines the dead.
-
-> **Note on Incomplete Data:**
-> "Access to data from all sides" is ideal, not binary. You rarely have complete access. You always have some access: what they said, what they did, what is documented, what others observed, what you can reasonably infer.
->
-> Run the framework with what you have. Mark what you're missing. Bloodhound's job includes mapping the gaps—not just checking claims, but noting: this I cannot verify. This I am inferring. This I do not know.
->
-> Incomplete data doesn't stop the framework. It constrains your confidence. Owl judges on available evidence. Lion decides with acknowledged uncertainty. This is not failure—it is honesty about operating conditions.
->
-> *(The five stages use animal archetypes—Eagle, Bloodhound, Owl, Lion, Ant—explained below)*
-
----
-
-## 1.7 What Does the Framework Require?
-
-The previous section asked whether the *situation* qualifies. This section asks whether *you* do.
-
-The framework is a tool. It requires willingness, self-awareness, the ability to distance yourself from your own position, and a genuine desire for conflict to end well.
-
-> If you'd rather fall off the bridge than let the other goat pass—the tool isn't broken. You're just a goat. The framework is not for goats. Baaaaaaaaaaaaaaaaaaaaaaaaaa.
-
-![Two goats on a bridge](https://github.com/user-attachments/assets/59c02a26-c24a-4aa8-99b4-bed4bc0d385a)
-
-> **Note on Goats:**
-> The goat metaphor is about refusal, not incapacity.
->
-> Some people won't use the framework because they prefer the fight—the righteousness, the identity, the familiar war. They could step back. They choose not to. Those are goats.
->
-> Some people can't. Trauma, danger, survival mode, no psychological safety. Distancing would cost more than staying blind. These are not goats. These are people for whom the framework is not yet safe or possible.
->
-> The goat chooses the bridge. The trapped can only choose nothing. Know which you are.
-
----
-
-**Check yourself:**
-
-Are you a goat?
-- a) Yes
-- b) Still finding out
-- c) No
-- d) Baaaaaaaaaaaaaaaaaaaaaaaaaa
-
-*(Answer: Anything but a and d. The framework is not for goats.)*
-
----
-
-## 1.8 Where Do You Start?
-
-**Locate yourself.** Before you map the conflict, you map your position relative to it.
-
-Two dimensions set your coordinates: **position** (your relationship to the conflict—and therefore your blind spots) and **time** (when the conflict is—and therefore what evidence exists).
-
-### a) Position — your relationship to the conflict
-
-- **External:**
-  - **Observer** (no power, no output, no stake—purely private learning)
-  - **Party** (any power, any output, or any stake)
-    - *Direct:* You are a disputant.
-    - *Indirect:* You are connected—advisor, witness, decision-maker, or affected bystander.
-
-- **Internal:** The conflict is within yourself. You are analyst, all parties, and battlefield at once.
-
-> **Note on Observer:**
-> True Observer is rare. It requires no power to affect the outcome (even indirectly), no output (even conversation), and no stake. If you pay taxes, vote, speak, share, or belong to any system connected to the conflict—you're likely a Party. Using this framework is an act of sovereignty. The moment you use it to gain sight, you are no longer a passive observer; you have become an Agent. When in doubt, assume Party. Observer must be proven, not assumed. 
->
-> Observer is listed for completeness. If you truly have no stake, the framework becomes an intellectual exercise. Most readers are Parties, whether they admit it or not.
-
-> **Note on Internal:**
-> In internal conflicts, you are always a Party—you have power, output, and stake in your own mind. But you also have the capacity to observe yourself: to watch your thoughts, notice your impulses, witness your competing forces. This observer-capacity is not the same as the framework's Observer position. You're not neutral. You're not without stake. You're a Party who can also watch.
->
-> To use the framework internally: externalise. Name the forces. Give them voices. Make them argue. Then run them through the stages as if they were strangers.
->
-> The framework applies to both external and internal conflicts. This section focuses on external conflict for clarity. Internal application follows the same principles but requires additional scaffolding—how to identify the parties within yourself, how to prevent the analyst from being captured by one of them. That work exists. It is not detailed here.
->
-> And remember: internal conflicts rarely stay internal. Identify who else is affected.
-
-### b) Time — when the conflict is
-
-- **Past** — Already happened. Memory, documents, evidence. You know how it ended. Your task is still to see—to see clearly what occurred. Then, if needed: to make sense of it, to release what you're carrying, or to seek justice where it was denied.
-
-- **Present** — Happening now. Real events, real claims, real parties. You can see, judge, decide, and act.
-
-- **Future** — Has not played out yet. Projections, assumptions, scenarios. Your map is a hypothesis. Simulation is preparation, not resolution.
-
-### Your Coordinates
-
-Your position determines what you see — and what you literally cannot see.
-
-Before Eagle flies, you map your own coordinates — your position, your wants, your fears, what you're hiding, what you can't see, and the physics of the battlefield you're standing on.
-
-These coordinates predict where each animal will cheat. Your WANT will pull Eagle's map toward your win. Your FEAR will clog Bloodhound's nose. Your BLIND SPOT will make Owl's verdict comfortable instead of true.
-
-The Self-Checks exist to catch your coordinates in the act.
-
-**Fill in your Coordinate Card before Eagle flies.** *(See "Location, Location, Location" for the full card and instructions.)*
----
-
-***Before you map the conflict, you map your position relative to it.***
-
----
-
-**Check yourself:**
-
-X buzzes about a pop star's brutal breakup album. You don't comment. You don't know anyone involved.
-
-Then you play one song for your husband — "Pussy Palace" — because it'll make him laugh.
-
-You are now:
-
-- a) Still Observer — I didn't comment
-- b) Still Observer — not my conflict
-- c) Party (Indirect) — I had output
-- d) Uninvolved — just scrolling
-
-**The Verdict:** c. You pressed play. Output. Party. Positions shift.
-
----
-
-### Your Coordinate Card
-
-Before Eagle flies, fill in your Coordinate Card *(see "Location, Location, Location" for full instructions)*:
-```
-MY COORDINATES:
-
-PERSONAL (Where I Stand)
-1. POSITION: I am a _______. ☐ Party (Direct) ☐ Party (Indirect) ☐ Observer
-2. WANT: I want _______.
-3. FEAR: I am afraid of losing _______.
-4. GAME: What I'm not saying out loud is _______.
-5. BLIND SPOT: What I'm hiding from myself is _______.
-6. HORIZON: What I can't see from this position is _______.
-
-TEMPORAL (When This Is)
-7. TIME: ☐ Past ☐ Present ☐ Future
-
-SYSTEM (The Physics of the Battlefield)
-8. MASS: My position's weight: ☐ Heavy ☐ Medium ☐ Light ☐ Crushed
-         Their position's weight: ☐ Heavy ☐ Medium ☐ Light ☐ Crushed
-         Am I fighting gravity? ☐ Yes ☐ No
-9. ENTROPY: Can I afford to continue? ☐ Yes ☐ No ☐ Not for much longer
-```
-
-**Keep this card visible throughout. Each animal will try to cheat based on your coordinates.**
-
-**An Observer watches the weather. A Party builds the storm.**
-
----
-
----
-
-## 1.9 What Are the Five Stages in the End of Conflict Framework?
+## What Are the Five Stages in the End of Conflict Framework?
 
 Five stages:
 
@@ -370,8 +136,6 @@ Not all conflicts look the same.
 - **When the horizon was drawn by someone else:** A parent whose voice you internalized, a contract you signed, a court that ruled, a system that set the frame. Ask: Who benefits from where the horizon sits? Did I accept a map before Eagle flew?
 
 - **When something is forbidden:** Note whose forbidden it is. One party's "irrelevant" is another party's "central." The West treats NATO's role in 2008-2014 as closed; Russia treats Ukrainian agency as non-existent. Both are "forbidden zones" — but for different parties.
-
----
 
 ---
 
@@ -598,7 +362,6 @@ If your verdict feels satisfying, check it twice. Comfort is suspicious.
 
 ---
 
-
 ### Owl checks Owl
 
 *Check your Coordinate Card. Your coordinates predict where your verdict lied.*
@@ -606,16 +369,9 @@ If your verdict feels satisfying, check it twice. Comfort is suspicious.
 **The Master Question:**
 > If Owl worked for the other party, what verdict would they reach about ME?
 
-**The Meta Question:**
-> What would a judge with NO coordinates — no want, no fear, no game, no blind spot — conclude? How far is my verdict from that?
-
 **The Shadow Check:**
 - Am I a wise Owl or a Critic? *(Critic judges to feel superior; wise Owl judges to find the path forward)*
 - If Bloodhound found no scent on me that makes me uncomfortable, I may be a goat wearing Owl's feathers.
-
----
-
-> **Note:** Owl can be honest about your own role because your Ego is already accounted for. You are turning on the lights to solve the problem, not to shame the self. The goal is clarity, not punishment.
 
 ---
 
@@ -624,6 +380,7 @@ If your verdict feels satisfying, check it twice. Comfort is suspicious.
 Owl does not decide what to do. Owl provides the diagnosis.
 
 *Owl delivers verdict, history, pattern, level, and the meaning of the gaps to Lion.*
+
 ---
 
 ## LION — DECIDEs
@@ -695,6 +452,7 @@ Questions for Level 3:
 > Some Level 3 conflicts cannot be resolved — only named, survived, or exited. If no shared process is possible and neither party will change their model, Lion names that. Naming the unresolvable is also a decision. "End" means the end of intractability — not necessarily a happy ending. The Lion terminates the cycle: through reconciliation, exit, or naming what cannot be resolved.
 
 ---
+
 ### Lion moves in fog
 
 Sometimes Owl reports: "The fog is still thick. Bloodhound couldn't verify enough."
@@ -767,19 +525,12 @@ If your decision feels like escaping the conversation, check it twice. Escape is
 **The Master Question:**
 > If Lion decided for the OTHER party, what would they decide about ME?
 
-**The Meta Question:**
-> Am I deciding to END this — or deciding to WIN this? *(They are not the same.)*
-
 **The Shadow Check:**
 - Am I a Lion or a Tyrant? *(Tyrant decides what THEY must do, not what YOU will do)*
 - Does my solution require ME to change — or only them?
-- Did I test all three filters: L.E.R, B.U.S, A.C.T?
 
 ---
 
-> **Note:** Lion can only command your feet. If your solution is "they must change," that's not a decision — that's a wish. Lion decides what YOU will do, regardless of what they do.
-
----
 ### The handoff
 
 Lion has decided. Now someone must move.
@@ -903,8 +654,6 @@ Implementation is the graveyard of good intentions. If Ant doesn't move, Lion wa
 
 ---
 
----
-
 ### Ant checks Ant
 
 *Check your Coordinate Card. Your coordinates predict where your feet lied.*
@@ -912,14 +661,10 @@ Implementation is the graveyard of good intentions. If Ant doesn't move, Lion wa
 **The Master Question:**
 > If Ant worked for the other party, what step would they see ME avoiding?
 
-**The Meta Question:**
-> Am I carrying the Lion's command — or my own resentment? *(Check the weight on your back.)*
-
 **The Shadow Check:**
 - Am I an Ant, a Martyr, or a Sluggard?
   - *Martyr carries the load while resenting every grain — and uses that resentment to justify stopping*
   - *Sluggard waits for the "feeling" to move; Ant moves until the feeling follows*
-- What habit am I protecting by not acting?
 
 ---
 
@@ -970,13 +715,7 @@ You can't recover without following the treatment.
 ---
 
 > **Note on Accessible vs. Inaccessible Conditions:**
-> Diagnosis may reveal causes you cannot treat: another person's defences, systemic inequities, historical wounds. This is not failure—it is accurate mapping.
->
-> Lion decides the full solution—all of it. The solution exists whether or not you can execute it alone. But Ant operates only on your micro-agency: your perception, your reactions, your choices—the portion of the problem within your control.
->
-> You cannot act on what you do not control. You can act on your response to it.
->
-> The framework's promise holds: you will see clearly. What you do with that sight depends on what is actually accessible to you. Sometimes the clearest sight reveals: this part is not mine to fix. That knowledge is still power. Knowing what's not yours to fix frees you to fix what is.
+> Diagnosis may reveal causes you cannot treat: another person's defences, systemic inequities, historical wounds. This is not failure—it is accurate mapping. Lion decides the full solution (see "Lion considers the inaccessible"). Ant carries your portion. Sometimes the clearest sight reveals: this part is not mine to fix. That knowledge is still power.
 
 ---
 
@@ -1026,16 +765,16 @@ You just read about five animals. Your first thought was:
 
 - a) "I have a PhD. I can get the concept without the animals, thank you."
 - b) "I'm definitely the Eagle. I see everything."
-- c) Are these five like this deadly virus EBOLA but aimed to kill conflict?"
+- c) "Are these five like this deadly virus EBOLA but aimed to kill conflict?"
 - d) "This is a bit 'self-help' for my taste."
 
-**The Verdict:** Whatever pleases you but I personally like c.
+**The Verdict:** If you picked c — yes. Eagle, Bloodhound, Owl, Lion, Ant. EBOLA. A virus that kills conflict instead of people. Now you have the name.
 
 ---
 EBOLA - THE END OF CONFLICT FRAMEWORK
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3a8cc807-cf08-4e4f-a9ef-66734a3a7751" />
 
-## 1.10 How Do I Begin?
+## How Do I Begin?
 
 MAP. Start there.
 
@@ -1068,11 +807,11 @@ You cannot check what you haven't mapped. You cannot judge what you haven't chec
 
 ---
 
-## 1.11 The Loop
+## The Loop
 
 ![The Loop](https://github.com/user-attachments/assets/3e13fcec-8252-48f9-ab9b-581664417dc5)
 
-The five stages of the framework is not a checklist. It is loops — each stage producing provisional outputs subject to continuous updates as new information emerges.
+The five stages of the framework are not a one-pass checklist. They are loops — each stage producing provisional outputs subject to continuous updates as new information emerges.
 
 If you are a party, you are in conflict, regardless of whether you chose it or not. And if you are in conflict, one way or another you are acting. The only relevant question is whether your action is informed or blind.
 
@@ -1135,9 +874,215 @@ If you recognise the shadow, you've stopped using the framework. You're performi
 
 ---
 
-## 1.13 Legal disclaimers 
+## Where Do You Start?
 
-(or: The Parts That Don't Fit Neatly Anywhere Else, Also Known As “Fine Print Written in Slightly Smaller Font So You Feel Like You Read It But You Didn’t”)
+**Locate yourself.** Before you map the conflict, you map your position relative to it.
+
+Two dimensions set your coordinates: **position** (your relationship to the conflict—and therefore your blind spots) and **time** (when the conflict is—and therefore what evidence exists).
+
+### a) Position — your relationship to the conflict
+
+- **External:**
+  - **Observer** (no power, no output, no stake—purely private learning)
+  - **Party** (any power, any output, or any stake)
+    - *Direct:* You are a disputant.
+    - *Indirect:* You are connected—advisor, witness, decision-maker, or affected bystander.
+
+- **Internal:** The conflict is within yourself. You are analyst, all parties, and battlefield at once.
+
+> **Note on Observer:**
+> True Observer is rare. It requires no power to affect the outcome (even indirectly), no output (even conversation), and no stake. If you pay taxes, vote, speak, share, or belong to any system connected to the conflict—you're likely a Party. Using this framework is an act of sovereignty. The moment you use it to gain sight, you are no longer a passive observer; you have become an Agent. When in doubt, assume Party. Observer must be proven, not assumed. 
+>
+> Observer is listed for completeness. If you truly have no stake, the framework becomes an intellectual exercise. Most readers are Parties, whether they admit it or not.
+
+> **Note on Internal:**
+> In internal conflicts, you are always a Party—you have power, output, and stake in your own mind. But you also have the capacity to observe yourself: to watch your thoughts, notice your impulses, witness your competing forces. This observer-capacity is not the same as the framework's Observer position. You're not neutral. You're not without stake. You're a Party who can also watch.
+>
+> To use the framework internally: externalise. Name the forces. Give them voices. Make them argue. Then run them through the stages as if they were strangers.
+>
+> The framework applies to both external and internal conflicts. This section focuses on external conflict for clarity. Internal application follows the same principles but requires additional scaffolding—how to identify the parties within yourself, how to prevent the analyst from being captured by one of them. That work exists. It is not detailed here.
+>
+> And remember: internal conflicts rarely stay internal. Identify who else is affected.
+
+### b) Time — when the conflict is
+
+- **Past** — Already happened. Memory, documents, evidence. You know how it ended. Your task is still to see—to see clearly what occurred. Then, if needed: to make sense of it, to release what you're carrying, or to seek justice where it was denied.
+
+- **Present** — Happening now. Real events, real claims, real parties. You can see, judge, decide, and act.
+
+- **Future** — Has not played out yet. Projections, assumptions, scenarios. Your map is a hypothesis. Simulation is preparation, not resolution.
+
+### Your Coordinates
+
+Your position determines what you see — and what you literally cannot see.
+
+Before Eagle flies, you map your own coordinates — your position, your wants, your fears, what you're hiding, what you can't see, and the physics of the battlefield you're standing on.
+
+These coordinates predict where each animal will cheat. Your WANT will pull Eagle's map toward your win. Your FEAR will clog Bloodhound's nose. Your BLIND SPOT will make Owl's verdict comfortable instead of true.
+
+The Self-Checks exist to catch your coordinates in the act.
+
+**Fill in your Coordinate Card before Eagle flies.** *(See "Location, Location, Location" for the full card and instructions.)*
+
+---
+
+***Before you map the conflict, you map your position relative to it.***
+
+---
+
+**Check yourself:**
+
+X buzzes about a pop star's brutal breakup album. You don't comment. You don't know anyone involved.
+
+Then you play one song for your husband — "Pussy Palace" — because it'll make him laugh.
+
+You are now:
+
+- a) Still Observer — I didn't comment
+- b) Still Observer — not my conflict
+- c) Party (Indirect) — I had output
+- d) Uninvolved — just scrolling
+
+**The Verdict:** c. You pressed play. Output. Party. Positions shift.
+
+---
+
+### Your Coordinate Card
+
+Before Eagle flies, fill in your Coordinate Card *(see "Location, Location, Location" for full instructions)*:
+```
+MY COORDINATES:
+
+PERSONAL (Where I Stand)
+1. POSITION: I am a _______. ☐ Party (Direct) ☐ Party (Indirect) ☐ Observer
+2. WANT: I want _______.
+3. FEAR: I am afraid of losing _______.
+4. GAME: What I'm not saying out loud is _______.
+5. BLIND SPOT: What I'm hiding from myself is _______.
+6. HORIZON: What I can't see from this position is _______.
+
+TEMPORAL (When This Is)
+7. TIME: ☐ Past ☐ Present ☐ Future
+
+SYSTEM (The Physics of the Battlefield)
+8. MASS: My position's weight: ☐ Heavy ☐ Medium ☐ Light ☐ Crushed
+         Their position's weight: ☐ Heavy ☐ Medium ☐ Light ☐ Crushed
+         Am I fighting gravity? ☐ Yes ☐ No
+9. ENTROPY: Can I afford to continue? ☐ Yes ☐ No ☐ Not for much longer
+```
+
+**Keep this card visible throughout. Each animal will try to cheat based on your coordinates.**
+
+**An Observer watches the weather. A Party builds the storm.**
+
+---
+
+## When To Use It?
+
+Not every frustration is a conflict. Traffic cannot negotiate. Before using this framework, confirm the situation qualifies.
+
+**Use when:**
+
+1. There are at least two positions in disagreement — even if one is only in you, even if one party has left, and even if one party denies the conflict exists
+2. You have access to *some* data from all sides—or can mark what you're missing
+3. You are willing to *try* to be honest, objective, and unbiased—or at least to notice when you're not
+
+> Regarding point 3: Trying is enough; perfection isn't required. The framework doesn't care if you fail. It cares if you don't try.
+
+> **Note on the dead and the past:**
+> The great grandmother is dead. The great grandfather is dead. But the conflict happened, the data exists, and you are alive. The framework serves the living, even when it examines the dead.
+
+> **Note on Incomplete Data:**
+> "Access to data from all sides" is ideal, not binary. You rarely have complete access. You always have some access: what they said, what they did, what is documented, what others observed, what you can reasonably infer.
+>
+> Run the framework with what you have. Mark what you're missing. Bloodhound's job includes mapping the gaps—not just checking claims, but noting: this I cannot verify. This I am inferring. This I do not know.
+>
+> Incomplete data doesn't stop the framework. It constrains your confidence. Owl judges on available evidence. Lion decides with acknowledged uncertainty. This is not failure—it is honesty about operating conditions.
+>
+> *(The five stages use animal archetypes—Eagle, Bloodhound, Owl, Lion, Ant—explained above)*
+
+---
+
+## What Does the Framework Require?
+
+The previous section asked whether the *situation* qualifies. This section asks whether *you* do.
+
+The framework is a tool. It requires willingness, self-awareness, the ability to distance yourself from your own position, and a genuine desire for conflict to end well.
+
+> If you'd rather fall off the bridge than let the other goat pass—the tool isn't broken. You're just a goat. The framework is not for goats. Baaaaaaaaaaaaaaaaaaaaaaaaaa.
+
+![Two goats on a bridge](https://github.com/user-attachments/assets/59c02a26-c24a-4aa8-99b4-bed4bc0d385a)
+
+> **Note on Goats:**
+> The goat metaphor is about refusal, not incapacity.
+>
+> Some people won't use the framework because they prefer the fight—the righteousness, the identity, the familiar war. They could step back. They choose not to. Those are goats.
+>
+> Some people can't. Trauma, danger, survival mode, no psychological safety. Distancing would cost more than staying blind. These are not goats. These are people for whom the framework is not yet safe or possible.
+>
+> The goat chooses the bridge. The trapped can only choose nothing. Know which you are.
+>
+> And some refuse to yield because the fight is protection, not pride. They are not goats — they are Lions. The goat fights to stay right. The Lion fights to keep someone safe. Know which you are.
+
+---
+
+**Check yourself:**
+
+Are you a goat?
+- a) Yes
+- b) Still finding out
+- c) No
+- d) Baaaaaaaaaaaaaaaaaaaaaaaaaa
+
+*(Answer: Anything but a and d. The framework is not for goats.)*
+
+---
+
+## Why Is It Needed?
+
+Conflicts persist not because they're unsolvable, but because resolution is desired less than power, revenge, or righteousness. This allows us to skip the steps resolution requires: we don't name clearly (we're inside it), we assume instead of verify (checking threatens identity), we judge people instead of consequences (roles feel fixed), we confuse verdict with solution (acting would transform us), and we choose blindness over action (seeing creates responsibility).
+
+The framework externalises what we cannot do intuitively. It addresses five failures of sight:
+
+- **We can't see**—we're inside it, too threatened. The framework reveals.
+- **We see but can't release**—the injustice is real, unaddressed. The framework shows what must be addressed before letting go is possible.
+- **We see and like it**—the conflict gives us identity, purpose, an enemy. The framework exposes what we're getting from the war.
+- **We see but don't know what to do**—paralysis, overwhelm. The framework sequences: this, then this, then this.
+- **We see and the conflict is right**—this fight is protection, not pathology. The framework confirms the stakes.
+
+Not all conflicts should end. Sometimes the conflict is not dysfunction. It's the last dignity. The only lever. The necessary cost of not accepting what should never be accepted:
+
+- Protection from abuse—the conflict IS the boundary
+- Resistance to oppression—the fight is the integrity
+- Pursuit of justice—the conflict is the only path to truth
+- Defence of the vulnerable—until safe, there is no peace
+- Refusal to comply with wrong—the conflict is the moral act
+
+The framework helps you see: *Is this one of those?* And if yes—fight clearly, not reactively. Know why you're in it. Know what you're protecting. Know the cost and choose it anyway.
+
+The framework doesn't assume peace. It assumes sight.
+
+---
+
+**Check yourself:**
+
+You just read: *"Conflicts persist because we'd rather be Right than be Done."*
+
+Your gut reaction was:
+
+- a) "Wow. My ex needs to see this immediately."
+- b) "I agree completely. Peace is the goal."
+- c) "What if I'm right AND the other person is a literal monster?"
+- d) "This is a bit aggressive. I don't like the tone."
+- e) "No. Conflict replaces the lack of justice."
+
+**The Verdict:** Whatever you felt — that's your Scent. Note it. Don't wash it off. When you meet Bloodhound, give it to him. He sniffs. 
+
+---
+
+## Fine Print
+
+(or: The Parts That Don't Fit Neatly Anywhere Else, Also Known As "Fine Print Written in Slightly Smaller Font So You Feel Like You Read It But You Didn't")
 
 ### Note on Premature Resolution
 If, after mapping the conflict, you discover the disagreement was a misunderstanding and everyone now agrees — stop. The framework resolved itself in Stage 1. This is success, not failure.
@@ -1244,6 +1189,7 @@ Expect this:
 The framework doesn't pretend clarity is instant. It just refuses to let you move forward until you've at least tried to see your own blindness.
 
 ---
+
 ### Note on What Fuels the Movement
 The framework runs on whatever force is strong enough to overcome resistance.
 
@@ -1264,6 +1210,9 @@ At some point you stop refining and start using. What's here is not complete. It
 The framework is a mirror you serve; what it reflects is sight; sight is power; power is yours.
 
 ---
+
+## The Mirror
+
 The Audit Questions:
 
 The Sight Question: Was I a Mapper or a Vulture? Did I spend my years seeking the whole terrain — or just circling for carcasses?
@@ -1282,9 +1231,10 @@ The Martyr: You aren't a hero. You're a debt. You "gave everything" to a fight t
 The Awakened: This is the only exit. It hurts — because it names the waste. But it's the only position that lets you die as a human instead of a combatant.
 
 The mirror is clear.
-You can continue as a Knower — already right, already done, already dead inside.Nurse calls: Doctor, another patience calls for cheesy pasta!
+You can continue as a Knower — already right, already done, already dead inside.
 
 ---
+
 # All At Once
 
 ### EAGLE — MAPs
@@ -1336,7 +1286,7 @@ The Ant is the proof.
 
 ---
 
-## All At Once
+## The Unity
 
 The Ant is the Lion.
 The Lion is the Owl.
@@ -1349,4 +1299,3 @@ The Eagle is you.
 **You are All at Once.**
 
 ---
-
